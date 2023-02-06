@@ -1,2 +1,2 @@
 # FeatheredMaps
-Customizable Field Guides for Birders worldwide
+Customizable Field Guides for Birders Worldwide
