@@ -15,6 +15,10 @@ The goal is to create three pages for every single bird species:
 - A5 sized: Half detail, full page, portrait, for field guide
 - A6 sized, Low detail, half page, landscape orientation, for condensed field guide
 
+#Thinking about this it is very likely that people will have personal preferences.
+#It would be cool to have a webapp that can wrap the information onto the pdf as the user decides in config file
+# config files can then be adjusted and shared by other users
+
 eBird and other online resources have the databases to create a very localized snapshot of the avifauna in every region on earth.
 The information will be scraped and automatically assembled into a pdf for a chosen locality (country,region or custom map)
 Sources are:
