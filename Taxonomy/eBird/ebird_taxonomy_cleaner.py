@@ -22,6 +22,9 @@ def clean_eBird_taxonomy_csv(input_file, output_file):
     # Filter the DataFrame to only keep rows where "CATEGORY" is equal to "species"
     df = df[df['CATEGORY'] == 'species']
 
+    # Drop the "CATEGORY" column
+    df= df.drop("CATEGORY", axis=1)    
+    
     # Write the filtered DataFrame to a new csv
     df.to_csv(output_file, index=False)
 
