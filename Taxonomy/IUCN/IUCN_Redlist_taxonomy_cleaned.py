@@ -1,9 +1,10 @@
 import pandas as pd
 
-common_names_csv = "vulnerability\\common_names.csv"
-synonyms_csv = "vulnerability\\synonyms.csv"
-assessment_csv = "vulnerability\\assessments.csv"
-output_file = "vulnerability\\common_names_englishsyn.csv"
+common_names_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\common_names.csv"
+synonyms_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\synonyms.csv"
+assessment_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\assessments.csv"
+
+output_file = "IUCN_Redlist_taxonomy_cleaned_and_vulnerability.csv"
 
 
 def remove_other_languages(DataFrame):
