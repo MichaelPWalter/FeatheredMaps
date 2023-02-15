@@ -34,7 +34,7 @@ Accipiter brevipes,,22695499,Levant Sparrowhawk,
 Accipiter butleri,Nicobar Shikra,22695494,Nicobar Sparrowhawk,
 Accipiter castanilius,,22695486,Chestnut-flanked Sparrowhawk,
 Accipiter cirrocephalus,,219590066,Collared Sparrowhawk,Sparvius cirrhocephalus
-Accipiter collaris,"Semi-collared Hawk, Semi-collared Sparrowhawk",22695568,Semi-collared Hawk,
+Accipiter collaris,Semi-collared Sparrowhawk,22695568,Semi-collared Hawk,
 Accipiter cooperii,,22695656,Cooper's Hawk,
 Accipiter erythrauchen,,22695596,Rufous-necked Sparrowhawk,
 Accipiter erythropus,Western Little Sparrowhawk,22695576,Red-legged Sparrowhawk,
@@ -48,24 +48,24 @@ Accipiter haplochrous,,22695541,White-bellied Goshawk,
 Accipiter henicogrammus,,22695544,Moluccan Goshawk,
 Accipiter henstii,,22695678,Henst's Goshawk,
 Accipiter hiogaster,,22727721,Variable Goshawk,
-Accipiter imitator,Imitator Goshawk,22695553,Imitator Goshawk,
-Accipiter luteoschistaceus,"Slaty-backed Goshawk, Slaty-mantled Goshawk",22695547,Slaty-backed Goshawk,
+Accipiter imitator,,22695553,Imitator Goshawk,
+Accipiter luteoschistaceus,Slaty-mantled Goshawk,22695547,Slaty-backed Goshawk,
 Accipiter madagascariensis,,22695613,Madagascar Sparrowhawk,
 Accipiter melanochlamys,,22695532,Black-mantled Goshawk,
-Accipiter melanoleucus,Black Sparrowhawk,22695673,Black Sparrowhawk,
+Accipiter melanoleucus,,22695673,Black Sparrowhawk,
 Accipiter meyerianus,,22695689,Meyer's Goshawk,
 Accipiter minullus,,22695581,Little Sparrowhawk,
-Accipiter nanus,Dwarf Sparrowhawk,22695591,Dwarf Sparrowhawk,
+Accipiter nanus,,22695591,Dwarf Sparrowhawk,
 Accipiter nisus,"European Sparrowhawk, Sparrowhawk",22695624,Eurasian Sparrowhawk,
 Accipiter novaehollandiae,,22727714,Grey Goshawk,
-Accipiter ovampensis,Ovambo Sparrowhawk,22695619,Ovambo Sparrowhawk,
+Accipiter ovampensis,,22695619,Ovambo Sparrowhawk,
 Accipiter poliocephalus,,22695558,Grey-headed Goshawk,
-Accipiter poliogaster,"Grey-bellied Goshawk, Grey-bellied Hawk",22695453,Grey-bellied Goshawk,
+Accipiter poliogaster,Grey-bellied Hawk,22695453,Grey-bellied Goshawk,
 Accipiter princeps,,22695561,New Britain Goshawk,
 Accipiter rhodogaster,,22695610,Vinous-breasted Sparrowhawk,
 Accipiter rufitorques,,22695538,Fiji Goshawk,
-Accipiter rufiventris,"Red-breasted Sparrowhawk, Rufous-breasted Sparrowhawk",22695630,Rufous-breasted Sparrowhawk,
-Accipiter soloensis,"Chinese Sparrowhawk, Gray Frog-Hawk",22695503,Chinese Sparrowhawk,
+Accipiter rufiventris,Red-breasted Sparrowhawk,22695630,Rufous-breasted Sparrowhawk,
+Accipiter soloensis,Gray Frog-Hawk,22695503,Chinese Sparrowhawk,
 Accipiter striatus,,22734130,Sharp-shinned Hawk,
 Accipiter superciliosus,,22695565,Tiny Hawk,
 Accipiter sylvestris,,22727727,Lesser Sundas Goshawk,
@@ -170,7 +170,7 @@ Aegolius acadicus,,22689366,Northern Saw-whet Owl,
 Aegolius funereus,Tengmalm's Owl,22689362,Boreal Owl,
 Aegolius gradyi,,62184893,Bermuda Saw-whet Owl,
 Aegolius harrisii,,22689378,Buff-fronted Owl,
-Aegolius ridgwayi,Unspotted Saw-whet Owl,22689371,Unspotted Saw-whet Owl,
+Aegolius ridgwayi,,22689371,Unspotted Saw-whet Owl,
 Aegotheles affinis,,60814512,Allied Owlet-nightjar,
 Aegotheles albertisi,Mountain Owlet-Nightjar,22689576,Mountain Owlet-nightjar,
 Aegotheles archboldi,Archbold's Owlet-Nightjar,22689572,Archbold's Owlet-nightjar,
@@ -183,7 +183,7 @@ Aegotheles tatei,,22728459,Spangled Owlet-nightjar,
 Aegotheles wallacii,Wallace's Owlet-Nightjar,22689568,Wallace's Owlet-nightjar,
 Aegypius monachus,"Black Vulture, Eurasian Black Vulture",22695231,Cinereous Vulture,
 Aepypodius arfakianus,Wattled Brushturkey,22678555,Wattled Brush-turkey,
-Aepypodius bruijnii,"Waigeo Brushturkey, Waigeo Brush-turkey",22678559,Waigeo Brush-turkey,
+Aepypodius bruijnii,Waigeo Brushturkey,22678559,Waigeo Brush-turkey,
 Aerodramus bartschi,,22728583,Mariana Swiftlet,"Aerodramus bartschi, Collocalia bartschi"
 Aerodramus brevirostris,,60824542,Himalayan Swiftlet,Collocalia rogersi
 Aerodramus elaphrus,,22686507,Seychelles Swiftlet,Collocalia elaphra
@@ -310,12 +310,12 @@ Alaudala rufescens,,216912644,Mediterranean Short-toed Lark,
 Alaudala somalica,Rufous Short-toed Lark,22717340,Somali Short-toed Lark,Calandrella somalica
 Alca torda,,22694852,Razorbill,
 Alcedo atthis,"European Kingfisher, Kingfisher",22683027,Common Kingfisher,
-Alcedo coerulescens,Cerulean Kingfisher,22683117,Cerulean Kingfisher,
+Alcedo coerulescens,,22683117,Cerulean Kingfisher,
 Alcedo euryzona,Blue-banded Kingfisher,22726971,Javan Blue-banded Kingfisher,
 Alcedo hercules,,22683024,Blyth's Kingfisher,
 Alcedo meninting,,22683042,Blue-eared Kingfisher,
 Alcedo peninsulae,,22726979,Malay Blue-banded Kingfisher,
-Alcedo quadribrachys,Shining-blue Kingfisher,22683037,Shining-blue Kingfisher,
+Alcedo quadribrachys,,22683037,Shining-blue Kingfisher,
 Alcedo semitorquata,,22683033,Half-collared Kingfisher,
 Alcippe brunneicauda,,22716630,Brown Fulvetta,Hyloterpe brunneicauda
 Alcippe grotei,,22734608,Black-browed Fulvetta,
@@ -329,7 +329,7 @@ Aleadryas rufinucha,Rufous-naped Whistler,22705428,Rufous-naped Bellbird,
 Alectoris barbara,,22678707,Barbary Partridge,
 Alectoris chukar,"Chuckar, Chukar Partridge",22678691,Chukar,
 Alectoris graeca,,22678684,Rock Partridge,
-Alectoris magna,Przevalski's Partridge,22678703,Przevalski's Partridge,
+Alectoris magna,,22678703,Przevalski's Partridge,
 Alectoris melanocephala,Arabian Red-legged Partridge,22678714,Arabian Partridge,
 Alectoris philbyi,Philby's Rock Partridge,22678698,Philby's Partridge,
 Alectoris rufa,,22678711,Red-legged Partridge,
@@ -375,10 +375,10 @@ Amandava subflava,Orange-breasted Waxbill,22719624,Zebra Waxbill,
 Amaurocichla bocagii,"Bocage's Longbill, São Tomé Short-tail",22715170,Sao Tome Short-tail,"Amaurocichla bocagii bocagii, Amaurocichla bocagei"
 Amaurolimnas concolor,,22692601,Uniform Crake,
 Amaurornis cinerea,,22692723,White-browed Crake,"Amaurornis cinerea, Porzana cinerea"
-Amaurornis isabellina,Isabelline Bush-hen,22692624,Isabelline Bush-hen,Amaurornis isabellinus
+Amaurornis isabellina,,22692624,Isabelline Bush-hen,Amaurornis isabellinus
 Amaurornis magnirostris,,22732147,Talaud Bush-hen,
 Amaurornis marginalis,,22692729,Striped Crake,"Aenigmatolimnas marginalis, Porzana marginalis"
-Amaurornis moluccana,Pale-vented Bush-hen,22692632,Pale-vented Bush-hen,Amaurornis moluccanus
+Amaurornis moluccana,,22692632,Pale-vented Bush-hen,Amaurornis moluccanus
 Amaurornis olivacea,Plain Bush-hen,22692616,Philippine Bush-hen,Amaurornis olivaceus
 Amaurornis phoenicurus,,22692640,White-breasted Waterhen,
 Amaurospiza moesta,Blackish-blue Seedeater,105965570,Blue Seedeater,"Amaurospiza carrizalensis , Amaurospiza concolor "
@@ -500,7 +500,7 @@ Anas castanea,,22680277,Chestnut Teal,
 Anas chlorotis,,22728303,Brown Teal,
 Anas crecca,"Eurasian Teal, Teal",22680321,Common Teal,
 Anas eatoni,Kerguelen Pintail,22680306,Southern Pintail,
-Anas erythrorhyncha,Red-billed Teal,22680290,Red-billed Teal,
+Anas erythrorhyncha,,22680290,Red-billed Teal,
 Anas flavirostris,,22736320,Yellow-billed Teal,
 Anas fulvigula,,22680178,Mottled Duck,
 Anas georgica,,22680310,Yellow-billed Pintail,
@@ -512,7 +512,7 @@ Anas marecula,Amsterdam Island Duck,22728666,Amsterdam Duck,
 Anas melleri,,22680225,Meller's Duck,
 Anas nesiotis,Campbell Island Teal,22724580,Campbell Teal,
 Anas platyrhynchos,"Common Mallard, Northern Mallard",22680186,Mallard,
-Anas poecilorhyncha,Indian Spot-billed Duck,22736541,Indian Spot-billed Duck,
+Anas poecilorhyncha,,22736541,Indian Spot-billed Duck,
 Anas rubripes,Black Duck,22680174,American Black Duck,
 Anas sparsa,,22680170,African Black Duck,
 Anas superciliosa,Grey Duck,22680217,Pacific Black Duck,
@@ -533,7 +533,7 @@ Androphobus viridis,,22705324,Papuan Whipbird,
 Anhima cornuta,,22679723,Horned Screamer,
 Anhinga anhinga,,22696702,Anhinga,
 Anhinga melanogaster,"African Darter, Darter",22696712,Oriental Darter,
-Anhinga novaehollandiae,Australasian Darter,22696719,Australasian Darter,
+Anhinga novaehollandiae,,22696719,Australasian Darter,
 Anhinga rufa,Darter,22696705,African Darter,
 Anisognathus flavinucha,,103845698,Bolivian Mountain-tanager,
 Anisognathus igniventris,,103845767,Fire-bellied Mountain-tanager,
@@ -747,7 +747,7 @@ Aplonis zelandica,,22710482,Rusty-winged Starling,
 Aplopelia larvata,Cinnamon Dove,22690384,Lemon Dove,Columba larvata larvata
 Aprositornis disjuncta,,22701820,Yapacana Antbird,Myrmeciza disjuncta
 Aprosmictus erythropterus,,22685069,Red-winged Parrot,
-Aprosmictus jonquillaceus,"Jonquil Parrot, Timor Red-winged Parrot",22685063,Jonquil Parrot,
+Aprosmictus jonquillaceus,Timor Red-winged Parrot,22685063,Jonquil Parrot,
 Aptenodytes forsteri,,22697752,Emperor Penguin,
 Aptenodytes patagonicus,,22697748,King Penguin,
 Aptenorallus calayanensis,,22732059,Calayan Rail,Gallirallus calayanensis
@@ -769,7 +769,7 @@ Apus caffer,African White-rumped Swift,22686882,White-rumped Swift,
 Apus horus,,22724997,Horus Swift,
 Apus niansae,,22686811,Nyanza Swift,
 Apus nipalensis,,22686861,House Swift,
-Apus pacificus,Pacific Swift,22686845,Pacific Swift,
+Apus pacificus,,22686845,Pacific Swift,
 Apus pallidus,,22686815,Pallid Swift,
 Apus sladeniae,,22686825,Fernando Po Swift,
 Apus unicolor,Plain-coloured Swift,22686806,Plain Swift,
@@ -837,13 +837,13 @@ Arborophila rolli,,22732183,Tan-breasted Partridge,
 Arborophila rubrirostris,,22679060,Red-billed Partridge,
 Arborophila rufipectus,,22679035,Sichuan Partridge,
 Arborophila rufogularis,,22679020,Rufous-throated Partridge,
-Arborophila sumatrana,Sumatran Partridge,22729814,Sumatran Partridge,
+Arborophila sumatrana,,22729814,Sumatran Partridge,
 Arborophila torqueola,,22679017,Hill Partridge,
 Arcanator orostruthus,"Dappled Mountain-robin, Dappled Mountain Robin",22715783,Dapple-throat,"Arcanator orostruthus orostruthus, Modulatrix orostruthus"
 Archboldia papuensis,,22731912,Archbold's Bowerbird,
 Archilochus alexandri,,22688196,Black-chinned Hummingbird,
 Archilochus colubris,,22688193,Ruby-throated Hummingbird,
-Ardea alba,"Great White Egret, Great White Heron",22697043,Great White Egret,"Ardea alba, Egretta alba, Casmerodius albus"
+Ardea alba,Great White Heron,22697043,Great White Egret,"Ardea alba, Egretta alba, Casmerodius albus"
 Ardea brachyrhyncha,,22727677,Yellow-billed Egret,
 Ardea cinerea,Gray Heron,22696993,Grey Heron,
 Ardea cocoi,,22697001,Cocoi Heron,
@@ -963,7 +963,7 @@ Asio abyssinicus,,22689512,African Long-eared Owl,
 Asio capensis,,22689535,Marsh Owl,
 Asio clamator,,22689522,Striped Owl,"Asio clamator, Rhinoptynx clamator, Pseudoscops clamator"
 Asio flammeus,,22689531,Short-eared Owl,
-Asio madagascariensis,Madagascar Long-eared Owl,22689517,Madagascar Long-eared Owl,
+Asio madagascariensis,,22689517,Madagascar Long-eared Owl,
 Asio otus,,22689507,Northern Long-eared Owl,
 Asio stygius,,22689504,Stygian Owl,
 Aspatha gularis,,22682983,Blue-throated Motmot,
@@ -1009,7 +1009,7 @@ Athene blewitti,"Forest Little Owl, Forest Spotted Owlet",22689335,Forest Owlet,
 Athene brama,,22689332,Spotted Owlet,
 Athene cunicularia,,22689353,Burrowing Owl,Speotyto cunicularia cunicularia
 Athene noctua,,22689328,Little Owl,
-Athene superciliaris,"White-browed Hawk-Owl, White-browed Owl",22689425,White-browed Owl,Ninox superciliaris
+Athene superciliaris,White-browed Hawk-Owl,22689425,White-browed Owl,Ninox superciliaris
 Atimastillas flavicollis,,103817373,Yellow-throated Greenbul,
 Atimastillas flavigula,,103817506,Pale-throated Greenbul,
 Atlapetes albiceps,"White-headed Brush Finch, White-headed Brush-Finch",22721482,White-headed Brush-finch,
@@ -1122,7 +1122,7 @@ Bangsia edwardsi,,22722584,Moss-backed Tanager,Buthraupis edwardsi edwardsi
 Bangsia flavovirens,"Yellow-green Bush-tanager, Yellow-green Bush Tanager, Yellow-green Bush-Tanager",22722198,Yellow-green Tanager,Chlorospingus flavovirens
 Bangsia melanochlamys,,22722567,Black-and-gold Tanager,Buthraupis melanochlamys melanochlamys
 Bangsia rothschildi,,22722576,Golden-chested Tanager,Buthraupis rothschildi rothschildi
-Barnardius zonarius,Australian Ringneck,22685090,Australian Ringneck,
+Barnardius zonarius,,22685090,Australian Ringneck,
 Bartramia longicauda,,22693203,Upland Sandpiper,
 Baryphthengus martii,,22682995,Rufous Motmot,
 Baryphthengus ruficapillus,,22682998,Rufous-capped Motmot,
@@ -1209,12 +1209,12 @@ Bonasa umbellus,,22679500,Ruffed Grouse,
 Bostrychia bocagei,"Dwarf Olive Ibis, Sao Tome Ibis",22697478,Dwarf Ibis,
 Bostrychia carunculata,,22697468,Wattled Ibis,
 Bostrychia hagedash,Hadada,22697463,Hadada Ibis,
-Bostrychia olivacea,Olive Ibis,22697472,Olive Ibis,
+Bostrychia olivacea,,22697472,Olive Ibis,
 Bostrychia rara,,22697484,Spot-breasted Ibis,
 Botaurus lentiginosus,,22697340,American Bittern,
 Botaurus pinnatus,,22697343,Pinnated Bittern,
 Botaurus poiciloptilus,,22697353,Australasian Bittern,
-Botaurus stellaris,"Bittern, Common Bittern, Eurasian Bittern",22697346,Eurasian Bittern,
+Botaurus stellaris,"Bittern, Common Bittern",22697346,Eurasian Bittern,
 Brachycope anomala,,22719116,Bob-tailed Weaver,
 Brachygalba albogularis,,22682183,White-throated Jacamar,
 Brachygalba goeringi,,22682177,Pale-headed Jacamar,
@@ -1332,7 +1332,7 @@ Buteo galapagoensis,Galápagos Hawk,22695909,Galapagos Hawk,
 Buteo hemilasius,,22695967,Upland Buzzard,
 Buteo jamaicensis,,22695933,Red-tailed Hawk,
 Buteo japonicus,Eastern Buzzard,22732232,Japanese Buzzard,
-Buteo lagopus,"Roughleg, Rough-legged Buzzard",22695973,Rough-legged Buzzard,
+Buteo lagopus,Roughleg,22695973,Rough-legged Buzzard,
 Buteo lineatus,,22695883,Red-shouldered Hawk,
 Buteo nitidus,,22727766,Grey-lined Hawk,
 Buteo oreophilus,,22728020,Mountain Buzzard,
@@ -1350,13 +1350,13 @@ Buteo trizonatus,,22735392,Forest Buzzard,
 Buteo ventralis,,22695936,Rufous-tailed Hawk,
 Buteogallus aequinoctialis,"Rufous Crab Hawk, Rufous Crab-Hawk",22695808,Rufous Crab-hawk,
 Buteogallus anthracinus,Common Black-Hawk,22735514,Common Black Hawk,
-Buteogallus coronatus,Crowned Solitary Eagle,22695855,Crowned Solitary Eagle,Harpyhaliaetus coronatus
+Buteogallus coronatus,,22695855,Crowned Solitary Eagle,Harpyhaliaetus coronatus
 Buteogallus gundlachii,Cuban Black-Hawk,22735287,Cuban Black Hawk,
 Buteogallus lacernulatus,,22695763,White-necked Hawk,"Leucopternis lacernulatus, Leucopternis lacernulata"
 Buteogallus meridionalis,,22695832,Savanna Hawk,Heterospizias meridionalis meridionalis
-Buteogallus schistaceus,Slate-colored Hawk,22695745,Slate-colored Hawk,"Leucopternis schistacea, Leucopternis schistaceus"
-Buteogallus solitarius,"Black Solitary Eagle, Montane Solitary Eagle",22695849,Black Solitary Eagle,Harpyhaliaetus solitarius
-Buteogallus urubitinga,"Great Black Hawk, Great Black-Hawk",22695827,Great Black Hawk,
+Buteogallus schistaceus,,22695745,Slate-colored Hawk,"Leucopternis schistacea, Leucopternis schistaceus"
+Buteogallus solitarius,Montane Solitary Eagle,22695849,Black Solitary Eagle,Harpyhaliaetus solitarius
+Buteogallus urubitinga,Great Black-Hawk,22695827,Great Black Hawk,
 Buthraupis montana,"Hooded Mountain Tanager, Hooded Mountain-Tanager",22722601,Hooded Mountain-tanager,
 Butorides striata,Striated Heron,22728182,Green-backed Heron,Butorides virescens
 Bycanistes albotibialis,,22682609,White-thighed Hornbill,Ceratogymna albotibialis albotibialis
@@ -1371,7 +1371,7 @@ Cacatua alba,Umbrella Cockatoo,22684789,White Cockatoo,
 Cacatua citrinocristata,"Orange-crested Cockatoo, Sumba Cockatoo",200296433,Citron-crested Cockatoo,Plyctolophus citrino-cristatus
 Cacatua ducorpsii,"Broad-crested Corella, Ducorps's Cockatoo",22684823,Solomons Corella,
 Cacatua galerita,,22684781,Sulphur-crested Cockatoo,
-Cacatua goffiniana,"Goffin's Cockatoo, Tanimbar Corella",22684800,Tanimbar Corella,Cacatua goffini
+Cacatua goffiniana,Goffin's Cockatoo,22684800,Tanimbar Corella,Cacatua goffini
 Cacatua haematuropygia,Red-vented Cockatoo,22684795,Philippine Cockatoo,
 Cacatua leadbeateri,"Leadbeater's Cockatoo, Pink Cockatoo",22684767,Major Mitchell's Cockatoo,Lophochroa leadbeateri leadbeateri
 Cacatua moluccensis,Moluccan Cockatoo,22684784,Salmon-crested Cockatoo,
@@ -1521,7 +1521,7 @@ Campephilus rubricollis,,22681396,Red-necked Woodpecker,
 Campephilus splendens,,22727159,Splendid Woodpecker,
 Campethera abingoni,,22680902,Golden-tailed Woodpecker,
 Campethera bennettii,,22730259,Bennett's Woodpecker,
-Campethera cailliautii,Little Spotted Woodpecker,22680919,Little Spotted Woodpecker,
+Campethera cailliautii,,22680919,Little Spotted Woodpecker,
 Campethera maculosa,Golden-backed Woodpecker,22680914,Little Green Woodpecker,
 Campethera mombassica,,22680906,Mombasa Woodpecker,
 Campethera notata,,22680910,Knysna Woodpecker,
@@ -1591,7 +1591,7 @@ Capito fitzpatricki,,45359950,Sira Barbet,Capito wallacei
 Capito hypoleucus,,22681914,White-mantled Barbet,
 Capito maculicoronatus,,22681908,Spot-crowned Barbet,
 Capito niger,,22733719,Black-spotted Barbet,
-Capito quinticolor,Five-colored Barbet,22681920,Five-colored Barbet,
+Capito quinticolor,,22681920,Five-colored Barbet,
 Capito squamatus,,22681911,Orange-fronted Barbet,
 Capito wallacei,,22729471,Scarlet-banded Barbet,
 Caprimulgus aegyptius,,22689902,Egyptian Nightjar,
@@ -1603,9 +1603,9 @@ Caprimulgus batesi,,22690004,Bates's Nightjar,
 Caprimulgus celebensis,,22689937,Sulawesi Nightjar,
 Caprimulgus clarus,,22690012,Slender-tailed Nightjar,
 Caprimulgus climacurus,,22690008,Long-tailed Nightjar,
-Caprimulgus concretus,Bonaparte's Nightjar,22689993,Bonaparte's Nightjar,
+Caprimulgus concretus,,22689993,Bonaparte's Nightjar,
 Caprimulgus donaldsoni,,22689940,Donaldson-Smith's Nightjar,
-Caprimulgus europaeus,"European Nightjar, Nightjar",22689887,European Nightjar,
+Caprimulgus europaeus,Nightjar,22689887,European Nightjar,
 Caprimulgus eximius,,22689916,Golden Nightjar,
 Caprimulgus fossii,Gaboon Nightjar,22690016,Mozambique Nightjar,
 Caprimulgus fraenatus,Dusky Nightjar,22689893,Sombre Nightjar,
@@ -1741,10 +1741,10 @@ Cecropis hyperythra,,103812653,Sri Lanka Swallow,
 Cecropis semirufa,Red-breasted Swallow,22712358,Rufous-chested Swallow,Hirundo semirufa
 Cecropis senegalensis,,22712365,Mosque Swallow,Hirundo senegalensis
 Celebesica abbotti,Pygmy Cuckoo-shrike,22706532,Pygmy Cuckooshrike,Coracina abbotti
-Celeus castaneus,Chestnut-colored Woodpecker,22681327,Chestnut-colored Woodpecker,
+Celeus castaneus,,22681327,Chestnut-colored Woodpecker,
 Celeus elegans,,22681331,Chestnut Woodpecker,
 Celeus flavescens,,61536191,Blond-crested Woodpecker,
-Celeus flavus,Cream-colored Woodpecker,22681344,Cream-colored Woodpecker,
+Celeus flavus,,22681344,Cream-colored Woodpecker,
 Celeus galeatus,,22681360,Helmeted Woodpecker,"Dryocopus galeatus, Hylatomus galeatus"
 Celeus loricatus,,22681317,Cinnamon Woodpecker,
 Celeus lugubris,,22681338,Pale-crested Woodpecker,
@@ -1755,13 +1755,13 @@ Celeus spectabilis,,22733772,Rufous-headed Woodpecker,
 Celeus tinnunculus,,22726483,Atlantic Black-breasted Woodpecker,
 Celeus torquatus,,22726469,Ringed Woodpecker,
 Celeus undatus,,155069065,Waved Woodpecker,Celeus grammicus
-Centrocercus minimus,"Gunnison Grouse, Gunnison Sage Grouse, Gunnison Sage-Grouse",22728472,Gunnison Grouse,
-Centrocercus urophasianus,"Greater Sage Grouse, Greater Sage-Grouse, Sage Grouse",22679503,Sage Grouse,
+Centrocercus minimus,"Gunnison Sage Grouse, Gunnison Sage-Grouse",22728472,Gunnison Grouse,
+Centrocercus urophasianus,"Greater Sage Grouse, Greater Sage-Grouse",22679503,Sage Grouse,
 Centropus andamanensis,,22684232,Andaman Coucal,
 Centropus anselli,Gaboon Coucal,22684266,Gabon Coucal,
 Centropus ateralbus,,22684206,Pied Coucal,
 Centropus bengalensis,,22684254,Lesser Coucal,
-Centropus bernsteini,Black-billed Coucal,22684215,Black-billed Coucal,
+Centropus bernsteini,,22684215,Black-billed Coucal,
 Centropus celebensis,,22684303,Bay Coucal,
 Centropus chalybeus,,22684219,Biak Coucal,
 Centropus chlororhynchos,,22684257,Green-billed Coucal,Centropus chlororhynchus
@@ -1770,10 +1770,10 @@ Centropus goliath,,22684195,Goliath Coucal,
 Centropus grillii,African Black Coucal,22684249,Black Coucal,
 Centropus leucogaster,,22684260,Black-throated Coucal,
 Centropus melanops,,22684300,Black-faced Coucal,
-Centropus menbeki,Ivory-billed Coucal,22684202,Ivory-billed Coucal,
+Centropus menbeki,,22684202,Ivory-billed Coucal,
 Centropus milo,,22684192,Buff-headed Coucal,
 Centropus monachus,,22684276,Blue-headed Coucal,
-Centropus nigrorufus,Javan Coucal,22684236,Javan Coucal,
+Centropus nigrorufus,,22684236,Javan Coucal,
 Centropus phasianinus,,22684209,Pheasant Coucal,
 Centropus rectunguis,,22684222,Short-toed Coucal,
 Centropus senegalensis,,22684284,Senegal Coucal,
@@ -1966,7 +1966,7 @@ Charadrius placidus,,22693767,Long-billed Plover,
 Charadrius ruficapillus,Red-capped Dotterel,22693832,Red-capped Plover,
 Charadrius sanctaehelenae,"St Helena Plover, St. Helena Plover, Wirebird",22693785,Saint Helena Plover,
 Charadrius semipalmatus,,22693764,Semipalmated Plover,
-Charadrius thoracicus,Black-banded Plover,22693780,Black-banded Plover,
+Charadrius thoracicus,,22693780,Black-banded Plover,
 Charadrius tricollaris,Three-banded Plover,22727471,African Three-banded Plover,
 Charadrius veredus,Oriental Dotterel,22693872,Oriental Plover,
 Charadrius vociferus,,22693777,Killdeer,
@@ -1992,11 +1992,11 @@ Chasiempis sandwichensis,Hawai`i `Elepaio,22736440,Hawaii Elepaio,
 Chasiempis sclateri,Kaua`i `Elepaio,22736432,Kauai Elepaio,Chasiempis sandwichensis
 Chauna chavaria,,22679726,Northern Screamer,
 Chauna torquata,,22679729,Southern Screamer,
-Chelictinia riocourii,"Scissor-tailed Kite, Swallow-tailed Kite",22695042,Scissor-tailed Kite,
-Chelidoptera tenebrosa,Swallow-winged Puffbird,22682337,Swallow-winged Puffbird,
+Chelictinia riocourii,Swallow-tailed Kite,22695042,Scissor-tailed Kite,
+Chelidoptera tenebrosa,,22682337,Swallow-winged Puffbird,
 Chelidorhynx hypoxanthus,Yellow-bellied Fantail,22706775,Yellow-bellied Fairy-fantail,Rhipidura hypoxantha
 Chenonetta finschi,,62239833,Finsch's Duck,
-Chenonetta jubata,"Australian Wood Duck, Maned Duck",22680111,Maned Duck,
+Chenonetta jubata,Australian Wood Duck,22680111,Maned Duck,
 Chenorhamphus grayi,Broad-billed Fairywren,22703715,Broad-billed Fairy-wren,Malurus grayi
 Cheramoeca leucosterna,,22712165,White-backed Swallow,Cheramoeca leucosternus leucosternus
 Chersomanes albofasciata,,22717188,Spike-heeled Lark,
@@ -2112,8 +2112,8 @@ Chordeiles gundlachii,,22689717,Antillean Nighthawk,
 Chordeiles minor,,22689714,Common Nighthawk,
 Chordeiles nacunda,,22689723,Nacunda Nighthawk,Podager nacunda
 Chordeiles pusillus,,22689701,Least Nighthawk,
-Chordeiles rupestris,Sand-colored Nighthawk,22729172,Sand-colored Nighthawk,
-Chrysococcyx caprius,"Dideric Cuckoo, Diederik Cuckoo",22684026,Diederik Cuckoo,
+Chordeiles rupestris,,22729172,Sand-colored Nighthawk,
+Chrysococcyx caprius,Dideric Cuckoo,22684026,Diederik Cuckoo,
 Chrysococcyx cupreus,Emerald Cuckoo,22684021,African Emerald Cuckoo,
 Chrysococcyx flavigularis,Yellow-throated Green Cuckoo,22684012,Yellow-throated Cuckoo,
 Chrysococcyx klaas,,22684017,Klaas's Cuckoo,
@@ -2156,7 +2156,7 @@ Chrysuronia humboldtii,,22733646,Humboldt's Hummingbird,"Hylocharis humboldtii, 
 Chrysuronia leucogaster,,22687574,Plain-bellied Emerald,Amazilia leucogaster
 Chrysuronia lilliae,,22687417,Sapphire-bellied Hummingbird,"Lepidopyga lilliae, Amazilia lilliae"
 Chrysuronia oenone,,22687458,Golden-tailed Sapphire,"Chrysuronia oenone, Ornismya oenone, Amazilia oenone"
-Chrysuronia versicolor,Versicolored Emerald,22687525,Versicolored Emerald,Amazilia versicolor
+Chrysuronia versicolor,,22687525,Versicolored Emerald,Amazilia versicolor
 Chunga burmeisteri,,22692208,Black-legged Seriema,
 Ciccaba albitarsis,,22689154,Rufous-banded Owl,"Strix albitarsis, Ciccaba albitarsus, Ciccaba albitarsis"
 Ciccaba huhula,,22689144,Black-banded Owl,"Ciccaba huhula, Strix huhula"
@@ -2380,7 +2380,7 @@ Cittura sanghirensis,,22726899,Sangihe Lilac Kingfisher,
 Cladorhynchus leucocephalus,,22693709,Banded Stilt,
 Clamator coromandus,,22683816,Chestnut-winged Cuckoo,
 Clamator glandarius,,22683819,Great Spotted Cuckoo,
-Clamator jacobinus,Jacobin Cuckoo,22683800,Jacobin Cuckoo,Oxylophus jacobinus jacobinus
+Clamator jacobinus,,22683800,Jacobin Cuckoo,Oxylophus jacobinus jacobinus
 Clamator levaillantii,Striped Cuckoo,22683808,Levaillant's Cuckoo,Oxylophus levaillantii levaillantii
 Clanga clanga,Spotted Eagle,22696027,Greater Spotted Eagle,Aquila clanga
 Clanga hastata,,22729779,Indian Spotted Eagle,Aquila hastata
@@ -2423,7 +2423,7 @@ Coccopygia bocagei,,103815110,Angola Waxbill,
 Coccopygia melanotis,,103814997,Swee Waxbill,Estrilda melanotis
 Coccopygia quartinia,,103815089,Yellow-bellied Waxbill,
 Coccothraustes coccothraustes,,22720681,Hawfinch,
-Coccycua cinerea,Ash-colored Cuckoo,22684318,Ash-colored Cuckoo,Coccyzus cinereus
+Coccycua cinerea,,22684318,Ash-colored Cuckoo,Coccyzus cinereus
 Coccycua minuta,,22684379,Little Cuckoo,Piaya minuta
 Coccycua pumila,,22684309,Dwarf Cuckoo,Coccyzus pumilus
 Coccyzus americanus,,22684331,Yellow-billed Cuckoo,
@@ -2514,12 +2514,12 @@ Colonia colonus,,22700318,Long-tailed Tyrant,
 Colorhamphus parvirostris,,22699963,Patagonian Tyrant,"Ochthoeca parvirostris parvirostris, Ochthoeca parvirostris"
 Columba albinucha,,22690164,White-naped Pigeon,
 Columba albitorques,,22690084,White-collared Pigeon,
-Columba argentina,"Grey Wood-pigeon, Silvery Pigeon, Silvery Wood-Pigeon",22690195,Silvery Pigeon,
+Columba argentina,"Grey Wood-pigeon, Silvery Wood-Pigeon",22690195,Silvery Pigeon,
 Columba arquatrix,"African Olive Pigeon, African Olive-Pigeon",22690145,African Olive-pigeon,
 Columba bollii,"Bolle's Laurel Pigeon, Bolle's Pigeon",22690117,Dark-tailed Laurel-pigeon,
 Columba delegorguei,,22690359,Eastern Bronze-naped Pigeon,
 Columba elphinstonii,"Nilgiri Wood Pigeon, Nilgiri Wood-Pigeon",22690173,Nilgiri Woodpigeon,
-Columba eversmanni,"Yellow-eyed Dove, Yellow-eyed Pigeon, Yellow-eyed Stock Dove",22690097,Yellow-eyed Pigeon,
+Columba eversmanni,"Yellow-eyed Dove, Yellow-eyed Stock Dove",22690097,Yellow-eyed Pigeon,
 Columba guinea,,22690080,Speckled Pigeon,
 Columba hodgsonii,"Speckled Wood Pigeon, Speckled Wood-Pigeon",22690159,Speckled Woodpigeon,
 Columba iriditorques,,22690346,Western Bronze-naped Pigeon,
@@ -2528,13 +2528,13 @@ Columba jouyi,Ryukyu Wood Pigeon,22690222,Ryukyu Woodpigeon,
 Columba junoniae,Laurel Pigeon,22690122,White-tailed Laurel-pigeon,
 Columba leucomela,,22690215,White-headed Pigeon,
 Columba leuconota,,22690077,Snow Pigeon,
-Columba livia,"Common Pigeon, Rock Dove",22690066,Rock Dove,
+Columba livia,Common Pigeon,22690066,Rock Dove,
 Columba malherbii,"Island Bronze-naped Pigeon, Sao Tomé Bronze-naped Pigeon, São Tomé Bronze-naped Pigeon",22690351,Sao Tome Bronze-naped Pigeon,
 Columba oenas,Stock Pigeon,22690088,Stock Dove,
 Columba oliviae,Somali Stock Dove,22690092,Somali Pigeon,
 Columba pallidiceps,,22690226,Yellow-legged Pigeon,
 Columba palumboides,"Andaman Wood Pigeon, Andaman Wood-Pigeon",22690201,Andaman Woodpigeon,
-Columba palumbus,"Common Woodpigeon, Common Wood Pigeon, Common Wood-Pigeon, Woodpigeon, Wood Pigeon",22690103,Common Woodpigeon,
+Columba palumbus,"Common Wood Pigeon, Common Wood-Pigeon, Woodpigeon, Wood Pigeon",22690103,Common Woodpigeon,
 Columba pollenii,"Comoro Olive-Pigeon, Comoros Olive Pigeon, Comoros Rameron Pigeon",22690152,Comoro Olive-pigeon,
 Columba pulchricollis,"Ashy Wood Pigeon, Ashy Wood-Pigeon",22690168,Ashy Woodpigeon,
 Columba punicea,Purple Wood-pigeon,22690191,Pale-capped Pigeon,
@@ -2546,7 +2546,7 @@ Columba torringtoniae,"Ceylon Wood-Pigeon, Sri Lanka Wood Pigeon",22690178,Sri L
 Columba trocaz,"Long-toed Pigeon, Trocaz Pigeon",22690112,Madeira Laurel-pigeon,
 Columba unicincta,,22690127,Afep Pigeon,
 Columba versicolor,Bonin Wood-Pigeon,22690218,Bonin Woodpigeon,
-Columba vitiensis,Metallic Pigeon,22690211,Metallic Pigeon,
+Columba vitiensis,,22690211,Metallic Pigeon,
 Columbina buckleyi,"Ecuadorian Ground Dove, Ecuadorian Ground-Dove",22690789,Ecuadorian Ground-dove,
 Columbina cruziana,"Croaking Ground Dove, Croaking Ground-Dove",22690799,Croaking Ground-dove,
 Columbina cyanopis,"Blue-eyed Ground Dove, Blue-eyed Ground-Dove",22690804,Blue-eyed Ground-dove,
@@ -2625,7 +2625,7 @@ Coracias benghalensis,,22725914,Indian Roller,
 Coracias caudatus,,22682874,Lilac-breasted Roller,Coracias caudata
 Coracias cyanogaster,,22682908,Blue-bellied Roller,
 Coracias garrulus,Roller,22682860,European Roller,
-Coracias naevius,Purple Roller,22682892,Purple Roller,Coracias naevia
+Coracias naevius,,22682892,Purple Roller,Coracias naevia
 Coracias spatulatus,,22682883,Racquet-tailed Roller,Coracias spatulata
 Coracias temminckii,,22682905,Purple-winged Roller,
 Coracina atriceps,Moluccan Cuckoo-shrike,22706486,Moluccan Cuckooshrike,
@@ -2808,8 +2808,8 @@ Creurgops dentatus,,22722366,Slaty Tanager,Creurgops dentata
 Creurgops verticalis,,22722363,Rufous-crested Tanager,
 Crex crex,Corn Crake,22692543,Corncrake,
 Crex egregia,,22692539,African Crake,Crecopsis egregia
-Crinifer piscator,Western Plantain-eater,22688415,Western Plantain-eater,
-Crinifer zonurus,Eastern Plantain-eater,22688420,Eastern Plantain-eater,
+Crinifer piscator,,22688415,Western Plantain-eater,
+Crinifer zonurus,,22688420,Eastern Plantain-eater,
 Criniferoides leucogaster,White-bellied Go-away Bird,22688410,White-bellied Go-away-bird,Corythaixoides leucogaster
 Criniger barbatus,"Bearded Bulbul, Bearded Greenbul",22713109,Western Bearded Greenbul,
 Criniger calurus,Red-tailed Bulbul,22713120,Red-tailed Greenbul,
@@ -2899,7 +2899,7 @@ Crypturellus undulatus,,22678182,Undulated Tinamou,
 Crypturellus variegatus,,22678223,Variegated Tinamou,
 Cuculus canorus,"Cuckoo, European Cuckoo",22683873,Common Cuckoo,
 Cuculus clamosus,,22683866,Black Cuckoo,
-Cuculus crassirostris,"Sulawesi Cuckoo, Sulawesi Hawk-Cuckoo",22683827,Sulawesi Cuckoo,
+Cuculus crassirostris,Sulawesi Hawk-Cuckoo,22683827,Sulawesi Cuckoo,
 Cuculus gularis,African Grey Cuckoo,22683879,African Cuckoo,
 Cuculus lepidus,Sunda Lesser Cuckoo,22734726,Sunda Cuckoo,
 Cuculus micropterus,,22683870,Indian Cuckoo,
@@ -2986,7 +2986,7 @@ Cyanograucalus azureus,Blue Cuckoo-shrike,22706548,Blue Cuckooshrike,Coracina az
 Cyanolanius comorensis,,103703653,Comoro Blue Vanga,
 Cyanolanius madagascarinus,,103703584,Madagascar Blue Vanga,
 Cyanolimnas cerverai,,22692737,Zapata Rail,
-Cyanoliseus patagonus,Burrowing Parrot,22685779,Burrowing Parrot,
+Cyanoliseus patagonus,,22685779,Burrowing Parrot,
 Cyanoloxia brissonii,,22723932,Ultramarine Grosbeak,"Passerina brissonii, Passerina brissonii brissonii, Cyanocompsa brissonii"
 Cyanoloxia cyanoides,,103810895,Blue-black Grosbeak,
 Cyanoloxia glaucocaerulea,Indigo Grosbeak,22723912,Glaucous-blue Grosbeak,"Passerina glaucocaerulea, Passerina glaucocaerulea glaucocaerulea"
@@ -3039,7 +3039,7 @@ Cymbilaimus sanctaemariae,,22701226,Bamboo Antshrike,
 Cymbirhynchus affinis,,103656924,Irrawaddy Broadbill,
 Cymbirhynchus macrorhynchos,,103656920,Black-and-red Broadbill,
 Cynanthus auriceps,,22729031,Golden-crowned Emerald,Chlorostilbon auriceps
-Cynanthus canivetii,Canivet's Emerald,22687304,Canivet's Emerald,Chlorostilbon canivetii
+Cynanthus canivetii,,22687304,Canivet's Emerald,Chlorostilbon canivetii
 Cynanthus doubledayi,,22725775,Turquoise-crowned Hummingbird,
 Cynanthus forficatus,,22724454,Cozumel Emerald,Chlorostilbon forficatus
 Cynanthus latirostris,,22725767,Broad-billed Hummingbird,
@@ -3192,7 +3192,7 @@ Dendropicos poecilolaemus,Uganda Spotted Woodpecker,22680954,Speckle-breasted Wo
 Dendropicos pyrrhogaster,,22680989,Fire-bellied Woodpecker,"Dendropicos pyrrhogaster pyrrhogaster, Thripias pyrrhogaster"
 Dendropicos spodocephalus,,22681018,Grey-headed Woodpecker,
 Dendropicos stierlingi,,22680978,Stierling's Woodpecker,
-Dendropicos xantholophus,Yellow-crested Woodpecker,22680996,Yellow-crested Woodpecker,"Dendropicos xantholophus xantholophus, Thripias xantholophus"
+Dendropicos xantholophus,,22680996,Yellow-crested Woodpecker,"Dendropicos xantholophus xantholophus, Thripias xantholophus"
 Dendroplex kienerii,,22703103,Zimmer's Woodcreeper,"Xiphorhynchus necopinus, Xiphorhynchus kienerii"
 Dendroplex picus,,22703095,Straight-billed Woodcreeper,Xiphorhynchus picus
 Dendrortyx barbatus,"Bearded Wood Partridge, Bearded Wood-Partridge",22679576,Bearded Wood-partridge,
@@ -3345,7 +3345,7 @@ Dreptes thomensis,"São Tomé Giant Sunbird, Sao Tome Sunbird",22717719,Giant Su
 Dromaius baudinianus,,22724449,Kangaroo Island Emu,
 Dromaius minor,,22728643,King Island Emu,Dromaius ater
 Dromaius novaehollandiae,Emu,22678117,Common Emu,
-Dromas ardeola,Crab-plover,22694081,Crab-plover,
+Dromas ardeola,,22694081,Crab-plover,
 Dromococcyx pavoninus,,22684455,Pavonine Cuckoo,
 Dromococcyx phasianellus,,22684452,Pheasant Cuckoo,
 Drymocichla incana,,22713684,Red-winged Grey Warbler,
@@ -3401,7 +3401,7 @@ Ducula concinna,"Elegant Imperial Pigeon, Elegant Imperial-Pigeon",22691653,Blue
 Ducula cuprea,,22727864,Nilgiri Imperial-pigeon,
 Ducula finschii,"Finsch's Imperial-Pigeon, Growling Imperial Pigeon",22691729,Finsch's Imperial-pigeon,
 Ducula forsteni,"White-bellied Imperial Pigeon, White-bellied Imperial-Pigeon",22691617,White-bellied Imperial-pigeon,
-Ducula galeata,"Marquesan Imperial Pigeon, Marquesan Imperial-Pigeon, Nukuhiva Imperial-pigeon",22691674,Nukuhiva Imperial-pigeon,
+Ducula galeata,"Marquesan Imperial Pigeon, Marquesan Imperial-Pigeon",22691674,Nukuhiva Imperial-pigeon,
 Ducula geelvinkiana,,22728104,Geelvink Imperial-pigeon,
 Ducula goliath,"Giant Imperial-pigeon, Goliath Imperial Pigeon, New Caledonian Imperial-Pigeon",22691754,New Caledonian Imperial-pigeon,
 Ducula lacernulata,"Dark-backed Imperial Pigeon, Dark-backed Imperial-Pigeon",22691789,Dark-backed Imperial-pigeon,
@@ -3493,7 +3493,7 @@ Egretta picata,,22697037,Pied Heron,"Egretta picata picata, Ardea picata"
 Egretta rufescens,,22696916,Reddish Egret,Hydranassa rufescens rufescens
 Egretta sacra,"Eastern Reef Egret, Pacific Reef-Egret, Pacific Reef Heron, Reef Heron",22696980,Pacific Reef-egret,
 Egretta thula,,22696974,Snowy Egret,
-Egretta tricolor,Tricolored Heron,22696931,Tricolored Heron,Hydranassa tricolor tricolor
+Egretta tricolor,,22696931,Tricolored Heron,Hydranassa tricolor tricolor
 Egretta vinaceigula,,22696922,Slaty Egret,
 Elachura formosa,"Spotted Wren-babbler, Spotted Wren-Babbler",22716127,Spotted Elachura,Spelaeornis formosus
 Elaenia albiceps,,22699271,White-crested Elaenia,
@@ -3518,7 +3518,7 @@ Elaenia ruficeps,,22699292,Rufous-crowned Elaenia,
 Elaenia sordida,,103681211,Brazilian Elaenia,
 Elaenia spectabilis,,22699265,Large Elaenia,
 Elaenia strepera,,22699277,Slaty Elaenia,
-Elanoides forficatus,Swallow-tailed Kite,22695017,Swallow-tailed Kite,
+Elanoides forficatus,,22695017,Swallow-tailed Kite,
 Elanus axillaris,,22695033,Black-shouldered Kite,
 Elanus caeruleus,Black-shouldered Kite,22695028,Black-winged Kite,
 Elanus leucurus,,22695036,White-tailed Kite,
@@ -3683,7 +3683,7 @@ Eriocnemis glaucopoides,,22687936,Blue-capped Puffleg,
 Eriocnemis godini,,22687922,Turquoise-throated Puffleg,
 Eriocnemis isabellae,,22735457,Gorgeted Puffleg,
 Eriocnemis luciani,,61162182,Sapphire-vented Puffleg,
-Eriocnemis mirabilis,Colorful Puffleg,22687939,Colorful Puffleg,
+Eriocnemis mirabilis,,22687939,Colorful Puffleg,
 Eriocnemis mosquera,,22687933,Golden-breasted Puffleg,
 Eriocnemis nigrivestis,,22687909,Black-breasted Puffleg,
 Eriocnemis sapphiropygia,,61162365,Coppery-naped Puffleg,
@@ -3764,8 +3764,8 @@ Euchrepomis spodioptila,,22701659,Ash-winged Antwren,Terenura spodioptila
 Eucometis penicillata,Gray-headed Tanager,22722343,Grey-headed Tanager,
 Eudocimus albus,American White Ibis,22697411,White Ibis,
 Eudocimus ruber,,22697415,Scarlet Ibis,
-Eudromia elegans,"Elegant Crested Tinamou, Elegant Crested-Tinamou",22678289,Elegant Crested Tinamou,
-Eudromia formosa,"Quebracho Crested Tinamou, Quebracho Crested-Tinamou",22678294,Quebracho Crested Tinamou,
+Eudromia elegans,Elegant Crested-Tinamou,22678289,Elegant Crested Tinamou,
+Eudromia formosa,Quebracho Crested-Tinamou,22678294,Quebracho Crested Tinamou,
 Eudromias morinellus,Dotterel,22693906,Eurasian Dotterel,"Charadrius morinellus, Charadrius morinellus morinellus"
 Eudynamys orientalis,Black-billed Koel,61432919,Eastern Koel,Eudynamys melanorhynchus
 Eudynamys scolopaceus,,22684049,Western Koel,Eudynamys scolopacea
@@ -3786,7 +3786,7 @@ Eulacestoma nigropectus,,22705592,Wattled Ploughbill,
 Eulampis holosericeus,,22687154,Green-throated Carib,Sericotes holosericeus holosericeus
 Eulampis jugularis,,22687151,Purple-throated Carib,
 Eulidia yarrellii,,22688244,Chilean Woodstar,
-Eulipoa wallacei,Moluccan Scrubfowl,22678632,Moluccan Scrubfowl,Megapodius wallacei
+Eulipoa wallacei,,22678632,Moluccan Scrubfowl,Megapodius wallacei
 Eumomota superciliosa,,22682992,Turquoise-browed Motmot,
 Eumyias additus,"Streak-breasted Jungle Flycatcher, Streaky-breasted Jungle-flycatcher, Streaky-breasted Jungle-Flycatcher",22709117,Streaky-breasted Warbling-flycatcher,"Rhinomyias addita, Rhinomyias additus"
 Eumyias albicaudatus,,22709449,Nilgiri Flycatcher,"Muscicapa albicaudata, Eumyias albicaudata"
@@ -3810,7 +3810,7 @@ Eupetomena cirrochloris,,22687658,Sombre Hummingbird,"Aphantochroa cirrhochloris
 Eupetomena macroura,,22687094,Swallow-tailed Hummingbird,
 Euphagus carolinus,,22724329,Rusty Blackbird,
 Euphagus cyanocephalus,,22724332,Brewer's Blackbird,
-Eupherusa cyanophrys,Oaxaca Hummingbird,22687635,Oaxaca Hummingbird,
+Eupherusa cyanophrys,,22687635,Oaxaca Hummingbird,
 Eupherusa eximia,,22687632,Stripe-tailed Hummingbird,
 Eupherusa nigriventris,,22687640,Black-bellied Hummingbird,
 Eupherusa poliocerca,,22687627,White-tailed Hummingbird,
@@ -3881,22 +3881,22 @@ Eurocephalus anguitimens,White-crowned Shrike,22705119,Southern White-crowned Sh
 Eurocephalus ruppelli,White-rumped Shrike,22705114,Northern White-crowned Shrike,
 Eurochelidon sirintarae,"White-eyed River-martin, White-eyed River-Martin",22712042,White-eyed River Martin,Pseudochelidon sirintarae
 Eurostopodus archboldi,"Cloud-forest Nightjar, Mountain Eared-Nightjar",22689680,Archbold's Nightjar,
-Eurostopodus argus,"Spotted Eared-Nightjar, Spotted Nightjar",22689656,Spotted Nightjar,
+Eurostopodus argus,Spotted Eared-Nightjar,22689656,Spotted Nightjar,
 Eurostopodus diabolicus,"Satanic Eared-Nightjar, Satanic Nightjar",22689670,Heinrich's Nightjar,
 Eurostopodus exul,,22726340,New Caledonian Nightjar,
 Eurostopodus mystacalis,"White-throated Eared-nightjar, White-throated Eared-Nightjar",22725660,White-throated Nightjar,
 Eurostopodus nigripennis,,22725672,Solomons Nightjar,
-Eurostopodus papuensis,"Papuan Eared-Nightjar, Papuan Nightjar",22689675,Papuan Nightjar,
+Eurostopodus papuensis,Papuan Eared-Nightjar,22689675,Papuan Nightjar,
 Euryceros prevostii,Helmetbird,22708058,Helmet Vanga,
 Eurylaimus harterti,,103656950,Banded Broadbill,
 Eurylaimus javanicus,Banded Broadbill,103656944,Javan Broadbill,
 Eurylaimus ochromalus,,22698735,Black-and-yellow Broadbill,
 Euryptila subcinnamomea,Kopje Warbler,22713899,Cinnamon-breasted Warbler,
 Eurypyga helias,,22691893,Sunbittern,
-Eurystomus azureus,"Azure Dollarbird, Purple Roller",22682926,Azure Dollarbird,
+Eurystomus azureus,Purple Roller,22682926,Azure Dollarbird,
 Eurystomus glaucurus,,22682912,Broad-billed Roller,
 Eurystomus gularis,,22682916,Blue-throated Roller,
-Eurystomus orientalis,"Dollarbird, Eastern Broad-billed Roller, Oriental Dollarbird",22682920,Oriental Dollarbird,
+Eurystomus orientalis,"Dollarbird, Eastern Broad-billed Roller",22682920,Oriental Dollarbird,
 Euscarthmus fulviceps,,103681074,Tawny-fronted Pygmy-tyrant,
 Euscarthmus meloryphus,,103681055,Tawny-crowned Pygmy-tyrant,
 Euscarthmus rufomarginatus,"Rufous-sided Pygmy Tyrant, Rufous-sided Pygmy-Tyrant",22699453,Rufous-sided Pygmy-tyrant,
@@ -4046,7 +4046,7 @@ Fregata andrewsi,"Andrews' Frigatebird, Christmas Frigatebird, Christmas Frigate
 Fregata aquila,Ascension Is. Frigatebird,22697728,Ascension Frigatebird,
 Fregata ariel,,22697738,Lesser Frigatebird,
 Fregata magnificens,,22697724,Magnificent Frigatebird,
-Fregata minor,Great Frigatebird,22697733,Great Frigatebird,
+Fregata minor,,22697733,Great Frigatebird,
 Fregetta grallaria,"White-bellied Storm Petrel, White-bellied Storm-Petrel",22698465,White-bellied Storm-petrel,
 Fregetta maoriana,New Zealand Storm Petrel,22728808,New Zealand Storm-petrel,"Oceanites  maorianus , Pealeornis  maoriana"
 Fregetta tropica,"Black-bellied Storm Petrel, Black-bellied Storm-Petrel",22698459,Black-bellied Storm-petrel,
@@ -4057,7 +4057,7 @@ Fringilla polatzeki,,103822640,Gran Canaria Blue Chaffinch,
 Fringilla teydea,,103822567,Tenerife Blue Chaffinch,
 Fulica alai,,22692920,Hawaiian Coot,
 Fulica americana,,62169677,American Coot,Fulica caribaea
-Fulica ardesiaca,"Andean Coot, Slate-colored Coot",22692932,Andean Coot,
+Fulica ardesiaca,Slate-colored Coot,22692932,Andean Coot,
 Fulica armillata,,22692937,Red-gartered Coot,
 Fulica atra,"Coot, Eurasian Coot, European Coot",22692913,Common Coot,
 Fulica cornuta,,22692946,Horned Coot,
@@ -4086,7 +4086,7 @@ Furnarius rufus,,22702144,Rufous Hornero,
 Furnarius torridus,Bay Hornero,22702140,Pale-billed Hornero,
 Gactornis enarratus,,22690000,Collared Nightjar,Caprimulgus enarratus
 Galbalcyrhynchus leucotis,,22682167,White-eared Jacamar,
-Galbalcyrhynchus purusianus,Purus Jacamar,22682170,Purus Jacamar,
+Galbalcyrhynchus purusianus,,22682170,Purus Jacamar,
 Galbula albirostris,,22727035,Yellow-billed Jacamar,
 Galbula chalcocephala,,22727043,Cerise-crowned Jacamar,
 Galbula chalcothorax,,22682215,Purplish Jacamar,
@@ -4274,7 +4274,7 @@ Geotrygon versicolor,Crested Quail-Dove,22690924,Crested Quail-dove,
 Geotrygon violacea,Violaceous Quail-Dove,22690962,Violaceous Quail-dove,
 Geranoaetus albicaudatus,,22695906,White-tailed Hawk,Buteo albicaudatus
 Geranoaetus melanoleucus,Black-chested Buzzard-Eagle,22695845,Black-chested Buzzard-eagle,
-Geranoaetus polyosoma,Variable Hawk,22735520,Variable Hawk,"Buteo polyosoma, Buteo poecilochrous"
+Geranoaetus polyosoma,,22735520,Variable Hawk,"Buteo polyosoma, Buteo poecilochrous"
 Geranospiza caerulescens,,22695729,Crane Hawk,
 Geronticus calvus,Bald Ibis,22697496,Southern Bald Ibis,
 Geronticus eremita,"Bald Ibis, Hermit Ibis, Waldrapp",22697488,Northern Bald Ibis,
@@ -4299,7 +4299,7 @@ Gerygone ruficollis,Treefern Gerygone,22704714,Brown-breasted Gerygone,
 Gerygone sulphurea,,22704705,Golden-bellied Gerygone,
 Gerygone tenebrosa,,22704702,Dusky Gerygone,
 Glareola cinerea,,22694148,Grey Pratincole,
-Glareola lactea,Little Pratincole,22694152,Little Pratincole,
+Glareola lactea,,22694152,Little Pratincole,
 Glareola maldivarum,,22694132,Oriental Pratincole,
 Glareola nordmanni,,22694136,Black-winged Pratincole,
 Glareola nuchalis,,22694144,Rock Pratincole,
@@ -4349,7 +4349,7 @@ Glossopsitta pusilla,,22684655,Little Lorikeet,
 Glycichaera fallax,,22703940,Green-backed Honeyeater,
 Glyphorynchus spirurus,,22703043,Wedge-billed Woodcreeper,
 Gnorimopsar chopi,,22724277,Chopi Blackbird,
-Goldmania bella,Pirre Hummingbird,22687464,Pirre Hummingbird,Goethalsia bella
+Goldmania bella,,22687464,Pirre Hummingbird,Goethalsia bella
 Goldmania violiceps,,22687461,Violet-capped Hummingbird,
 Goodfellowia miranda,,22710968,Apo Myna,"Basilornis miranda, Basilornis mirandus"
 Gorsachius goisagi,"Japanese Night Heron, Japanese Night-Heron",22697237,Japanese Night-heron,
@@ -4489,7 +4489,7 @@ Gyps africanus,,22695189,White-backed Vulture,
 Gyps bengalensis,"Asian White-backed Vulture, Oriental White-backed Vulture, White-backed Vulture",22695194,White-rumped Vulture,
 Gyps coprotheres,Cape Griffon,22695225,Cape Vulture,
 Gyps fulvus,"Eurasian Griffon, Eurasian Griffon Vulture",22695219,Griffon Vulture,
-Gyps himalayensis,Himalayan Griffon,22695215,Himalayan Griffon,
+Gyps himalayensis,,22695215,Himalayan Griffon,
 Gyps indicus,"Indian Griffon, Long-billed Griffon, Long-billed Vulture, Painted Vulture",22729731,Indian Vulture,
 Gyps rueppelli,"Rueppell's Griffon, Rüppell's Griffon Vulture, Ruppell's Vulture",22695207,Rüppell's Vulture,Gyps rueppellii
 Gyps tenuirostris,,22729460,Slender-billed Vulture,
@@ -4573,7 +4573,7 @@ Harpactes whiteheadi,,22682842,Whitehead's Trogon,
 Harpagus bidentatus,,22695060,Double-toothed Kite,
 Harpagus diodon,,22695063,Rufous-thighed Kite,
 Harpia harpyja,American Harpy Eagle,22695998,Harpy Eagle,
-Harpyopsis novaeguineae,Papuan Eagle,22696007,Papuan Eagle,
+Harpyopsis novaeguineae,,22696007,Papuan Eagle,
 Hartertula flavoviridis,Wedge-tailed Jery,22716161,Wedge-tailed Tetraka,"Hartertula flavoviridis, Neomixis flavoviridis"
 Hartlaubius auratus,,22710825,Madagascar Starling,Saroglossa aurata
 Hedydipna collaris,,22717668,Collared Sunbird,Anthreptes collaris
@@ -4658,7 +4658,7 @@ Hemitriccus diops,"Drab-breasted Bamboo Tyrant, Drab-breasted Bamboo-Tyrant, Dra
 Hemitriccus flammulatus,"Flammulated Bamboo Tyrant, Flammulated Bamboo-Tyrant, Flammulated Pygmy-Tyrant",22698870,Flammulated Bamboo-tyrant,
 Hemitriccus furcatus,"Fork-tailed Pygmy-tyrant, Fork-tailed Pygmy-Tyrant",22698964,Fork-tailed Tody-tyrant,Ceratotriccus furcatus furcatus
 Hemitriccus granadensis,Black-throated Tody-Tyrant,22698941,Black-throated Tody-tyrant,
-Hemitriccus griseipectus,"White-bellied Tody-Tyrant, White-bellied Tody-Tyrant ",22733103,White-bellied Tody-tyrant,
+Hemitriccus griseipectus,"White-bellied Tody-Tyrant, White-bellied Tody-Tyrant",22733103,White-bellied Tody-tyrant,
 Hemitriccus inornatus,Pelzeln's Tody-Tyrant,22698937,Pelzeln's Tody-tyrant,
 Hemitriccus iohannis,"Johannes's Tody-tyrant, Johannes's Tody-Tyrant",22698914,Joao's Tody-tyrant,
 Hemitriccus josephinae,Boat-billed Tody-Tyrant,22698863,Boat-billed Tody-tyrant,Microcochlearius josephinae josephinae
@@ -5077,7 +5077,7 @@ Ixobrychus exilis,,22697314,Least Bittern,
 Ixobrychus flavicollis,,22697334,Black Bittern,Dupetor flavicollis flavicollis
 Ixobrychus involucris,,22697294,Stripe-backed Bittern,
 Ixobrychus minutus,Little Bittern,22735766,Common Little Bittern,
-Ixobrychus novaezelandiae,"New Zealand Bittern, New Zealand Little Bittern",22697307,New Zealand Little Bittern,
+Ixobrychus novaezelandiae,New Zealand Bittern,22697307,New Zealand Little Bittern,
 Ixobrychus sinensis,,22697303,Yellow Bittern,
 Ixobrychus sturmii,,22697327,Dwarf Bittern,Ardeirallus sturmii sturmii
 Ixonotus guttatus,,22712847,Spotted Greenbul,
@@ -5142,7 +5142,7 @@ Lagonosticta rara,,22719444,Black-bellied Firefinch,
 Lagonosticta rhodopareia,,103812687,Jameson's Firefinch,
 Lagonosticta rubricata,Blue-billed Firefinch,22731403,African Firefinch,Lagonosticta landanae
 Lagonosticta rufopicta,,22719428,Bar-breasted Firefinch,
-Lagonosticta sanguinodorsalis,Rock Firefinch,22728552,Rock Firefinch,
+Lagonosticta sanguinodorsalis,,22728552,Rock Firefinch,
 Lagonosticta senegala,,22719440,Red-billed Firefinch,
 Lagonosticta umbrinodorsalis,,103812699,Chad Firefinch,
 Lagonosticta vinacea,,103812929,Vinaceous Firefinch,
@@ -5192,7 +5192,7 @@ Lamprotornis bicolor,Pied Starling,22710808,African Pied Starling,Spreo bicolor
 Lamprotornis caudatus,"Long-tailed Glossy-starling, Long-tailed Glossy-Starling, Northern Long-tailed Starling",22710744,Long-tailed Glossy Starling,
 Lamprotornis chalcurus,"Bronze-tailed Glossy-starling, Bronze-tailed Glossy Starling, Bronze-tailed Glossy-Starling",22710682,Bronze-tailed Starling,
 Lamprotornis chalybaeus,"Greater Blue-eared Glossy-starling, Greater Blue-eared Glossy-Starling",22710689,Greater Blue-eared Starling,
-Lamprotornis chloropterus,Lesser Blue-eared Glossy-Starling ,106005777,Lesser Blue-eared Starling,Lamprotornis elisabeth
+Lamprotornis chloropterus,Lesser Blue-eared Glossy-Starling,106005777,Lesser Blue-eared Starling,Lamprotornis elisabeth
 Lamprotornis fischeri,,22710804,Fischer's Starling,Spreo fischeri
 Lamprotornis hildebrandti,,22710779,Hildebrandt's Starling,
 Lamprotornis iris,Iris Glossy-Starling,22710642,Emerald Starling,Coccycolius iris
@@ -5275,8 +5275,8 @@ Larus argentatus,,62030608,European Herring Gull,
 Larus armenicus,,22694357,Armenian Gull,
 Larus atlanticus,,22694286,Olrog's Gull,
 Larus atricilla,,22694455,Laughing Gull,Leucophaeus atricilla atricilla
-Larus audouinii,Audouin's Gull,22694313,Audouin's Gull,
-Larus belcheri,Belcher's Gull,22694282,Belcher's Gull,
+Larus audouinii,,22694313,Audouin's Gull,
+Larus belcheri,,22694282,Belcher's Gull,
 Larus brunnicephalus,,22694384,Brown-headed Gull,
 Larus bulleri,,22694413,Black-billed Gull,
 Larus cachinnans,,22735929,Caspian Gull,
@@ -5291,7 +5291,7 @@ Larus fuscus,,22694373,Lesser Black-backed Gull,
 Larus genei,,22694428,Slender-billed Gull,
 Larus glaucescens,,22694334,Glaucous-winged Gull,
 Larus glaucoides,Thayer's Gull,22729877,Iceland Gull,Larus thayeri
-Larus hartlaubii,Hartlaub's Gull,22694393,Hartlaub's Gull,
+Larus hartlaubii,,22694393,Hartlaub's Gull,
 Larus heermanni,,22694296,Heermann's Gull,
 Larus hemprichii,Hemprich's Gull,22694303,Sooty Gull,
 Larus hyperboreus,,22694343,Glaucous Gull,
@@ -5369,7 +5369,7 @@ Lepidocolaptes duidae,,103670608,Duida Woodcreeper,
 Lepidocolaptes falcinellus,,22733748,Scalloped Woodcreeper,
 Lepidocolaptes fatimalimae,,103670702,Inambari Woodcreeper,
 Lepidocolaptes fuscicapillus,,103670637,Dusky-capped Woodcreeper,
-Lepidocolaptes lacrymiger,Montane Woodcreeper ,22733132,Montane Woodcreeper,
+Lepidocolaptes lacrymiger,,22733132,Montane Woodcreeper,
 Lepidocolaptes leucogaster,,22703149,White-striped Woodcreeper,
 Lepidocolaptes neglectus,,103670743,Southern Spot-crowned Woodcreeper,
 Lepidocolaptes souleyetii,,22703152,Streak-headed Woodcreeper,
@@ -5412,16 +5412,16 @@ Leptopogon rufipectus,,22698807,Rufous-breasted Flycatcher,
 Leptopogon superciliaris,,103680303,Slaty-capped Flycatcher,
 Leptopogon taczanowskii,,22698810,Inca Flycatcher,
 Leptopterus chabert,Chabert's Vanga,22708046,Chabert Vanga,
-Leptoptilos crumenifer,Marabou,22697716,Marabou,Leptoptilos crumeniferus
+Leptoptilos crumenifer,,22697716,Marabou,Leptoptilos crumeniferus
 Leptoptilos dubius,,22697721,Greater Adjutant,
 Leptoptilos javanicus,,22697713,Lesser Adjutant,
 Leptosittaca branickii,Golden-plumed Conure,22685755,Golden-plumed Parakeet,
-Leptosomus discolor,Cuckoo Roller,22682975,Cuckoo Roller,
+Leptosomus discolor,,22682975,Cuckoo Roller,
 Leptotila battyi,Azuero Dove,22690868,Brown-backed Dove,
 Leptotila cassinii,Gray-chested Dove,22690891,Grey-chested Dove,Leptotila cassini
 Leptotila conoveri,,22690898,Tolima Dove,
 Leptotila jamaicensis,,22690883,Caribbean Dove,
-Leptotila megalura,"Large-tailed Dove, Yungas Dove",22690857,Yungas Dove,
+Leptotila megalura,Large-tailed Dove,22690857,Yungas Dove,
 Leptotila ochraceiventris,,22690895,Ochre-bellied Dove,
 Leptotila pallida,,22690886,Pallid Dove,
 Leptotila plumbeiceps,Gray-headed Dove,22690862,Grey-headed Dove,
@@ -5438,7 +5438,7 @@ Leucippus fallax,,22687491,Buffy Hummingbird,
 Leucocarbo atriceps,,22729686,Imperial Shag,"Phalacrocorax atriceps, Leucocarbo atriceps"
 Leucocarbo bougainvilliorum,,22696810,Guanay Cormorant,"Phalacrocorax bougainvilliorum, Phalacrocorax bougainvillii"
 Leucocarbo campbelli,Campbell Shag,22696840,Campbell Island Shag,"Phalacrocorax campbelli, Leucocarbo campbelli"
-Leucocarbo carunculatus,Rough-faced Shag,22696846,Rough-faced Shag,"Phalacrocorax carunculatus, Leucocarbo carunculatus"
+Leucocarbo carunculatus,,22696846,Rough-faced Shag,"Phalacrocorax carunculatus, Leucocarbo carunculatus"
 Leucocarbo chalconotus,"Bronzed Shag, Bronze Shag, Stewart Shag",22696853,Stewart Island Shag,"Phalacrocorax chalconotus, Leucocarbo chalconotus"
 Leucocarbo colensoi,"Auckland Island Shag, Auckland Shag",22696869,Auckland Islands Shag,"Phalacrocorax colensoi, Leucocarbo colensoi"
 Leucocarbo magellanicus,Magellan Cormorant,22696883,Rock Shag,Phalacrocorax magellanicus
@@ -5543,7 +5543,7 @@ Locustella portenta,,216557253,Taliabu Grasshopper-warbler,
 Locustella seebohmi,"Benguet Bush-warbler, Benguet Bush Warbler",22735054,Benguet Grasshopper-warbler,Bradypterus seebohmi
 Locustella tacsanowskia,"Chinese Bush-warbler, Chinese Bush Warbler, Chinese Bush-Warbler",22714528,Chinese Grasshopper-warbler,Bradypterus tacsanowskius
 Locustella thoracica,,103785851,Spotted Grasshopper-warbler,
-Loddigesia mirabilis,Marvelous Spatuletail,22688130,Marvelous Spatuletail,
+Loddigesia mirabilis,,22688130,Marvelous Spatuletail,
 Lonchura atricapilla,,22729138,Chestnut Munia,
 Lonchura caniceps,Grey-headed Munia,22719864,Grey-headed Mannikin,
 Lonchura castaneothorax,Chestnut-breasted Munia,22719886,Chestnut-breasted Mannikin,
@@ -5623,7 +5623,7 @@ Lophotriccus galeatus,"Helmeted Pygmy Tyrant, Helmeted Pygmy-Tyrant",22699569,He
 Lophotriccus pileatus,"Scale-crested Pygmy Tyrant, Scale-crested Pygmy-Tyrant",22699554,Scale-crested Pygmy-tyrant,
 Lophotriccus vitiosus,"Double-banded Pygmy Tyrant, Double-banded Pygmy-Tyrant",22699559,Double-banded Pygmy-tyrant,
 Lophotriorchis kienerii,,22696111,Rufous-bellied Eagle,
-Lophura bulweri,"Bulwer's Pheasant, White-tailed Wattled Pheasant",22679278,Bulwer's Pheasant,Lobiophasis bulweri
+Lophura bulweri,White-tailed Wattled Pheasant,22679278,Bulwer's Pheasant,Lobiophasis bulweri
 Lophura diardi,Diard's Fireback,22679274,Siamese Fireback,
 Lophura edwardsi,Edwards's Pheasant,45354985,Vietnam Pheasant,Lophura hatinhensis
 Lophura erythrophthalma,"Crestless Fireback, Rufous-tailed Pheasant",22727411,Malay Crestless Fireback,
@@ -5708,8 +5708,8 @@ Mackenziaena severa,,22701235,Tufted Antshrike,
 Macroagelaius imthurni,Golden-tufted Mountain Grackle,22724286,Golden-tufted Grackle,
 Macroagelaius subalaris,Colombian Mountain Grackle,22724290,Mountain Grackle,
 Macrocephalon maleo,"Gray's Brush-turkey, Maleo Megapode",22678576,Maleo,
-Macronectes giganteus,"Antarctic Giant-Petrel, Southern Giant Petrel, Southern Giant-Petrel",22697852,Southern Giant Petrel,
-Macronectes halli,"Hall's Giant-Petrel, Northern Giant Petrel, Northern Giant-Petrel",22697859,Northern Giant Petrel,
+Macronectes giganteus,"Antarctic Giant-Petrel, Southern Giant-Petrel",22697852,Southern Giant Petrel,
+Macronectes halli,"Hall's Giant-Petrel, Northern Giant-Petrel",22697859,Northern Giant Petrel,
 Macronus ptilosus,Fluffy-backed Tit-Babbler,22716310,Fluffy-backed Tit-babbler,Macronous ptilosus
 Macronus striaticeps,Brown Tit-Babbler,22716306,Brown Tit-babbler,Macronous striaticeps
 Macronyx ameliae,Rosy-breasted Longclaw,22718423,Rosy-throated Longclaw,
@@ -5845,17 +5845,17 @@ Megalampitta gigantea,,22706088,Greater Melampitta,Melampitta gigantea
 Megaloprepia formosa,"Scarlet-breasted Fruit Dove, Scarlet-breasted Fruit-Dove",22691362,Scarlet-breasted Fruit-dove,Ptilinopus bernsteinii
 Megaloprepia magnifica,"Wompoo Fruit Dove, Wompoo Fruit-Dove",22691367,Wompoo Fruit-dove,Ptilinopus magnificus
 Megalurus palustris,,22715494,Striated Grassbird,
-Megapodius bernsteinii,Sula Scrubfowl,22678593,Sula Scrubfowl,
+Megapodius bernsteinii,,22678593,Sula Scrubfowl,
 Megapodius cumingii,"Philippine Megapode, Tabon Scrubfowl",22678588,Philippine Scrubfowl,
-Megapodius decollatus,New Guinea Scrubfowl,22678607,New Guinea Scrubfowl,Megapodius affinis
-Megapodius eremita,Melanesian Scrubfowl,22678611,Melanesian Scrubfowl,
+Megapodius decollatus,,22678607,New Guinea Scrubfowl,Megapodius affinis
+Megapodius eremita,,22678611,Melanesian Scrubfowl,
 Megapodius freycinet,,22678602,Dusky Scrubfowl,
 Megapodius geelvinkianus,,22728514,Biak Scrubfowl,
 Megapodius laperouse,"Mariana Megapode, Marianas Scrubfowl, Megapode Scrubfowl, Micronesian Megapode, Palau Scriubfowl",22678620,Micronesian Scrubfowl,
-Megapodius layardi,"New Hebrides Scrubfowl, Vanuatu Scrubfowl",22678615,Vanuatu Scrubfowl,
-Megapodius nicobariensis,Nicobar Scrubfowl,22678583,Nicobar Scrubfowl,
+Megapodius layardi,New Hebrides Scrubfowl,22678615,Vanuatu Scrubfowl,
+Megapodius nicobariensis,,22678583,Nicobar Scrubfowl,
 Megapodius pritchardii,"Nevafou Megapode, Niaufoou Scrubfowl, Polynesian Scrubfowl, Tongan Megapode",22678625,Tongan Scrubfowl,
-Megapodius reinwardt,"Orange-footed Scrubfowl, Scrubfowl",22734302,Orange-footed Scrubfowl,
+Megapodius reinwardt,Scrubfowl,22734302,Orange-footed Scrubfowl,
 Megapodius tenimberensis,,22732420,Tanimbar Scrubfowl,
 Megarynchus pitangua,,22700533,Boat-billed Flycatcher,
 Megascops albogularis,"White-throated Screech Owl, White-throated Screech-Owl",22688903,White-throated Screech-owl,Otus albogularis
@@ -5937,7 +5937,7 @@ Melaniparus pallidiventris,,22711864,Cinnamon-breasted Tit,Parus pallidiventris
 Melaniparus rufiventris,,103762287,Rufous-bellied Tit,
 Melaniparus thruppi,"Acacia Tit, Northern Grey Tit",22711881,Somali Tit,Parus thruppi
 Melanitta americana,American Scoter,22732425,Black Scoter,
-Melanitta deglandi,White-winged Scoter,22734194,White-winged Scoter,
+Melanitta deglandi,,22734194,White-winged Scoter,
 Melanitta fusca,,22724836,Velvet Scoter,"Melanitta fusca, Anas fusca"
 Melanitta nigra,Black Scoter,22724879,Common Scoter,
 Melanitta perspicillata,,22680441,Surf Scoter,
@@ -6037,7 +6037,7 @@ Menura novaehollandiae,,22703605,Superb Lyrebird,
 Merganetta armata,,22680118,Torrent Duck,
 Mergellus albellus,,22680465,Smew,"Mergus albellus albellus, Mergus albellus"
 Mergus australis,"Auckland Island Merganser, Auckland Merganser",22680496,New Zealand Merganser,
-Mergus merganser,Goosander,22680492,Goosander,
+Mergus merganser,,22680492,Goosander,
 Mergus octosetaceus,,22680482,Brazilian Merganser,
 Mergus serrator,,22680485,Red-breasted Merganser,
 Mergus squamatus,Chinese Merganser,22680488,Scaly-sided Merganser,
@@ -6066,7 +6066,7 @@ Merops persicus,,22683740,Blue-cheeked Bee-eater,
 Merops philippinus,,22683750,Blue-tailed Bee-eater,
 Merops pusillus,,22683688,Little Bee-eater,
 Merops revoilii,,22683710,Somali Bee-eater,
-Merops superciliosus,"Blue-cheeked Bee-eater, Olive Bee-eater",22683744,Olive Bee-eater,
+Merops superciliosus,Blue-cheeked Bee-eater,22683744,Olive Bee-eater,
 Merops variegatus,,61627052,Blue-breasted Bee-eater,
 Merops viridis,,22725900,Blue-throated Bee-eater,
 Merops viridissimus,,22725888,African Green Bee-eater,
@@ -6103,7 +6103,7 @@ Micrastur semitorquatus,"Collared Forest Falcon, Collared Forest-Falcon",2269629
 Micrathene whitneyi,,22689325,Elf Owl,
 Microbates cinereiventris,Half-collared Gnatwren,22711574,Tawny-faced Gnatwren,
 Microbates collaris,,22711571,Collared Gnatwren,
-Microcarbo africanus,Long-tailed Cormorant,22696725,Long-tailed Cormorant,Phalacrocorax africanus
+Microcarbo africanus,,22696725,Long-tailed Cormorant,Phalacrocorax africanus
 Microcarbo coronatus,,22696730,Crowned Cormorant,Phalacrocorax coronatus
 Microcarbo melanoleucos,Little Shag,22696743,Little Pied Cormorant,"Microcarbo melanoleucos melanoleucos, Phalacrocorax melanoleucos"
 Microcarbo niger,,22696740,Little Cormorant,Phalacrocorax niger
@@ -6692,7 +6692,7 @@ Nesoenas cicur,,62257034,Mauritius Turtle-dove,
 Nesoenas duboisi,Réunion Pigeon,22728712,Reunion Pigeon,Columba duboisi
 Nesoenas mayeri,,22690392,Pink Pigeon,"Columba mayeri, Streptopelia mayeri"
 Nesoenas picturatus,"Madagascar Turtle-Dove, Malagasy Turtle Dove",22690364,Madagascar Turtle-dove,"Columba picturata picturata, Streptopelia picturata"
-Nesoenas rodericanus,"Rodrigues Pigeon, Rodrigues Turtle-dove",22728722,Rodrigues Turtle-dove,Alectroenas rodericana
+Nesoenas rodericanus,Rodrigues Pigeon,22728722,Rodrigues Turtle-dove,Alectroenas rodericana
 Nesofregetta fuliginosa,"Polynesian Storm Petrel, Polynesian Storm-Petrel, White-throated Storm Petrel",22698471,Polynesian Storm-petrel,
 Nesophlox evelynae,Bahama Woodstar,133484158,Bahama Hummingbird,
 Nesophlox lyrura,,133484007,Lyre-tailed Hummingbird,
@@ -6704,7 +6704,7 @@ Nesospiza acunhae,"Inaccessible Bunting, Inaccessible Finch",22735943,Inaccessib
 Nesospiza questi,"Nightingale Bunting, Nightingale Finch",22735345,Nightingale Island Finch,
 Nesospiza wilkinsi,Wilkins's Bunting,22735949,Wilkins's Finch,
 Nesotriccus ridgwayi,,22699191,Cocos Flycatcher,
-Nestor meridionalis,New Zealand Kaka,22684840,New Zealand Kaka,
+Nestor meridionalis,,22684840,New Zealand Kaka,
 Nestor notabilis,,22684831,Kea,
 Nestor productus,"Norfolk Kaka, Norfolk Kaka",22684834,Norfolk Island Kaka,Nestor norfolcensis
 Netta erythrophthalma,,22680354,Southern Pochard,
@@ -6737,27 +6737,27 @@ Niltava vivida,,103756772,Small Vivid Niltava,
 Ninox affinis,Andaman Hawk-Owl,22689420,Andaman Boobook,
 Ninox albifacies,,22689496,Laughing Owl,Sceloglaux albifacies
 Ninox boobook,,62023787,Southern Boobook,
-Ninox burhani,Togian Boobook,22732909,Togian Boobook,
+Ninox burhani,,22732909,Togian Boobook,
 Ninox connivens,Barking Boobook,22689394,Barking Owl,
 Ninox forbesi,,22727916,Tanimbar Boobook,
 Ninox granti,,45449328,Guadalcanal Boobook,
 Ninox hantu,,22727909,Buru Boobook,
 Ninox hypogramma,,22727900,Halmahera Boobook,
-Ninox ios,Cinnabar Boobook,22728610,Cinnabar Boobook,
+Ninox ios,,22728610,Cinnabar Boobook,
 Ninox jacquinoti,,45449325,West Solomons Boobook,
 Ninox japonica,,22725653,Northern Boobook,
 Ninox leucopsis,,62023823,Tasmanian Boobook,
 Ninox leventisi,,22725512,Camiguin Boobook,
 Ninox malaitae,,45449331,Malaita Boobook,
-Ninox meeki,"Manus Boobook, Manus Hawk-Owl",22689465,Manus Boobook,
+Ninox meeki,Manus Hawk-Owl,22689465,Manus Boobook,
 Ninox mindorensis,,22726334,Mindoro Boobook,
 Ninox natalis,"Christmas Boobook, Christmas Island Hawk-Owl",22689452,Christmas Island Boobook,
 Ninox novaeseelandiae,,62023843,Morepork,
 Ninox obscura,,22726328,Hume's Boobook,
-Ninox ochracea,"Ochre-bellied Boobook, Ochre-bellied Hawk-Owl",22689439,Ochre-bellied Boobook,
+Ninox ochracea,Ochre-bellied Hawk-Owl,22689439,Ochre-bellied Boobook,
 Ninox odiosa,"Russet Hawk-Owl, Spangled Boobook",22689480,New Britain Boobook,
-Ninox philippensis,"Philippine Hawk-owl   , Philippine Hawk-Owl",22725483,Luzon Boobook,
-Ninox punctulata,"Speckled Boobook, Speckled Hawk-Owl",22689470,Speckled Boobook,
+Ninox philippensis,"Philippine Hawk-owl, Philippine Hawk-Owl",22725483,Luzon Boobook,
+Ninox punctulata,Speckled Hawk-Owl,22689470,Speckled Boobook,
 Ninox randi,,22726321,Chocolate Boobook,
 Ninox reyi,,22725499,Sulu Boobook,
 Ninox roseoaxillaris,,45449334,Makira Boobook,
@@ -6770,7 +6770,7 @@ Ninox spilonotus,,22725493,Romblon Boobook,
 Ninox squamipila,,22727893,Seram Boobook,
 Ninox strenua,Powerful Boobook,22689389,Powerful Owl,
 Ninox sumbaensis,,22730062,Least Boobook,
-Ninox theomacha,"Jungle Boobook, Jungle Hawk-Owl",22689460,Jungle Boobook,
+Ninox theomacha,Jungle Hawk-Owl,22689460,Jungle Boobook,
 Ninox variegata,"Barred Boobook, Bismarck Hawk-Owl",22689475,Bismarck Boobook,
 Nipponia nippon,"Crested Ibis, Japanese Crested Ibis",22697548,Asian Crested Ibis,Ibis nippon
 Nisaetus alboniger,Blyth's Hawk-Eagle,22696159,Blyth's Hawk-eagle,
@@ -6790,7 +6790,7 @@ Nonnula frontalis,Gray-cheeked Nunlet,22682310,Grey-cheeked Nunlet,
 Nonnula rubecula,,22682301,Rusty-breasted Nunlet,
 Nonnula ruficapilla,Gray-cheeked Nunlet,22682315,Rufous-capped Nunlet,
 Nonnula sclateri,,22682304,Fulvous-chinned Nunlet,
-Northiella haematogaster,Bluebonnet,22685135,Bluebonnet,
+Northiella haematogaster,,22685135,Bluebonnet,
 Notharchus hyperrhynchus,,22733880,White-necked Puffbird,
 Notharchus macrorhynchos,White-necked Puffbird,22733874,Guianan Puffbird,
 Notharchus ordii,,22682243,Brown-banded Puffbird,
@@ -6841,7 +6841,7 @@ Nycticorax mauritianus,Mauritius Night-Heron,22728777,Mauritius Night-heron,
 Nycticorax megacephalus,Rodrigues Night-Heron,22728787,Rodrigues Night-heron,
 Nycticorax nycticorax,"Black-Crowned Night Heron, Night Heron",22697211,Black-crowned Night-heron,
 Nycticryphes semicollaris,American Painted-snipe,22693520,South American Painted-snipe,"Nycticryphes semicollaris, Rostratula semicollaris"
-Nyctidromus albicollis,Pauraque,22689731,Pauraque,
+Nyctidromus albicollis,,22689731,Pauraque,
 Nyctidromus anthonyi,Anthony's Nightjar,22689855,Scrub Nightjar,Caprimulgus anthonyi
 Nyctiphrynus mcleodii,,22689755,Eared Poorwill,Otophanes mcleodii mcleodii
 Nyctiphrynus ocellatus,,22689773,Ocellated Poorwill,
@@ -6850,7 +6850,7 @@ Nyctiphrynus yucatanicus,,22689767,Yucatan Poorwill,Otophanes yucatanicus yucata
 Nyctipolus hirundinaceus,,22689868,Pygmy Nightjar,Caprimulgus hirundinaceus
 Nyctipolus nigrescens,,22689862,Blackish Nightjar,Caprimulgus nigrescens
 Nyctiprogne leucopyga,,22689720,Band-tailed Nighthawk,
-Nyctiprogne vielliardi,Bahian Nighthawk,22689704,Bahian Nighthawk,Chordeiles vielliardi
+Nyctiprogne vielliardi,,22689704,Bahian Nighthawk,Chordeiles vielliardi
 Nyctyornis amictus,,22683661,Red-bearded Bee-eater,
 Nyctyornis athertoni,,22683664,Blue-bearded Bee-eater,
 Nymphicus hollandicus,,22684828,Cockatiel,
@@ -7073,7 +7073,7 @@ Ortygornis gularis,,22678733,Swamp Francolin,Francolinus gularis
 Ortygornis pondicerianus,Gray Francolin,22678728,Grey Francolin,Francolinus pondicerianus
 Ortygornis sephaena,,22678752,Crested Francolin,"Francolinus sephaena, Dendroperdix sephaena"
 Ortygospiza atricollis,Quailfinch,22735955,African Quailfinch,
-Ortyxelos meiffrenii,Quail-plover,22680603,Quail-plover,
+Ortyxelos meiffrenii,,22680603,Quail-plover,
 Otidiphaps aruensis,,22728031,White-naped Pheasant-pigeon,
 Otidiphaps cervicalis,,22725258,Grey-naped Pheasant-pigeon,
 Otidiphaps insularis,,22726273,Black-naped Pheasant-pigeon,
@@ -7192,7 +7192,7 @@ Pachycephala vitiensis,,103693448,Fiji Whistler,
 Pachycephalopsis hattamensis,,22704917,Green-backed Robin,
 Pachycephalopsis poliosoma,,22704920,White-eyed Robin,
 Pachycoccyx audeberti,,22683823,Thick-billed Cuckoo,
-Pachyptila belcheri,Slender-billed Prion,22698119,Slender-billed Prion,
+Pachyptila belcheri,,22698119,Slender-billed Prion,
 Pachyptila crassirostris,,22698128,Fulmar Prion,
 Pachyptila desolata,Dove Prion,22698114,Antarctic Prion,
 Pachyptila macgillivrayi,,104062579,MacGillivray's Prion,
@@ -7241,7 +7241,7 @@ Pampusana ferruginea,Tanna Ground-Dove,22691052,Tanna Ground-dove,"Gallicolumba 
 Pampusana hoedtii,"Wetar Ground Dove, Wetar Ground-Dove",22691076,Wetar Ground-dove,"Gallicolumba hoedtii, Alopecoenas hoedtii"
 Pampusana jobiensis,"Purple Ground Dove, White-bibbed Ground-Dove",22691019,White-breasted Ground-dove,"Gallicolumba jobiensis, Alopecoenas jobiensis"
 Pampusana johannae,,60444823,Eastern Bronze Ground-dove,"Gallicolumba johannae, Alopecoenas johannae"
-Pampusana kubaryi,"Caroline Ground-dove, Caroline Islands Ground-Dove, White-fronted Ground Dove",22691024,Caroline Ground-dove,"Gallicolumba kubaryi, Alopecoenas kubaryi"
+Pampusana kubaryi,"Caroline Islands Ground-Dove, White-fronted Ground Dove",22691024,Caroline Ground-dove,"Gallicolumba kubaryi, Alopecoenas kubaryi"
 Pampusana rubescens,"Marquesan Ground Dove, Marquesan Ground-Dove",22691061,Marquesas Ground-dove,"Gallicolumba rubescens, Alopecoenas rubescens"
 Pampusana salamonis,"Thick-billed Ground Dove, Thick-billed Ground-Dove",22691056,Thick-billed Ground-dove,"Gallicolumba salamonis, Alopecoenas salamonis"
 Pampusana sanctaecrucis,"Santa Cruz Ground Dove, Santa Cruz Ground-Dove",22691047,Santa Cruz Ground-dove,"Gallicolumba sanctaecrucis, Alopecoenas sanctaecrucis"
@@ -7623,7 +7623,7 @@ Phasianus colchicus,,45100023,Common Pheasant,
 Phasianus versicolor,,22732650,Green Pheasant,
 Phedina borbonica,,22712198,Mascarene Martin,
 Phedinopsis brazzae,,22712202,Brazza's Martin,"Phedinopsis brazzae brazzae, Phedina brazzae"
-Phegornis mitchellii,"Diademed Plover, Diademed Sandpiper-Plover",22693931,Diademed Plover,
+Phegornis mitchellii,Diademed Sandpiper-Plover,22693931,Diademed Plover,
 Phelpsia inornata,,22700609,White-bearded Flycatcher,"Conopias inornata inornata, Conopias inornatus, Phelpsia inornata"
 Pheucticus aureoventris,,22723810,Black-backed Grosbeak,
 Pheucticus chrysogaster,"Golden-bellied Grosbeak, Southern Yellow Grosbeak",22723803,Golden Grosbeak,
@@ -7888,14 +7888,14 @@ Picathartes oreas,"Grey-necked Picathartes, Red-headed Rockfowl",22708119,Grey-n
 Picoides arcticus,,22681181,Black-backed Woodpecker,
 Picoides canicapillus,Grey-capped Pygmy Woodpecker,22681068,Grey-capped Woodpecker,Dendrocopos canicapillus
 Picoides funebris,,22727144,Dark-bodied Woodpecker,
-Picoides kizuki,Japanese Pygmy Woodpecker,22681072,Japanese Pygmy Woodpecker,Dendrocopos kizuki
+Picoides kizuki,,22681072,Japanese Pygmy Woodpecker,Dendrocopos kizuki
 Picoides maculatus,,22681046,Philippine Pygmy Woodpecker,Dendrocopos maculatus
-Picoides moluccensis,Sunda Pygmy Woodpecker,22681064,Sunda Pygmy Woodpecker,Dendrocopos moluccensis
+Picoides moluccensis,,22681064,Sunda Pygmy Woodpecker,Dendrocopos moluccensis
 Picoides nanus,Brown-capped Pygmy Woodpecker,22681060,Indian Pygmy Woodpecker,Dendrocopos nanus
 Picoides ramsayi,,22681052,Sulu Pygmy Woodpecker,"Dendrocopos ramsayi, Picoides ramsayi"
-Picoides temminckii,Sulawesi Pygmy Woodpecker,22681042,Sulawesi Pygmy Woodpecker,Dendrocopos temminckii
+Picoides temminckii,,22681042,Sulawesi Pygmy Woodpecker,Dendrocopos temminckii
 Picoides tridactylus,,22727137,Three-toed Woodpecker,
-Piculus aurulentus,Yellow-browed Woodpecker,22681246,Yellow-browed Woodpecker,
+Piculus aurulentus,,22681246,Yellow-browed Woodpecker,
 Piculus callopterus,,22681231,Stripe-cheeked Woodpecker,
 Piculus chrysochloros,,22681243,Golden-green Woodpecker,
 Piculus flavigula,,22681240,Yellow-throated Woodpecker,
@@ -7915,7 +7915,7 @@ Picumnus granadensis,Grayish Piculet,22680777,Greyish Piculet,
 Picumnus innominatus,,22680694,Speckled Piculet,
 Picumnus lafresnayi,,22680706,Lafresnaye's Piculet,
 Picumnus limae,,22680762,Ochraceous Piculet,
-Picumnus minutissimus,Arrowhead Piculet,22680726,Arrowhead Piculet,
+Picumnus minutissimus,,22680726,Arrowhead Piculet,
 Picumnus nebulosus,,22680765,Mottled Piculet,
 Picumnus nigropunctatus,,61488027,Black-spotted Piculet,
 Picumnus olivaceus,,22680774,Olivaceous Piculet,
@@ -8216,12 +8216,12 @@ Poephila personata,,22719685,Masked Finch,
 Pogoniulus atroflavus,,22681761,Red-rumped Tinkerbird,
 Pogoniulus bilineatus,,22681769,Yellow-rumped Tinkerbird,
 Pogoniulus chrysoconus,,22681774,Yellow-fronted Tinkerbird,
-Pogoniulus coryphaea,"Western Green Tinkerbird, Western Green-Tinkerbird, Western Tinkerbird",22681740,Western Green Tinkerbird,Pogoniulus coryphaeus
-Pogoniulus leucomystax,"Moustached Green Tinkerbird, Moustached Green-Tinkerbird, Moustached Tinkerbird",22681747,Moustached Green Tinkerbird,
+Pogoniulus coryphaea,"Western Green-Tinkerbird, Western Tinkerbird",22681740,Western Green Tinkerbird,Pogoniulus coryphaeus
+Pogoniulus leucomystax,"Moustached Green-Tinkerbird, Moustached Tinkerbird",22681747,Moustached Green Tinkerbird,
 Pogoniulus makawai,,22724370,White-chested Tinkerbird,
 Pogoniulus pusillus,,22681778,Red-fronted Tinkerbird,
 Pogoniulus scolopaceus,,22681736,Speckled Tinkerbird,
-Pogoniulus simplex,"African Green-Tinkerbird, Eastern Green Tinkerbird, Green Tinkerbird",22681754,Eastern Green Tinkerbird,
+Pogoniulus simplex,"African Green-Tinkerbird, Green Tinkerbird",22681754,Eastern Green Tinkerbird,
 Pogoniulus subsulphureus,,22681765,Yellow-throated Tinkerbird,
 Pogonocichla stellata,Starred Robin,22709611,White-starred Robin,
 Pogonornis bidentatus,,22681861,Double-toothed Barbet,Lybius bidentatus
@@ -8341,7 +8341,7 @@ Porphyrio flavirostris,,22692848,Azure Gallinule,Porphyrula flavirostris flaviro
 Porphyrio hochstetteri,,22692808,South Island Takahe,Porphyrio mantelli
 Porphyrio kukwiedei,,22728732,New Caledonia Gallinule,
 Porphyrio mantelli,,22728833,North Island Takahe,Porphyrio hochstetteri
-Porphyrio martinicus,"American Purple Gallinule, Purple Gallinule",22692827,Purple Gallinule,"Porphyrio martinicus martinicus, Porphyrula martinica, Porphyrio martinica"
+Porphyrio martinicus,American Purple Gallinule,22692827,Purple Gallinule,"Porphyrio martinicus martinicus, Porphyrula martinica, Porphyrio martinica"
 Porphyrio paepae,,62263064,Marquesan Swamphen,
 Porphyrio porphyrio,"Purple Gallinule, Purple Swamp-Hen",22692792,Purple Swamphen,
 Porphyriops melanops,,22692887,Spot-flanked Gallinule,"Porphyriops melanops melanops, Gallinula melanops"
@@ -8390,7 +8390,7 @@ Prioniturus flavicans,"Yellow-breasted Racket-tail, Yellow-breasted Racquet-tail
 Prioniturus luconensis,"Green-crowned Racket-tailed Parrot, Green-headed Racket-tailed Parrot, Green Racket-tail",22684969,Green Racquet-tail,
 Prioniturus mada,Buru Racket-tail,22685001,Buru Racquet-tail,
 Prioniturus mindorensis,,22727878,Mindoro Racquet-tail,
-Prioniturus montanus,"Montane Racket-tail, Montane Racquet-tail",22684954,Montane Racquet-tail,
+Prioniturus montanus,Montane Racket-tail,22684954,Montane Racquet-tail,
 Prioniturus platenae,Blue-headed Racket-tail,22684964,Blue-headed Racquet-tail,
 Prioniturus platurus,Golden-mantled Racket-tail,22684997,Golden-mantled Racquet-tail,
 Prioniturus verticalis,Blue-winged Racket-tail,22684986,Sulu Racquet-tail,
@@ -8416,15 +8416,15 @@ Procarduelis nipalensis,,22720550,Dark-breasted Rosefinch,Carpodacus nipalensis
 Procellaria aequinoctialis,,22698140,White-chinned Petrel,
 Procellaria cinerea,"Gray Petrel, Grey Shearwater, Pediunker",22698159,Grey Petrel,
 Procellaria conspicillata,,22728437,Spectacled Petrel,
-Procellaria parkinsoni,"Black (Parkinson's) Petrel, Black Petrel",22698150,Black Petrel,
+Procellaria parkinsoni,Black (Parkinson's) Petrel,22698150,Black Petrel,
 Procellaria westlandica,Westland Black Petrel,22698155,Westland Petrel,
 Procnias albus,,22700957,White Bellbird,Procnias alba
 Procnias averano,,22700965,Bearded Bellbird,
 Procnias nudicollis,,22700968,Bare-throated Bellbird,
 Procnias tricarunculatus,,22700946,Three-wattled Bellbird,Procnias tricarunculata
-Prodotiscus insignis,Cassin's Honeybird,22680667,Cassin's Honeybird,
-Prodotiscus regulus,"Brown-backed Honeybird, Brown-backed Honeyguide",22680677,Brown-backed Honeybird,
-Prodotiscus zambesiae,Green-backed Honeybird,22680672,Green-backed Honeybird,
+Prodotiscus insignis,,22680667,Cassin's Honeybird,
+Prodotiscus regulus,Brown-backed Honeyguide,22680677,Brown-backed Honeybird,
+Prodotiscus zambesiae,,22680672,Green-backed Honeybird,
 Progne chalybea,Gray-breasted Martin,22712110,Grey-breasted Martin,
 Progne cryptoleuca,,22712101,Cuban Martin,
 Progne dominicensis,,22712104,Caribbean Martin,
@@ -8438,7 +8438,7 @@ Promerops cafer,,22717447,Cape Sugarbird,
 Promerops gurneyi,,22717443,Gurney's Sugarbird,
 Prosobonia cancellata,,62289108,Christmas Sandpiper,
 Prosobonia ellisi,,22728772,Moorea Sandpiper,
-Prosobonia leucoptera,Tahiti Sandpiper,22693330,Tahiti Sandpiper,
+Prosobonia leucoptera,,22693330,Tahiti Sandpiper,
 Prosobonia parvirostris,,62289271,Tuamotu Sandpiper,
 Prosopeia personata,"Masked Shining Parrot, Masked Shining-Parrot",22685035,Masked Shining-parrot,
 Prosopeia splendens,"Crimson Shining Parrot, Crimson Shining-Parrot",22685029,Crimson Shining-parrot,
@@ -8586,7 +8586,7 @@ Psittacella modesta,"Modest Tiger Parrot, Modest Tiger-Parrot",22684935,Modest T
 Psittacella picta,,45419833,Painted Tiger-parrot,
 Psittacula alexandri,,22685505,Red-breasted Parakeet,
 Psittacula caniceps,Blyth's Parakeet,22685508,Nicobar Parakeet,
-Psittacula derbiana,Lord Derby's Parakeet,22685500,Lord Derby's Parakeet,
+Psittacula derbiana,,22685500,Lord Derby's Parakeet,
 Psittaculirostris cervicalis,,22725617,Red-faced Fig-parrot,
 Psittaculirostris desmarestii,"Flame-headed Fig Parrot, Large Fig-Parrot",22725599,Large Fig-parrot,
 Psittaculirostris edwardsii,"Edwards's Fig-Parrot, Scarlet-cheeked Fig Parrot",22684903,Edwards's Fig-parrot,
@@ -8614,7 +8614,7 @@ Psophodes occidentalis,,22705336,Chiming Wedgebill,
 Psophodes olivaceus,,22705327,Eastern Whipbird,
 Pteridophora alberti,King-of-Saxony Bird-of-paradise,22706229,King of Saxony Bird-of-paradise,
 Pternistis adspersus,,22678819,Red-billed Francolin,Francolinus adspersus
-Pternistis afer,Red-necked Francolin,22678855,Red-necked Francolin,Francolinus afer
+Pternistis afer,,22678855,Red-necked Francolin,Francolinus afer
 Pternistis ahantensis,,22678835,Ahanta Francolin,Francolinus ahantensis
 Pternistis atrifrons,,22728235,Black-fronted Francolin,
 Pternistis bicalcaratus,,22678803,Double-spurred Francolin,Francolinus bicalcaratus
@@ -8635,7 +8635,7 @@ Pternistis nobilis,,22678883,Handsome Francolin,Francolinus nobilis
 Pternistis ochropectus,"Ochre-breasted Francolin, Pale-bellied Francolin, Tadjoura Francolin",22678869,Djibouti Francolin,Francolinus ochropectus
 Pternistis rufopictus,,22678851,Grey-breasted Francolin,Francolinus rufopictus
 Pternistis squamatus,,22678839,Scaly Francolin,Francolinus squamatus
-Pternistis swainsonii,Swainson's Francolin,22678860,Swainson's Francolin,Francolinus swainsonii
+Pternistis swainsonii,,22678860,Swainson's Francolin,Francolinus swainsonii
 Pternistis swierstrai,,22678896,Swierstra's Francolin,Francolinus swierstrai
 Pterocles alchata,,22692983,Pin-tailed Sandgrouse,
 Pterocles bicinctus,,22693017,Double-banded Sandgrouse,
@@ -8661,7 +8661,7 @@ Pterodroma cahow,Cahow,22698088,Bermuda Petrel,
 Pterodroma caribbaea,,22698097,Jamaican Petrel,
 Pterodroma cervicalis,White-naped Petrel,22697957,White-necked Petrel,
 Pterodroma cookii,,22697975,Cook's Petrel,Pterodroma cooki
-Pterodroma defilippiana,"Defilippe's Petrel, Defilippi's Petrel, Masatierra Petrel, Mas Atierra Petrel",22697990,Masatierra Petrel,
+Pterodroma defilippiana,"Defilippe's Petrel, Defilippi's Petrel, Mas Atierra Petrel",22697990,Masatierra Petrel,
 Pterodroma deserta,,22736135,Desertas Petrel,
 Pterodroma externa,Juan Fernández Petrel,22698030,Juan Fernandez Petrel,
 Pterodroma feae,,22728011,Cape Verde Petrel,
@@ -8829,7 +8829,7 @@ Puffinus huttoni,,22698252,Hutton's Shearwater,
 Puffinus lherminieri,,45959182,Audubon's Shearwater,
 Puffinus mauretanicus,,22728432,Balearic Shearwater,
 Puffinus myrtae,,132468585,Rapa Shearwater,"Puffinus assimilis, Puffinus newelli"
-Puffinus nativitatis,Christmas Shearwater,22698222,Christmas Shearwater,
+Puffinus nativitatis,,22698222,Christmas Shearwater,
 Puffinus newelli,,132467692,Newell's Shearwater,Puffinus newelli
 Puffinus opisthomelas,,22698246,Black-vented Shearwater,
 Puffinus persicus,,22698267,Persian Shearwater,
@@ -8921,7 +8921,7 @@ Pyrrhula waterstradti,,103838531,Malay Bullfinch,
 Pyrrhura albipectus,"White-breasted Parakeet, White-necked Conure",22685860,White-necked Parakeet,
 Pyrrhura amazonum,,45422118,Santarem Parakeet,
 Pyrrhura caeruleiceps,,45422600,Perija Parakeet,
-Pyrrhura calliptera,"Brown-breasted Parakeet, Flame-winged Conure",22685867,Brown-breasted Parakeet,
+Pyrrhura calliptera,Flame-winged Conure,22685867,Brown-breasted Parakeet,
 Pyrrhura chapmani,Magdalena Parakeet,155070829,Upper Magdalena Parakeet,Pyrrhura melanura
 Pyrrhura cruentata,"Blue-throated Parakeet, Red-eared Conure",22685783,Ochre-marked Parakeet,
 Pyrrhura devillei,,22685790,Blaze-winged Parakeet,
@@ -8951,7 +8951,7 @@ Pyrrhura snethlageae,,45422369,Madeira Parakeet,
 Pyrrhura subandina,,45422401,Sinu Parakeet,
 Pyrrhura viridicata,Santa Marta Conure,22685836,Santa Marta Parakeet,
 Pyrrhurus scandens,Leaflove,22712882,Leaf-love,Phyllastrephus scandens scandens
-Pyrroglaux podargina,Palau Owl,22688899,Palau Owl,Otus podarginus
+Pyrroglaux podargina,,22688899,Palau Owl,Otus podarginus
 Pytilia afra,,22719340,Orange-winged Pytilia,
 Pytilia hypogrammica,Red-faced Pytilia,22719349,Yellow-winged Pytilia,
 Pytilia lineata,,103813138,Red-billed Pytilia,
@@ -8980,7 +8980,7 @@ Rallina fasciata,,22692314,Red-legged Crake,
 Rallina tricolor,,22692308,Red-necked Crake,
 Rallus antarcticus,,22692486,Austral Rail,
 Rallus aquaticus,"European Water Rail, Water Rail",22725141,Western Water Rail,
-Rallus caerulescens,"African Rail, Kaffir Rail",22692498,African Rail,
+Rallus caerulescens,Kaffir Rail,22692498,African Rail,
 Rallus crepitans,,62155296,Clapper Rail,
 Rallus elegans,,62155060,King Rail,
 Rallus indicus,,22725167,Eastern Water Rail,
@@ -9213,7 +9213,7 @@ Rollandia microptera,Short-winged Grebe,22696533,Titicaca Grebe,Rollandia microp
 Rollandia rolland,,22696530,White-tufted Grebe,
 Rollulus rouloul,,22679106,Crested Partridge,Phasianus roulroul
 Roraimia adusta,,22702695,Roraiman Barbtail,
-Rostratula australis,Australian Painted-snipe,22735692,Australian Painted-snipe,
+Rostratula australis,,22735692,Australian Painted-snipe,
 Rostratula benghalensis,"Greater Painted Snipe, Greater Painted-Snipe, Painted Snipe",22735810,Greater Painted-snipe,
 Rostrhamus sociabilis,,22695048,Snail Kite,
 Rougetius rougetii,,22692548,Rouget's Rail,
@@ -9287,7 +9287,7 @@ Saucerottia castaneiventris,,22687614,Chestnut-bellied Hummingbird,Amazilia cast
 Saucerottia cupreicauda,,61201753,Copper-tailed Hummingbird,Amazilia cupreicauda
 Saucerottia cyanocephala,,22687577,Azure-crowned Hummingbird,Amazilia cyanocephala
 Saucerottia cyanura,,22687587,Blue-tailed Hummingbird,Amazilia cyanura
-Saucerottia edward,Snowy-bellied Hummingbird,22687599,Snowy-bellied Hummingbird,Amazilia edward
+Saucerottia edward,,22687599,Snowy-bellied Hummingbird,Amazilia edward
 Saucerottia saucerottei,,22687590,Steely-vented Hummingbird,"Amazilia saucerrottei, Amazilia saucerottei"
 Saucerottia tobaci,,22687593,Copper-rumped Hummingbird,Amazilia tobaci
 Saucerottia viridigaster,,61201742,Green-bellied Hummingbird,Amazilia viridigaster
@@ -9355,10 +9355,10 @@ Sclerurus guatemalensis,,22702978,Scaly-throated Leaftosser,
 Sclerurus mexicanus,,22702962,Tawny-throated Leaftosser,
 Sclerurus rufigularis,,22702965,Short-billed Leaftosser,
 Sclerurus scansor,,103661252,Rufous-breasted Leaftosser,
-Scolopax bukidnonensis,Bukidnon Woodcock,22729854,Bukidnon Woodcock,
+Scolopax bukidnonensis,,22729854,Bukidnon Woodcock,
 Scolopax celebensis,,22693065,Sulawesi Woodcock,
 Scolopax minor,,22693072,American Woodcock,
-Scolopax mira,Amami Woodcock,22693056,Amami Woodcock,
+Scolopax mira,,22693056,Amami Woodcock,
 Scolopax rochussenii,Obi Woodcock,22693068,Moluccan Woodcock,
 Scolopax rosenbergii,New Guniea Woodcock,22729848,New Guinea Woodcock,
 Scolopax rusticola,Woodcock,22693052,Eurasian Woodcock,
@@ -9369,7 +9369,7 @@ Scotopelia bouvieri,"Bouvier's Fishing Owl, Vermiculated Fishing Owl, Vermiculat
 Scotopelia peli,"Pel's Fishing Owl, Pel's Fishing-Owl",22689032,Pel's Fishing-owl,
 Scotopelia ussheri,"Rufous Fishing Owl, Rufous Fishing-Owl, Ussher's Fishing Owl",22689038,Rufous Fishing-owl,
 Scytalopus acutirostris,Sharp-billed Tapaculo,22729275,Tschudi's Tapaculo,
-Scytalopus affinis,Ancash Tapaculo     ,22733255,Ancash Tapaculo,
+Scytalopus affinis,,22733255,Ancash Tapaculo,
 Scytalopus altirostris,,22733261,Neblina Tapaculo,
 Scytalopus alvarezlopezi,,155256104,Tatamá Tapaculo,
 Scytalopus argentifrons,,22703510,Silvery-fronted Tapaculo,
@@ -9411,7 +9411,7 @@ Scytalopus superciliaris,,22703524,White-browed Tapaculo,
 Scytalopus unicolor,Unicoloured Tapaculo,22703487,Unicolored Tapaculo,
 Scytalopus urubambae,,22733286,Vilcabamba Tapaculo,
 Scytalopus vicinior,,22703505,Narino Tapaculo,
-Scytalopus zimmeri,Zimmer's Tapaculo ,22733291,Zimmer's Tapaculo,
+Scytalopus zimmeri,,22733291,Zimmer's Tapaculo,
 Scythrops novaehollandiae,,22684079,Channel-billed Cuckoo,
 Seiurus aurocapilla,,22721779,Ovenbird,Seiurus aurocapillus
 Selasphorus ardens,,22688308,Glow-throated Hummingbird,
@@ -9542,8 +9542,8 @@ Silvicultrix diadema,Yellow-bellied Chat-Tyrant,22699912,Yellow-bellied Chat-tyr
 Silvicultrix frontalis,Crowned Chat-Tyrant,22699898,Crowned Chat-tyrant,"Silvicultrix frontalis frontalis, Ochthoeca frontalis"
 Silvicultrix jelskii,Jelski's Chat-Tyrant,22699905,Jelski's Chat-tyrant,"Silvicultrix jelskii jelskii, Ochthoeca jelskii"
 Silvicultrix pulchella,Golden-browed Chat-Tyrant,22699919,Golden-browed Chat-tyrant,"Silvicultrix pulchella pulchella, Ochthoeca pulchella"
-Siphonorhis americana,"Jamaican Paraque, Jamaican Poorwill",22689738,Jamaican Poorwill,Siphonorhis americanus
-Siphonorhis brewsteri,Least Poorwill,22689751,Least Poorwill,
+Siphonorhis americana,Jamaican Paraque,22689738,Jamaican Poorwill,Siphonorhis americanus
+Siphonorhis brewsteri,,22689751,Least Poorwill,
 Sipia berlepschi,,22701779,Stub-tailed Antbird,"Sipia berlepschi berlepschi, Sipia berlepschi, Myrmeciza berlepschi"
 Sipia laemosticta,,22724857,Dull-mantled Antbird,Myrmeciza laemosticta
 Sipia nigricauda,,22701813,Esmeraldas Antbird,"Sipia nigricauda nigricauda, Sipia nigricauda, Myrmeciza nigricauda"
@@ -9651,7 +9651,7 @@ Spiloptila clamans,"Cricket Longtail, Scaly-fronted Warbler",22713697,Cricket Wa
 Spilornis cheela,Crested Serpent Eagle,22695293,Crested Serpent-eagle,
 Spilornis elgini,"Andaman Dark Serpent Eagle, Andaman Serpent Eagle, Andaman Serpent-Eagle, Dark Serpent-eagle",22695323,Andaman Serpent-eagle,
 Spilornis holospilus,"Philippine Serpent Eagle, Philippine Serpent-Eagle",22695318,Philippine Serpent-eagle,
-Spilornis kinabaluensis,"Kinabalu Serpent-eagle, Mountain Serpent Eagle, Mountain Serpent-Eagle",22695306,Kinabalu Serpent-eagle,
+Spilornis kinabaluensis,"Mountain Serpent Eagle, Mountain Serpent-Eagle",22695306,Kinabalu Serpent-eagle,
 Spilornis klossi,,22729465,Great Nicobar Serpent-eagle,
 Spilornis rufipectus,"Sulawesi Serpent Eagle, Sulawesi Serpent-Eagle",22695313,Sulawesi Serpent-eagle,
 Spindalis dominicensis,,22729097,Hispaniolan Spindalis,
@@ -9779,7 +9779,7 @@ Stelgidopteryx ridgwayi,Ridgway's Rough-winged Swallow,22712157,Yucatan Rough-wi
 Stelgidopteryx ruficollis,,22712162,Southern Rough-winged Swallow,
 Stelgidopteryx serripennis,,22712152,Northern Rough-winged Swallow,
 Stenostira scita,Fairy Warbler,22714939,Fairy Flycatcher,
-Stephanoaetus coronatus,"Crowned Eagle, Crowned Hawk-Eagle",22696201,Crowned Eagle,
+Stephanoaetus coronatus,Crowned Hawk-Eagle,22696201,Crowned Eagle,
 Stephanophorus diadematus,,22722656,Diademed Tanager,
 Stephanoxis lalandi,"Black-breasted Plovercrest, Plovercrest",22725751,Green-crowned Plovercrest,
 Stephanoxis loddigesii,,22725761,Violet-crowned Plovercrest,
@@ -10036,7 +10036,7 @@ Tachycineta cyaneoviridis,,22712080,Bahama Swallow,"Callichelidon cyaneoviridis,
 Tachycineta euchrysea,,22712086,Golden Swallow,Kalochelidon euchrysea euchrysea
 Tachycineta leucorrhoa,,22712068,White-rumped Swallow,
 Tachycineta meyeni,,22712071,Chilean Swallow,"Tachycineta leucopyga leucopyga, Tachycineta leucopyga"
-Tachycineta stolzmanni,Tumbes Swallow     ,22733311,Tumbes Swallow,
+Tachycineta stolzmanni,,22733311,Tumbes Swallow,
 Tachycineta thalassina,,22712077,Violet-green Swallow,
 Tachyeres brachypterus,"Falkland Steamer Duck, Falkland Steamer-Duck",22680047,Falkland Steamerduck,
 Tachyeres leucocephalus,"Chubut Steamerduck, Chubut Steamer Duck, White-headed Steamer-Duck",22680038,White-headed Steamerduck,Tachyeres leucocephala
@@ -10163,7 +10163,7 @@ Tauraco leucotis,,22688355,White-cheeked Turaco,
 Tauraco livingstonii,,22688331,Livingstone's Turaco,
 Tauraco macrorhynchus,Verreaux's Turaco,22688350,Yellow-billed Turaco,
 Tauraco persa,,22688312,Green Turaco,
-Tauraco ruspolii,Ruspoli's Turaco,22688359,Ruspoli's Turaco,
+Tauraco ruspolii,,22688359,Ruspoli's Turaco,
 Tauraco schalowi,,22688323,Schalow's Turaco,
 Tauraco schuettii,,22688316,Black-billed Turaco,"Tauraco schuettii schuettii, Tauraco schuetti"
 Tchagra australis,Brown-headed Tchagra,22707505,Brown-crowned Tchagra,
@@ -10237,7 +10237,7 @@ Thalassarche melanophris,,22698375,Black-browed Albatross,"Thalassarche melanoph
 Thalassarche salvini,,22698388,Salvin's Albatross,
 Thalassarche steadi,,22729609,White-capped Albatross,
 Thalasseus bengalensis,Lesser Crested-Tern,22694561,Lesser Crested Tern,"Thalasseus bengalensis, Sterna bengalensis"
-Thalasseus bergii,"Crested Tern, Great Crested-Tern, Greater Crested Tern, Swift Tern",22694571,Greater Crested Tern,"Thalasseus bergii, Sterna bergii"
+Thalasseus bergii,"Crested Tern, Great Crested-Tern, Swift Tern",22694571,Greater Crested Tern,"Thalasseus bergii, Sterna bergii"
 Thalasseus bernsteini,Chinese Crested-Tern,22694585,Chinese Crested Tern,Sterna bernsteini
 Thalasseus elegans,,22694552,Elegant Tern,"Thalasseus elegans, Sterna elegans"
 Thalasseus maximus,,22694542,Royal Tern,"Thalasseus maximus, Sterna maxima"
@@ -10257,7 +10257,7 @@ Thamnomanes saturninus,,22729366,Saturnine Antshrike,
 Thamnomanes schistogynus,,22701423,Bluish-slate Antshrike,
 Thamnophilus aethiops,,22701309,White-shouldered Antshrike,
 Thamnophilus amazonicus,,22701335,Amazonian Antshrike,
-Thamnophilus ambiguus,"Sooretama Slaty-antshrike, Sooretama Slaty-Antshrike ",22733317,Sooretama Slaty Antshrike,
+Thamnophilus ambiguus,"Sooretama Slaty-antshrike, Sooretama Slaty-Antshrike",22733317,Sooretama Slaty Antshrike,
 Thamnophilus aroyae,,22701322,Upland Antshrike,
 Thamnophilus atrinucha,"Western Slaty-antshrike, Western Slaty Antshrike, Western Slaty-Antshrike",22729060,Black-crowned Antshrike,
 Thamnophilus bernardi,,103658059,Collared Antshrike,
@@ -10280,7 +10280,7 @@ Thamnophilus punctatus,"Northern Slaty-antshrike, Northern Slaty-Antshrike",2270
 Thamnophilus ruficapillus,,103657721,Southern Rufous-capped Antshrike,
 Thamnophilus schistaceus,,22701315,Plain-winged Antshrike,
 Thamnophilus shumbae,,103658063,Maranon Antshrike,
-Thamnophilus stictocephalus,"Natterer's Slaty-antshrike, Natterer's Slaty-Antshrike   ",22733334,Natterer's Slaty Antshrike,
+Thamnophilus stictocephalus,"Natterer's Slaty-antshrike, Natterer's Slaty-Antshrike",22733334,Natterer's Slaty Antshrike,
 Thamnophilus sticturus,"Bolivian Slaty-antshrike, Bolivian Slaty-Antshrike",22733341,Bolivian Slaty Antshrike,
 Thamnophilus subfasciatus,,103657725,Northern Rufous-capped Antshrike,
 Thamnophilus tenuepunctatus,,22733849,Lined Antshrike,
@@ -10315,7 +10315,7 @@ Threnetes ruckeri,,22686925,Band-tailed Barbthroat,
 Threskiornis aethiopicus,Sacred Ibis,22697510,African Sacred Ibis,
 Threskiornis bernieri,,22731855,Madagascar Sacred Ibis,
 Threskiornis melanocephalus,"Black-necked Ibis, Indian White Ibis, Oriental White Ibis",22697516,Black-headed Ibis,
-Threskiornis moluccus,"Australian Ibis, Australian White Ibis, White Ibis",22697519,Australian Ibis,Threskiornis molucca
+Threskiornis moluccus,"Australian White Ibis, White Ibis",22697519,Australian Ibis,Threskiornis molucca
 Threskiornis solitarius,"Réunion Flightless Ibis, Réunion Ibis, Réunion Solitaire",22728791,Reunion Ibis,"Raphus solitarius, Apterornis solitarius"
 Threskiornis spinicollis,,22697525,Straw-necked Ibis,
 Thripadectes flammulatus,,22702902,Flammulated Treehunter,
@@ -10346,7 +10346,7 @@ Tigriornis leucolopha,"White-crested Bittern, White-crested Tiger Heron",2269727
 Tigrisoma fasciatum,"Fasciated Tiger Heron, Fasciated Tiger-Heron",22697264,Fasciated Tiger-heron,
 Tigrisoma lineatum,"Rufescent Tiger Heron, Rufescent Tiger-Heron",22697269,Rufescent Tiger-heron,
 Tigrisoma mexicanum,"Bare-throated Tiger Heron, Bare-throated Tiger-Heron",22697259,Bare-throated Tiger-heron,
-Tilmatura dupontii,Sparkling-tailed Woodstar,22688178,Sparkling-tailed Woodstar,
+Tilmatura dupontii,,22688178,Sparkling-tailed Woodstar,
 Timalia pileata,,22716320,Chestnut-capped Babbler,
 Timeliopsis fulvigula,,22703928,Olive Straightbill,
 Timeliopsis griseigula,,22703931,Tawny Straightbill,
@@ -10376,7 +10376,7 @@ Todiramphus chloris,White-collared Kingfisher,22683399,Collared Kingfisher,"Todi
 Todiramphus cinnamominus,Micronesian Kingfisher,22725862,Guam Kingfisher,
 Todiramphus diops,,22683304,Blue-and-white Kingfisher,Todirhamphus diops diops
 Todiramphus enigma,,22683410,Talaud Kingfisher,"Todirhamphus enigma enigma, Halcyon enigma enigma"
-Todiramphus farquhari,Vanuatu Kingfisher,22683347,Vanuatu Kingfisher,Todirhamphus farquhari farquhari
+Todiramphus farquhari,,22683347,Vanuatu Kingfisher,Todirhamphus farquhari farquhari
 Todiramphus funebris,,22683387,Sombre Kingfisher,"Halcyon funebris, Todirhamphus funebris"
 Todiramphus gambieri,"Mangareva Kingfisher, Niau Kingfisher",22683499,Tuamotu Kingfisher,"Halcyon gambieri, Todirhamphus gambieri"
 Todiramphus godeffroyi,,22683487,Marquesas Kingfisher,"Todirhamphus godeffroyi, Halcyon godeffroyi"
@@ -10412,7 +10412,7 @@ Tolmomyias flaviventris,,103680560,Ochre-lored Flatbill,
 Tolmomyias flavotectus,,22731691,Yellow-winged Flatbill,
 Tolmomyias poliocephalus,"Gray-crowned Flycatcher, Grey-crowned Flycatcher",22699615,Grey-crowned Flatbill,
 Tolmomyias sulphurescens,Yellow-olive Flycatcher,22699605,Yellow-olive Flatbill,
-Tolmomyias traylori,"Orange-eyed Flycatcher, Orange-eyed Flycatcher ",22733350,Orange-eyed Flatbill,
+Tolmomyias traylori,"Orange-eyed Flycatcher, Orange-eyed Flycatcher",22733350,Orange-eyed Flatbill,
 Tolmomyias viridiceps,,22731695,Olive-faced Flatbill,
 Topaza pella,,22687759,Crimson Topaz,
 Topaza pyra,,22687756,Fiery Topaz ,
@@ -10506,10 +10506,10 @@ Trichoglossus rubiginosus,,22684564,Pohnpei Lorikeet,
 Trichoglossus rubritorquis,,22725327,Red-collared Lorikeet,
 Trichoglossus weberi,Leaf Lorikeet,22726309,Flores Lorikeet,
 Tricholaema diademata,,22681790,Red-fronted Barbet,
-Tricholaema frontata,Miombo Pied Barbet,22681794,Miombo Pied Barbet,
+Tricholaema frontata,,22681794,Miombo Pied Barbet,
 Tricholaema hirsuta,,22681786,Hairy-breasted Barbet,
 Tricholaema lacrymosa,,22681804,Spot-flanked Barbet,
-Tricholaema leucomelas,Acacia Pied Barbet,22681799,Acacia Pied Barbet,
+Tricholaema leucomelas,,22681799,Acacia Pied Barbet,
 Tricholaema melanocephala,,22681808,Black-throated Barbet,
 Tricholestes criniger,,22713161,Hairy-backed Bulbul,
 Trichothraupis melanops,,22722406,Black-goggled Tanager,
@@ -10572,7 +10572,7 @@ Trogon chionurus,Western White-tailed Trogon,22736244,White-tailed Trogon,Trogon
 Trogon citreolus,,22682785,Citreoline Trogon,
 Trogon clathratus,,22682768,Lattice-tailed Trogon,
 Trogon collaris,,61692251,Collared Trogon,Trogon aurantiiventris
-Trogon comptus,"Blue-tailed Trogon, Choco Trogon",22682771,Choco Trogon,
+Trogon comptus,Blue-tailed Trogon,22682771,Choco Trogon,
 Trogon curucui,,22682816,Blue-crowned Trogon,
 Trogon elegans,,22726830,Elegant Trogon,
 Trogon massena,,22682760,Slaty-tailed Trogon,
@@ -10586,7 +10586,7 @@ Trogon surrucura,,61687964,Southern Surucua Trogon,
 Trogon violaceus,,61686959,Violaceous Trogon,"Trogon caligatus, Trogon ramonianus"
 Trogon viridis,Amazonian White-tailed Trogon,22736238,Green-backed Trogon,
 Tropicoperdix charltonii,"Chestnut-breasted Tree-partridge, Scaly-breasted Partridge",22727395,Chestnut-necklaced Partridge,"Arborophila charltonii, Perdix charltonii"
-Tropicoperdix chloropus,"Green-legged Hill-partridge, Green-legged Partridge, Scaly-breasted Partridge",22731882,Green-legged Partridge,Arborophila chloropus
+Tropicoperdix chloropus,"Green-legged Hill-partridge, Scaly-breasted Partridge",22731882,Green-legged Partridge,Arborophila chloropus
 Tropicoperdix graydoni,,22727389,Sabah Partridge,"Arborophila graydoni, Arboricola gradoni, Tropicoperdix charltonii"
 Tropicoperdix tonkinensis,,22727383,Tonkin Partridge,"Arborophila tonkinensis, Tropicoperdix charltoni"
 Trugon terrestris,"Thick-billed Ground Pigeon, Thick-billed Ground-Pigeon",22691081,Thick-billed Ground-pigeon,
@@ -10774,8 +10774,8 @@ Uraeginthus angolensis,"Blue-breasted Cordonbleu, Blue Waxbill",22719488,Blue-br
 Uraeginthus bengalus,"Red-checked Cordon-bleu, Red-cheeked Cordonbleu",22719493,Red-cheeked Cordon-bleu,
 Uraeginthus cyanocephalus,Blue-capped Cordonbleu,22719499,Blue-capped Cordon-bleu,
 Uratelornis chimaera,"Long-tailed Ground Roller, Long-tailed Ground-Roller",22682969,Long-tailed Ground-roller,
-Uria aalge,"Common Murre, Guillemot",22694841,Common Murre,
-Uria lomvia,"Brünnich's Guillemot, Thick-billed Murre",22694847,Thick-billed Murre,
+Uria aalge,Guillemot,22694841,Common Murre,
+Uria lomvia,Brünnich's Guillemot,22694847,Thick-billed Murre,
 Urile pelagicus,"Baird's cormorant, Kenyon's Shag, Pelagic shag, Resplendent cormorant",22728950,Pelagic Cormorant,Phalacrocorax pelagicus
 Urile penicillatus,"Brown Cormorant, Pencilled Cormorant, Townsend's Cormorant, Tufted Cormorant",22696753,Brandt's Cormorant,"Phalacrocorax penicillatus, Compsohaelius penicillatus"
 Urile perspicillatus,,22696750,Spectacled Cormorant,Phalacrocorax perspicillatus
@@ -10849,7 +10849,7 @@ Veniliornis maculifrons,,22681225,Yellow-eared Woodpecker,
 Veniliornis mixtus,,22681144,Checkered Woodpecker,
 Veniliornis nigriceps,,22681190,Bar-bellied Woodpecker,
 Veniliornis passerinus,,22681199,Little Woodpecker,
-Veniliornis sanguineus,Blood-colored Woodpecker,22681208,Blood-colored Woodpecker,
+Veniliornis sanguineus,,22681208,Blood-colored Woodpecker,
 Veniliornis spilogaster,,22681205,White-spotted Woodpecker,
 Vermivora bachmanii,,22721607,Bachman's Warbler,
 Vermivora chrysoptera,,22721618,Golden-winged Warbler,
@@ -10973,7 +10973,7 @@ Xiphorhynchus beauperthuysii,,103669951,Line-crowned Woodcreeper,
 Xiphorhynchus chunchotambo,,103670009,Tschudi's Woodcreeper,
 Xiphorhynchus elegans,,22703121,Elegant Woodcreeper,
 Xiphorhynchus erythropygius,,103670271,Northern Spotted Woodcreeper,
-Xiphorhynchus flavigaster,Ivory-billed Woodcreeper,22703136,Ivory-billed Woodcreeper,
+Xiphorhynchus flavigaster,,22703136,Ivory-billed Woodcreeper,
 Xiphorhynchus fuscus,,103669772,Lesser Woodcreeper,
 Xiphorhynchus guttatoides,,103670131,Lafresnaye's Woodcreeper,
 Xiphorhynchus guttatus,,103670045,Buff-throated Woodcreeper,
@@ -11056,7 +11056,7 @@ Zonotrichia atricapilla,,22721091,Golden-crowned Sparrow,
 Zonotrichia capensis,,22721079,Rufous-collared Sparrow,
 Zonotrichia leucophrys,,22721088,White-crowned Sparrow,
 Zonotrichia querula,,22721082,Harris's Sparrow,
-Zoonavena grandidieri,Madagascar Spinetail,22686638,Madagascar Spinetail,
+Zoonavena grandidieri,,22686638,Madagascar Spinetail,
 Zoonavena sylvatica,,22686649,White-rumped Spinetail,
 Zoonavena thomensis,"Sao Tomé Spinetail, São Tomé Spinetail",22686643,Sao Tome Spinetail,
 Zoothera andromedae,,22708481,Sunda Thrush,
@@ -11085,7 +11085,7 @@ Zosterops anomalus,"Lemon-throated White-eye, Sulawesi White-eye",22714110,Black
 Zosterops atricapilla,,22714060,Black-capped White-eye,Zosterops atricapillus atricapillus
 Zosterops atriceps,Creamy-throated White-eye,22714124,Cream-throated White-eye,
 Zosterops atrifrons,,22714119,Black-crowned White-eye,
-Zosterops auriventer,Hume's White-eye,155156040,Hume's White-eye,Zosterops palpebrosus
+Zosterops auriventer,,155156040,Hume's White-eye,Zosterops palpebrosus
 Zosterops borbonicus,,103888874,Reunion Grey White-eye,
 Zosterops brunneus,Fernando Po Speirops,22713915,Bioko Speirops,Speirops brunneus
 Zosterops buruensis,Buru Yellow White-eye,22714151,Buru White-eye,
@@ -11094,14 +11094,14 @@ Zosterops chloris,,216915583,Lemon-bellied White-eye,
 Zosterops chloronothos,,22714005,Mauritius Olive White-eye,"Zosterops chloronothos, Zosterops chloronothus"
 Zosterops chrysolaemus,,103891950,Black-fronted White-eye,
 Zosterops cinereus,,103892693,Kosrae White-eye,
-Zosterops citrinella,"Ashy-bellied White-eye, Pale White-eye",155164575,Ashy-bellied White-eye,
+Zosterops citrinella,Pale White-eye,155164575,Ashy-bellied White-eye,
 Zosterops consobrinorum,,22714107,Pale-bellied White-eye,
 Zosterops conspicillatus,,103889155,Bridled White-eye,
 Zosterops crookshanki,,103892045,Oya Tabu White-eye,
 Zosterops emiliae,Mountain Blackeye,22714332,Mountain Black-eye,Chlorocharis emiliae
 Zosterops erythropleurus,,22714027,Chestnut-flanked White-eye,
 Zosterops eurycricotus,,103891241,Kilimanjaro White-eye,
-Zosterops everetti,Everett's White-eye,155179593,Everett's White-eye,
+Zosterops everetti,,155179593,Everett's White-eye,
 Zosterops explorator,Layard's White-eye,22714238,Fiji White-eye,
 Zosterops feae,,103890794,Sao Tome White-eye,
 Zosterops ficedulinus,,103890694,Principe White-eye,
@@ -11168,7 +11168,7 @@ Zosterops semiflavus,,103889951,Marianne White-eye,
 Zosterops semperi,Caroline Islands White-eye,22714056,Citrine White-eye,
 Zosterops senegalensis,,22713934,African Yellow White-eye,
 Zosterops silvanus,,22713957,Taita White-eye,
-Zosterops simplex,Swinhoe's White-eye,155158152,Swinhoe's White-eye,"Zosterops japonicus, Zosterops salvadorii"
+Zosterops simplex,,155158152,Swinhoe's White-eye,"Zosterops japonicus, Zosterops salvadorii"
 Zosterops somadikartai,,22736183,Togian White-eye,
 Zosterops splendidus,"Ganongga White-eye, Splendid White-eye",22714180,Ranongga White-eye,
 Zosterops stalkeri,,22732863,Seram White-eye,

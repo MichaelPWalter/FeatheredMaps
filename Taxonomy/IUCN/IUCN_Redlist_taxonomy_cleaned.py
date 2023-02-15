@@ -1,6 +1,7 @@
 import pandas as pd
 import zipfile as zip
 import shutil
+import numpy as np
 
 
 
@@ -83,12 +84,28 @@ def group_synonyms(DataFrame):
 
 def merge_df_and_synonyms(df,syn):
     # Merge the two DataFrames on the "scientificName" column using a left join
-    df = pd.merge(df, syn, on='scientificName', how='left')
-    
-    # Save the new dataframe to a new CSV file
-    df.to_csv(cleaned_csv, index=False)
+    df = pd.merge(df, syn, on='scientificName', how='outer')
 
     return df
+
+def remove_duplicates(df):
+    for idx, row in df.iterrows():
+        common_name = row['maincommonName']
+        alt_names = row['altcommonNames']
+        if isinstance(alt_names, str):
+            alt_names = [name.strip() for name in alt_names.split(",") if name.strip() != common_name]
+            #alt_names = list(set(alt_names))
+            if len(alt_names) == 0:
+                alt_names = np.nan
+            else:
+                # join list to create comma-separated string
+                alt_names = ", ".join(alt_names)
+            df.at[idx, 'altcommonNames'] = alt_names
+        else:
+            df.at[idx, 'altcommonNames'] = np.nan
+
+    return df
+
 
 def merge_df_and_vul(df,vul):
     # Merge the two DataFrames on the "internalTaxonId" column using a left join
@@ -126,6 +143,11 @@ syn_cleaned = group_synonyms(syn_cleaned)
 
 df = merge_df_and_synonyms(df,syn_cleaned)
 
+df = remove_duplicates(df)
+
+# Save the new dataframe to a new CSV file
+df.to_csv(cleaned_csv, index=False)
+
 vul = pd.read_csv(assessment_csv, usecols=["internalTaxonId","redlistCategory","assessmentDate" ,"populationTrend","yearLastSeen"])
 
 df = merge_df_and_vul(df,vul)
@@ -148,5 +170,5 @@ df.insert(8, 'yearLastSeen', df.pop('yearLastSeen'))
 # Save the filtered and modified DataFrame to a new csv file.
 df.to_csv(cleaned_and_vulnerability_csv, index=False)
 
-print(df.loc[df["scientificName"]=="Accipiter brachyurus"])
+print(df.loc[df["scientificName"]=="Accipiter imitator"])
 

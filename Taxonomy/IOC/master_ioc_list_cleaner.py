@@ -32,6 +32,8 @@ def clean_master_ioc_list_xlsx(input_file, output_file):
     # Rename column "Species (English)" to "Common Name"
     df = df.rename(columns={'Species (English)': 'Common Name'})
 
+    df = df[~df['Species (Scientific)'].str.contains('†')]
+
     # Write the processed DataFrame to a new xlsx file
     df.to_csv(output_file, index=False)
 
