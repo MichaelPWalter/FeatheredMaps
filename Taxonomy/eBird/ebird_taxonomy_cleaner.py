@@ -28,6 +28,6 @@ def clean_eBird_taxonomy_csv(input_file, output_file):
     # Write the filtered DataFrame to a new csv
     df.to_csv(output_file, index=False)
 
-eBird_taxonomy_file = "eBird_Taxonomy/ebird_taxonomy_v2022.csv"
+eBird_taxonomy_file = "Taxonomy/eBird/ebird_taxonomy_v2022.csv"
 
 clean_eBird_taxonomy_csv(eBird_taxonomy_file,eBird_taxonomy_file.split(".csv")[0] + "_cleaned.csv")

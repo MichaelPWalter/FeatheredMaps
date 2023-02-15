@@ -1,10 +1,16 @@
 import pandas as pd
+import zipfile as zip
+import shutil
 
-common_names_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\common_names.csv"
-synonyms_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\synonyms.csv"
-assessment_csv = r"IUCN_Redlist_taxonomy\redlist_species_data_2023_02_05\assessments.csv"
 
-output_file = "IUCN_Redlist_taxonomy_cleaned_and_vulnerability.csv"
+
+path_to_zip_file = "Taxonomy/IUCN/redlist_species_data_2023_02_05.zip"
+unzipped_dir = "Taxonomy/IUCN/redlist_species_data_2023_02_05/"
+common_names_csv = "Taxonomy/IUCN/redlist_species_data_2023_02_05/common_names.csv"
+synonyms_csv = "Taxonomy/IUCN/redlist_species_data_2023_02_05/synonyms.csv"
+assessment_csv = "Taxonomy/IUCN/redlist_species_data_2023_02_05/assessments.csv"
+cleaned_csv = "Taxonomy/IUCN/IUCN_Redlist_taxonomy_cleaned.csv"
+cleaned_and_vulnerability_csv = "Taxonomy/IUCN/IUCN_Redlist_taxonomy_cleaned_and_vulnerability.csv"
 
 
 def remove_other_languages(DataFrame):
@@ -73,14 +79,14 @@ def group_synonyms(DataFrame):
     # into a comma-separated string. For the "internalTaxonId" column, keep the first value for each group. Finally, reset the index.
     DataFrame = DataFrame.groupby("scientificName").agg({'Synonym': lambda x: ', '.join(x)}).reset_index()
 
-    # Save the new dataframe to a new CSV file
-    DataFrame.to_csv("vulnerability\\synonym_cleaned.csv", index=False)
-
     return DataFrame
 
 def merge_df_and_synonyms(df,syn):
     # Merge the two DataFrames on the "scientificName" column using a left join
     df = pd.merge(df, syn, on='scientificName', how='left')
+    
+    # Save the new dataframe to a new CSV file
+    df.to_csv(cleaned_csv, index=False)
 
     return df
 
@@ -90,6 +96,15 @@ def merge_df_and_vul(df,vul):
     df["assessmentDate"] = pd.to_datetime(df["assessmentDate"]).dt.strftime("%Y")
 
     return df
+
+
+#unzip the zip file into an equally names folder
+try:
+    with zip.ZipFile(path_to_zip_file, 'r') as zip_ref:
+        zip_ref.extractall(unzipped_dir)
+    Created_temp_folder = True
+except:
+    print(Exception)
 
 # Read the input csv file into a pandas DataFrame
 
@@ -115,6 +130,9 @@ vul = pd.read_csv(assessment_csv, usecols=["internalTaxonId","redlistCategory","
 
 df = merge_df_and_vul(df,vul)
 
+if Created_temp_folder == True:
+    shutil.rmtree(unzipped_dir)
+
 # Insert the "maincommonName" column at position 2 and the "altcommonNames" column at position 3
 df.insert(0, 'internalTaxonId', df.pop('internalTaxonId'))
 df.insert(1, 'scientificName', df.pop('scientificName'))
@@ -128,7 +146,7 @@ df.insert(8, 'yearLastSeen', df.pop('yearLastSeen'))
 
 
 # Save the filtered and modified DataFrame to a new csv file.
-df.to_csv(output_file, index=False)
+df.to_csv(cleaned_and_vulnerability_csv, index=False)
 
 print(df.loc[df["scientificName"]=="Accipiter brachyurus"])
 

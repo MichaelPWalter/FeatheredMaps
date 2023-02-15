@@ -36,6 +36,6 @@ def clean_master_ioc_list_xlsx(input_file, output_file):
     df.to_csv(output_file, index=False)
 
 
-IOC_taxonomy_file = "IOC_World_Bird_List/master_ioc_list_v13.1.xlsx"
+IOC_taxonomy_file = "Taxonomy/IOC/master_ioc_list_v13.1.xlsx"
 
 clean_master_ioc_list_xlsx(IOC_taxonomy_file,IOC_taxonomy_file.split(".xlsx")[0] + "_cleaned.csv")
