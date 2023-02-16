@@ -30,13 +30,10 @@ Unmatched_df =merged_df[merged_df["IUCN_Species_Code"].isna()].copy()
 merged_df.dropna(subset=["IUCN_Species_Code"], inplace=True)
 
 
-
-
-
 # Iterate over all rows in Unmatched_df
 for _, row in Unmatched_df.iterrows():
     # Iterate over all columns that contain "_common_name" but not "IUCN_common_name"
-    for col in [c for c in merged_df.columns if '_common_name' in c and c != 'IUCN_common_name']:
+    for col in [c for c in merged_df.columns if ('_common_name' in c and c != 'IUCN_common_name') or ('_Species_Code' in c and c != 'IUCN_Species_Code')]:
         # Check for matches between scientificName and Synonym and copy matching common names
         mask = merged_df['Synonym'].str.contains(row['scientificName'], na=False)
         if mask.any():
