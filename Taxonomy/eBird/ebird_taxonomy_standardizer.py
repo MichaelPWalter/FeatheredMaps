@@ -12,6 +12,7 @@ def standardize_eBird_taxonomy_csv(input_file):
 
     # Write the filtered DataFrame to a new csv
     df.to_csv(eBird_taxonomy_file.split("_cleaned")[0] + "_standardized.csv", index=False)
+    df.to_csv("Information/birdsoftheworld_org/"+eBird_taxonomy_file.split("/")[-1].split("_cleaned")[0] + "_standardized.csv", index=False)
 
 
 eBird_taxonomy_file = "Taxonomy/eBird/ebird_taxonomy_v2022_cleaned.csv"
