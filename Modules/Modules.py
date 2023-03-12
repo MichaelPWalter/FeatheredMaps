@@ -10,3 +10,5 @@ update_pip()
 
 # Replace 'requests' with any other package you want to install
 install('requests')
+install("pandas")
+install("rasterio")
