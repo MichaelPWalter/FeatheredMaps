@@ -13,7 +13,7 @@ def login(driver):
 
     # Define your credentials
     username= input("eBird Username: ")
-    password= input("eBird Password")
+    password= input("eBird Password: ")
 
     # Navigate to the login page
     driver.get("https://secure.birds.cornell.edu/cassso/login?service=https%3A%2F%2Fbirdsoftheworld.org%2Flogin%2Fcas")
@@ -64,10 +64,13 @@ for i, row in df.iterrows():
     species_code = row['eBird_Species_Code']
     
     # Construct the URL for the species page
-    driver.get(f"https://birdsoftheworld.org/bow/species/{species_code}/cur/introduction")
-
+   # driver.get(f"https://birdsoftheworld.org/bow/species/{species_code}/cur/introduction")
+    driver.get(f"https://birdsoftheworld.org/bow/species/hudgod/cur/introduction")
     # Wait for page to load
     driver.implicitly_wait(10)
+
+    ["introduction","identification"]
+
 
     # Find all paragraphs with class 'u-stack-lg u-text-4-loose u-article'
     paragraphs = driver.find_elements(By.CLASS_NAME, 'u-stack-lg.u-text-4-loose.u-article')
