@@ -17,7 +17,7 @@ params = {
         'type': 'and',
         'predicates': [
             {'type': 'equals', 'key': 'TAXON_KEY', 'value': '212'},
-            {'type': 'equals', 'key': 'BASIS_OF_RECORD', 'value': 'HUMAN_OBSERVATION'},
+            #{'type': 'equals', 'key': 'BASIS_OF_RECORD', 'value': 'HUMAN_OBSERVATION'},
             {'type': 'equals', 'key': 'HAS_COORDINATE', 'value': 'true'},
             {'type': 'greaterThanOrEquals', 'key': 'YEAR', 'value': '2000'},
             #{'type': 'equals', 'key': 'YEAR', 'value': '2000'},
@@ -27,13 +27,16 @@ params = {
 }
 
 # Define the authentication credentials
-auth = ('erdenfeuer', 'Karpador1234')
+username = input("GBIF_Username: ")
+password = input("GBIF_Password: ")
+auth = (username,password)
 
 # Define the headers
 headers = {
     'Content-Type': 'application/json'
 }
-""" 
+
+ 
 # Send the download request and retrieve the download key
 response = requests.post(api_url, json=params, auth=auth, headers=headers)
 
@@ -48,11 +51,9 @@ else:
     print('Failed to initiate download')
     print(response.content)
 
- """
 # Check the download status
-#download_status_url = f'{api_url}/{download_key}'
-#status_url = f'https://api.gbif.org/v1/occurrence/download/{download_key}'
-status_url = f'https://api.gbif.org/v1/occurrence/download/0079863-230224095556074'
+status_url = f'https://api.gbif.org/v1/occurrence/download/{download_key}'
+#status_url = f'https://api.gbif.org/v1/occurrence/download/0079863-230224095556074'
 
 while True:
     response = requests.get(status_url)
@@ -67,7 +68,7 @@ while True:
                  file_size = int(response.headers['Content-Length'])
             print(f"File size: {round(file_size / (1024 * 1024), 2)} Megabytes")
             print("Downloading...")
-            urllib.request.urlretrieve(download_url, 'occurrences.zip')
+            urllib.request.urlretrieve(download_url, 'GPS/occurrences.zip')
             break
         elif download_status == 'PREPARING' or download_status == 'RUNNING':
             print(f'Download status: {download_status}')
