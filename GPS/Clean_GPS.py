@@ -16,7 +16,7 @@ params = {
 filename = "GPS/Galápagos.csv"
 header_written = False
 
-offset = 10000
+offset = 100000
 page_number = 1
 unique_species = set()
 results_list = []
