@@ -16,6 +16,7 @@ Packages = [
 #"rasterio",
 #"matplotlib",
 "ipyleaflet"
+"tqdm"
 ]
 
 install(Packages)
