@@ -15,6 +15,18 @@ def download_url(url, output_path):
     with DownloadProgressBar(unit='B', unit_scale=True,miniters=1, desc=url.split('/')[-1]) as t:
         urllib.request.urlretrieve(url, filename=output_path, reporthook=t.update_to)
 
+def make_anticlockwise(coords):
+    # Calculate the area using the Shoelace Formula
+        area = 0
+        for i in range(len(coords)):
+            j = (i + 1) % len(coords)
+            area += coords[i][0] * coords[j][1] - coords[j][0] * coords[i][1]
+
+        # If the area is negative, the polygon is oriented clockwise
+        if area < 0:
+            coords.reverse()
+
+        return coords
 
 # Define the authentication credentials
 if input("Do you have a download key yet ?  y/n: ").lower() == "y":
@@ -32,7 +44,7 @@ else:
 
     # Define the polygon WKT
 
-    coords = [
+    coords = make_anticlockwise([
       [
         -9.970093,
         29.386962
@@ -53,7 +65,10 @@ else:
         -9.970093,
         29.386962
       ]
-    ]
+    ])
+
+    
+
     #polygon_wkt = "POLYGON((-92.4582030 2.2909974, -92.4032648 -1.7612783, -87.4478408 -1.8491081, -87.6785812 2.2470951, -92.4582030 2.2909974))"
     polygon_wkt = "POLYGON((" + ",".join([f"{coord[0]} {coord[1]}" for coord in coords]) + "))"
 
@@ -70,7 +85,7 @@ else:
                 {'type': 'equals', 'key': 'TAXON_KEY', 'value': '212'},
                 #{'type': 'equals', 'key': 'BASIS_OF_RECORD', 'value': 'HUMAN_OBSERVATION'},
                 {'type': 'equals', 'key': 'HAS_COORDINATE', 'value': 'true'},
-                {'type': 'greaterThanOrEquals', 'key': 'YEAR', 'value': '1970'},
+                {'type': 'greaterThanOrEquals', 'key': 'YEAR', 'value': '2000'},
                 #{'type': 'equals', 'key': 'YEAR', 'value': '2000'},
                 {'type': 'within', 'geometry': polygon_wkt}
             ]
