@@ -1,0 +1,467 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1735782359,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,3,2016
+2181340113,Ardea alba,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,5,2018
+3201316605,Ardea alba,MA,MA-Kenitra (Sidi-Boughaba),Gharb-Chrarda-Beni Hssen,1,34.25219,-6.665501,7,4,2016
+3044670050,Ardea alba,MA,,Doukkala - Abda,1,32.782424,-8.975902,10,2,2021
+2838413721,Ardea alba,MA,Morocco - Larache,,1,35.170296,-6.099987,14,5,2012
+1767852301,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,10,2016
+2761400122,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+3291197804,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2010
+3621716247,Ardea alba,EH,Dait Um Saad,Western Sahara,3,27.163877,-13.190495,17,10,2021
+2150735934,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2018
+2058440819,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+3665218609,Ardea alba,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,1,2021
+1411491419,Ardea alba,MA,Barrage El Mansour - Est,Sous-Massa-Draa,1,30.96676,-6.722485,1094,4,2013
+3295613456,Ardea alba,MA,PN Merdja Zerka,Gharb-Chrarda-Beni Hssen,2,34.821304,-6.297861,9,4,2008
+3533006827,Ardea alba,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,1,2013
+966895496,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+3220329398,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,1,2020
+1788108918,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2009
+3642768855,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2131471136,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,1,2014
+1734776822,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,3,2016
+2223395160,Ardea alba,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,12,2018
+2655934484,Ardea alba,MA,Barrage Sfissef,L'Oriental,1,32.33611,-1.345496,989,1,2019
+1401945952,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,8,33.65042,-5.029721,1470,12,2015
+2176421110,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,12,2012
+3210830580,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,10,2007
+3206668276,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2010
+2789005474,Ardea alba,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+2695184842,Ardea alba,MA,Fès--Médina,Fès-Boulemane,2,34.0637,-4.978293,345,8,2019
+2715978696,Ardea alba,MA,Plaines de Zaida,Meknès-Tafilalet,2,32.791946,-4.944277,1483,10,2019
+2781500368,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,12,2019
+3268449953,Ardea alba,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,12,2017
+1401724271,Ardea alba,MA,"Oued Loukkos, flooded fields",Tanger-Tétouan,1,35.147285,-6.071362,14,12,2015
+3201904048,Ardea alba,MA,Oued Chbika,Guelmim-Es Smara,1,28.290892,-11.531591,0,11,2011
+3207633989,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2011
+3571148236,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2013
+1205158689,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+1734928754,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2016
+1718046673,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+3288030702,Ardea alba,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+1730394505,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2016
+1384251970,Ardea alba,MA,Dar Maktoub,Sous-Massa-Draa,2,30.358604,-9.565653,13,8,2015
+1719998398,Ardea alba,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9659x-6.7561,Sous-Massa-Draa,1,30.96592,-6.756087,1111,3,2016
+2725682710,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2010
+1743165692,Ardea alba,MA,Maccra,Marrakech-Tensift-Al Haouz,1,32.644108,-7.800207,189,3,2016
+2725890908,Ardea alba,MA,Merja Bargha,Tanger-Tétouan,2,35.016563,-6.208759,15,3,2016
+3232847655,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,2,2020
+2707261617,Ardea alba,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,6,2019
+2080609469,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2017
+3236718833,Ardea alba,MA,Oued Draa--Tansikht,Sous-Massa-Draa,1,30.686808,-6.192155,854,1,2020
+2668040810,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2019
+3526175592,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,2,2021
+2100596358,Ardea alba,MA,"Salines de Oualidia, MA (32.783, -8.973)",Doukkala-Abda,1,32.78251,-8.973179,9,12,2017
+1719804299,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+3539152552,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,11,2013
+3202187119,Ardea alba,MA,Tamri lagune,Sous-Massa-Draa,1,30.7051,-9.8451,10,11,2011
+3219410734,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,2,2020
+2150442555,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2018
+2066738487,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+2699980429,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,2,35.195835,-6.111832,7,9,2019
+2097163238,Ardea alba,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2017
+1369144056,Ardea alba,MA,Sidi Moussa,Doukkala-Abda,1,32.996655,-8.730032,7,5,2015
+2679017581,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2019
+2742766353,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,2,2018
+3283772994,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2009
+2761569465,Ardea alba,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,3,2019
+2107375699,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,1,2018
+3205955553,Ardea alba,MA,MA-Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,3,34.86416,-6.240557,7,4,2016
+2170068145,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2018
+2734591114,Ardea alba,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,12,2011
+2154299710,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+1735175522,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2016
+2726795576,Ardea alba,MA,Maccra,Marrakech-Tensift-Al Haouz,1,32.644108,-7.800207,189,3,2016
+2123886795,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+3578522502,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+3228127346,Ardea alba,MA,N9 road (dump),Marrakech-Tensift-Al Haouz,1,31.55241,-7.665955,675,2,2020
+2787995710,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2017
+2164186462,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2007
+2122136589,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2013
+1737174928,Ardea alba,MA,Oued Massa reserve,Sous-Massa-Draa,1,30.10333,-9.569435,74,5,2016
+2787065765,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2008
+3189973623,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+3210359727,Ardea alba,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,10,2011
+1726399878,Ardea alba,MA,Draa valley,Sous-Massa-Draa,1,30.710432,-6.589147,1607,3,2016
+2796059472,Ardea alba,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,2,2017
+2741496104,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2005
+2843749457,Ardea alba,MA,Morocco - Laouamra,,1,35.155283,-6.106051,12,2,2017
+2835443857,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,1,35.137316,-6.060615,16,1,2007
+2834685894,Ardea alba,MA,Morocco - Marais de El Otba,,1,32.920196,-8.810048,12,6,2014
+3731484643,Ardea alba,MA,Morocco - Lagune de Khnifiss,,1,28.030344,-12.284986,0,9,2021
+2836258373,Ardea alba,MA,Morocco - Larache,,1,35.172507,-6.109858,15,3,2016
+2838676331,Ardea alba,MA,Morocco - Laouamra,,1,35.156936,-6.09891,13,3,2010
+2660812703,Ardea alba,MA,Barrage El Mansour Edhabbi,Sous-Massa-Draa,1,30.91277,-6.853054,1099,3,2019
+3603940790,Ardea alba,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,9,2021
+2789429727,Ardea alba,MA,"14302, Kénitra MA-Gharb-Chrarda-Béni Hssen (34.8461,-6.2392)",Gharb-Chrarda-Beni Hssen,1,34.846115,-6.239227,8,9,2019
+2832219085,Ardea alba,MA,Morocco - Oued Massa,,1,30.031464,-9.644651,9,4,2011
+1179128059,Ardea alba,MA,"Oued Massa delta, Sous-Massa National Park",Sous-Massa-Draa,1,30.079716,-9.669514,10,1,2014
+2836001821,Ardea alba,MA,Morocco - Laouamra,,1,35.152967,-6.103562,14,3,2015
+2838987233,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,5,32.921169,-8.809104,0,5,2012
+2838717424,Ardea alba,MA,Morocco - Tanger - Tétouan,,2,35.207197,-6.120071,10,2,2003
+3644648885,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,9,2021
+2700220575,Ardea alba,MA,Plaines de Zaida,Meknès-Tafilalet,2,32.791946,-4.944277,1483,10,2019
+1743165318,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2016
+2782971940,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2019
+2797479060,Ardea alba,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2010
+1187140537,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+1755327910,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,7,2016
+3211229555,Ardea alba,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,2,2012
+1357069909,Ardea alba,MA,Riad le J,Marrakech-Tensift-Al Haouz,1,31.629908,-7.986607,466,4,2015
+3684821095,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2790226419,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2019
+2798782560,Ardea alba,MA,Embasament Ouarzazate,Sous-Massa-Draa,1,30.917,-6.834,1093,11,2008
+3508171050,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,2,2021
+2766894688,Ardea alba,MA,Morocco,Tadla-Azilal,1,31.857,-6.1808,2357,10,2017
+2795762502,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2008
+1721146566,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2016
+2204690929,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2018
+3284778281,Ardea alba,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,11,2010
+2209791347,Ardea alba,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2018
+2125794610,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,1,2018
+2177062070,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2018
+2208127825,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2018
+3212996452,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,10,2007
+1791455500,Ardea alba,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,5,2012
+2209347458,Ardea alba,MA,"A1, Casablanca-Settat, MA (33.033, -8.533)",Doukkala-Abda,2,33.032597,-8.533273,99,12,2018
+2158612907,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2018
+941747257,Ardea alba,MA,MA-Meknès-Tafilalet - 31.2054x-4.3152 - 13 déc. 2012 13:00,Meknès-Tafilalet,2,31.20544,-4.315233,734,12,2012
+3294077221,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,12,2012
+3573752891,Ardea alba,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,9,2013
+1719516313,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+3135706395,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2020
+3649071132,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,1,2013
+2802078847,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2018
+2114173623,Ardea alba,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,2,32.99642,-8.731345,7,12,2017
+2746323878,Ardea alba,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+3140672620,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,2,2020
+3667329760,Ardea alba,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,1,2021
+3265666895,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+1355808906,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+3665054965,Ardea alba,MA,Al Ujun - Ceuta road,Tanger-Tétouan,1,35.429855,-5.392476,202,7,2006
+1735772662,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,3,2016
+2135905457,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,2,2018
+1724014743,Ardea alba,MA,Merja Bargha,Tanger-Tétouan,2,35.016563,-6.208759,15,3,2016
+2727727758,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2019
+2209937525,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2011
+2744533005,Ardea alba,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,4,2019
+2056253189,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+3228552707,Ardea alba,MA,"N10, Kalaat M'Gouna, Drâa-Tafilalet, MA (31,228, -6,14)",Sous-Massa-Draa,1,31.228285,-6.140334,1419,3,2020
+2079699109,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+2123836274,Ardea alba,MA,Draa Valley,Marrakech-Tensift-Al Haouz,3,31.636658,-8.020604,445,2,2013
+3240002007,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,1,2020
+3135811224,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,2,2020
+2785850047,Ardea alba,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,12,2019
+3208112969,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,12,2012
+2720909719,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2016
+2750129228,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2019
+1787852849,Ardea alba,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,1,2013
+3508546025,Ardea alba,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+2763025440,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2011
+3270474711,Ardea alba,MA,MA-Mohammedia (Remnat Marsh),Grand Casablanca,2,33.667343,-7.44665,8,4,2019
+2752313024,Ardea alba,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,3,30.28438,-9.580526,24,4,2014
+3181817741,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,7,35.152462,-6.102734,13,11,2009
+1779763404,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,11,2016
+3300246728,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+2794125434,Ardea alba,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,11,2019
+3135141968,Ardea alba,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,1,2020
+1201806617,Ardea alba,MA,Marismas al lado de la carretera a su paso por la ciudad,Tanger-Tétouan,3,35.560493,-5.360706,10,1,2011
+2219337416,Ardea alba,MA,"Beach alongside N1 northwest of Taghazout (30.5733,-9.7461)",Sous-Massa-Draa,1,30.57329,-9.746149,15,11,2018
+2128512319,Ardea alba,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,1,2018
+3682997176,Ardea alba,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,2,31.50961,-9.773447,12,3,2021
+2209745074,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,10,2018
+2183003585,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,6,2018
+1717858211,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+2768027448,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+3277684732,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,11,2011
+2832468315,Ardea alba,MA,Morocco - Sidi Ouassay,,1,30.005358,-9.655865,8,1,2014
+2832257499,Ardea alba,MA,Morocco - Oued Sous,,6,30.365544,-9.603467,8,11,2011
+1772911831,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2012
+3674144034,Ardea alba,MA,مرجة الحلوفة | Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.96267,-6.244043,11,3,2019
+3137671010,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2020
+577000019,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2011
+2766131750,Ardea alba,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,12,2014
+2099157289,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+1726570324,Ardea alba,MA,Maccra,Marrakech-Tensift-Al Haouz,1,32.644108,-7.800207,189,3,2016
+2115793503,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2014
+967576614,Ardea alba,MA,"Lukos River, Morocco",Gharb-Chrarda-Beni Hssen,1,34.854576,-6.215461,6,9,2013
+2085940076,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+575840099,Ardea alba,MA,Agadir to Essaouira,Marrakech-Tensift-Al Haouz,1,31.11174,-9.825897,194,6,2005
+1719804230,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+1735385818,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2016
+3287917151,Ardea alba,MA,Dayet Aoua,Meknès-Tafilalet,3,33.654556,-5.04175,1470,4,2016
+2664875438,Ardea alba,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2015
+1786431527,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,1,2011
+3265312091,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,4,2003
+3562086907,Ardea alba,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,1,2013
+2230069954,Ardea alba,MA,"86356, Ait Melloul MA-Souss-Massa-Drâa (30.3636,-9.6042)",Sous-Massa-Draa,1,30.36364,-9.60422,6,1,2014
+2216955067,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,10,2018
+3200534926,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+2121441176,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2014
+2725541833,Ardea alba,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+3670030811,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2212023515,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2018
+2800628177,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2210007708,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2016
+2838353658,Ardea alba,MA,Morocco - Plaines du Maroc Oriental\n,,15,34.617923,-2.926143,209,2,2012
+2838510947,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.166226,-6.107883,8,3,2011
+2836191034,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.95229,-6.797847,1097,1,2017
+2833385109,Ardea alba,MA,Morocco - Oualidia,,1,32.768986,-8.985232,46,11,2018
+2840504870,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,1,30.365596,-9.601622,6,12,2010
+2832695276,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,2,30.9098,-6.8629,1113,2,2016
+2835542082,Ardea alba,MA,Morocco - Laouamra,,1,35.147424,-6.100159,7,9,2013
+3294994259,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2012
+1194459166,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,10,2014
+2835610953,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,4,35.163214,-6.102895,17,5,2010
+2121273012,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,1,2018
+2772292224,Ardea alba,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,1,2017
+2838509794,Ardea alba,MA,Morocco - Larache,,1,35.174771,-6.112108,13,4,2012
+2835743277,Ardea alba,MA,Morocco - Laouamra,,1,35.01507,-6.213738,14,11,2012
+2838633551,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.243524,-6.670874,7,3,2013
+2841117997,Ardea alba,MA,Morocco - Ouarzazate,,1,30.912768,-6.901884,1108,3,2018
+3172717077,Ardea alba,MA,Hotel Sofitel,Grand Casablanca,1,33.597836,-7.614061,32,1,2019
+2835813444,Ardea alba,MA,Morocco - Larache,,1,35.187487,-6.130513,8,1,2014
+2832829676,Ardea alba,MA,Morocco - Dayet Aoua,,4,33.649255,-5.030422,1470,3,2016
+921522240,Ardea alba,MA,Stausee El Mansour bei Ouarzazate / Marokko,,1,30.94228,-6.780281,1093,12,2012
+2129359502,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2843089060,Ardea alba,MA,Morocco - Agadir,,1,30.362572,-9.575554,7,1,2017
+2838227939,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,1,30.424632,-8.916635,201,2,2011
+2836185713,Ardea alba,MA,Morocco - Agadir,,1,30.36372,-9.592175,15,1,2018
+2838635212,Ardea alba,MA,Morocco - Sidi Ouassay,,1,30.056911,-9.652863,32,12,2013
+2840667681,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.173897,-6.106965,9,3,2012
+2840153380,Ardea alba,MA,Morocco - Sidi Ouassay,,1,30.027717,-9.646285,9,3,2014
+2844502877,Ardea alba,MA,Morocco - Larache,,1,35.195835,-6.111832,7,4,2018
+3415822232,Ardea alba,MA,,Taza - Al Hoceima - Taounate,1,35.190368,-3.819175,9,11,2020
+921513077,Ardea alba,MA,Stausee El Mansour bei Ouarzazate / Marokko,,1,30.94228,-6.780281,1093,12,2008
+2838513700,Ardea alba,MA,Morocco - Oualidia,,2,32.763816,-9.009476,9,2,2012
+2841838405,Ardea alba,MA,Morocco - Laouamra,,1,35.144142,-6.082506,9,1,2019
+2839570417,Ardea alba,MA,Morocco - Laouamra,,1,35.157635,-6.105795,3,1,2014
+2838630516,Ardea alba,MA,Morocco - Agadir,,1,30.368506,-9.599648,11,4,2013
+3823481092,Ardea alba,MA,Morocco - Larache,,1,35.172049,-6.108427,12,4,2022
+2844981543,Ardea alba,MA,Morocco - Oualidia,,1,32.726631,-9.049973,9,5,2019
+2839915524,Ardea alba,MA,Morocco - Oued Hachef et Mharhar,,2,35.628651,-5.917082,11,12,2011
+3826066323,Ardea alba,MA,Morocco - Laouamra,,6,35.152012,-6.097353,12,4,2022
+2832388457,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.173317,-6.104622,9,11,2011
+2131417400,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2018
+1385359652,Ardea alba,MA,Oued Loukos,Tanger-Tétouan,2,35.2131,-6.1211,0,12,2009
+2218052696,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2018
+2713355229,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,12,2019
+2177230394,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2018
+3267092186,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2169067885,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,12,2012
+2209874228,Ardea alba,ES,"N-362, Ceuta, Ceuta, ES (35,915, -5,369)",Ceuta,1,35.915455,-5.368665,64,12,2018
+2142335730,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2018
+2784657270,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3578598491,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,12,2012
+3576539952,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2056216436,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2801711791,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,1,2012
+3194885408,Ardea alba,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+2789328519,Ardea alba,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,11,2019
+2048258421,Ardea alba,MA,merja zerga,Gharb-Chrarda-Beni Hssen,2,34.878242,-6.284725,24,3,2017
+2771927781,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,4,2016
+3273335409,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+1793176203,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2012
+2727117197,Ardea alba,MA,Oued Draa - Draa Valley | Passage,Guelmim-Es Smara,1,28.554478,-11.050788,11,4,2012
+2228600790,Ardea alba,MA,Plage blanche,Guelmim-Es Smara,1,28.964767,-10.604475,28,11,2018
+3224720435,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2020
+2107205549,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,12,2014
+1394827456,Ardea alba,MA,"Embouchure de l'Oued Souss, Agadir, Maroc - je MA-Souss-Massa-Drâa-Inezgane Ait Melloul-86356 - 30.3628x-9.5866",Sous-Massa-Draa,1,30.362787,-9.586561,7,7,2015
+2135164864,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+2181590398,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2013
+3293429429,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2009
+3538606202,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2163125287,Ardea alba,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,4,2018
+3300705376,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2224518680,Ardea alba,MA,"Marrakech, MA (31,686, -7,975)",Marrakech-Tensift-Al Haouz,1,31.686314,-7.97461,402,11,2018
+3204510401,Ardea alba,MA,Barrage Sidi Chahed,Meknès-Tafilalet,1,34.04804,-5.322833,257,1,2019
+3543673636,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2020
+3183556548,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+3655170579,Ardea alba,MA,North of Fask,Guelmim-Es Smara,1,28.98841,-9.825652,349,4,2021
+1735177621,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2016
+3268733450,Ardea alba,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,11,2020
+1778501244,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,12,2016
+2799180017,Ardea alba,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,1,2012
+1194452208,Ardea alba,MA,Oued Loukos--Tamarisk Roost,Tanger-Tétouan,2,35.154724,-6.092777,13,10,2014
+2702887458,Ardea alba,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+1183443607,Ardea alba,MA,Tamri area,Sous-Massa-Draa,1,30.7089,-9.854,12,2,2012
+2794770799,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2118724290,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,11,2002
+1743164612,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+3600613834,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,2,2013
+2663250561,Ardea alba,MA,MA—Lake Merzouga,Meknès-Tafilalet,1,31.105577,-4.052028,688,3,2019
+1724001813,Ardea alba,MA,Merja Bargha,Tanger-Tétouan,2,35.016563,-6.208759,15,3,2016
+2138733373,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2018
+3293152207,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2002
+3210388028,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2007
+2692940334,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2677662535,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,4,2019
+1791458872,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2005
+1725989640,Ardea alba,MA,MA-طنجة تطوان-Tangier-Avenue Mohammed VI - 35.7787x-5.8004,Tanger-Tétouan,1,35.77871,-5.800375,12,4,2016
+2753530966,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2019
+2743347081,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+3662340995,Ardea alba,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,4,2006
+2711154586,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2019
+1793981314,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,10,2016
+2654761840,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2019
+1721189984,Ardea alba,MA,Oued Ourika Stream Bed,Marrakech-Tensift-Al Haouz,2,31.580648,-7.797482,527,2,2016
+2101815839,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2014
+1394813685,Ardea alba,MA,"Embouchure de l'Oued Souss, Agadir, Maroc - je MA-Souss-Massa-Drâa-Inezgane Ait Melloul-86356 - 30.3628x-9.5866",Sous-Massa-Draa,1,30.362787,-9.586561,7,7,2015
+1750253309,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+3288094631,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2016
+3282278666,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2713578768,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+2737174255,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+2141842084,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2018
+3172747829,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+2088902997,Ardea alba,MA,"Doukkala-Abda, MA (32.997, -8.731)",Doukkala-Abda,2,32.99735,-8.730656,8,10,2017
+2100744420,Ardea alba,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,10,2017
+2717069346,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+1726308263,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2016
+2732783239,Ardea alba,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+3288281470,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2010
+2110454077,Ardea alba,MA,Near Hassan II Mosque,Grand Casablanca,1,33.606213,-7.633127,9,9,2017
+2755563488,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+3547131503,Ardea alba,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,9,2021
+2207418429,Ardea alba,MA,Plage blanche,Guelmim-Es Smara,1,28.964767,-10.604475,28,11,2018
+3199942987,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,12,2012
+2668683780,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2019
+2230806687,Ardea alba,MA,PN Lagune de Mar Chica,L'Oriental,1,35.143166,-2.780504,5,12,2018
+3209567480,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,5,2009
+2051251102,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,3,2017
+2167472855,Ardea alba,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+2656652442,Ardea alba,MA,Barrage Sfissef,L'Oriental,1,32.33611,-1.345496,989,1,2019
+2209029050,Ardea alba,MA,Essaouira Lodge,Marrakech-Tensift-Al Haouz,2,31.511826,-9.635485,174,12,2018
+2665652724,Ardea alba,MA,Port Tanger Med north of Rabat,Gharb-Chrarda-Beni Hssen,1,34.193974,-6.634046,37,4,2019
+2151245735,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2018
+2209744077,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2018
+3651898259,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+3273885464,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2009
+1788955710,Ardea alba,MA,Oued Smir,Tanger-Tétouan,1,35.70255,-5.33778,7,3,2016
+2154633269,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2154103093,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2018
+1735781973,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,3,2016
+2739637951,Ardea alba,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,3,2019
+2204503347,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2016
+3675836209,Ardea alba,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+1208344915,Ardea alba,MA,"33.8911x-5.5629 - Oct 7, 2014, 3:36 PM",Meknès-Tafilalet,1,33.89109,-5.56291,532,10,2014
+1777491331,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,3,2012
+3214758771,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2012
+1183439697,Ardea alba,MA,Oued Massa area,Sous-Massa-Draa,1,30.056,-9.6611,10,2,2012
+3275692314,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2768656479,Ardea alba,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+1719927464,Ardea alba,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9659x-6.7561,Sous-Massa-Draa,1,30.96592,-6.756087,1111,3,2016
+2196574105,Ardea alba,ES,"s/n Av. de España, Ceuta, Ceuta, ES (35,895, -5,328)",Ceuta,2,35.89483,-5.327972,19,10,2018
+3639080996,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+1744721285,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,3,2016
+1744720086,Ardea alba,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2016
+3273191199,Ardea alba,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2012
+3234323054,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2014
+3207154663,Ardea alba,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2016
+1727608956,Ardea alba,MA,MA-طنجة تطوان-Tangier-Avenue Mohammed VI - 35.7787x-5.8004,Tanger-Tétouan,1,35.77871,-5.800375,12,4,2016
+1790256133,Ardea alba,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30,9282,-6,8585)",Sous-Massa-Draa,2,30.928186,-6.858497,1103,1,2004
+3301175400,Ardea alba,MA,"Tamri (30.6992, -9.8206)",Sous-Massa-Draa,1,30.6992,-9.8206,21,2,2010
+1787652339,Ardea alba,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,10,2012
+2835418198,Ardea alba,MA,Morocco - Laouamra,,1,35.157646,-6.102303,10,11,2012
+2832145745,Ardea alba,MA,Morocco - Merja Zerga Parque National,,3,34.816553,-6.299011,9,4,2009
+2839083984,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.177672,-6.085546,9,3,2011
+3997721380,Ardea alba,MA,Morocco - Oulad Yahia Lagraire,,1,30.686478,-6.192214,854,10,2022
+2835583896,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,1,30.694607,-8.150298,692,2,2011
+2839886880,Ardea alba,MA,Morocco - Tanger - Tétouan,,4,35.201987,-6.131316,10,12,2010
+2832995598,Ardea alba,MA,Morocco - Oualidia,,1,32.7769,-8.9766,29,12,2017
+2835837388,Ardea alba,MA,Morocco - Larache,,1,35.1703,-6.106167,16,2,2013
+2783050552,Ardea alba,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2019
+921508872,Ardea alba,MA,Oued Massa / Marokko,,1,30.063412,-9.66475,13,1,2014
+2835617671,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.998377,-8.737412,9,4,2012
+2843020251,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.237918,-6.670074,63,12,2012
+3728198786,Ardea alba,MA,Morocco - Salines de Oualidia,,1,32.781501,-8.976674,8,2,2021
+2838447816,Ardea alba,MA,Morocco - Laouamra,,2,35.153711,-6.102519,3,5,2012
+2836039100,Ardea alba,MA,Morocco - Ouarzazate,,5,30.905783,-6.879777,1118,1,2016
+2835574523,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.871652,-8.869193,10,10,2011
+2835648642,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.15739,-6.104536,3,3,2012
+3686362275,Ardea alba,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2021
+2836481343,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,2,30.913878,-6.859195,1101,2,2016
+3254455740,Ardea alba,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,4,2003
+2835530566,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,1,30.204339,-9.623852,79,4,2010
+2839820491,Ardea alba,MA,Morocco - Laouamra,,1,35.157759,-6.102406,12,3,2016
+2838068415,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,1,30.056168,-9.658184,13,2,2010
+3723265588,Ardea alba,MA,Morocco - Salines de Oualidia,,1,32.782723,-8.97314,9,2,2021
+2838123957,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,1,35.137316,-6.060615,16,4,2007
+2835700211,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.242459,-6.673164,7,12,2012
+2842800882,Ardea alba,MA,Morocco - Ouarzazate,,1,30.912281,-6.898855,1104,3,2018
+2097890765,Ardea alba,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,12,2017
+2833933994,Ardea alba,MA,Morocco - Laouamra,,2,35.154685,-6.099157,9,4,2019
+2838411448,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.139278,-6.077671,13,10,2011
+2840163731,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.920016,-8.809417,8,4,2012
+2837560414,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.922826,-8.803968,0,1,2013
+2833670022,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,2,30.911573,-6.815665,1093,3,2018
+2842630408,Ardea alba,MA,Morocco - Souss - Massa - Draâ,,4,30.360434,-9.586945,10,12,2004
+2839997393,Ardea alba,MA,Morocco - Laouamra,,2,35.162985,-6.107662,9,3,2016
+2838513835,Ardea alba,MA,Morocco - Larache,,1,35.174771,-6.112108,13,4,2012
+2835508409,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,10,35.144817,-6.065026,8,3,2013
+2840151905,Ardea alba,MA,Morocco - Briech - Voie de l'Amérique,,1,35.556222,-5.928157,6,1,2011
+2835759272,Ardea alba,MA,Morocco - Sidi Ouassay,,1,30.060566,-9.658612,14,1,2014
+2840711971,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.159377,-6.106081,3,3,2011
+2840358353,Ardea alba,MA,Morocco - Larache,,1,35.174229,-6.108742,12,11,2012
+2835544837,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,2,35.114433,-6.040742,16,11,2005
+2832538003,Ardea alba,MA,Morocco - Ouarzazate,,3,30.923477,-6.867995,1099,1,2016
+2835616823,Ardea alba,MA,Morocco - Oued Massa,,1,30.001778,-9.649213,10,4,2010
+2832715752,Ardea alba,MA,Morocco - Ouarzazate,,1,30.915645,-6.871028,1111,3,2016
+2837406829,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.24364,-6.670976,7,5,2012
+3995950259,Ardea alba,MA,Morocco - Amerzgane,,1,30.938347,-7.209625,1258,10,2022
+2841834105,Ardea alba,MA,Morocco - Agadir,,1,30.365362,-9.597825,12,11,2015
+2841909755,Ardea alba,MA,Morocco - Larache,,1,35.174771,-6.112108,13,4,2012
+2835678853,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,1,35.240287,-6.113377,72,4,2009
+2832987190,Ardea alba,MA,Morocco - Larache,,1,35.1724,-6.1075,10,12,2016
+2832242226,Ardea alba,MA,Morocco - Laouamra,,1,35.159425,-6.104708,11,12,2012
+2840744873,Ardea alba,MA,Morocco - Laouamra,,2,35.153711,-6.102519,3,5,2012
+2835248410,Ardea alba,MA,Morocco - Merja Zerga Parque National,,3,34.816553,-6.299011,9,4,2009
+2838931703,Ardea alba,MA,Morocco - Larache,,1,35.173219,-6.106944,10,4,2012
+2835699653,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.99689,-8.735513,6,4,2012
+2832308624,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.81115,-8.931198,32,2,2012
+2834955288,Ardea alba,MA,Morocco - Oualidia,,1,32.764104,-9.001923,7,10,2010
+2838659824,Ardea alba,MA,Morocco - Laouamra,,1,35.155221,-6.104251,3,5,2012
+2833532343,Ardea alba,MA,Morocco - Larache,,1,35.172295,-6.109694,14,1,2019
+2841040308,Ardea alba,MA,Morocco - Laouamra,,1,35.152758,-6.09724,11,2,2013
+2835887331,Ardea alba,MA,Morocco - Laouamra,,1,35.15318,-6.089482,8,3,2010
+2835647478,Ardea alba,MA,Morocco - Sidi Yahya Zaer,,1,33.727481,-6.90731,279,4,2013
+2839188056,Ardea alba,MA,Morocco - Oualidia,,1,32.77695,-8.976657,28,1,2020
+2839589353,Ardea alba,MA,Morocco - Dayet Aoua,,6,33.651561,-5.029964,1470,2,2016
+2838524614,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.16849,-6.108377,11,3,2012
+2832439610,Ardea alba,MA,Morocco - Laouamra,,1,35.15367,-6.098614,3,12,2013
+2832571571,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.231159,-6.680653,12,2,2015
+2838330915,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.184863,-6.136606,12,10,2010
+2839046305,Ardea alba,MA,Morocco - Oued Hachef et Mharhar,,1,35.64265,-5.908413,8,12,2012
+2832302670,Ardea alba,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.216633,-6.689515,11,3,2012
+2839785122,Ardea alba,MA,Morocco - Merja Halloufa (Nord de Merja Zerga),,2,34.963337,-6.239548,14,9,2012
+2844857480,Ardea alba,MA,Morocco - Laouamra,,1,35.158091,-6.103592,11,12,2017
+2835763606,Ardea alba,MA,Morocco - Laouamra,,2,35.155776,-6.103849,3,2,2015
+2841982678,Ardea alba,MA,Morocco - Oualidia,,1,32.735828,-9.044915,13,12,2018
+2840840429,Ardea alba,MA,Morocco - Laouamra,,1,35.132614,-6.068593,10,1,2019
+2835547222,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.94839,-6.791954,1107,12,2013
+2832284868,Ardea alba,MA,Morocco - Tanger - Tétouan,,1,35.548989,-5.963259,6,1,2011
+2835594789,Ardea alba,MA,Morocco - Larache,,1,35.174771,-6.112108,13,4,2012
+2832185959,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,1,35.137316,-6.060615,16,9,2006
+2832319227,Ardea alba,MA,Morocco - Laouamra,,1,35.15514,-6.095647,8,9,2013
+2839723180,Ardea alba,MA,Morocco - Laouamra,,2,35.1609,-6.1063,3,12,2016
+2838509770,Ardea alba,MA,Morocco - Sidi Abed,,1,33.011932,-8.717229,12,4,2012
+2835632560,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,4,35.154991,-6.092713,8,1,2012
+2843437172,Ardea alba,MA,Morocco - Dayet Hachlaf,,1,33.55089,-4.999037,1662,12,2013
+2835491279,Ardea alba,MA,Morocco - Sidi Ouassay,,1,30.005293,-9.655873,8,1,2014
+2838521808,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.989463,-8.733981,6,6,2012
+2832315120,Ardea alba,MA,Morocco - Laouamra,,2,35.012326,-6.232954,53,9,2012
+2834351754,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.920016,-8.809417,8,4,2012
+2839200548,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.99689,-8.735513,6,4,2012
+2835608878,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.99689,-8.735513,6,4,2012
+2832162895,Ardea alba,MA,Morocco - Larache (bas loukkos et salines),,5,35.216729,-6.09827,115,10,2007
+2838673107,Ardea alba,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.927674,-6.847593,1101,10,2013
+1720744641,Ardea alba,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2016
+2843460174,Ardea alba,MA,Morocco - Agadir,,1,30.362572,-9.575554,7,1,2017
+2840345917,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,5,35.114433,-6.040742,16,3,2006
+2839362005,Ardea alba,MA,Morocco - Agadir,,1,30.36132,-9.581392,7,9,2015
+2843419926,Ardea alba,MA,Morocco - Salines de Oualidia,,1,32.783863,-8.973397,8,1,2020
+2840757717,Ardea alba,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.16849,-6.108377,11,3,2012
+2832401768,Ardea alba,MA,Morocco - Laouamra,,1,35.157505,-6.104218,12,3,2012
+2835963433,Ardea alba,MA,Morocco - Agadir,,1,30.360507,-9.586829,10,2,2015
+2833333689,Ardea alba,MA,Morocco - Laouamra,,2,35.139072,-6.079828,13,1,2019
+2837452363,Ardea alba,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.911297,-8.821678,14,12,2012

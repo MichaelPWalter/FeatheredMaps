@@ -1,0 +1,631 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1613407932,Coturnix coturnix,ES,Ceuta,Ceuta,1,35.88333,-5.31667,0,4,2007
+2862796715,Coturnix coturnix,MA,Oukaimeden,,2,31.2,-7.866667,2728,7,2003
+2097513729,Coturnix coturnix,MA,Dayat er-Roumi,Rabat-Salé-Zemmour-Zaer,1,33.746502,-6.189523,337,10,2017
+2766301666,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,9,2019
+2660795978,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,3,2019
+2743192945,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2007
+2781103571,Coturnix coturnix,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,2,29.98752,-9.651463,10,3,2018
+1613356178,Coturnix coturnix,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2004
+1613314736,Coturnix coturnix,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,5,2002
+3729948897,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.781501,-8.976674,8,2,2021
+2832263713,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.732386,-6.935543,261,4,2012
+3656184987,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,2,2000
+2848604715,Coturnix coturnix,MA,"Province de Boulemane, Fès-Meknès",,1,33.0017,-4.0965,941,5,2020
+2243774403,Coturnix coturnix,MA,"sidi moussa-oualidia, el jadida, marruecos",,1,32.7617,-8.9017,124,6,2017
+2227281007,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,6,2018
+2698477650,Coturnix coturnix,MA,"(33,0330,-8,6903)",Doukkala-Abda,15,33.03297,-8.690282,38,4,2018
+3507748031,Coturnix coturnix,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+1731608797,Coturnix coturnix,MA,Vallée de Kasbat Ayir,Doukkala-Abda,1,32.710217,-9.064321,8,4,2016
+2049877559,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,3,30.031328,-9.644645,8,3,2017
+3209125208,Coturnix coturnix,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,9,2019
+2189961307,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,32, -7,553)",Marrakech-Tensift-Al Haouz,1,31.319845,-7.552911,2179,6,2018
+3512418855,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,1,2021
+2058916921,Coturnix coturnix,MA,Oued Massa--Ait Lyass,Sous-Massa-Draa,1,29.985569,-9.65754,12,3,2017
+2660759985,Coturnix coturnix,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+1179342699,Coturnix coturnix,MA,Ifrane area,Meknès-Tafilalet,1,33.347736,-5.13937,1927,5,2003
+2684923452,Coturnix coturnix,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,5,2019
+3289922340,Coturnix coturnix,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,2,2016
+3564396483,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2737681427,Coturnix coturnix,MA,Sidi Idriss,Rabat-Salé-Zemmour-Zaer,1,33.87977,-5.950667,227,5,2019
+3511532255,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,14,30.031328,-9.644645,8,4,2021
+3173209971,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+2667778839,Coturnix coturnix,MA,Ait Lyass,Sous-Massa-Draa,1,29.98849,-9.665835,14,3,2019
+825124944,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2001
+1783421195,Coturnix coturnix,MA,Tata,Guelmim-Es Smara,1,29.801624,-7.987704,724,3,2004
+3188414620,Coturnix coturnix,MA,N10--au nord de Toukane Nikar,Meknès-Tafilalet,1,31.754534,-4.837321,1090,2,2020
+1411078091,Coturnix coturnix,MA,R403 lakes,Chaouia-Ouardigha,1,33.7353,-6.933768,252,3,2011
+3548614982,Coturnix coturnix,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,4,33.105087,-7.344983,430,3,2021
+2177541790,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,385, -7,583)",Marrakech-Tensift-Al Haouz,3,31.384592,-7.582766,1640,6,2018
+2124829052,Coturnix coturnix,MA,Ifran,Meknès-Tafilalet,1,33.50574,-5.168068,1521,4,2017
+2768830046,Coturnix coturnix,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,2,35.195835,-6.111832,7,3,2007
+3640775846,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2019
+3281514535,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2008
+3653207979,Coturnix coturnix,MA,Oued Massa,Sous-Massa-Draa,1,30.056507,-9.657324,14,3,2007
+2666401868,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,4,2019
+2667078314,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+2793429081,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,1,2012
+3169395878,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+2102479691,Coturnix coturnix,MA,"Sousdalen, North",Sous-Massa-Draa,1,30.565569,-8.434199,437,2,2017
+2166731415,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,6,2018
+3584601520,Coturnix coturnix,MA,Oued Boukila,Guelmim-Es Smara,1,28.918653,-10.150633,228,2,2008
+3146437422,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,2,34.85138,-6.235814,7,2,2020
+3672650442,Coturnix coturnix,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+1782694316,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2010
+1755327822,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,7,2016
+1410571262,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+3293104277,Coturnix coturnix,MA,Igoudar,Sous-Massa-Draa,3,30.43429,-9.281273,103,7,2010
+1358851519,Coturnix coturnix,MA,Barrage Sidi Chahed,Meknès-Tafilalet,1,34.049316,-5.322214,222,4,2015
+1723994906,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,3,2016
+2727450094,Coturnix coturnix,MA,champs de Sidi el-Abed,Doukkala-Abda,2,33.03592,-8.688996,43,4,2016
+2721234539,Coturnix coturnix,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+3252044335,Coturnix coturnix,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,6,2004
+2687981285,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,3,2019
+3269015606,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+1723988785,Coturnix coturnix,MA,Merja Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9547,-6.251028,21,3,2016
+3250510246,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,2,34.85138,-6.235814,7,2,2020
+2762495147,Coturnix coturnix,MA,Tabeliamout,Meknès-Tafilalet,1,33.265926,-5.073023,1805,6,2019
+2167530143,Coturnix coturnix,MA,Route du Domaine Éxperimentale d'El Koudia,Rabat-Salé-Zemmour-Zaer,1,33.79425,-6.929141,173,5,2018
+1784881860,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2015
+3567649028,Coturnix coturnix,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,1,33.015667,-8.710884,9,12,2018
+2730426945,Coturnix coturnix,MA,"R301, Jemaa Sidi Brahim, Casablanca-Settat, MA (32,89, -8,843)",Doukkala-Abda,1,32.88989,-8.843293,12,3,2019
+2795580082,Coturnix coturnix,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2019
+2125601948,Coturnix coturnix,MA,Larache - Alcácer Quibir,Tanger-Tétouan,2,35.197933,-6.115844,13,5,2013
+2749162988,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,2,2018
+2682112206,Coturnix coturnix,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,1,33.992977,-6.801205,9,4,2019
+3542413041,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2019
+3627607314,Coturnix coturnix,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,4,2013
+2738650136,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,3,2019
+3137716170,Coturnix coturnix,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2020
+2751926171,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+3683055332,Coturnix coturnix,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,3,31.08315,-3.999495,697,6,2009
+1715270025,Coturnix coturnix,MA,Vallée de Kasbat Ayir,Doukkala-Abda,3,32.710217,-9.064321,8,2,2016
+2679127080,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+2181994741,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,372, -7,586)",Marrakech-Tensift-Al Haouz,1,31.371506,-7.58627,1727,6,2018
+2655395407,Coturnix coturnix,MA,"Rabat-Salé-Kénitra, MA (34,816, -6,262)",Gharb-Chrarda-Beni Hssen,1,34.81555,-6.261979,8,1,2019
+2658711367,Coturnix coturnix,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+1789901145,Coturnix coturnix,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2005
+2223919080,Coturnix coturnix,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,1,33.015667,-8.710884,9,12,2018
+2660181151,Coturnix coturnix,MA,Sidi Makhfi,Tanger-Tétouan,2,35.500145,-5.893611,8,2,2019
+3292266799,Coturnix coturnix,MA,Taroudant,Sous-Massa-Draa,2,30.4707,-8.8797,242,3,2006
+1183439778,Coturnix coturnix,MA,Oued Massa area,Sous-Massa-Draa,2,30.056,-9.6611,10,2,2011
+3268773337,Coturnix coturnix,MA,MA-Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,1,34.86416,-6.240557,7,4,2016
+2660046155,Coturnix coturnix,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,2,35.238678,-5.178101,401,3,2019
+2717026349,Coturnix coturnix,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,6,2002
+2787617280,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2007
+2716952330,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,4,2007
+2729509025,Coturnix coturnix,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+2034718665,Coturnix coturnix,MA,Murphy's Meadow,Sous-Massa-Draa,2,30.495962,-8.826635,256,3,2017
+2685325503,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+2042113615,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,4,30.031328,-9.644645,8,2,2017
+3214969691,Coturnix coturnix,MA,Oualidia tidal marshes,Doukkala-Abda,2,32.75977,-9.007502,5,5,2010
+3507191232,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,2,2021
+2146562935,Coturnix coturnix,MA,Route du Domaine Éxperimentale d'El Koudia,Rabat-Salé-Zemmour-Zaer,1,33.79425,-6.929141,173,5,2018
+1177982170,Coturnix coturnix,MA,Vallée d'Imouzzer,Sous-Massa-Draa,1,30.676725,-9.477704,1156,6,2014
+584026708,Coturnix coturnix,MA,"Maroc, Ifrane, après Sidi Abdeslam",Meknès-Tafilalet,1,33.55595,-5.152416,1576,5,2008
+1763564179,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,4,2007
+584205288,Coturnix coturnix,MA,Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.49192,-7.47345,1239,9,2010
+2726007488,Coturnix coturnix,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,12,2011
+2057884834,Coturnix coturnix,MA,Oued Massa--Ait Lyass,Sous-Massa-Draa,1,29.985569,-9.65754,12,3,2017
+1791779242,Coturnix coturnix,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2013
+1786479611,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2015
+2726945633,Coturnix coturnix,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,1,2003
+2119829479,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2018
+2719215953,Coturnix coturnix,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2012
+2128201812,Coturnix coturnix,MA,"Morocco, Oued Massa",Sous-Massa-Draa,3,29.998064,-9.659052,8,4,2017
+2133071701,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,3,29.96278,-9.659664,9,4,2018
+2725621443,Coturnix coturnix,ES,CEUTA (casco urbano),Ceuta,1,35.888165,-5.305654,42,1,2017
+2715878022,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+3562870583,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,6,32.781796,-8.973387,7,3,2019
+2736841620,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+1743876935,Coturnix coturnix,MA,"S. side of Jbel Tazzeka at 11.4 km due SW. of Taza, centre",Taza-Al Hoceima-Taounate,2,34.1125,-4.0509,1367,5,2016
+2124836495,Coturnix coturnix,MA,Vallée du Sous,Sous-Massa-Draa,1,30.50721,-8.705848,317,2,2017
+2741673736,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,3,2019
+3725258518,Coturnix coturnix,MA,Morocco - Ain Dorbane,,1,33.069402,-7.254628,589,4,2018
+2717855371,Coturnix coturnix,ES,CEUTA (casco urbano),Ceuta,1,35.888165,-5.305654,42,10,2002
+2835656290,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.735011,-6.932416,250,2,2013
+2833560765,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.833675,-8.903743,4,3,2019
+2840285664,Coturnix coturnix,MA,Morocco - Marais de El Otba,,3,32.920267,-8.809561,5,8,2016
+3246222044,Coturnix coturnix,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,5,2020
+1613407926,Coturnix coturnix,ES,Ceuta,Ceuta,1,35.88333,-5.31667,0,4,2007
+1613562072,Coturnix coturnix,ES,Aranguren,Ceuta,1,35.88333,-5.31667,0,7,2017
+2843034556,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,3,32.834668,-8.904218,4,4,2017
+3826496807,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,2,30.025867,-9.6466,11,3,2022
+2727777215,Coturnix coturnix,MA,champs de Sidi el-Abed,Doukkala-Abda,4,33.03592,-8.688996,43,4,2016
+1177812915,Coturnix coturnix,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,6,2014
+2167126955,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,303, -7,604)",Marrakech-Tensift-Al Haouz,1,31.303286,-7.604236,2354,6,2018
+3289795461,Coturnix coturnix,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2018
+1732946298,Coturnix coturnix,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+3290804997,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2019
+2661072987,Coturnix coturnix,MA,Oued Bouregreg--El Oulja,Rabat-Salé-Zemmour-Zaer,2,33.99499,-6.781374,12,2,2019
+2135152688,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2018
+2758777900,Coturnix coturnix,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,8,2019
+1743875810,Coturnix coturnix,MA,"near Jbel Tazzeka National Park (11.2 km due SSW. from Taza, centre)",Taza-Al Hoceima-Taounate,2,34.1143,-4.0373,1387,5,2016
+3195002445,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,3,2006
+3524036141,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,5,2021
+2833361630,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.79813,-8.952231,18,12,2018
+2840676490,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.79636,-8.952602,22,12,2018
+2833620495,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.833702,-8.90371,4,3,2019
+1613224189,Coturnix coturnix,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2009
+1777489915,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2012
+2221427927,Coturnix coturnix,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,1,33.015667,-8.710884,9,12,2018
+3295359346,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,2,2010
+3169496488,Coturnix coturnix,MA,S of Taroudant,Sous-Massa-Draa,1,30.289051,-8.949008,272,3,2020
+3179754695,Coturnix coturnix,MA,Sidi El Abed,Doukkala-Abda,1,33.033028,-8.694304,18,7,2010
+3136451489,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,2,34.85138,-6.235814,7,2,2020
+3285704754,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+2211653092,Coturnix coturnix,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,9,2018
+3569808695,Coturnix coturnix,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,6,2002
+1787667322,Coturnix coturnix,MA,Zonas húmedas al N de Oualidia,Doukkala-Abda,1,32.99524,-8.731835,6,10,2012
+2103328079,Coturnix coturnix,MA,Oued Sayed,Guelmim-Es Smara,1,28.962997,-10.121584,230,3,2015
+2088134209,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,10,2017
+2777924805,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2019
+584083781,Coturnix coturnix,MA,"Maroc, près d'Ifrane (Sidi Abdeslam)",Meknès-Tafilalet,1,33.566235,-5.133469,1501,5,2008
+1716686288,Coturnix coturnix,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,2,2016
+2746779960,Coturnix coturnix,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2717053114,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+2080870452,Coturnix coturnix,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,7,2017
+1785068893,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2015
+2188657615,Coturnix coturnix,MA,Oued Masa,Sous-Massa-Draa,5,30.062498,-9.668696,14,12,2005
+1784869444,Coturnix coturnix,MA,Rissani,Meknès-Tafilalet,1,31.287401,-4.27032,753,3,2015
+1747651690,Coturnix coturnix,MA,"MA-Meknès-Tafilalet - 33,542x-5,15 - 28 juin 2016 20:31",Meknès-Tafilalet,2,33.54159,-5.150055,1679,6,2016
+3593532843,Coturnix coturnix,MA,"Sidi Abed, MA (33,017, -8,714)",Doukkala-Abda,1,33.01707,-8.714498,8,2,2021
+2732864118,Coturnix coturnix,MA,"Rabat-Salé-Kénitra, MA (34,816, -6,262)",Gharb-Chrarda-Beni Hssen,1,34.81555,-6.261979,8,1,2019
+2176172451,Coturnix coturnix,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,2,34.073605,-5.554385,383,3,2014
+2041648682,Coturnix coturnix,MA,Oued Massa--Ait Lyass,Sous-Massa-Draa,1,29.985569,-9.65754,12,3,2017
+2734841812,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,4,2019
+2180752580,Coturnix coturnix,MA,Daya de Tenouchad,Laâyoune-Boujdour-Sakia el Hamra,1,28.051329,-12.137982,10,2,2018
+2668819320,Coturnix coturnix,MA,Aït Saaid Ou-Hssine,Rabat-Salé-Zemmour-Zaer,1,33.478268,-5.866383,923,4,2019
+3663386431,Coturnix coturnix,MA,"Unnamed Road, Sidi Boutayeb, Fès-Meknès, MA (32.995, -4.045)",Fès-Boulemane,1,32.995182,-4.045258,884,6,2021
+938255762,Coturnix coturnix,MA,"Agadir ,Souss massa",Sous-Massa-Draa,1,30.057209,-9.645996,95,2,2012
+1743873612,Coturnix coturnix,MA,by P4208 at 6.1 km due W. of Arbaoua (centre),Gharb-Chrarda-Beni Hssen,1,34.9074,-5.9968,65,5,2016
+3276115368,Coturnix coturnix,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,1,31.507856,-7.989421,594,3,2013
+2680658692,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2019
+2772420982,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+1743286543,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,3,2016
+1369711672,Coturnix coturnix,MA,Oualidia - El Jadida,Doukkala-Abda,6,32.94427,-8.77827,13,5,2015
+3603807652,Coturnix coturnix,MA,Rissani,Meknès-Tafilalet,1,31.288733,-4.230983,752,3,2007
+1786477614,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2015
+2739478091,Coturnix coturnix,MA,Sidi Taoussi,Rabat-Salé-Zemmour-Zaer,1,33.726,-6.633633,354,2,2019
+1205818204,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2010
+2719898714,Coturnix coturnix,MA,Roadside stop N9 west,Marrakech-Tensift-Al Haouz,1,31.543129,-7.551422,862,4,2008
+2673908640,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2019
+2722715519,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2010
+2724603000,Coturnix coturnix,EH,Oasis Lamseyed,Western Sahara,1,27.04231,-13.094491,60,1,2012
+2660896985,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+2740632731,Coturnix coturnix,MA,"Rabat-Salé-Kénitra, MA (34,816, -6,262)",Gharb-Chrarda-Beni Hssen,1,34.81555,-6.261979,8,1,2019
+1173749761,Coturnix coturnix,MA,Bradia,Tadla-Azilal,2,32.47889,-6.5325,449,7,2004
+2170846865,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,6,2018
+3252874179,Coturnix coturnix,ES,"Ceuta, Ceuta, ES (35,891, -5,308)",Ceuta,1,35.890812,-5.308435,6,5,2020
+2700572115,Coturnix coturnix,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,9,2019
+2032897958,Coturnix coturnix,MA,Oued Massa riparian and fields,Sous-Massa-Draa,4,29.988783,-9.665572,14,2,2017
+2746919053,Coturnix coturnix,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,4,2019
+2745968314,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,4,2019
+2047882104,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2017
+3210911128,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,2,2018
+3572768269,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2017
+2140905864,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2018
+3577947605,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+3635390680,Coturnix coturnix,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,12,2021
+1791777637,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2013
+2216803320,Coturnix coturnix,MA,Palmeraie d'Igrane,Meknès-Tafilalet,1,31.140299,-4.021103,708,4,2017
+1746516010,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2016
+3199892773,Coturnix coturnix,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,5,2010
+2675373050,Coturnix coturnix,MA,Décharge de Khemisset,Rabat-Salé-Zemmour-Zaer,1,33.752254,-6.052769,309,4,2019
+2678722418,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+1791974542,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2011
+3293588358,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2020
+3283104759,Coturnix coturnix,MA,Sidi Abed fields,Doukkala-Abda,2,33.040287,-8.690104,15,5,2010
+2679535997,Coturnix coturnix,MA,Goulmina,Meknès-Tafilalet,1,31.697927,-4.952184,1012,5,2019
+2767521523,Coturnix coturnix,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+2671672613,Coturnix coturnix,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2007
+2206557581,Coturnix coturnix,ES,"N-362, Ceuta, Ceuta, ES (35,907, -5,375)",Ceuta,1,35.906654,-5.374588,175,10,2018
+3537850617,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,6,2021
+2762977173,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,2,2019
+2690831601,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+825179912,Coturnix coturnix,MA,Ouarzazate,Sous-Massa-Draa,2,30.924587,-6.884821,1121,4,2004
+2201189127,Coturnix coturnix,MA,S Guelmim,Guelmim-Es Smara,1,28.823092,-10.302572,206,3,2011
+1728246593,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2016
+1739978779,Coturnix coturnix,MA,champs au sud de Sidi Bennnour,Doukkala-Abda,1,32.60962,-8.425484,177,2,2016
+1410660861,Coturnix coturnix,EH,Lamsid SW,Western Sahara,1,26.526876,-13.864403,66,3,2011
+3515335713,Coturnix coturnix,MA,"Fès-Meknès, MA (34.281, -4.084)",Taza-Al Hoceima-Taounate,1,34.281315,-4.083736,438,4,2021
+2676126322,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+2750231028,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,4,2019
+3276556268,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+1784884712,Coturnix coturnix,MA,Merja Ouled Sgher,Tanger-Tétouan,1,35.049885,-6.207318,19,4,2015
+2766431734,Coturnix coturnix,MA,Issen,Sous-Massa-Draa,1,30.471968,-9.214823,115,7,2017
+1746508867,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2016
+2147087234,Coturnix coturnix,MA,"(33,0330,-8,6903)",Doukkala-Abda,15,33.03297,-8.690282,38,4,2018
+2688096075,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+2798371687,Coturnix coturnix,MA,Merja Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9547,-6.251028,21,3,2016
+2658861131,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2007
+2196949640,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,3,2011
+2683443654,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,6,2019
+3531911373,Coturnix coturnix,MA,Oued Sayed,Guelmim-Es Smara,7,28.962997,-10.121584,230,3,2015
+2209925068,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+2049408839,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,3,30.038885,-9.666038,88,2,2017
+2724899467,Coturnix coturnix,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,10,2002
+2228347184,Coturnix coturnix,MA,Côte d'Imsouane,Sous-Massa-Draa,1,30.872467,-9.813366,65,2,2008
+2669376289,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+3203249783,Coturnix coturnix,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,11,2010
+3223710273,Coturnix coturnix,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,3,2020
+3223974916,Coturnix coturnix,ES,"Mendicuti/Lomas de Topete, de Isabel II y de Luengo",Ceuta,1,35.89257,-5.357019,174,4,2020
+2743937407,Coturnix coturnix,MA,"Unnamed Road, Sidi Wassay, Souss Massa, MA (30,059, -9,687)",Sous-Massa-Draa,1,30.059114,-9.686974,19,3,2019
+2738332018,Coturnix coturnix,MA,Sidi Taoussi,Rabat-Salé-Zemmour-Zaer,1,33.726,-6.633633,354,2,2019
+1786469675,Coturnix coturnix,MA,Sidi Moussa,Doukkala-Abda,3,32.989086,-8.733644,8,4,2015
+3149362269,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2020
+1791469557,Coturnix coturnix,MA,Ouarzazate,Sous-Massa-Draa,1,30.927628,-6.913863,1143,4,2005
+3728696572,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,14,30.030052,-9.645295,8,4,2021
+3666095871,Coturnix coturnix,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,4,2021
+1396509976,Coturnix coturnix,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,1,34.073605,-5.554385,383,4,2009
+1793111010,Coturnix coturnix,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9664,-6.23517,15,5,2013
+3296037085,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,3,2007
+2777722704,Coturnix coturnix,MA,LaVallee,Meknès-Tafilalet,3,33.46033,-5.24655,1204,4,2019
+2712006612,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2016
+3272086702,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+2734916059,Coturnix coturnix,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+2100091539,Coturnix coturnix,MA,Oued Laou,Tanger-Tétouan,4,35.428505,-5.0774,9,9,2017
+3299275533,Coturnix coturnix,MA,Cap d'El Beddouza,Doukkala-Abda,2,32.541122,-9.284434,23,11,2012
+2059816017,Coturnix coturnix,MA,Imallalen bridge,Sous-Massa-Draa,1,30.004486,-9.656425,8,4,2017
+3566347612,Coturnix coturnix,MA,Igoudar,Sous-Massa-Draa,3,30.43429,-9.281273,103,7,2010
+3238605797,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2020
+1732129740,Coturnix coturnix,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+2167206722,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,469, -7,611)",Marrakech-Tensift-Al Haouz,1,31.468536,-7.611293,989,6,2018
+3578528282,Coturnix coturnix,MA,Sandy plains,Guelmim-Es Smara,1,28.820534,-10.310954,196,2,2008
+1786484015,Coturnix coturnix,MA,Sidi Moussa,Doukkala-Abda,4,32.989086,-8.733644,8,4,2015
+1722070218,Coturnix coturnix,MA,by Oued Massa 39.8 km due N. of Tiznit (centre),Sous-Massa-Draa,1,30.0428,-9.6444,13,3,2016
+2733365165,Coturnix coturnix,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,2,35.195835,-6.111832,7,3,2007
+2767971218,Coturnix coturnix,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,4,2019
+1721522801,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2743949269,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,4,2019
+3250968535,Coturnix coturnix,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,5,2015
+2665959181,Coturnix coturnix,MA,Dar es-Soltane,Rabat-Salé-Zemmour-Zaer,1,33.962055,-6.599114,59,4,2019
+1721520425,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2669247348,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,3,2019
+2752467222,Coturnix coturnix,MA,Décharge de Khemisset,Rabat-Salé-Zemmour-Zaer,1,33.752254,-6.052769,309,4,2019
+1743877003,Coturnix coturnix,MA,"near Jbel Tazzeka National Park (11.2 km due SSW. from Taza, centre)",Taza-Al Hoceima-Taounate,1,34.1143,-4.0373,1387,5,2016
+2679498404,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2019
+2115154159,Coturnix coturnix,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,2,2017
+3643986479,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2021
+2736097489,Coturnix coturnix,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+2233377867,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,6,2018
+2049703824,Coturnix coturnix,MA,Massa Valley - hills to east.,Sous-Massa-Draa,1,30.024738,-9.619282,72,3,2017
+1728469789,Coturnix coturnix,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,2,2016
+2661404778,Coturnix coturnix,MA,Escarpement au sud-ouest de Tinegherass,Meknès-Tafilalet,1,31.209732,-4.315025,780,3,2019
+2071492513,Coturnix coturnix,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,5,2017
+2783252010,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+1726157716,Coturnix coturnix,MA,Oued Dades--Boumalne,Sous-Massa-Draa,2,31.369457,-5.988785,1522,3,2016
+2220878921,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,11,2018
+1755401911,Coturnix coturnix,MA,champs au sud de Sidi Bennnour,Doukkala-Abda,1,32.60962,-8.425484,177,2,2016
+2715827123,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,1,2012
+2182024395,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,38, -7,571)",Marrakech-Tensift-Al Haouz,1,31.380247,-7.571105,1689,6,2018
+1734987503,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2016
+3640861666,Coturnix coturnix,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,3,2021
+584000955,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+3201009333,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+2840846863,Coturnix coturnix,MA,Morocco - Marais de El Otba,,3,32.9353,-8.7896,9,4,2018
+2841828387,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.786797,-8.962543,23,3,2019
+2836258622,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9373,-8.7866,8,5,2016
+2839922073,Coturnix coturnix,MA,Morocco - Marais de El Otba,,1,32.918268,-8.805985,8,7,2016
+2832789701,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9371,-8.7868,8,5,2016
+2839820626,Coturnix coturnix,MA,Morocco - Oualidia,,1,32.776813,-8.975062,38,4,2016
+2833701689,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,2,32.790424,-8.96779,8,3,2019
+3729130571,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.026815,-9.646269,9,5,2021
+2839534096,Coturnix coturnix,MA,Morocco - Souss - Massa - Draâ,,1,30.474927,-8.791985,247,2,2011
+1613356225,Coturnix coturnix,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2006
+1613314658,Coturnix coturnix,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,1,2003
+1613174169,Coturnix coturnix,ES,Loma larga,Ceuta,1,35.88333,-5.31667,0,5,2001
+3197796321,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+3204271246,Coturnix coturnix,MA,Asni,Marrakech-Tensift-Al Haouz,1,31.2524,-7.9833,1226,3,2009
+3996877897,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.016497,-9.64878,10,9,2022
+2703271539,Coturnix coturnix,MA,Plage de Tifnit,Sous-Massa-Draa,1,30.201324,-9.641147,12,4,2002
+3693670920,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2832325736,Coturnix coturnix,MA,Morocco - Région de Sidi Bettache (Zaër),,1,33.731906,-6.928082,272,3,2012
+3668851565,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,10,2016
+3274551903,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+2841270716,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.9695,-8.757,12,5,2016
+3903985089,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.96829,-8.764168,11,6,2022
+2835742694,Coturnix coturnix,MA,Morocco - Région de Sidi Bettache (Zaër),,1,33.729025,-6.933199,255,4,2012
+1613320211,Coturnix coturnix,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,4,2001
+1676913105,Coturnix coturnix,MA,Sidi-Smail / West-Marokko,,1,32.828827,-8.511658,155,3,2001
+1613531610,Coturnix coturnix,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,6,2014
+1613531616,Coturnix coturnix,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,6,2015
+1613569427,Coturnix coturnix,ES,Parques de ceuta,Ceuta,1,35.88333,-5.31667,0,6,2019
+1613320242,Coturnix coturnix,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,6,2002
+1613680646,Coturnix coturnix,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2017
+1613171433,Coturnix coturnix,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,3,2011
+2837124622,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,5,32.93,-8.79,15,12,2018
+3725486514,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.040596,-9.656462,9,1,2019
+3721206592,Coturnix coturnix,MA,Morocco - Massa,,1,29.96308,-9.658062,10,6,2021
+2840113022,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.780202,-8.974685,11,9,2017
+3827226819,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.028477,-9.645527,12,3,2022
+2243773083,Coturnix coturnix,MA,"sidi moussa-oualidia, el jadida, marruecos",,1,32.7617,-8.9017,124,6,2017
+2243770880,Coturnix coturnix,MA,"sidi moussa-oualidia, el jadida, marruecos",,1,32.7617,-8.9017,124,6,2017
+2243594443,Coturnix coturnix,MA,Oualidia,,1,32.7152,-9.0598,8,4,2012
+2835847433,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.732893,-6.966662,159,3,2014
+4058368835,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.059492,-9.634524,112,2,2023
+2838038888,Coturnix coturnix,MA,Morocco - Souss - Massa - Draâ,,1,30.47683,-8.791251,256,2,2011
+2838509739,Coturnix coturnix,MA,Morocco - Région de Sidi Bettache (Zaër),,1,33.729025,-6.933199,255,4,2012
+2195144760,Coturnix coturnix,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,2,2015
+1785073306,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2015
+2058214345,Coturnix coturnix,MA,"Oued Massa, near Imallalen",Sous-Massa-Draa,4,30.007692,-9.651248,9,3,2017
+2719239440,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+3574667649,Coturnix coturnix,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,1,2013
+2658008412,Coturnix coturnix,MA,Sidi Makhfi,Tanger-Tétouan,2,35.500145,-5.893611,8,2,2019
+1369142937,Coturnix coturnix,MA,Sidi Moussa,Doukkala-Abda,1,32.996655,-8.730032,7,5,2015
+2737101447,Coturnix coturnix,MA,Dar es-Soltane,Rabat-Salé-Zemmour-Zaer,1,33.962055,-6.599114,59,4,2019
+1731156322,Coturnix coturnix,MA,Vallée de Kasbat Ayir,Doukkala-Abda,1,32.710217,-9.064321,8,4,2016
+2741622813,Coturnix coturnix,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,59, -5,261)",Tanger-Tétouan,1,35.590137,-5.260545,7,2,2019
+2752273872,Coturnix coturnix,MA,Tabeliamout,Meknès-Tafilalet,1,33.265926,-5.073023,1805,6,2019
+3636498049,Coturnix coturnix,MA,Asif Tifnout,Sous-Massa-Draa,1,30.700294,-8.162112,689,3,2009
+3198718121,Coturnix coturnix,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,3,2007
+3600944215,Coturnix coturnix,MA,"Sidi Abed, MA (33,017, -8,714)",Doukkala-Abda,1,33.01707,-8.714498,8,2,2021
+3206935645,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,2,2005
+3204974761,Coturnix coturnix,MA,"Site witheld, Atlantic coast",Doukkala-Abda,2,32.7796,-8.970971,37,4,2009
+2097781208,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,10,2017
+3283858398,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2012
+3670517828,Coturnix coturnix,ES,Quinto pino,Melilla,2,35.274563,-2.954215,34,4,2021
+2696855156,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+2791550723,Coturnix coturnix,MA,Oued Dades--Boumalne,Sous-Massa-Draa,2,31.369457,-5.988785,1522,3,2016
+3507078662,Coturnix coturnix,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,2,2021
+584028195,Coturnix coturnix,MA,"Maroc, aguelmane Tifoummassine",Meknès-Tafilalet,1,33.105133,-5.064783,2013,5,2008
+1786469534,Coturnix coturnix,MA,Rissani,Meknès-Tafilalet,1,31.287401,-4.27032,753,3,2015
+1787902441,Coturnix coturnix,MA,Oued Boukila,Guelmim-Es Smara,1,28.918653,-10.150633,228,2,2008
+2193215114,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,7,2018
+2724576237,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,3,2016
+2769996879,Coturnix coturnix,MA,PN Souss-Massa--côte de Sidi Bou Lefdaïl,Sous-Massa-Draa,1,29.988922,-9.719553,59,3,2019
+2697921465,Coturnix coturnix,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,4,2008
+2730688369,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+3211687982,Coturnix coturnix,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+3517032074,Coturnix coturnix,ES,Quinto pino,Melilla,1,35.274563,-2.954215,34,4,2021
+2757446293,Coturnix coturnix,MA,Goulmina,Meknès-Tafilalet,1,31.697927,-4.952184,1012,5,2019
+2714631735,Coturnix coturnix,MA,Taroudant area,Sous-Massa-Draa,1,30.450296,-8.881398,206,2,2010
+2714825340,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,4,2007
+2791374455,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,7,30.031328,-9.644645,8,3,2017
+3173720696,Coturnix coturnix,MA,Tizert,Sous-Massa-Draa,1,30.211634,-8.429473,1250,3,2020
+2116288697,Coturnix coturnix,MA,Sidi El Abed,Doukkala-Abda,1,33.044956,-8.689619,13,4,2017
+2719049511,Coturnix coturnix,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,9,2002
+3669454634,Coturnix coturnix,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+1410581665,Coturnix coturnix,MA,Iguidar,Sous-Massa-Draa,1,30.581032,-8.393297,466,3,2011
+3275544375,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2016
+2680784009,Coturnix coturnix,MA,Goulmina,Meknès-Tafilalet,1,31.697927,-4.952184,1012,5,2019
+2032047614,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,4,30.031328,-9.644645,8,2,2017
+3652605020,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,5,2021
+3210385912,Coturnix coturnix,MA,Palm grove Rissani,Meknès-Tafilalet,1,31.285631,-4.290606,749,3,2007
+2103994696,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,3,30.038885,-9.666038,88,2,2017
+3545911392,Coturnix coturnix,MA,Cap d'El Beddouza,Doukkala-Abda,2,32.541122,-9.284434,23,11,2012
+2676790324,Coturnix coturnix,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2019
+2039625951,Coturnix coturnix,MA,Akel el-Kbir (Île du Bou Regreg),Rabat-Salé-Zemmour-Zaer,1,33.964817,-6.776376,61,3,2017
+1782707794,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2016
+2697791935,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+2748525378,Coturnix coturnix,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2019
+3292991429,Coturnix coturnix,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+1743877863,Coturnix coturnix,MA,"S. side of Jbel Tazzeka at 14.9 km due SW. of Tazza, centre",Taza-Al Hoceima-Taounate,2,34.0941,-4.0811,1356,5,2016
+3139987916,Coturnix coturnix,MA,Oued Beht--Oued Bousebaa,Rabat-Salé-Zemmour-Zaer,2,33.76471,-5.949703,179,3,2020
+2791169323,Coturnix coturnix,MA,by R507 at 22.5 km due N. of Commune de Bouiblane,Taza-Al Hoceima-Taounate,1,33.7711,-4.0723,1883,6,2017
+3522219583,Coturnix coturnix,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,4,2021
+1787864840,Coturnix coturnix,MA,Sidi El Abed,Doukkala-Abda,1,33.048824,-8.686961,23,1,2013
+826007918,Coturnix coturnix,MA,"Morocco, Ait Bougamez (Happy Valley)",Tadla-Azilal,2,31.654839,-6.449316,1823,4,2012
+1792490035,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,4,30.031328,-9.644645,8,1,2004
+2154611020,Coturnix coturnix,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,2,29.98752,-9.651463,10,3,2018
+2747382181,Coturnix coturnix,MA,Onq ej-Jmel,Rabat-Salé-Zemmour-Zaer,1,33.994354,-6.796317,6,4,2019
+3654175040,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2017
+2136556115,Coturnix coturnix,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9664,-6.23517,15,5,2013
+3286029131,Coturnix coturnix,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2007
+1410648377,Coturnix coturnix,MA,Oued Sayed,Guelmim-Es Smara,3,28.962997,-10.121584,230,3,2011
+2122126633,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2786369559,Coturnix coturnix,MA,Cirque de Jaaffar,Meknès-Tafilalet,1,32.556793,-4.91382,2055,6,2017
+3286234117,Coturnix coturnix,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+1755399514,Coturnix coturnix,MA,Vallée de Kasbat Ayir,Doukkala-Abda,3,32.710217,-9.064321,8,2,2016
+3618223315,Coturnix coturnix,MA,Sidi El Abed,Doukkala-Abda,1,33.048824,-8.686961,23,1,2013
+1721429123,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+3204711611,Coturnix coturnix,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+2704995926,Coturnix coturnix,MA,"Rabat-Salé-Kénitra, MA (34,816, -6,262)",Gharb-Chrarda-Beni Hssen,1,34.81555,-6.261979,8,1,2019
+3590746674,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2010
+1786482503,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2015
+2200043572,Coturnix coturnix,MA,Tan-Tan 100km marker,Guelmim-Es Smara,1,28.685095,-10.580328,205,2,2004
+2123514544,Coturnix coturnix,MA,Tinfat Saffron House,Sous-Massa-Draa,1,30.467918,-7.739632,1623,2,2013
+1785042581,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2015
+2042867485,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,4,30.031328,-9.644645,8,2,2017
+1746517083,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2016
+2760525218,Coturnix coturnix,MA,PN Ifran--Dayet Ifrah,Meknès-Tafilalet,1,33.556587,-4.933805,1618,4,2002
+2227100010,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2011
+1782690293,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2010
+2725123719,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,3,2016
+1159229096,Coturnix coturnix,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2014
+1411492840,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+1187254878,Coturnix coturnix,MA,Merzouga/Desert,Meknès-Tafilalet,2,31.098513,-4.012113,688,3,2007
+2667631324,Coturnix coturnix,MA,"(30,031, -9,645)",Sous-Massa-Draa,1,30.031103,-9.644939,8,3,2019
+3210243010,Coturnix coturnix,MA,Trine El Mader,Sous-Massa-Draa,1,29.76977,-9.670188,170,1,2010
+1409666897,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,5,2013
+2034340161,Coturnix coturnix,MA,Oued Massa riparian and fields,Sous-Massa-Draa,4,29.988783,-9.665572,14,2,2017
+1785063358,Coturnix coturnix,MA,Sidi Moussa,Doukkala-Abda,3,32.989086,-8.733644,8,4,2015
+2738161885,Coturnix coturnix,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,1,33.992977,-6.801205,9,4,2019
+3613932134,Coturnix coturnix,MA,Tagdilt track south end,Sous-Massa-Draa,1,31.301636,-5.899976,1572,3,2008
+1739973329,Coturnix coturnix,MA,P7215--nordest de Aïn Leuh,Meknès-Tafilalet,1,33.333626,-5.285797,1503,5,2016
+2754821888,Coturnix coturnix,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+1785053097,Coturnix coturnix,MA,Sidi Moussa,Doukkala-Abda,4,32.989086,-8.733644,8,4,2015
+2778957948,Coturnix coturnix,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,9,2019
+2158544356,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,5,2018
+2042085189,Coturnix coturnix,MA,Oued Massa riparian and fields,Sous-Massa-Draa,4,29.988783,-9.665572,14,2,2017
+2679461050,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,2,33.73479,-6.934211,253,4,2019
+2115159296,Coturnix coturnix,MA,Ifran,Meknès-Tafilalet,1,33.50574,-5.168068,1521,4,2017
+2084291909,Coturnix coturnix,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,2,34.073605,-5.554385,383,7,2017
+1731610065,Coturnix coturnix,MA,Oued Rharg,Doukkala-Abda,1,32.68293,-8.914332,96,4,2016
+1787853061,Coturnix coturnix,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,1,2013
+2163102885,Coturnix coturnix,MA,Daya de Khemis Zemamra,Doukkala-Abda,1,32.629055,-8.780619,125,4,2018
+2210694049,Coturnix coturnix,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,4,2018
+1183434295,Coturnix coturnix,MA,Oued Massa area,Sous-Massa-Draa,1,30.056,-9.6611,10,3,2013
+2733502667,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+2136553853,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,5,2013
+2102486212,Coturnix coturnix,MA,Oualidia,Doukkala-Abda,1,32.732445,-9.035308,50,4,2017
+2782719246,Coturnix coturnix,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,6,2019
+1203368382,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+1717672812,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2016
+2034036784,Coturnix coturnix,MA,Sous-massa,Sous-Massa-Draa,4,30.058954,-9.68595,13,1,2017
+2771720400,Coturnix coturnix,MA,"Route El Kharije, Souss Massa, MA (29,964, -9,649)",Sous-Massa-Draa,1,29.964384,-9.648876,10,2,2019
+1794745588,Coturnix coturnix,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,2,2015
+584083455,Coturnix coturnix,MA,"Maroc, nord de Timadhte",Meknès-Tafilalet,1,33.261658,-5.072937,1806,5,2008
+3298264208,Coturnix coturnix,MA,Merja Zerga (Gnafda),Gharb-Chrarda-Beni Hssen,1,34.81738,-6.265022,6,4,2016
+1791771162,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2754405127,Coturnix coturnix,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,5,2019
+2788932567,Coturnix coturnix,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,3,2016
+2189957964,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,328, -7,536)",Marrakech-Tensift-Al Haouz,1,31.327862,-7.536339,1994,6,2018
+2717414364,Coturnix coturnix,MA,Merja Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9547,-6.251028,21,3,2016
+3573509074,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2048267991,Coturnix coturnix,MA,merja zerga,Gharb-Chrarda-Beni Hssen,4,34.878242,-6.284725,24,3,2017
+2653333484,Coturnix coturnix,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,1,2019
+3583490117,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,7,2010
+2667454643,Coturnix coturnix,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2018
+2189454908,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,6,2018
+1743877758,Coturnix coturnix,MA,"S. side of Jbel Tazzeka at 16.2 km due SW. of Taza, centre",Taza-Al Hoceima-Taounate,2,34.0925,-4.1007,1389,5,2016
+1733680499,Coturnix coturnix,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+2752269320,Coturnix coturnix,MA,Aït Saaid Ou-Hssine,Rabat-Salé-Zemmour-Zaer,1,33.478268,-5.866383,923,4,2019
+2719094738,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+1410583680,Coturnix coturnix,MA,Iguidar,Sous-Massa-Draa,1,30.581032,-8.393297,466,3,2011
+2182054608,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,374, -7,563)",Marrakech-Tensift-Al Haouz,1,31.374208,-7.562615,1812,6,2018
+2194454309,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,2,2015
+2096076260,Coturnix coturnix,MA,Tiferhal and its surroundings,Sous-Massa-Draa,4,30.063349,-9.545179,71,3,2002
+1731173232,Coturnix coturnix,MA,Oued Rharg,Doukkala-Abda,1,32.68293,-8.914332,96,4,2016
+2724537652,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,3,2016
+1402703720,Coturnix coturnix,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,1,34.839756,-6.243625,11,5,2015
+2698524509,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2017
+1786480060,Coturnix coturnix,MA,Merja Ouled Sgher,Tanger-Tétouan,1,35.049885,-6.207318,19,4,2015
+2798974503,Coturnix coturnix,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2008
+583999965,Coturnix coturnix,MA,west of Jorf,Meknès-Tafilalet,2,31.52119,-4.571342,870,3,2007
+1759472145,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2007
+3632686475,Coturnix coturnix,MA,Oualidia area,Doukkala-Abda,10,32.779537,-8.971735,35,6,2012
+2681075712,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+3657396600,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2019
+3520085319,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,2,2021
+1402696086,Coturnix coturnix,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,1,34.839756,-6.243625,11,5,2015
+2697677798,Coturnix coturnix,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2008
+3301284992,Coturnix coturnix,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+2662790935,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,3,2019
+2793385734,Coturnix coturnix,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,6,2006
+2681626378,Coturnix coturnix,MA,"(34.8417,-6.2341)",Gharb-Chrarda-Beni Hssen,2,34.84169,-6.234111,16,4,2019
+2231087039,Coturnix coturnix,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,1,33.015667,-8.710884,9,12,2018
+3675696700,Coturnix coturnix,MA,"Gorges, Ben Slimane",Rabat-Salé-Zemmour-Zaer,1,33.552357,-6.758253,192,3,2007
+3213174870,Coturnix coturnix,MA,MA-Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,1,34.86416,-6.240557,7,4,2019
+3284497236,Coturnix coturnix,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2019
+2043692436,Coturnix coturnix,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,5,34.073605,-5.554385,383,4,2017
+2038456314,Coturnix coturnix,MA,Al khroub,Tanger-Tétouan,2,35.390026,-5.762544,46,3,2017
+3268851682,Coturnix coturnix,MA,Oued Boukila,Guelmim-Es Smara,1,28.919855,-10.154157,214,4,2009
+2137044367,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2018
+2766608828,Coturnix coturnix,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2019
+3284830579,Coturnix coturnix,MA,Oualidia tidal marshes,Doukkala-Abda,2,32.75977,-9.007502,5,5,2010
+2182735533,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,307, -7,577)",Marrakech-Tensift-Al Haouz,1,31.307379,-7.576951,2186,6,2018
+2738359369,Coturnix coturnix,MA,Onq ej-Jmel,Rabat-Salé-Zemmour-Zaer,1,33.994354,-6.796317,6,4,2019
+2227393952,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2011
+2698934352,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+1409656972,Coturnix coturnix,MA,Larache - Alcácer Quibir,Tanger-Tétouan,2,35.197933,-6.115844,13,5,2013
+1731224075,Coturnix coturnix,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+2763190674,Coturnix coturnix,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,5,2019
+1355908585,Coturnix coturnix,MA,MA--Guelmim-Es Smara--Guelmim area,Guelmim-Es Smara,1,28.89113,-10.217204,245,3,2015
+1721525294,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2661451188,Coturnix coturnix,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,2,35.195835,-6.111832,7,3,2007
+2762801785,Coturnix coturnix,MA,Merja Zerga (Gnafda),Gharb-Chrarda-Beni Hssen,1,34.81589,-6.265566,8,4,2016
+2717145854,Coturnix coturnix,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2017
+2167117665,Coturnix coturnix,MA,"(31,31, -7,585)",Marrakech-Tensift-Al Haouz,1,31.310213,-7.584916,2307,6,2018
+1787896413,Coturnix coturnix,MA,Sandy plains,Guelmim-Es Smara,1,28.820534,-10.310954,196,2,2008
+2754394748,Coturnix coturnix,MA,"Rabat-Salé-Kénitra, MA (34,816, -6,262)",Gharb-Chrarda-Beni Hssen,1,34.81555,-6.261979,8,1,2019
+2735761632,Coturnix coturnix,MA,Oued Bouregreg--El Oulja,Rabat-Salé-Zemmour-Zaer,2,33.99499,-6.781374,12,2,2019
+2207944639,Coturnix coturnix,MA,Zone des dykes (~Skoura),Sous-Massa-Draa,1,30.961294,-6.137902,2006,3,2000
+3239022226,Coturnix coturnix,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,22, -5,887)",Tanger-Tétouan,2,35.220036,-5.886787,72,3,2020
+2762131125,Coturnix coturnix,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2019
+3550044900,Coturnix coturnix,MA,Anergui,Tadla-Azilal,9,32.069427,-5.937692,1500,10,2021
+2719379569,Coturnix coturnix,ES,Monte Hacho,Ceuta,1,35.89719,-5.290354,161,10,2002
+2729616174,Coturnix coturnix,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2007
+2726951379,Coturnix coturnix,MA,Rissani (general area),Meknès-Tafilalet,1,31.288527,-4.287918,752,4,2007
+2717255241,Coturnix coturnix,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,7,2012
+3690429724,Coturnix coturnix,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,1,2021
+3298432329,Coturnix coturnix,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,7,2010
+2839042238,Coturnix coturnix,MA,Morocco - Saline de sidi moussa,,2,32.99922,-8.72818,8,8,2014
+1613314734,Coturnix coturnix,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,4,2004
+1613407931,Coturnix coturnix,ES,Ceuta,Ceuta,1,35.88333,-5.31667,0,4,2006
+1613320225,Coturnix coturnix,ES,Benzu,Ceuta,1,35.88333,-5.31667,0,6,2001
+1613356223,Coturnix coturnix,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,6,2004
+2835548674,Coturnix coturnix,MA,Morocco - Région de Sidi Bettache (Zaër),,1,33.729025,-6.933199,255,4,2012
+2838693541,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,2,33.737474,-6.931171,258,2,2013
+3656677485,Coturnix coturnix,MA,Oualidia area,Doukkala-Abda,10,32.779537,-8.971735,35,6,2012
+3660219248,Coturnix coturnix,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,6,2021
+3728605139,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.787693,-8.965794,9,3,2021
+2178018891,Coturnix coturnix,MA,"Unnamed Road, Marrakech-Safi, MA (31,316, -7,59)",Marrakech-Tensift-Al Haouz,1,31.315525,-7.589882,2361,6,2018
+2699866757,Coturnix coturnix,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2008
+1613407906,Coturnix coturnix,ES,Ceuta,Ceuta,1,35.88333,-5.31667,0,5,2010
+1613552838,Coturnix coturnix,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2016
+1613314742,Coturnix coturnix,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,5,2004
+2664294707,Coturnix coturnix,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+2203390626,Coturnix coturnix,MA,Oued Massa--southern bridge,Sous-Massa-Draa,1,30.003536,-9.656292,7,11,2018
+2840543150,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.786668,-8.966551,7,7,2019
+2752056453,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+2843663513,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.93,-8.79,15,12,2018
+2836103073,Coturnix coturnix,MA,Morocco - Oualidia,,1,32.776813,-8.975062,38,4,2016
+2833386439,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.95126,-8.772696,13,1,2019
+3725557446,Coturnix coturnix,MA,Morocco - Massa,,1,29.973276,-9.657076,10,1,2019
+2839984524,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.9695,-8.757,12,5,2016
+2043500028,Coturnix coturnix,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2017
+2839474557,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.877122,-8.856144,15,4,2014
+2833827894,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,6,32.792746,-8.964178,6,3,2019
+2836281727,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.9695,-8.757,12,5,2016
+3725142576,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.037649,-9.646907,9,3,2019
+2839567710,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9371,-8.7868,8,5,2016
+2838410804,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.732386,-6.935543,261,4,2012
+2840770129,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.830997,-8.907076,3,1,2019
+2836009484,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9373,-8.7866,8,5,2016
+2833498559,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.792149,-8.965194,7,3,2019
+2836952401,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.798149,-8.951649,20,12,2018
+2844767473,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.790504,-8.967757,8,3,2019
+2841397562,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.9695,-8.757,12,5,2016
+2839769598,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9371,-8.7868,8,5,2016
+2842657694,Coturnix coturnix,MA,Morocco - Oualidia,,1,32.776813,-8.975062,38,4,2016
+2836679469,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.895721,-8.833292,13,12,2018
+2832494136,Coturnix coturnix,MA,Morocco - Saline de sidi moussa,,2,32.997003,-8.731813,6,8,2014
+2833279467,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,8,32.895893,-8.832643,13,12,2018
+2833631439,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.798172,-8.951628,21,12,2018
+2832814526,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,2,32.785614,-8.97108,7,8,2016
+2839762069,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,5,33.72491,-6.934318,225,4,2011
+2844498852,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.780174,-8.974586,11,4,2019
+2838955454,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,2,33.748893,-6.91452,256,2,2013
+1613563124,Coturnix coturnix,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,6,2018
+1613171394,Coturnix coturnix,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2011
+3715813377,Coturnix coturnix,MA,Morocco - Massa,,1,29.971526,-9.656747,9,1,2019
+2835847972,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.729132,-6.92974,264,2,2014
+3715904495,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,3,30.036459,-9.646034,7,3,2019
+2837690770,Coturnix coturnix,MA,Morocco - Saline de sidi moussa,,1,32.996602,-8.734357,5,5,2018
+2841560754,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9373,-8.7866,8,5,2016
+3821947814,Coturnix coturnix,MA,Morocco - Souss - Massa - Draâ,,1,30.474927,-8.791985,247,2,2011
+2837397781,Coturnix coturnix,MA,Morocco - Marais de El Otba,,1,32.919649,-8.808988,4,12,2018
+2836391494,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9373,-8.7866,8,5,2016
+3715877303,Coturnix coturnix,MA,Morocco - Massa,,1,29.963825,-9.661289,13,1,2019
+3733163988,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,2,32.782723,-8.97314,9,2,2021
+2771634512,Coturnix coturnix,MA,"(33.8320,-5.5710)",Meknès-Tafilalet,1,33.83197,-5.571004,609,4,2019
+2836141050,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,1,32.780202,-8.974685,11,9,2017
+3715927467,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.031392,-9.645371,10,3,2019
+2839480532,Coturnix coturnix,MA,Morocco - Oualidia,,2,32.770725,-8.983314,49,12,2018
+1786484258,Coturnix coturnix,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2015
+3730079028,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,3,30.036459,-9.646034,7,3,2019
+2844195396,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.895267,-8.832709,16,12,2018
+3725634666,Coturnix coturnix,MA,Morocco - Massa,,1,29.969735,-9.657295,14,4,2019
+3728848573,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,2,32.781321,-8.976287,8,2,2021
+3725256530,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.031292,-9.645236,9,3,2019
+2832334670,Coturnix coturnix,MA,Morocco - Souss\n,,2,30.444943,-8.847482,219,2,2012
+2832545666,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.732386,-6.935543,261,4,2012
+3822983215,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.031225,-9.645236,9,4,2022
+3822954319,Coturnix coturnix,MA,Morocco - Massa,,1,29.979148,-9.656318,10,4,2022
+2844619580,Coturnix coturnix,MA,Morocco - Salines de Oualidia,,2,32.783739,-8.971281,8,4,2017
+3822297343,Coturnix coturnix,MA,Morocco - Sidi Yahya Zaer,,1,33.727386,-6.92974,246,2,2014
+2840922424,Coturnix coturnix,MA,Morocco - Rass Oumlil,,1,28.621898,-10.834794,182,3,2014
+3730855565,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.027594,-9.646347,10,5,2021
+3823020185,Coturnix coturnix,MA,Morocco - Massa,,1,29.964158,-9.655137,9,4,2022
+1750241496,Coturnix coturnix,MA,Oued Dades--Boumalne,Sous-Massa-Draa,2,31.369457,-5.988785,1522,3,2016
+3517027416,Coturnix coturnix,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,2,2021
+3216646778,Coturnix coturnix,MA,Sidi Abed fields,Doukkala-Abda,3,33.040287,-8.690104,15,5,2010
+2738260298,Coturnix coturnix,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,5,33.07076,-7.232351,632,3,2019
+1613356196,Coturnix coturnix,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,6,2005
+1613303199,Coturnix coturnix,ES,Benzu,Ceuta,1,35.88333,-5.31667,0,10,2018
+4058353274,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.0416,-9.64355,11,2,2023
+2840259294,Coturnix coturnix,MA,Morocco - Marais de El Otba,,3,32.9353,-8.7896,9,4,2018
+4056668888,Coturnix coturnix,MA,Morocco - Sidi Ouassay,,1,30.083059,-9.642409,101,1,2023
+2839554716,Coturnix coturnix,MA,Morocco - Marais de El Otba,,2,32.9371,-8.7868,8,5,2016
+2840596296,Coturnix coturnix,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.895721,-8.833282,13,12,2018

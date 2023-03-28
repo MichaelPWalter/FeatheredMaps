@@ -1,0 +1,2 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1677404740,Merops superciliosus,MA,UTM25_30R_0250_3300,,1,29.837238,-5.585534,569,9,2004

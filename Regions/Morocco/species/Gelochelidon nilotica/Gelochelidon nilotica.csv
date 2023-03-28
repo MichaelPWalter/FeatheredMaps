@@ -1,0 +1,814 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+829211212,Gelochelidon nilotica,MA,Agadir - Oued Sous,Sous-Massa-Draa,1,30.269228,-9.612263,74,3,2001
+1761905464,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,5,30.918804,-6.835792,1093,4,2016
+3585063781,Gelochelidon nilotica,MA,Merdja Zerka N.P.--Nador Canal,Gharb-Chrarda-Beni Hssen,1,34.8113,-6.299689,12,4,2013
+2760775998,Gelochelidon nilotica,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,4,29.96278,-9.659664,9,3,2019
+2835721681,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,7,34.803802,-6.309843,12,4,2012
+1409906412,Gelochelidon nilotica,MA,Agadir area,Sous-Massa-Draa,2,30.4013,-9.5911,29,3,2015
+2746083806,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,30,30.918804,-6.835792,1093,4,2019
+2661091872,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2019
+1402797375,Gelochelidon nilotica,MA,Ouled Mesbah,Gharb-Chrarda-Beni Hssen,1,34.793415,-6.311667,9,5,2015
+2760320758,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2016
+2048095641,Gelochelidon nilotica,MA,Sidi Wassay,Sous-Massa-Draa,1,30.058434,-9.686465,21,2,2017
+2161771938,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+1168964699,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+1203288307,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,5,2008
+1787898760,Gelochelidon nilotica,MA,Oued Sous,Sous-Massa-Draa,63,30.356562,-9.590331,13,4,2006
+3687821523,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2018
+2716074034,Gelochelidon nilotica,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,5,2019
+2770935020,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2019
+2749077764,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2694926307,Gelochelidon nilotica,MA,"(33,5445,-7,7594)",Grand Casablanca,5,33.544533,-7.75944,14,4,2018
+1406201458,Gelochelidon nilotica,MA,sous,Sous-Massa-Draa,1,30.367025,-9.599948,11,6,2006
+1791459767,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2005
+2206651454,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+1357404930,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2015
+1791977663,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,4,2011
+3285080670,Gelochelidon nilotica,MA,MA-Ouarzazate (Mansour Eddahbi Dam),Sous-Massa-Draa,2,30.923555,-6.865172,1102,4,2019
+2790889247,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,11,34.013096,-6.813711,11,5,2019
+2721619443,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2001
+2205417631,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2018
+2222350718,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2016
+2201737665,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2017
+2150378416,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+1167608101,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,26,30.36236,-9.586773,10,4,2014
+1786478495,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,4,2015
+2687465508,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,45,31.093885,-4.051035,696,4,2019
+2667585652,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+3550585030,Gelochelidon nilotica,MA,Amerzgane,Sous-Massa-Draa,1,30.940544,-7.208441,1262,3,2018
+2697821564,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,3,35.152462,-6.102734,13,4,2008
+3667707980,Gelochelidon nilotica,MA,Achakkar Beach,Tanger-Tétouan,1,35.766983,-5.935763,8,4,2013
+3207947513,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,8,2008
+2726654929,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2016
+3644525086,Gelochelidon nilotica,MA,Wadi al-Quasab,Marrakech-Tensift-Al Haouz,1,31.466,-9.76,12,3,2019
+1395578514,Gelochelidon nilotica,MA,Oued Souss entre embouchure et innezgane - MA-Souss-Massa-Draa-Inezgane - 30.3491x-9.5675 - 22 juil. 2014 08:07,Sous-Massa-Draa,2,30.34907,-9.567516,12,7,2014
+3190483911,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,4,2003
+1793111843,Gelochelidon nilotica,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,7,34.9664,-6.23517,15,5,2013
+2680571170,Gelochelidon nilotica,MA,"Parc Sindibad Casablanca MA-Grand Casablanca (,-7.6766)",Grand Casablanca,2,33.59713,-7.676616,5,4,2019
+2748264318,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2670771484,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2019
+1777491282,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2012
+2128082318,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,4,2017
+2141599350,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+3634761445,Gelochelidon nilotica,MA,Merzouga--Lac Dayet Srij,Meknès-Tafilalet,1,31.09253,-4.05233,687,3,2013
+2743041504,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2019
+2146490961,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+1402794658,Gelochelidon nilotica,MA,Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,5,34.8818,-6.261735,10,5,2015
+829142882,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2001
+2761435266,Gelochelidon nilotica,MA,"(34,8043,-6,3098)",Gharb-Chrarda-Beni Hssen,30,34.804264,-6.309818,11,4,2018
+2205944170,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,8,2018
+3539538324,Gelochelidon nilotica,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,1,34.03392,-6.839424,10,9,2021
+2165492897,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+3295961974,Gelochelidon nilotica,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,4,2019
+2198581284,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+2797880555,Gelochelidon nilotica,MA,Oued el-Ouaar,Laâyoune-Boujdour-Sakia el Hamra,5,28.172533,-11.869138,13,3,2018
+3638519833,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2021
+2150441637,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+1721423410,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+1411493368,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+1721990306,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,55,30.36236,-9.586773,10,3,2016
+2053277233,Gelochelidon nilotica,MA,Sebou River Estuary,Gharb-Chrarda-Beni Hssen,1,34.271404,-6.645784,9,5,2017
+2148073551,Gelochelidon nilotica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+1724015007,Gelochelidon nilotica,MA,Merja Bargha,Tanger-Tétouan,75,35.016563,-6.208759,15,3,2016
+2167003804,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2745368043,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2007
+2725937737,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+2762856254,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2716713161,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2018
+1791981653,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2011
+2786610936,Gelochelidon nilotica,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,1,27.161089,-13.185421,22,9,2013
+1735182473,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,20,31.486546,-9.769808,9,4,2016
+2161436133,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,5,2018
+3657468353,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,11,2013
+3181668285,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2663496926,Gelochelidon nilotica,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,6,34.029755,-6.828594,8,3,2019
+3585313386,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2750754130,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,83,30.36236,-9.586773,10,3,2019
+2720219797,Gelochelidon nilotica,MA,Oued Chbika,Guelmim-Es Smara,10,28.290892,-11.531591,0,4,2018
+3295469105,Gelochelidon nilotica,MA,Salines de Sidi Moussa,Doukkala-Abda,6,32.997078,-8.73114,7,4,2006
+2768987420,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2141626214,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+2670005558,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2019
+3202239437,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2018
+2777275761,Gelochelidon nilotica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,3,34.85138,-6.235814,7,3,2016
+2150375212,Gelochelidon nilotica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+1396334779,Gelochelidon nilotica,MA,Lac Dayet Srij,Meknès-Tafilalet,8,31.1002,-4.0522,694,4,2007
+2664829587,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,150,30.36236,-9.586773,10,4,2019
+2671532390,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2007
+3650442336,Gelochelidon nilotica,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,1,28.20494,-11.781549,0,9,2021
+1792227897,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,10,34.855213,-6.270397,8,4,2013
+2761140427,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,5,2019
+2760204544,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,20,31.093885,-4.051035,696,4,2019
+3293100434,Gelochelidon nilotica,MA,Merja Zerga (Gnafda),Gharb-Chrarda-Beni Hssen,10,34.81738,-6.265022,6,4,2016
+2759118947,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2019
+2790281719,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2019
+3266531472,Gelochelidon nilotica,MA,Vallée du Souss--général,Sous-Massa-Draa,1,30.388638,-9.333913,51,4,2003
+1791459377,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,150,30.36236,-9.586773,10,4,2005
+1789063236,Gelochelidon nilotica,MA,Kasbah Perle du Dades,Sous-Massa-Draa,1,31.322363,-6.006032,1499,10,2013
+2070270748,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+2678820678,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+3271794306,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,4,2009
+1370839394,Gelochelidon nilotica,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+1791392411,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2006
+3531729458,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+1791402649,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2007
+2772777813,Gelochelidon nilotica,MA,Mouth Noun River | General Area,Sous-Massa-Draa,2,29.140532,-10.407027,10,4,2012
+2756830126,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+3651889970,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2004
+2743935219,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,4,2019
+1724002900,Gelochelidon nilotica,MA,Merja Bargha,Tanger-Tétouan,75,35.016563,-6.208759,15,3,2016
+2672136921,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,20,31.093885,-4.051035,696,4,2019
+2668092371,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+2145820706,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+3296135201,Gelochelidon nilotica,MA,"Tan Tan plage, MA (28,468, -11,352)",Guelmim-Es Smara,2,28.468296,-11.35223,24,4,2016
+2167783114,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,5,2018
+2165364972,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+1203511203,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,4,2007
+2791680092,Gelochelidon nilotica,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,8,2018
+2672670274,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2750962725,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2019
+2801124089,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+2752242471,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3626332003,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,4,2021
+2683262149,Gelochelidon nilotica,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,2,33.992977,-6.801205,9,5,2019
+2122271398,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2008
+3214837847,Gelochelidon nilotica,MA,Temporær sø,Meknès-Tafilalet,20,31.120615,-4.010524,687,4,2009
+2782667385,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,70,30.36236,-9.586773,10,4,2019
+3542617883,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,7,2006
+3548267013,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2008
+3672682285,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2021
+1723994752,Gelochelidon nilotica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,3,34.85138,-6.235814,7,3,2016
+1339703458,Gelochelidon nilotica,MA,Lac Dayet Srij,,1,31.09923,-4.051569,690,4,2015
+2836510642,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.510918,-9.774857,8,12,2017
+3726485649,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.362396,-9.5962,10,7,2020
+3298854065,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2787098921,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,4,2016
+2836623957,Gelochelidon nilotica,MA,Morocco - Agadir,,30,30.36237,-9.576207,9,3,2017
+1784891003,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,12,34.24279,-6.672684,7,4,2015
+2717426953,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,4,2007
+2713605311,Gelochelidon nilotica,MA,Merja Bargha,Tanger-Tétouan,75,35.016563,-6.208759,15,3,2016
+1788109141,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2009
+2232880691,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,2,28.001081,-12.342865,7,4,2017
+2118658159,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,11,2002
+2836327040,Gelochelidon nilotica,MA,Morocco - Agadir,,30,30.36237,-9.576207,9,3,2017
+2839117675,Gelochelidon nilotica,MA,Morocco - Agadir,,51,30.362946,-9.585618,8,3,2015
+2161742804,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+3237890560,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,3,31.093885,-4.051035,696,4,2012
+2833922952,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.360053,-9.576121,13,3,2019
+2152908587,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2018
+2839777494,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.923,-6.868,1100,4,2016
+2832621885,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.9263,-6.8737,1103,4,2015
+2839520663,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.923,-6.868,1100,4,2016
+2832371059,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.362804,-9.58497,9,8,2013
+2836905136,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.544862,-7.761126,15,4,2018
+2839165792,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,17,30.925786,-6.884864,1122,4,2015
+2840208598,Gelochelidon nilotica,MA,Morocco - Laouamra,,2,35.018538,-6.21437,14,8,2016
+2833129856,Gelochelidon nilotica,MA,Morocco - Agadir,,7,30.3628,-9.5864,7,3,2018
+3996763233,Gelochelidon nilotica,MA,Morocco - Région de Merzouga (Erfoud),,1,31.159934,-3.969061,740,5,2012
+2194356547,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2799614015,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,4,2016
+2182727407,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2159301138,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,7,34.013096,-6.813711,11,5,2018
+2095928666,Gelochelidon nilotica,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,9,2017
+2178158779,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,5,2018
+3639624687,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2021
+3560735158,Gelochelidon nilotica,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+3637729195,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+2115160182,Gelochelidon nilotica,MA,Khnifiss NP,Laâyoune-Boujdour-Sakia el Hamra,1,28.028786,-12.240155,15,2,2017
+946704499,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2717281252,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,100,30.070282,-9.662819,21,4,2012
+3216190555,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2002
+1723983490,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2016
+2719628897,Gelochelidon nilotica,MA,Oued Chbika,Guelmim-Es Smara,10,28.290892,-11.531591,0,4,2018
+2154809165,Gelochelidon nilotica,MA,"(33,0330,-8,6903)",Doukkala-Abda,15,33.03297,-8.690282,38,4,2018
+2125769006,Gelochelidon nilotica,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2018
+2137884501,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+2736799178,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,6,35.195835,-6.111832,7,3,2007
+2723713159,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+3289878607,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2011
+1791205955,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2016
+3547071438,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2213229729,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2016
+2786458876,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2010
+2157402218,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,65,30.36236,-9.586773,10,4,2018
+3293933563,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2012
+2680011127,Gelochelidon nilotica,MA,"Pin on owl spot. (34.8520,-6.2365)",Gharb-Chrarda-Beni Hssen,8,34.851986,-6.236473,13,4,2019
+2695227581,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,3,35.152462,-6.102734,13,3,2008
+3301289905,Gelochelidon nilotica,MA,MA-Agadir (Oued Sous),Sous-Massa-Draa,3,30.366068,-9.591254,11,4,2019
+3689873071,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+2147121927,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,6,30.711512,-9.855123,9,4,2018
+2143498907,Gelochelidon nilotica,MA,"(30,9628,-6,7535)",Sous-Massa-Draa,2,30.96285,-6.753508,1102,3,2018
+1165972579,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2667507235,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+942115748,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,6,2008
+3282947763,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+2159165869,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+2153874199,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2145826593,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2167037494,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+2681886751,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2145397474,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+3295381544,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2009
+3283533533,Gelochelidon nilotica,MA,MA-Agadir (Oued Sous),Sous-Massa-Draa,20,30.366068,-9.591254,11,4,2016
+2207373488,Gelochelidon nilotica,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.014)",Rabat-Salé-Zemmour-Zaer,1,33.88896,-7.014481,12,9,2018
+1411491301,Gelochelidon nilotica,MA,Barrage El Mansour - Est,Sous-Massa-Draa,1,30.96676,-6.722485,1094,4,2013
+2788549731,Gelochelidon nilotica,MA,Oued Noun,Sous-Massa-Draa,2,29.139307,-10.40838,10,9,2019
+2675626898,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,20,31.093885,-4.051035,696,4,2019
+3521867773,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,3,2021
+1788723980,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,4,2014
+3519985760,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,4,2021
+3600892963,Gelochelidon nilotica,MA,Casablanca - El Hank,Grand Casablanca,1,33.6139,-7.650566,5,9,2021
+2137642539,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+3206978323,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+1389971260,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2001
+2206653496,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+3291637865,Gelochelidon nilotica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,6,28.04759,-12.226908,0,11,2011
+2079592047,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+2671008518,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+1409667599,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,5,2013
+1786483289,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,12,34.24279,-6.672684,7,4,2015
+2151123414,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2018
+2175671028,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,5,2018
+2112082417,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,5,2013
+2790203050,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2016
+3579657901,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,9,30.918804,-6.835792,1093,4,2008
+3623863738,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2016
+1402854470,Gelochelidon nilotica,MA,Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,5,34.8818,-6.261735,10,5,2015
+1726399841,Gelochelidon nilotica,MA,Draa valley,Sous-Massa-Draa,12,30.710432,-6.589147,1607,3,2016
+2798709751,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,9,2019
+2788063717,Gelochelidon nilotica,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2012
+3567962741,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,7,2010
+3283158044,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,75,30.36236,-9.586773,10,3,2006
+2755691802,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2007
+2774276990,Gelochelidon nilotica,MA,Ksar seghir,Tanger-Tétouan,1,35.84595,-5.562096,23,8,2004
+3275239391,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2013
+2672491930,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+1786475765,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,12,30.918804,-6.835792,1093,3,2015
+1355674620,Gelochelidon nilotica,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2154079799,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+2160475545,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,6,33.54445,-7.761624,14,4,2018
+2664511660,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,9,31.093885,-4.051035,696,4,2019
+2682743411,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,76,30.36236,-9.586773,10,4,2019
+961139257,Gelochelidon nilotica,MA,Agadir,Sous-Massa-Draa,4,30.410782,-9.492187,87,7,2013
+2163093137,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,4,2018
+3271259832,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,4,2003
+2052979271,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,6,30.918804,-6.835792,1093,4,2017
+2134637468,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,20,30.918804,-6.835792,1093,4,2018
+3293209355,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,7,2010
+2691457689,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,4,2018
+2141899863,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2679122562,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2683133512,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,25,30.627277,-9.886665,9,4,2019
+3568748650,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,4,2008
+3676174360,Gelochelidon nilotica,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,4,2018
+2094294230,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,8,2017
+2726909926,Gelochelidon nilotica,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2008
+2698092335,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2181917306,Gelochelidon nilotica,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,4,2013
+3543589418,Gelochelidon nilotica,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,1,28.20494,-11.781549,0,9,2021
+2682294303,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2745423498,Gelochelidon nilotica,MA,"Aoufous, río",Meknès-Tafilalet,4,31.669416,-4.192797,869,4,2019
+2675380226,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,6,35.195835,-6.111832,7,3,2007
+2052242502,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+1750253093,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,12,30.918804,-6.835792,1093,3,2016
+3207455221,Gelochelidon nilotica,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,50,34.87073,-6.252789,11,4,2016
+2167634871,Gelochelidon nilotica,MA,Merja de Fouwarate,Gharb-Chrarda-Beni Hssen,1,34.27052,-6.540161,12,6,2018
+2732779984,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+2752144675,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+946934594,Gelochelidon nilotica,MA,MA-Meknès-Tafilalet - 31.0967x-4.0589 - 14 apr. 2013 17:48,Meknès-Tafilalet,3,31.096708,-4.058892,696,4,2013
+3256465529,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2001
+3273063440,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,20,30.070282,-9.662819,21,4,2009
+2185137740,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2011
+2176928760,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,5,2018
+2725336015,Gelochelidon nilotica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,3,34.85138,-6.235814,7,3,2016
+1164456663,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,26,30.36236,-9.586773,10,4,2014
+3549240329,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2021
+2161467713,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+3201763730,Gelochelidon nilotica,MA,"Tamri, Souss-Massa, MA (30.628, -9.868)",Sous-Massa-Draa,1,30.627853,-9.868313,64,3,2014
+3208794980,Gelochelidon nilotica,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,6,30.64619,-9.884273,16,4,2006
+3290066845,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2009
+1167758655,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2014
+2711191028,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2018
+1357290495,Gelochelidon nilotica,MA,Agadir area,Sous-Massa-Draa,2,30.4013,-9.5911,29,3,2015
+1794566340,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2777896009,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,4,2019
+2801025738,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+3293850366,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,20,30.185549,-9.627369,90,4,2006
+3206284372,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+2153799291,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+1723997099,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+2665571791,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+1721631297,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+3293771857,Gelochelidon nilotica,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,4,2007
+2743524592,Gelochelidon nilotica,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,2,33.992977,-6.801205,9,5,2019
+2129637797,Gelochelidon nilotica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,50,34.85138,-6.235814,7,4,2018
+2156086129,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2753220147,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2019
+2781428644,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2668976583,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2019
+1735380776,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,20,31.486546,-9.769808,9,4,2016
+3265719392,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2003
+3679863052,Gelochelidon nilotica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,6,2002
+1178848296,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2013
+2227402678,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,17,30.36236,-9.586773,10,4,2011
+2681520098,Gelochelidon nilotica,MA,Akel el-Kbir (Île du Bou Regreg),Rabat-Salé-Zemmour-Zaer,2,33.964817,-6.776376,61,4,2019
+2791336868,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,12,30.918804,-6.835792,1093,3,2016
+1786481343,Gelochelidon nilotica,MA,Merja Ouled Sgher,Tanger-Tétouan,6,35.049885,-6.207318,19,4,2015
+2146493926,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+2198801403,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2011
+2149727388,Gelochelidon nilotica,MA,Ecolodge Lile,Sous-Massa-Draa,4,30.905994,-6.857031,1115,3,2018
+3558831440,Gelochelidon nilotica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2008
+3570427605,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2000
+2667827209,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,4,2019
+3208409034,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2007
+3296554316,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2761358713,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,25,30.627277,-9.886665,9,4,2019
+966444436,Gelochelidon nilotica,MA,Loukkos Estuary,Tanger-Tétouan,2,35.195183,-6.125122,7,7,2008
+2725975248,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+1402855802,Gelochelidon nilotica,MA,Ouled Mesbah,Gharb-Chrarda-Beni Hssen,1,34.793415,-6.311667,9,5,2015
+588039715,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+2215849592,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,2,28.001081,-12.342865,7,4,2017
+3582993699,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+2146897201,Gelochelidon nilotica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+3549971921,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2008
+2788172521,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,5,2019
+2714267995,Gelochelidon nilotica,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,4,30.28438,-9.580526,24,4,2002
+1410653113,Gelochelidon nilotica,EH,Laayoune,Western Sahara,2,27.163069,-13.194344,19,3,2011
+2124843390,Gelochelidon nilotica,MA,Cap Beddouza,Doukkala-Abda,2,32.54151,-9.282649,31,4,2017
+2756854977,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,70,30.36236,-9.586773,10,4,2019
+2719773651,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2748894578,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,4,2019
+3729566312,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.363979,-9.592202,10,10,2020
+2840875802,Gelochelidon nilotica,MA,Morocco - Agadir,,51,30.362946,-9.585618,8,3,2015
+2833755731,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,8,33.544529,-7.759473,13,5,2019
+1735167159,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,40,30.185549,-9.627369,90,4,2016
+3290574235,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2013
+1787861934,Gelochelidon nilotica,MA,Lac Dayet Srij,Meknès-Tafilalet,1,31.09253,-4.052325,687,3,2013
+2146494858,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2673180796,Gelochelidon nilotica,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,4,29.96278,-9.659664,9,3,2019
+3212217626,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2006
+1784987284,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,7,2014
+1735388315,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,40,30.185549,-9.627369,90,4,2016
+1789940672,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2009
+2209705822,Gelochelidon nilotica,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.014)",Rabat-Salé-Zemmour-Zaer,1,33.88896,-7.014481,12,9,2018
+2674310630,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3655986166,Gelochelidon nilotica,MA,Oued Sous,Sous-Massa-Draa,63,30.356562,-9.590331,13,4,2006
+2791643052,Gelochelidon nilotica,ES,Playa de Calamocarro,Ceuta,2,35.911804,-5.357037,7,8,2014
+2048662531,Gelochelidon nilotica,MA,Akel el-Kbir (Île du Bou Regreg),Rabat-Salé-Zemmour-Zaer,1,33.964817,-6.776376,61,3,2017
+2145396673,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2751747691,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,4,2019
+2685557647,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+3572460869,Gelochelidon nilotica,MA,"Gué sur l'oued Drâa, MA (28,555, -11,05)",Guelmim-Es Smara,4,28.554504,-11.050165,9,8,2021
+967576611,Gelochelidon nilotica,MA,"Lukos River, Morocco",Gharb-Chrarda-Beni Hssen,1,34.854576,-6.215461,6,9,2013
+2670321146,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,5,30.627277,-9.886665,9,4,2019
+3653880536,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,8,2021
+2670972330,Gelochelidon nilotica,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,2,30.96861,-6.758807,1106,4,2019
+1157959032,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2014
+2760084910,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2019
+3564619342,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,200,30.36236,-9.586773,10,4,2018
+2733354373,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,80,31.093885,-4.051035,696,4,2019
+2729557124,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,3,2019
+3261288690,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2142928511,Gelochelidon nilotica,MA,Station d'épuration de Guelmim,Guelmim-Es Smara,21,28.926205,-10.145052,226,4,2018
+2749684436,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,4,2019
+2108319521,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2002
+2771825413,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2016
+2741934971,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+2719295044,Gelochelidon nilotica,MA,Barrage de Lalla Takerkoust (Barrage du Oued N'Fiss),Marrakech-Tensift-Al Haouz,2,31.338829,-8.142242,654,4,2018
+3637550782,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,4,30.711512,-9.855123,9,4,2018
+1406438760,Gelochelidon nilotica,MA,sous,Sous-Massa-Draa,1,30.367025,-9.599948,11,6,2006
+3557554374,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2668562143,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+1721526577,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2196554619,Gelochelidon nilotica,ES,"47 Calle 028 Explanada de Ponie, Ceuta, Ceuta, ES (35,896, -5,328)",Ceuta,2,35.895973,-5.328383,11,10,2018
+2678232767,Gelochelidon nilotica,MA,"Parc Sindibad Casablanca MA-Grand Casablanca (,-7.6766)",Grand Casablanca,2,33.59713,-7.676616,5,4,2019
+2156156674,Gelochelidon nilotica,MA,R. Jabal Toubkal (زنقة جبال توبقال),Rabat-Salé-Zemmour-Zaer,7,33.996597,-6.848962,55,4,2018
+1357446904,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,21,30.185549,-9.627369,90,4,2015
+3288961753,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+1791780245,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,3,2013
+2763183522,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+3272840172,Gelochelidon nilotica,MA,Souss Estuary,Sous-Massa-Draa,1,30.362955,-9.585157,9,3,2014
+2726241573,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,7,31.093885,-4.051035,696,3,2019
+2726974794,Gelochelidon nilotica,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2012
+2755933125,Gelochelidon nilotica,MA,Tata,Guelmim-Es Smara,1,29.743382,-7.976682,673,3,2018
+1792489707,Gelochelidon nilotica,MA,Oued Souss,Sous-Massa-Draa,1,30.359535,-9.593768,10,1,2004
+3271814892,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2019
+946944289,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2832636694,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.365877,-9.595856,11,8,2015
+2768178858,Gelochelidon nilotica,MA,"Agadir--Oued Souss, S of city",Sous-Massa-Draa,1,30.36324,-9.58232,8,8,2018
+2844719311,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.543053,-7.764557,14,4,2019
+2840685987,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362916,-9.585163,9,3,2017
+2833012510,Gelochelidon nilotica,MA,Morocco - Agadir,,8,30.361593,-9.576345,15,3,2017
+3892621125,Gelochelidon nilotica,MA,,Souss - Massa - Draâ,1,30.956688,-6.743633,1093,8,2022
+2839389286,Gelochelidon nilotica,MA,Morocco - Agadir,,8,30.362552,-9.575681,7,4,2016
+2837446315,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,6,33.543362,-7.765617,9,4,2018
+3210845879,Gelochelidon nilotica,MA,MA-Moulay Bousselham (Merja Zerga),Gharb-Chrarda-Beni Hssen,6,34.86416,-6.240557,7,4,2019
+1203523784,Gelochelidon nilotica,MA,Marrakech - Agadir road,Sous-Massa-Draa,2,30.771025,-9.158478,971,3,2007
+2835977881,Gelochelidon nilotica,MA,Morocco - Essaouira,,5,31.485852,-9.768451,9,6,2019
+2838565610,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,30,34.875465,-6.296507,19,4,2012
+2832767406,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,5,30.923025,-6.865751,1098,4,2016
+2832446788,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.366892,-9.59816,11,6,2014
+2836238743,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362916,-9.585163,9,3,2017
+2838541712,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,7,34.803802,-6.309843,12,4,2012
+1763995996,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2008
+2795581707,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,3,2019
+2138654662,Gelochelidon nilotica,MA,"(30,3254,-5,8306)",Sous-Massa-Draa,2,30.325386,-5.830635,712,3,2018
+2765738326,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,70,30.36236,-9.586773,10,4,2019
+2835921486,Gelochelidon nilotica,MA,Morocco - Agadir,,4,30.362876,-9.585985,8,4,2016
+3718506676,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.363246,-9.592722,11,10,2020
+2840036439,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,3,30.92304,-6.865773,1098,4,2016
+2839635459,Gelochelidon nilotica,MA,Morocco - Agadir,,16,30.362915,-9.584355,9,3,2016
+3207282117,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2013
+1791775464,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,25,30.918804,-6.835792,1093,3,2013
+831954119,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2012
+2747793933,Gelochelidon nilotica,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,5,2019
+3726541209,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.362877,-9.589662,7,7,2020
+2739932443,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+923389005,Gelochelidon nilotica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,12,2001
+2712573322,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+2841615099,Gelochelidon nilotica,MA,Morocco - Nador - La sebkha Bou Areg (lagune de Nador),,10,35.105754,-2.749658,4,6,2019
+3760261706,Gelochelidon nilotica,MA,,Chaouia - Ouardigha,1,33.103887,-7.341374,433,4,2022
+3325820502,Gelochelidon nilotica,MA,,Chaouia - Ouardigha,1,33.100442,-7.34438,439,6,2021
+2980981840,Gelochelidon nilotica,MA,,Souss - Massa - Draâ,1,29.967707,-9.655471,10,3,2006
+2839544407,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.3625,-9.5756,7,4,2016
+3728316924,Gelochelidon nilotica,MA,Morocco - Merja Halloufa (Nord de Merja Zerga),,50,34.971758,-6.241837,11,5,2018
+1794573733,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2840308461,Gelochelidon nilotica,MA,Morocco - Agadir,,12,30.3628,-9.5832,11,4,2017
+2832739175,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,23,30.922906,-6.872014,1104,3,2016
+2832506757,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,6,30.92,-6.88,1109,3,2015
+3715654635,Gelochelidon nilotica,MA,Morocco - Marais de El Otba,,13,32.9359,-8.7892,8,4,2018
+2832409086,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.366033,-9.598789,11,8,2013
+3772533773,Gelochelidon nilotica,MA,,Chaouia - Ouardigha,1,33.101804,-7.34625,432,5,2022
+2832420484,Gelochelidon nilotica,MA,Morocco - Inezgane,,6,30.3568,-9.5746,18,3,2014
+2717745457,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,50,31.093885,-4.051035,696,4,2019
+2124839678,Gelochelidon nilotica,MA,Barrage Al-Hassan Addakhil,Meknès-Tafilalet,7,31.972101,-4.444768,1036,4,2017
+2780749718,Gelochelidon nilotica,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,5,2019
+3200981024,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2003
+1735170267,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,40,30.185549,-9.627369,90,4,2016
+2131046954,Gelochelidon nilotica,MA,Barrage El Mansour Eddahbi – central peninsula,Sous-Massa-Draa,1,30.937054,-6.792083,1116,3,2018
+2666219998,Gelochelidon nilotica,MA,"Parc Sindibad Casablanca MA-Grand Casablanca (,-7.6766)",Grand Casablanca,2,33.59713,-7.676616,5,4,2019
+2766693326,Gelochelidon nilotica,MA,"Aoufous, río",Meknès-Tafilalet,4,31.669416,-4.192797,869,4,2019
+2792150784,Gelochelidon nilotica,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2013
+946733859,Gelochelidon nilotica,MA,30.9205x-6.9059 - 9 apr. 2013 22:01,Sous-Massa-Draa,1,30.920475,-6.905865,1141,4,2013
+3205140274,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2005
+3211236072,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,8,2013
+1355021229,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2015
+3209134016,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,5,35.152462,-6.102734,13,4,2007
+2717415791,Gelochelidon nilotica,MA,Agadir - Tamri Road,Sous-Massa-Draa,2,30.474588,-9.66627,65,4,2010
+2770103361,Gelochelidon nilotica,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,2,30.96861,-6.758807,1106,4,2019
+2142149707,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2018
+3548352058,Gelochelidon nilotica,MA,Agadir--Al-Massira Airport,Sous-Massa-Draa,5,30.333006,-9.410392,66,4,2015
+2166650198,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,5,2018
+3586831114,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2013
+3586768788,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2018
+1167614983,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2717158993,Gelochelidon nilotica,ES,Benzú,Ceuta,7,35.915916,-5.372888,13,10,2002
+2666162808,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,83,31.093885,-4.051035,696,4,2019
+1721520339,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+3679657030,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+2155770331,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2759468699,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,76,30.36236,-9.586773,10,4,2019
+2753796707,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2018
+2680573323,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,4,2019
+2160586134,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2677368065,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2019
+2144862682,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2018
+3546743984,Gelochelidon nilotica,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2730878901,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+2795907438,Gelochelidon nilotica,MA,Barrage de Lalla Takerkoust (Barrage du Oued N'Fiss),Marrakech-Tensift-Al Haouz,2,31.338829,-8.142242,654,4,2018
+3543755508,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,6,2012
+2658084594,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,5,2008
+2671108044,Gelochelidon nilotica,MA,"Pin on owl spot. (34.8520,-6.2365)",Gharb-Chrarda-Beni Hssen,8,34.851986,-6.236473,13,4,2019
+2145824455,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2665710754,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,20,31.093885,-4.051035,696,4,2019
+1793176277,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2012
+2801858988,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,4,2014
+2739312399,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+2790484726,Gelochelidon nilotica,MA,Lac Afenourir,Meknès-Tafilalet,1,33.280018,-5.250915,1808,4,2007
+2132250598,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,3,2017
+3188199655,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,6,30.918804,-6.835792,1093,4,2009
+1784933432,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,12,30.918804,-6.835792,1093,3,2015
+2750947339,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+2042879220,Gelochelidon nilotica,MA,Sidi Wassay,Sous-Massa-Draa,1,30.058434,-9.686465,21,2,2017
+2678169720,Gelochelidon nilotica,MA,Assif n'Srou,Sous-Massa-Draa,1,30.665453,-9.876687,76,5,2019
+2793025347,Gelochelidon nilotica,ES,Punta Blanca,Ceuta,4,35.91375,-5.360241,1,4,2014
+2765079554,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+1394828864,Gelochelidon nilotica,MA,"Embouchure de l'Oued Souss, Agadir, Maroc - je MA-Souss-Massa-Drâa-Inezgane Ait Melloul-86356 - 30.3628x-9.5866",Sous-Massa-Draa,1,30.362787,-9.586561,7,7,2015
+1721627832,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+2716225716,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,4,2010
+2756240971,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,6,35.195835,-6.111832,7,3,2007
+2718358578,Gelochelidon nilotica,MA,Marais d'el-Hotba,Doukkala-Abda,2,32.916702,-8.815498,0,4,2007
+2043852265,Gelochelidon nilotica,MA,"35,18x-6,117 - 15 abr. 2017 8:56",Tanger-Tétouan,6,35.179604,-6.116892,5,4,2017
+2759673673,Gelochelidon nilotica,MA,Station d'épuration de Guelmim,Guelmim-Es Smara,21,28.926205,-10.145052,226,4,2018
+2669079164,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2717115805,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,60,30.185549,-9.627369,90,3,2008
+2760208978,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+3284225094,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,12,2004
+2732868750,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+2150694933,Gelochelidon nilotica,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,12,2012
+2782303490,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,11,34.013096,-6.813711,11,5,2019
+2683600802,Gelochelidon nilotica,MA,"Drâa-Tafilalet, MA (31,101, -4,056)",Meknès-Tafilalet,1,31.101194,-4.056352,689,3,2019
+2672027549,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3216322997,Gelochelidon nilotica,MA,Embouchure de l'Oued Sebou,Gharb-Chrarda-Beni Hssen,4,34.270313,-6.656759,0,5,2017
+2786137508,Gelochelidon nilotica,MA,"(30,0592,-9,6871)",Sous-Massa-Draa,4,30.059162,-9.687074,19,3,2018
+2796389553,Gelochelidon nilotica,MA,Merzouga-Rissani,Meknès-Tafilalet,1,31.232,-4.083,744,4,2019
+2801857809,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2018
+1735170701,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,20,31.486546,-9.769808,9,4,2016
+2683256791,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,20,31.093885,-4.051035,696,4,2019
+1721430132,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2134183803,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,4,2007
+2165892011,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2719634268,Gelochelidon nilotica,MA,Parc d'Ifni منتزه سيدي افني,Sous-Massa-Draa,1,29.38905,-10.170848,11,3,2018
+2150191437,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+2150632318,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,12,34.013096,-6.813711,11,5,2018
+2678926362,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+2154075525,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2018
+2143088013,Gelochelidon nilotica,MA,Oued el-Ouaar,Laâyoune-Boujdour-Sakia el Hamra,5,28.172533,-11.869138,13,3,2018
+2797043569,Gelochelidon nilotica,MA,"Drâa-Tafilalet, MA (31,09, -4,04)",Meknès-Tafilalet,1,31.08986,-4.040245,695,3,2019
+2791488519,Gelochelidon nilotica,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2770014887,Gelochelidon nilotica,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,2,30.96861,-6.758807,1106,4,2019
+1730174059,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+3215413064,Gelochelidon nilotica,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,8,2001
+2155411538,Gelochelidon nilotica,MA,Merja Ouled Sgher,Tanger-Tétouan,23,35.049885,-6.207318,19,4,2018
+1396337475,Gelochelidon nilotica,MA,Cafe Yasmina,Meknès-Tafilalet,1,31.2142,-3.9883,732,4,2007
+3210155669,Gelochelidon nilotica,MA,MA-Merzouga (Lac Dayet Srij),Meknès-Tafilalet,20,31.103954,-4.048814,695,4,2019
+2168918955,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+2675149711,Gelochelidon nilotica,MA,MA—Lake Merzouga,Meknès-Tafilalet,2,31.105577,-4.052028,688,3,2019
+2731491785,Gelochelidon nilotica,MA,Hassan II Mosque esplanade,Grand Casablanca,2,33.60974,-7.629224,11,3,2019
+2685709964,Gelochelidon nilotica,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,2,30.96861,-6.758807,1106,4,2019
+2677999352,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2019
+2671442338,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2683665955,Gelochelidon nilotica,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,2,30.96861,-6.758807,1106,4,2019
+2665690807,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,46,30.918804,-6.835792,1093,4,2019
+2780774294,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2018
+1744718268,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,40,30.185549,-9.627369,90,4,2016
+2154216743,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+2157432535,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+1770194336,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2016
+2155768154,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,16,30.918804,-6.835792,1093,4,2018
+3284945985,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,25,35.152462,-6.102734,13,3,2003
+1784884789,Gelochelidon nilotica,MA,Merja Ouled Sgher,Tanger-Tétouan,6,35.049885,-6.207318,19,4,2015
+2146897154,Gelochelidon nilotica,MA,"(33,5445,-7,7594)",Grand Casablanca,5,33.544533,-7.75944,14,4,2018
+2786394015,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+1394813616,Gelochelidon nilotica,MA,"Embouchure de l'Oued Souss, Agadir, Maroc - je MA-Souss-Massa-Drâa-Inezgane Ait Melloul-86356 - 30.3628x-9.5866",Sous-Massa-Draa,1,30.362787,-9.586561,7,7,2015
+2731149092,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,83,31.093885,-4.051035,696,4,2019
+2760115526,Gelochelidon nilotica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,11,2002
+2149687553,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,12,34.013096,-6.813711,11,5,2018
+3170919303,Gelochelidon nilotica,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,11,2003
+2667278930,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,9,31.093885,-4.051035,696,4,2019
+2768884481,Gelochelidon nilotica,MA,"Aoufous, río",Meknès-Tafilalet,4,31.669416,-4.192797,869,4,2019
+1726273419,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2016
+2662776889,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+829229595,Gelochelidon nilotica,MA,Agadir - Oued Sous,Sous-Massa-Draa,1,30.269228,-9.612263,74,3,2001
+3526132281,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,7,2021
+2711672214,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+1411496462,Gelochelidon nilotica,MA,Barrage El Mansour - centre,Sous-Massa-Draa,1,30.958942,-6.755862,1112,4,2013
+2751180596,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+2149436994,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,5,2005
+1764146332,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2008
+2665161669,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,3,2019
+2161456404,Gelochelidon nilotica,MA,Strawberry Fields Forever,Gharb-Chrarda-Beni Hssen,2,34.847195,-6.238362,10,4,2018
+3281772496,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+3298518420,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,10,34.855213,-6.270397,8,3,2009
+2666411837,Gelochelidon nilotica,MA,"Pin on owl spot. (34.8520,-6.2365)",Gharb-Chrarda-Beni Hssen,8,34.851986,-6.236473,13,4,2019
+2670312861,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+3658386687,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2004
+2034616929,Gelochelidon nilotica,MA,Sidi Wassay--Residence Fanti,Sous-Massa-Draa,1,30.057793,-9.686536,25,2,2017
+2138361174,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2112086606,Gelochelidon nilotica,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,7,34.9664,-6.23517,15,5,2013
+2674391591,Gelochelidon nilotica,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,5,2019
+3168322961,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,7,2020
+1734927995,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,40,30.185549,-9.627369,90,4,2016
+2712487019,Gelochelidon nilotica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,1,2012
+2664249829,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,9,31.093885,-4.051035,696,4,2019
+2084537305,Gelochelidon nilotica,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,9,2017
+3285696735,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,75,31.093885,-4.051035,696,4,2009
+1182125799,Gelochelidon nilotica,MA,Embouchure Oued Ksob depuis le pont de DiabatMA-Marrakesh-Tensift-El Haouz-Diabat - 31.4845x-9.7657 - 23 juil. 2014 07:26,Marrakech-Tensift-Al Haouz,1,31.484526,-9.765669,8,7,2014
+2159180216,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,5,2018
+2158387257,Gelochelidon nilotica,MA,Ouarzazate-P1505 - 30.9791x-7.2186,Sous-Massa-Draa,10,30.97914,-7.218591,1274,4,2018
+1167762930,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2014
+2161450506,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2018
+3290832034,Gelochelidon nilotica,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,4,2007
+1720623384,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2016
+2671060515,Gelochelidon nilotica,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,9,30.96178,-6.757993,1105,4,2019
+3286770816,Gelochelidon nilotica,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,15,34.868355,-6.293106,14,4,2009
+2709562861,Gelochelidon nilotica,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,3,28.677202,-11.117936,17,9,2013
+1396341583,Gelochelidon nilotica,MA,Al-Mansour Ad-Dahbi,Sous-Massa-Draa,2,30.9223,-6.8498,1093,4,2007
+1786480266,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,4,2015
+3293299602,Gelochelidon nilotica,MA,PN Merdja Zerka,Gharb-Chrarda-Beni Hssen,1,34.821304,-6.297861,9,4,2008
+3189342156,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,7,2020
+2726138238,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,3,2006
+2682635042,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+1750245491,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2016
+1763560623,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,4,2007
+2660383728,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2019
+2680662268,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2777499886,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,16,31.093885,-4.051035,696,3,2019
+1168967695,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,26,30.36236,-9.586773,10,4,2014
+3563003489,Gelochelidon nilotica,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+3293191341,Gelochelidon nilotica,MA,Safi viewpoint منطقة مشاهدة الطيورالبحرية باسفي,Doukkala-Abda,5,32.322613,-9.25875,79,4,2006
+2162606006,Gelochelidon nilotica,MA,"87452 Chtouka Ait Baha, Chtouka Ait Baha MA-Souss-Massa-Drâa (29.9884,-9.6658)",Sous-Massa-Draa,1,29.988428,-9.66579,14,5,2018
+2146760196,Gelochelidon nilotica,MA,"(34,8043,-6,3098)",Gharb-Chrarda-Beni Hssen,30,34.804264,-6.309818,11,4,2018
+2686494321,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,6,2019
+1369602598,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2015
+2680038990,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2019
+1735182550,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,20,31.486546,-9.769808,9,4,2016
+829194222,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2004
+1396342831,Gelochelidon nilotica,MA,Al-Mansour Ad-Dahbi,Sous-Massa-Draa,11,30.9223,-6.8498,1093,4,2007
+2716110040,Gelochelidon nilotica,MA,Oued Draa - Draa Valley | Passage,Guelmim-Es Smara,1,28.554478,-11.050788,11,4,2012
+2683663133,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,4,2019
+3296135233,Gelochelidon nilotica,MA,"Oued Chbika, Guelmim-Oued Noun, MA (28,296, -11,532)",Guelmim-Es Smara,46,28.296349,-11.532182,0,4,2016
+3528859393,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2021
+3568249282,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,8,2021
+2726994873,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+2744315710,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,30,30.918804,-6.835792,1093,4,2019
+3200281209,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,6,30.918804,-6.835792,1093,4,2003
+1744730570,Gelochelidon nilotica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,20,31.486546,-9.769808,9,4,2016
+1791771270,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2013
+2154619513,Gelochelidon nilotica,MA,"(30,0592,-9,6871)",Sous-Massa-Draa,4,30.059162,-9.687074,19,3,2018
+2710321674,Gelochelidon nilotica,MA,"(33,0330,-8,6903)",Doukkala-Abda,15,33.03297,-8.690282,38,4,2018
+2675788360,Gelochelidon nilotica,MA,"Pin on owl spot. (34.8520,-6.2365)",Gharb-Chrarda-Beni Hssen,8,34.851986,-6.236473,13,4,2019
+2157565037,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+3179980939,Gelochelidon nilotica,MA,Plage de Tifnit,Sous-Massa-Draa,13,30.201324,-9.641147,12,7,2020
+3285810050,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2002
+1721634109,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2016
+2724399192,Gelochelidon nilotica,MA,Daya de Tnine Gharbia,Doukkala-Abda,5,32.61937,-8.850378,122,4,2009
+2130600654,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2018
+2039854144,Gelochelidon nilotica,MA,Sidi Wassay,Sous-Massa-Draa,1,30.058434,-9.686465,21,2,2017
+2158222575,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2018
+2152666656,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2018
+2198427898,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2014
+1721524142,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2016
+2738716842,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+2053475114,Gelochelidon nilotica,MA,merja zerga,Gharb-Chrarda-Beni Hssen,4,34.878242,-6.284725,24,3,2017
+1410516136,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,6,31.50961,-9.773447,12,3,2014
+1789065753,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2013
+1162000483,Gelochelidon nilotica,MA,Rabat (general area),Rabat-Salé-Zemmour-Zaer,4,34.014935,-6.832794,42,3,2014
+2048669181,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,3,2017
+1401705128,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2015
+2146959517,Gelochelidon nilotica,MA,El Merdja Salines,Doukkala-Abda,2,32.83036,-8.909845,4,4,2007
+3177354246,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,7,2020
+2076477816,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,8,2017
+2736260707,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,8,31.093885,-4.051035,696,4,2019
+3606524053,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+1791982368,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2011
+2719083876,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2010
+2766662491,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,5,2019
+2724247779,Gelochelidon nilotica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2016
+2667704344,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2659542770,Gelochelidon nilotica,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,3,2019
+2670370267,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+948409018,Gelochelidon nilotica,MA,Loukkos Estuary,Tanger-Tétouan,18,35.195183,-6.125122,7,7,2008
+3203773820,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2018
+2739033212,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,5,2019
+2664089935,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,9,31.093885,-4.051035,696,4,2019
+2791940979,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2010
+3277499331,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+1784896094,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,4,2015
+2685531827,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+3629751882,Gelochelidon nilotica,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+2661072302,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,3,31.50961,-9.773447,12,5,2008
+2789350733,Gelochelidon nilotica,MA,Merja Zerga (Gnafda),Gharb-Chrarda-Beni Hssen,10,34.81589,-6.265566,8,4,2016
+2158057763,Gelochelidon nilotica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,7,34.013096,-6.813711,11,5,2018
+3555970276,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,6,2012
+1784881771,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,4,2015
+3280504311,Gelochelidon nilotica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2001
+3624514727,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2021
+3285081612,Gelochelidon nilotica,MA,Oualidia tidal marshes,Doukkala-Abda,7,32.75977,-9.007502,5,5,2010
+3574496696,Gelochelidon nilotica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,11,2021
+2696176862,Gelochelidon nilotica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,25,30.627277,-9.886665,9,4,2019
+3297168766,Gelochelidon nilotica,MA,MA-Essaouira (Mogador Island Viewpoint),Marrakech-Tensift-Al Haouz,2,31.507145,-9.775323,6,4,2019
+2182903981,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,5,2018
+3583834280,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2019
+2104049909,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2002
+1791356704,Gelochelidon nilotica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,10,2006
+2797589468,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,4,2007
+3629535389,Gelochelidon nilotica,MA,"Décharge de Missour, MA (33.077, -3.987)",Fès-Boulemane,1,33.07679,-3.986551,898,7,2021
+2211574767,Gelochelidon nilotica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2018
+2229565370,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,17,30.36236,-9.586773,10,4,2011
+3200132785,Gelochelidon nilotica,MA,"Unnamed Road, Agadir, Souss Massa, MA (30,373, -9,604)",Sous-Massa-Draa,1,30.373161,-9.604058,12,3,2016
+3729717726,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.544014,-7.761808,14,4,2021
+2836377339,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.544793,-7.760854,15,4,2017
+2835122465,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.3625,-9.5756,7,4,2016
+2840294989,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.4814,-9.7642,10,4,2018
+2059805134,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,14,30.36236,-9.586773,10,4,2017
+1774639586,Gelochelidon nilotica,MA,Barrage de Bouanane,L'Oriental,10,32.131264,-2.889297,862,6,2016
+2781679952,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,4,2019
+2844190274,Gelochelidon nilotica,MA,Morocco - Agadir,,50,30.36179,-9.571901,8,4,2018
+2999147526,Gelochelidon nilotica,MA,,Souss - Massa - Draâ,1,30.348357,-9.575573,12,3,2006
+2842347782,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.4867,-9.7688,11,8,2017
+2734214452,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2684303288,Gelochelidon nilotica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,7,33.54445,-7.761624,14,5,2019
+2839175360,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,1,33.543576,-7.765688,10,11,2019
+2203765217,Gelochelidon nilotica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2018
+1410657863,Gelochelidon nilotica,MA,Khnifiss lagoon area (including boat trip),Laâyoune-Boujdour-Sakia el Hamra,1,28.027061,-12.26027,10,3,2011
+2843964641,Gelochelidon nilotica,MA,Morocco - Agadir,,51,30.362946,-9.585618,8,3,2015
+3823908976,Gelochelidon nilotica,MA,Morocco - Bouguargouh,,3,33.09926,-7.342379,440,4,2022
+2842263351,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362458,-9.57699,10,4,2016
+2839895890,Gelochelidon nilotica,MA,Morocco - Dcheira El Jihadia,,1,30.364894,-9.542194,12,4,2015
+2832446025,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,1,34.873743,-6.265877,6,9,2013
+3258658035,Gelochelidon nilotica,MA,Plage Imi Ouaddar | شاطئ إيمي ودّار,Sous-Massa-Draa,3,30.588,-9.761,10,7,2020
+3180295929,Gelochelidon nilotica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,25,35.152462,-6.102734,13,3,2003
+3597583072,Gelochelidon nilotica,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,2,33.105087,-7.344983,430,6,2021
+2835621643,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,30,34.875465,-6.296507,19,4,2012
+2186510170,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,4,2016
+2124939551,Gelochelidon nilotica,MA,Wadi,Sous-Massa-Draa,1,30.93874,-7.209286,1256,3,2018
+2731736464,Gelochelidon nilotica,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+3638609047,Gelochelidon nilotica,MA,Barrage Zelmou,L'Oriental,2,32.13593,-2.89077,869,9,2009
+2835878614,Gelochelidon nilotica,MA,Morocco - Agadir,,5,30.3628,-9.5846,10,4,2016
+2835644494,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.361609,-9.575486,10,3,2014
+2832579924,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.924701,-6.871417,1100,3,2015
+2836512368,Gelochelidon nilotica,MA,Morocco - Merja Halloufa (Nord de Merja Zerga),,50,34.971758,-6.241837,11,5,2018
+2839059532,Gelochelidon nilotica,MA,Morocco - Laayoune,,1,27.162186,-13.194289,19,4,2014
+2836207424,Gelochelidon nilotica,MA,Morocco - Agadir,,50,30.360965,-9.585385,10,4,2016
+2832819579,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.923198,-6.86116,1096,4,2017
+2836469473,Gelochelidon nilotica,MA,Morocco - Chouafaa,,35,34.990842,-6.203841,34,4,2017
+2835575745,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,30,34.875465,-6.296507,19,4,2012
+2835892616,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,1,34.857623,-6.279545,8,8,2011
+3198300076,Gelochelidon nilotica,MA,"Unnamed Road, Souss Massa, MA (30,368, -9,603)",Sous-Massa-Draa,28,30.367826,-9.602873,11,3,2016
+2840393576,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.3629,-9.5846,10,4,2017
+2839921367,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.9255,-6.8718,1103,4,2016
+2845004104,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.486825,-9.769941,11,9,2019
+2844093213,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.4809,-9.7641,8,4,2018
+1723932267,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,3,2016
+2832991357,Gelochelidon nilotica,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,2,30.9138,-6.8524,1102,3,2017
+2840347193,Gelochelidon nilotica,MA,Morocco - Agadir,,20,30.362857,-9.576464,8,4,2018
+2836795987,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.36179,-9.571901,8,4,2018
+3717863305,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.543825,-7.764872,11,6,2020
+2844547935,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,7,33.544702,-7.760839,15,5,2019
+2836115856,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.362407,-9.576967,10,4,2015
+2841343780,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.362407,-9.576967,10,4,2015
+2842705671,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.923,-6.868,1100,4,2016
+3720198456,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,5,33.542538,-7.76637,13,4,2021
+2836834702,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,1,33.544075,-7.762241,11,6,2018
+2842682708,Gelochelidon nilotica,MA,Morocco - Agadir,,40,30.358345,-9.579931,9,4,2016
+3725133575,Gelochelidon nilotica,MA,Morocco - Marais de El Otba,,5,32.9354,-8.79,10,4,2018
+2836360647,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.3628,-9.5831,13,4,2016
+2839544535,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.3625,-9.5756,7,4,2016
+2842250789,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362906,-9.584644,10,4,2017
+2839793474,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.3628,-9.5831,13,4,2016
+2835673731,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,2,34.816553,-6.299011,9,4,2009
+2840264082,Gelochelidon nilotica,MA,Morocco - Agadir,,20,30.362475,-9.5774,8,4,2018
+2833289835,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,3,33.545089,-7.760981,16,8,2018
+3718432580,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.363986,-9.591349,17,10,2020
+2839999210,Gelochelidon nilotica,MA,Morocco - Région de Merzouga (Erfoud),,3,31.213682,-3.993187,732,4,2012
+2832352682,Gelochelidon nilotica,MA,Morocco - Région de Merzouga (Erfoud),,3,31.20385,-4.038849,729,4,2012
+2835930168,Gelochelidon nilotica,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,3,30.919455,-6.848315,1093,5,2015
+2836215661,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.923,-6.868,1100,4,2016
+2839589657,Gelochelidon nilotica,MA,Morocco - Agadir,,40,30.358345,-9.579931,9,4,2016
+2837384881,Gelochelidon nilotica,MA,Morocco - Lqliaa,,11,30.348904,-9.570443,12,4,2018
+2838328711,Gelochelidon nilotica,MA,Morocco - Massa,,1,29.996524,-9.659394,7,4,2012
+2836294298,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,2,30.923423,-6.866906,1099,4,2017
+2836958932,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.544542,-7.761497,14,4,2019
+2836391429,Gelochelidon nilotica,MA,Morocco - Agadir,,20,30.3623,-9.5755,7,4,2016
+2838331351,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,2,34.816553,-6.299011,9,4,2009
+2841029706,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.3625,-9.5756,7,4,2016
+3730835062,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.541805,-7.76737,16,6,2021
+2834098448,Gelochelidon nilotica,MA,Morocco - Agadir,,50,30.363587,-9.59276,12,4,2019
+2844540581,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362906,-9.584644,10,4,2017
+2840148090,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.362211,-9.592438,13,8,2013
+2832753170,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,1,34.857103,-6.294701,14,4,2011
+2833045243,Gelochelidon nilotica,MA,Morocco - Agadir,,50,30.360965,-9.585385,10,4,2016
+2841580418,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,25,30.923167,-6.866106,1098,4,2016
+2839165703,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.924714,-6.871329,1100,3,2015
+2842133813,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,2,33.541302,-7.767955,12,4,2019
+1837757825,Gelochelidon nilotica,MA,,Souss - Massa - Draâ,1,30.362878,-9.588575,8,3,2018
+2839801530,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,2,30.926194,-6.871894,1100,4,2016
+3728578501,Gelochelidon nilotica,MA,Morocco - Agadir,,3,30.364598,-9.597039,10,3,2014
+2839793588,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.3628,-9.5831,13,4,2016
+2839024548,Gelochelidon nilotica,MA,Morocco - Inezgane,,1,30.3564,-9.5744,17,3,2014
+2836268556,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.363188,-9.58244,8,4,2016
+2832994279,Gelochelidon nilotica,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.92783,-6.805626,1168,4,2013
+2841884976,Gelochelidon nilotica,MA,Morocco - Agadir,,100,30.363988,-9.596786,10,4,2019
+2832186103,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,2,34.854503,-6.272078,14,5,2011
+2841635385,Gelochelidon nilotica,MA,Morocco - Essaouira,,4,31.483978,-9.764814,8,6,2019
+2842031617,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.4234,-9.6066,28,10,2016
+2837722976,Gelochelidon nilotica,MA,Morocco - Essaouira,,1,31.484034,-9.76636,9,3,2019
+2832670526,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,1,30.925386,-6.871411,1104,4,2016
+2833095218,Gelochelidon nilotica,MA,Morocco - Dar Bouazza,,3,33.543635,-7.765416,9,8,2018
+2844189249,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362377,-9.57584,7,3,2016
+2843010857,Gelochelidon nilotica,MA,Morocco - Agadir,,10,30.3628,-9.5831,13,4,2016
+2839125877,Gelochelidon nilotica,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,4,30.921074,-6.857298,1097,4,2015
+2840160281,Gelochelidon nilotica,MA,Morocco - Lqliaa,,11,30.348904,-9.570443,12,4,2018
+2843745386,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.362916,-9.585163,9,3,2017
+2835491242,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,1,34.873743,-6.265877,6,9,2013
+2835400733,Gelochelidon nilotica,MA,Morocco - Merja Zerga Parque National,,7,34.803802,-6.309843,12,4,2012
+2842586591,Gelochelidon nilotica,MA,Morocco - Chouafaa,,35,34.990842,-6.203841,34,4,2017
+2839166587,Gelochelidon nilotica,MA,Morocco - Agadir,,1,30.3629,-9.5857,8,3,2014
+2832633851,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,17,30.928255,-6.864295,1100,4,2015
+2841391559,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.361051,-9.571086,11,4,2016
+2198291358,Gelochelidon nilotica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2013
+2663038176,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,83,31.093885,-4.051035,696,4,2019
+2778570584,Gelochelidon nilotica,MA,"MA., Merja Zerga",Gharb-Chrarda-Beni Hssen,3,34.857285,-6.291062,10,4,2015
+2691711249,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+2165363505,Gelochelidon nilotica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,33,30.36236,-9.586773,10,5,2018
+2767466787,Gelochelidon nilotica,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2841913093,Gelochelidon nilotica,MA,Morocco - Agadir,,15,30.359249,-9.580078,9,6,2014
+2832411844,Gelochelidon nilotica,MA,Morocco - Agadir,,15,30.364951,-9.598961,8,6,2014
+2836562938,Gelochelidon nilotica,MA,Morocco - Chouafaa,,35,34.990842,-6.203841,34,4,2017
+3715652470,Gelochelidon nilotica,MA,Morocco - Marais de El Otba,,13,32.9359,-8.7892,8,4,2018
+3725247499,Gelochelidon nilotica,MA,Morocco - Marais de El Otba,,5,32.9354,-8.79,10,4,2018
+2838704427,Gelochelidon nilotica,MA,Morocco - Moulay Bousselham,,3,34.901278,-6.268129,43,3,2013
+2841591426,Gelochelidon nilotica,MA,Morocco - Ouarzazate,,70,30.923633,-6.869527,1098,4,2016
+2844092975,Gelochelidon nilotica,MA,Morocco - Agadir,,2,30.363122,-9.589065,9,3,2018
+3730835169,Gelochelidon nilotica,MA,Morocco - Bouguargouh,,2,33.100467,-7.344431,439,6,2021

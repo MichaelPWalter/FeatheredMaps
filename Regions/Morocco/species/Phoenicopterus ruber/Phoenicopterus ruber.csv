@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+43813223,Phoenicopterus ruber,MA,,,1,29.709999,-9.73,221,9,2000
+43813209,Phoenicopterus ruber,MA,,,1,34.860001,-6.3,60,4,2000
+2543278891,Phoenicopterus ruber,ES,Melilla,Melilla,1,35.33333,-3.0,199,3,2004

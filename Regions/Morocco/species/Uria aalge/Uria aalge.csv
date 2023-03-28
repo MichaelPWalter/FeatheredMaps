@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3677817415,Uria aalge,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,12,35.91514,-5.362894,6,12,2013
+2711046610,Uria aalge,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,12,2011
+3216276272,Uria aalge,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2002
+2725704800,Uria aalge,ES,Punta Blanca,Ceuta,12,35.91375,-5.360241,1,12,2012

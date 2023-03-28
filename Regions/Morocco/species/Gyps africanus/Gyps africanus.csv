@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3723466252,Gyps africanus,MA,Morocco - Taghramt,,1,35.87,-5.41,297,6,2021
+3582833170,Gyps africanus,MA,Jbel Moussa,Tanger-Tétouan,1,35.898125,-5.412033,807,6,2021

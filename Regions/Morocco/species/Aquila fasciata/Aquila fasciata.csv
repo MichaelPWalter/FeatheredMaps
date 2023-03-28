@@ -1,0 +1,769 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2328366678,Aquila fasciata,MA,Dades-Schlucht,,1,31.574734,-5.891762,1788,4,2015
+1402497179,Aquila fasciata,MA,Ouarzazate (general area),Sous-Massa-Draa,1,30.918377,-6.917866,1132,9,2014
+2058341537,Aquila fasciata,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,5,2017
+2196953076,Aquila fasciata,MA,S Guelmim,Guelmim-Es Smara,1,28.823092,-10.302572,206,3,2011
+2981009841,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.462466,-9.642083,196,3,2006
+2833294149,Aquila fasciata,MA,Morocco - Madagh,,3,35.11154,-2.338461,6,5,2018
+3947436640,Aquila fasciata,MA,,Marrakech - Tensift - Al Haouz,1,31.134337,-7.981384,1637,10,2022
+3574486805,Aquila fasciata,MA,"RP2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26430, -7.81915",Marrakech-Tensift-Al Haouz,1,31.264297,-7.819146,1517,10,2021
+2116279486,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,2,30.585133,-9.529026,425,1,2018
+2761928170,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,3,31.404198,-5.992012,1546,9,2019
+1191948246,Aquila fasciata,MA,P-1001 Paradise Valley,Sous-Massa-Draa,1,30.57459,-9.533449,355,2,2009
+2123831355,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2013
+2781139831,Aquila fasciata,MA,Agdz أكدز,Sous-Massa-Draa,1,30.709265,-6.446773,930,5,2019
+819867237,Aquila fasciata,MA,"Morocco, Ait Bougamez (Happy Valley)",Tadla-Azilal,1,31.654839,-6.449316,1823,4,2012
+2765873018,Aquila fasciata,MA,Morocco,Tadla-Azilal,1,31.857,-6.1808,2357,10,2017
+1787686026,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2012
+2663151420,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2019
+3672553476,Aquila fasciata,MA,"Oulad Youssef, Souss-Massa, MA (30,021, -5,495)",Sous-Massa-Draa,2,30.020773,-5.494695,641,11,2021
+2699831148,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,3,31.404198,-5.992012,1546,9,2019
+2795553003,Aquila fasciata,MA,"High Atlas Mountains, Morocco",Sous-Massa-Draa,1,30.858103,-8.373489,1854,3,2014
+3558618938,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,11,2012
+3165171951,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2020
+1183431775,Aquila fasciata,MA,Tagdilt - Gorges de Dades area,Sous-Massa-Draa,1,31.4091,-5.9914,1564,2,2013
+2666483722,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2019
+3297996258,Aquila fasciata,MA,Tizi n'Test--General Area,Sous-Massa-Draa,1,30.86811,-8.37903,2103,4,2006
+3208130493,Aquila fasciata,MA,MA-Toufliht (Koulla Foret),Marrakech-Tensift-Al Haouz,1,31.479864,-7.436902,1525,4,2016
+817120126,Aquila fasciata,MA,Dades Gorge,Sous-Massa-Draa,2,31.470839,-5.966949,1644,3,2001
+3301285907,Aquila fasciata,MA,Tinejdad - Erfoud,Meknès-Tafilalet,2,31.536543,-4.648316,884,1,2002
+2770629014,Aquila fasciata,MA,PN Ifran--Dayet Ifrah,Meknès-Tafilalet,2,33.556587,-4.933805,1618,4,2002
+3236995685,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2020
+3274836677,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,4,2003
+1735658617,Aquila fasciata,MA,Tizi n'Tairhemt,Meknès-Tafilalet,1,32.62133,-4.532161,1738,3,2016
+2675991849,Aquila fasciata,MA,"Gorges du Dadès, Drâa-Tafilalet, MA (31.53, -5.925)",Sous-Massa-Draa,1,31.53016,-5.925409,1794,3,2019
+2664907634,Aquila fasciata,MA,Hotel Aurocher,Marrakech-Tensift-Al Haouz,2,31.264784,-7.818445,1524,3,2019
+2120006000,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,2,32.175045,-4.366765,1223,3,2018
+3177089694,Aquila fasciata,MA,Tachtoult,Sous-Massa-Draa,1,30.394526,-8.390819,742,3,2020
+3248812462,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2020
+2693801713,Aquila fasciata,MA,Route N10 Taliouine,Sous-Massa-Draa,1,30.528955,-7.90673,1013,3,2018
+1791474000,Aquila fasciata,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,2,31.428505,-7.408679,1273,4,2005
+2094991165,Aquila fasciata,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,3,30.28438,-9.580526,24,9,2017
+3262930542,Aquila fasciata,MA,N10--au nord de Toukane Nikar,Meknès-Tafilalet,2,31.754534,-4.837321,1090,2,2020
+3211494853,Aquila fasciata,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2014
+2093499441,Aquila fasciata,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,9,2017
+2653510601,Aquila fasciata,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,184, -5,217)",Tanger-Tétouan,2,35.184303,-5.216949,1794,1,2019
+2083160272,Aquila fasciata,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,9,2017
+2214271206,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2018
+2143661272,Aquila fasciata,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,1,31.26397,-4.271297,755,3,2017
+2102801490,Aquila fasciata,MA,"(33.8929,-5.5651) meknes Medina",Meknès-Tafilalet,1,33.89289,-5.565142,532,11,2017
+1788111259,Aquila fasciata,MA,La Venta,Tanger-Tétouan,1,35.88654,-5.465893,221,11,2011
+2132253728,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,3,2017
+3263606852,Aquila fasciata,MA,"47703, Zagora MA-Souss-Massa-Drâa 30.77767, -5.56782",Sous-Massa-Draa,2,30.777666,-5.56782,857,3,2020
+3290235420,Aquila fasciata,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,3,2004
+3283816336,Aquila fasciata,MA,Agrssif,Sous-Massa-Draa,2,29.627197,-9.019616,1016,4,2018
+3530567323,Aquila fasciata,MA,Jbel Moussa Lodge,Tanger-Tétouan,2,35.875282,-5.455956,231,6,2021
+3683399998,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,2,2015
+2154756394,Aquila fasciata,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,1,35.129738,-5.089073,1678,4,2018
+2128602350,Aquila fasciata,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2018
+3180996179,Aquila fasciata,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2012
+2189271829,Aquila fasciata,MA,"Unnamed Road, Marrakech-Safi, MA (31,287, -7,521)",Marrakech-Tensift-Al Haouz,2,31.28697,-7.521302,1935,6,2018
+2043374967,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2017
+3191586705,Aquila fasciata,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,9,2020
+2742859040,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2019
+1774638269,Aquila fasciata,MA,Barrage de Bouanane,L'Oriental,2,32.131264,-2.889297,862,6,2016
+576003163,Aquila fasciata,MA,Djebel Taloust,Sous-Massa-Draa,1,29.206203,-10.061187,544,3,2008
+2655393823,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2018
+3142645706,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2020
+3228087974,Aquila fasciata,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,2,2020
+3293312478,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2010
+2176388053,Aquila fasciata,MA,Rissani-Goulmina-Tinejdad-Todra Gorge-Boumalne,Meknès-Tafilalet,2,31.45436,-5.239963,1101,12,2012
+3298456972,Aquila fasciata,MA,Private house,Tanger-Tétouan,2,35.897785,-5.440127,103,10,2015
+3208470801,Aquila fasciata,MA,"R107, timoula, Souss Massa, MA (29,269, -8,991)",Guelmim-Es Smara,2,29.268578,-8.990922,786,4,2016
+2681307397,Aquila fasciata,MA,Near Tinghir—Roadside Stop,Sous-Massa-Draa,2,31.429974,-5.666606,1349,3,2019
+2691198487,Aquila fasciata,MA,Agdz أكدز,Sous-Massa-Draa,1,30.709265,-6.446773,930,5,2019
+2671975120,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,3,2019
+2130587062,Aquila fasciata,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,2,35.129738,-5.089073,1678,4,2018
+3198053589,Aquila fasciata,MA,100 km to Tan-Tan,Guelmim-Es Smara,1,28.81911,-10.317273,194,10,2003
+2737858908,Aquila fasciata,MA,"R105, Souss Massa, MA (30,017, -9,045)",Sous-Massa-Draa,1,30.01711,-9.045098,971,3,2019
+1202090073,Aquila fasciata,MA,Toubkal National Park,Marrakech-Tensift-Al Haouz,1,31.139187,-7.975065,1869,12,2012
+2718695060,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2010
+2713732685,Aquila fasciata,ES,Arroyo de las Bombas,Ceuta,1,35.881992,-5.372083,103,7,2008
+3287143603,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,2,2020
+2726159825,Aquila fasciata,MA,100 km to Tan-Tan,Guelmim-Es Smara,1,28.81911,-10.317273,194,10,2003
+2771845335,Aquila fasciata,MA,Tassademt,Sous-Massa-Draa,1,30.65371,-9.191632,768,4,2019
+2142956086,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2017
+2222800664,Aquila fasciata,MA,"P1018, Chtouka Ait Baha MA-Souss-Massa-Drâa (30.0422,-9.6439)",Sous-Massa-Draa,1,30.042154,-9.643897,10,11,2018
+2696412940,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,3,2019
+3231908261,Aquila fasciata,MA,Jardins de la Ménara,Marrakech-Tensift-Al Haouz,1,31.61392,-8.019966,465,2,2020
+2691695009,Aquila fasciata,MA,TanTan - Aferkat - Assa road,Guelmim-Es Smara,4,28.655973,-10.31998,393,1,2016
+2204855970,Aquila fasciata,MA,"Unnamed Road, MA (29,141, -10,408)",Sous-Massa-Draa,3,29.140667,-10.407555,9,11,2018
+3606904922,Aquila fasciata,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,1,30.28438,-9.580526,24,10,2021
+2120282214,Aquila fasciata,MA,Belghiada,L'Oriental,1,32.570217,-2.438729,1103,5,2015
+3200214247,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2007
+2135382807,Aquila fasciata,MA,"‫شارع المسيرة‬‎, Agdz, Drâa-Tafilalet, MA (30,695, -6,458)",Sous-Massa-Draa,1,30.694693,-6.457543,949,2,2018
+2713930484,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,9,2019
+1756558386,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,12,2010
+2707501473,Aquila fasciata,MA,"P1901, Guelmim-Oued Noun, MA (29,225, -10,326)",Sous-Massa-Draa,4,29.225443,-10.325857,31,12,2017
+3578611430,Aquila fasciata,MA,"RP2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26430, -7.81915",Marrakech-Tensift-Al Haouz,1,31.264297,-7.819146,1517,10,2021
+1791255986,Aquila fasciata,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,2,35.195835,-6.111832,7,10,2007
+2213320251,Aquila fasciata,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,2,31.428505,-7.408679,1273,4,2016
+2672569240,Aquila fasciata,MA,"Gorges du Dadès, Drâa-Tafilalet, MA (31.53, -5.925)",Sous-Massa-Draa,1,31.53016,-5.925409,1794,3,2019
+2206208931,Aquila fasciata,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,2,35.238678,-5.178101,401,2,2018
+2739801121,Aquila fasciata,MA,entre Sidi Marrat et Oued Beht,Rabat-Salé-Zemmour-Zaer,1,33.536316,-5.842833,1052,4,2019
+2069360103,Aquila fasciata,MA,Vallée Des Oiseaux | وادي الطيور,Taza-Al Hoceima-Taounate,3,34.126106,-4.040163,1432,4,2017
+2134186374,Aquila fasciata,MA,Iriri Gorges,Sous-Massa-Draa,2,30.945976,-7.186535,1246,4,2007
+2672257385,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,3,2019
+1789065504,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2013
+2667087927,Aquila fasciata,MA,"R703, Tinghir, Drâa-Tafilalet, MA (31,585, -5,59)",Sous-Massa-Draa,1,31.58545,-5.589918,1564,3,2019
+3184411096,Aquila fasciata,MA,Emirates center area,Fès-Boulemane,2,33.002018,-4.094237,938,4,2003
+4034779534,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.36294,-9.582351,8,12,2022
+3325698347,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.937854,-7.210611,1257,3,2019
+3068015674,Aquila fasciata,MA,,Souss - Massa - Draâ,1,31.531,-5.924,1792,1,2017
+2193876515,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,2,32.175045,-4.366765,1223,2,2018
+3678076307,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,2,2020
+3212049864,Aquila fasciata,MA,Oued Aassif Ounila--Aït Benhaddou,Sous-Massa-Draa,1,31.045864,-7.131483,1272,3,2018
+2149224539,Aquila fasciata,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2018
+3600039510,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2013
+2752630399,Aquila fasciata,MA,Gorges du Oued Zireg,Taza-Al Hoceima-Taounate,2,34.13517,-4.309184,433,1,2019
+2725389917,Aquila fasciata,MA,Nord for Foun Zguid,Sous-Massa-Draa,1,30.497501,-6.994431,1113,2,2016
+1790195573,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,1,2004
+817754994,Aquila fasciata,MA,Gorges du Dades,Sous-Massa-Draa,1,31.4148,-5.997276,1555,3,2006
+2140634919,Aquila fasciata,MA,Aoulouz et région,Sous-Massa-Draa,1,30.683245,-8.169751,686,3,2018
+2712344584,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,11,2004
+2664654727,Aquila fasciata,MA,"Agouliz, Guelmim-Es Semara, MA (29,738, -8,192)",Guelmim-Es Smara,2,29.738308,-8.19151,1007,1,2018
+2328365377,Aquila fasciata,MA,"Anti-Atlas, Marokko",,1,29.970402,-9.014282,1203,12,2016
+3642096288,Aquila fasciata,MA,"Région col Tizi-n-tichka, MA",Marrakech-Tensift-Al Haouz,1,31.307854,-7.373567,2079,4,2008
+2137732693,Aquila fasciata,MA,"(31,4803,-7,4330)",Marrakech-Tensift-Al Haouz,1,31.48026,-7.432955,1432,3,2018
+3183567787,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+1791894034,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,1,31.328703,-5.922575,1551,2,2011
+2839852628,Aquila fasciata,MA,Morocco - Touama,,1,31.500963,-7.46189,1187,3,2016
+2835630660,Aquila fasciata,MA,Morocco - Skoura Ahl El Oust,,1,31.069667,-6.527861,1224,4,2012
+3716263119,Aquila fasciata,MA,Morocco - Oued Sous,,1,30.277821,-9.57159,31,2,2020
+2844615288,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,3,35.310772,-2.960951,115,1,2020
+3996833280,Aquila fasciata,MA,Morocco - Agadir,,1,30.363173,-9.590255,11,9,2022
+3826664492,Aquila fasciata,MA,Morocco - Amerzgane,,1,30.958053,-7.207861,1283,3,2022
+3138426781,Aquila fasciata,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2020
+1205158058,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+3986221184,Aquila fasciata,MA,,Souss - Massa - Draâ,1,31.588554,-5.604132,1736,11,2022
+3720222024,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,2,35.307149,-2.963304,62,4,2021
+2832706597,Aquila fasciata,MA,Morocco - Oulad Yahia Lagraire,,2,30.745515,-6.09278,990,4,2016
+3718907736,Aquila fasciata,MA,Morocco - Agadir,,1,30.363246,-9.592722,11,10,2020
+3226584934,Aquila fasciata,MA,P2030 viewpoint 2,Marrakech-Tensift-Al Haouz,1,31.240004,-7.806886,1849,2,2020
+2707694817,Aquila fasciata,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,1,30.28438,-9.580526,24,12,2019
+2734290185,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2007
+3260162659,Aquila fasciata,MA,Tafraoute,Sous-Massa-Draa,1,29.707079,-8.998189,1027,5,2005
+2767727053,Aquila fasciata,MA,"P1308, Guelmim-Oued Noun, MA (28,431, -10,053)",Guelmim-Es Smara,1,28.431458,-10.053493,294,12,2017
+2836145678,Aquila fasciata,MA,Morocco - Touama,,2,31.473397,-7.432693,1444,3,2015
+2839819016,Aquila fasciata,MA,Morocco - Gorges du Dades,,2,31.559,-5.909,1717,12,2016
+2234117444,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,1,2015
+3549224292,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2020
+2038672125,Aquila fasciata,MA,oued lao,Tanger-Tétouan,1,35.26263,-5.25383,273,3,2017
+1358138551,Aquila fasciata,MA,outskirts of Tahannaout,Marrakech-Tensift-Al Haouz,2,31.356422,-7.950926,908,4,2015
+4057980298,Aquila fasciata,MA,Morocco - Sidi Ouassay,,1,30.05835,-9.656292,14,1,2023
+2838721800,Aquila fasciata,MA,Morocco - Aznaguen,,2,30.460423,-7.416139,1689,12,2019
+3725037032,Aquila fasciata,MA,Morocco - Agadir,,1,30.363803,-9.582767,10,9,2018
+2839448953,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.565225,-5.580339,1386,4,2015
+3166755141,Aquila fasciata,MA,Vallée des Roses--domaine générale,Sous-Massa-Draa,1,31.34626,-6.168351,1518,10,2004
+2328365238,Aquila fasciata,MA,"Anti-Atlas, Marokko",,1,29.970402,-9.014282,1203,3,2001
+2121201540,Aquila fasciata,MA,"P1308, Guelmim-Oued Noun, MA (28,431, -10,053)",Guelmim-Es Smara,1,28.431458,-10.053493,294,12,2017
+2726899143,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,11,2008
+2795617038,Aquila fasciata,MA,Merja de Fouwarate,Gharb-Chrarda-Beni Hssen,1,34.27052,-6.540161,12,4,2019
+3578176454,Aquila fasciata,MA,along N10,Sous-Massa-Draa,1,30.687267,-7.269942,1618,4,2011
+2786617724,Aquila fasciata,MA,Midelt - Hotel Taddart,Meknès-Tafilalet,1,32.707,-4.788666,1428,3,2017
+2794080845,Aquila fasciata,MA,Oued Boukila,Guelmim-Es Smara,1,28.919855,-10.154157,214,11,2019
+2761886813,Aquila fasciata,MA,"Escale Foret, Marrakesh-Safi, MA (31.544, -7.534)",Marrakech-Tensift-Al Haouz,1,31.544065,-7.53427,945,3,2019
+3568101093,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,2,31.255966,-7.973832,1151,11,2013
+2707444554,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2010
+2769168623,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,10,2009
+817400916,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,4,2004
+2752465347,Aquila fasciata,MA,Toudgha Gorges,Sous-Massa-Draa,1,31.586914,-5.593883,1618,3,2019
+2763368550,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2011
+3136991204,Aquila fasciata,MA,"Imi Ntizeght, Imi Ntizeght, Souss-Massa, MA (29.745, -8.913)",Sous-Massa-Draa,2,29.745075,-8.912712,1072,3,2020
+2671226504,Aquila fasciata,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+820356095,Aquila fasciata,MA,Toubkal National Park,Marrakech-Tensift-Al Haouz,1,31.139187,-7.975065,1869,12,2012
+2660827214,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2007
+2800212875,Aquila fasciata,MA,Todra Gorge,Sous-Massa-Draa,1,31.5771,-5.5831,1404,2,2016
+2771801855,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,1,2017
+3679104549,Aquila fasciata,MA,Taroudant,Sous-Massa-Draa,1,30.479397,-8.867866,237,2,2015
+3634897425,Aquila fasciata,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,1,31.507856,-7.989421,594,9,2021
+2686558599,Aquila fasciata,MA,Ouirgane,Marrakech-Tensift-Al Haouz,2,31.173502,-8.077418,927,3,2003
+2069355350,Aquila fasciata,MA,Gorges du Oued Zireg,Taza-Al Hoceima-Taounate,3,34.13517,-4.309184,433,4,2017
+2031325126,Aquila fasciata,MA,Joui Zkara,Guelmim-Es Smara,1,28.938534,-10.45362,217,1,2017
+1763991266,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2008
+2045665503,Aquila fasciata,MA,Oued Dades--Boumalne,Sous-Massa-Draa,2,31.369457,-5.988785,1522,2,2017
+2143689018,Aquila fasciata,MA,"(30,9384,-7,2095)",Sous-Massa-Draa,1,30.938437,-7.209453,1258,3,2018
+2126572554,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,2,32.175045,-4.366765,1223,3,2018
+3235561787,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,2,30.585133,-9.529026,425,1,2020
+1409902053,Aquila fasciata,MA,Tagdilt - Gorges de Dades area,Sous-Massa-Draa,4,31.4091,-5.9914,1564,3,2015
+3547892987,Aquila fasciata,MA,"N10, Tinghir, Drâa-Tafilalet, MA (31,488, -5,552)",Sous-Massa-Draa,1,31.48805,-5.55193,1283,12,2021
+3151784985,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2003
+3190278521,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,9,2020
+2754591177,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2007
+817169731,Aquila fasciata,MA,Todra Gorge,Sous-Massa-Draa,2,31.585262,-5.590496,1518,2,2001
+2176390929,Aquila fasciata,MA,Rissani-Goulmina-Tinejdad-Todra Gorge-Boumalne,Meknès-Tafilalet,2,31.45436,-5.239963,1101,12,2012
+3203998862,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+2796260418,Aquila fasciata,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2008
+1763481142,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,4,2008
+3641785998,Aquila fasciata,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2019
+2794854942,Aquila fasciata,MA,"Escale Foret, Marrakesh-Safi, MA (31.544, -7.534)",Marrakech-Tensift-Al Haouz,1,31.544065,-7.53427,945,3,2019
+1717859941,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+817262319,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2003
+3208817591,Aquila fasciata,MA,MA-Tizi n'Tichka (Hwy N9),Marrakech-Tensift-Al Haouz,2,31.386093,-7.409604,1443,4,2016
+1750256930,Aquila fasciata,MA,Draa valley,Sous-Massa-Draa,2,30.710432,-6.589147,1607,3,2016
+2165428477,Aquila fasciata,MA,Jbel Moussa Lodge,Tanger-Tétouan,2,35.875282,-5.455956,231,4,2018
+2222116834,Aquila fasciata,MA,"A7, Marrakech-Safi, MA (31,774, -8,166)",Marrakech-Tensift-Al Haouz,1,31.774378,-8.16627,374,11,2018
+818075699,Aquila fasciata,MA,Ras el Kebbar,Meknès-Tafilalet,1,31.412256,-4.496613,841,3,2011
+3668770058,Aquila fasciata,MA,Station 1,Meknès-Tafilalet,1,31.031206,-5.291807,948,12,2021
+3216310969,Aquila fasciata,MA,Oued Laou,Tanger-Tétouan,2,35.428505,-5.0774,9,8,2004
+3657380454,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2021
+3211412459,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,2,2016
+2119956749,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2018
+2143301854,Aquila fasciata,MA,"N9, Drâa-Tafilalet, MA (30,674, -6,281)",Sous-Massa-Draa,1,30.673693,-6.281499,888,2,2018
+2037162137,Aquila fasciata,MA,Joui Zkara,Guelmim-Es Smara,1,28.938534,-10.45362,217,1,2017
+3645750500,Aquila fasciata,MA,Plaines de Zaida,Meknès-Tafilalet,2,32.791946,-4.944277,1483,12,2013
+1735774083,Aquila fasciata,MA,Tizi n'Tairhemt,Meknès-Tafilalet,1,32.62133,-4.532161,1738,3,2016
+2127151739,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2002
+2715528964,Aquila fasciata,MA,Assif Amerzgane,Sous-Massa-Draa,1,31.038475,-7.215571,1324,4,2006
+817164925,Aquila fasciata,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2001
+2104023469,Aquila fasciata,MA,Guelmim,Guelmim-Es Smara,1,28.988997,-10.053606,310,11,2002
+3214585329,Aquila fasciata,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,4,2013
+2133081710,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2018
+2771255247,Aquila fasciata,MA,Skoura,Sous-Massa-Draa,2,31.051077,-6.568643,1204,4,2006
+2752594671,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2019
+1167617750,Aquila fasciata,MA,MA-Tarroudant- aérodrome,Sous-Massa-Draa,2,30.500225,-8.828511,253,4,2014
+2772857251,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+2174344525,Aquila fasciata,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,5,2018
+1786471774,Aquila fasciata,MA,N13 road from Erfoud to Zaida,Meknès-Tafilalet,1,32.27453,-4.47939,1315,4,2015
+3527651566,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2021
+3285959085,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2019
+2116799707,Aquila fasciata,MA,Tamraght-Awrir walk,Sous-Massa-Draa,2,30.506075,-9.662476,10,1,2018
+819741837,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2012
+1167747756,Aquila fasciata,MA,Road - Ouarzazate - Tazenakht,Sous-Massa-Draa,2,30.961344,-7.20098,1320,4,2014
+817254354,Aquila fasciata,MA,Tazzarine,Sous-Massa-Draa,2,30.788883,-5.576191,856,2,2003
+2155938809,Aquila fasciata,MA,Kasbah Bab Ourika,Marrakech-Tensift-Al Haouz,1,31.358723,-7.763254,970,4,2018
+2720634580,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,11,2019
+2127159449,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2002
+3263162109,Aquila fasciata,MA,Forêt d'El Mzar,Sous-Massa-Draa,4,30.343657,-9.572268,16,7,2020
+1168751822,Aquila fasciata,MA,Draa Valley,Sous-Massa-Draa,2,30.675714,-6.319199,909,4,2009
+1770466542,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,4,2006
+1178146535,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,6,2014
+2690684016,Aquila fasciata,MA,MA -Zagora,Sous-Massa-Draa,2,30.32901,-5.837878,734,10,2004
+2145355181,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2018
+3206058485,Aquila fasciata,MA,"Tizi-n-Tichka, north side",Marrakech-Tensift-Al Haouz,2,31.43119,-7.409849,1251,4,2003
+2160782018,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,5,2018
+1206385564,Aquila fasciata,MA,"Morocco, Dades & Tagdilt",Sous-Massa-Draa,1,31.36595,-5.952959,1565,4,2006
+2706066025,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,10,2019
+1187254890,Aquila fasciata,MA,Merzouga/Desert,Meknès-Tafilalet,2,31.098513,-4.012113,688,3,2007
+3665940789,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,7,2006
+1735664776,Aquila fasciata,MA,Tizi n'Tairhemt,Meknès-Tafilalet,1,32.62133,-4.532161,1738,3,2016
+3298543047,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2018
+3203564079,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,2,2018
+2047735742,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,3,2017
+2053821253,Aquila fasciata,MA,Talasantane,Tanger-Tétouan,2,35.17521,-5.258652,905,3,2017
+2708621048,Aquila fasciata,MA,Assif Amerzgane,Sous-Massa-Draa,2,31.038475,-7.215571,1324,4,2014
+3285122612,Aquila fasciata,MA,"Imouzzer, Souss Massa, MA (30,532, -9,518)",Sous-Massa-Draa,2,30.532425,-9.517504,516,4,2016
+2219381710,Aquila fasciata,MA,"Guelmim-Oued Noun, MA (28,986, -10,442)",Guelmim-Es Smara,2,28.986328,-10.441648,195,11,2018
+3507429514,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2021
+1203274659,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,5,2008
+817164402,Aquila fasciata,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2001
+2770247291,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,3,2010
+1726182857,Aquila fasciata,MA,fezna roadside birding,Meknès-Tafilalet,1,31.513437,-4.448386,832,3,2016
+2685105240,Aquila fasciata,MA,Kasbah du Toubkal,Marrakech-Tensift-Al Haouz,2,31.132368,-7.918975,1838,6,2019
+2678437337,Aquila fasciata,MA,"Gorges du Dadès, Drâa-Tafilalet, MA (31.53, -5.925)",Sous-Massa-Draa,1,31.53016,-5.925409,1794,3,2019
+2099124361,Aquila fasciata,MA,"P1901, Guelmim-Oued Noun, MA (29,225, -10,326)",Sous-Massa-Draa,4,29.225443,-10.325857,31,12,2017
+2152107014,Aquila fasciata,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2018
+2738324372,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,1,32.175045,-4.366765,1223,1,2019
+1346446876,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,2,31.255966,-7.973832,1151,1,2015
+1203341721,Aquila fasciata,MA,Morocco--Erfoud area,Meknès-Tafilalet,1,31.439451,-4.245522,798,3,2006
+2716833959,Aquila fasciata,MA,"Centro, Beni Mellal MA-Tadla-Azilal (32,6555,-5,8235)",Tadla-Azilal,1,32.65547,-5.823459,1365,2,2019
+2141573799,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2018
+1750238795,Aquila fasciata,MA,fezna roadside birding,Meknès-Tafilalet,1,31.513437,-4.448386,832,3,2016
+2661739611,Aquila fasciata,MA,"ECWP, Fès-Meknès, MA (33,009, -4,092)",Fès-Boulemane,1,33.009308,-4.092107,939,3,2019
+3582243472,Aquila fasciata,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,10,2021
+2777497525,Aquila fasciata,MA,Fort Bou Jerif,Guelmim-Es Smara,2,29.082088,-10.331371,85,10,2002
+2157253107,Aquila fasciata,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,531, -5,43)",Tanger-Tétouan,2,35.53085,-5.429963,57,5,2018
+2178511578,Aquila fasciata,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354313,-5.957429,1546,5,2018
+3566975035,Aquila fasciata,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,11,2021
+1168970488,Aquila fasciata,MA,MA-Tarroudant- aérodrome,Sous-Massa-Draa,2,30.500225,-8.828511,253,4,2014
+2757640258,Aquila fasciata,MA,Gorges du Oued Zireg,Taza-Al Hoceima-Taounate,2,34.13517,-4.309184,433,1,2019
+3637894030,Aquila fasciata,MA,Auto selecionado,Sous-Massa-Draa,2,30.64239,-6.581462,1046,12,2021
+1183433095,Aquila fasciata,MA,Tagdilt - Gorges de Dades area,Sous-Massa-Draa,4,31.4091,-5.9914,1564,2,2011
+2043232282,Aquila fasciata,MA,Ifni,Sous-Massa-Draa,2,29.313692,-10.209147,89,1,2017
+2228175273,Aquila fasciata,MA,"Unnamed Road, MA (29,141, -10,408)",Sous-Massa-Draa,2,29.140667,-10.407555,9,11,2018
+3296595487,Aquila fasciata,MA,Ait Ouabelli,Guelmim-Es Smara,1,29.2266,-8.50824,461,8,2011
+2663473915,Aquila fasciata,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+2104259492,Aquila fasciata,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,9,2017
+3201600534,Aquila fasciata,MA,along N10,Sous-Massa-Draa,1,30.687267,-7.269942,1618,4,2011
+1781561981,Aquila fasciata,EH,Laayune,Western Sahara,1,27.167282,-13.226401,21,12,2012
+2668032649,Aquila fasciata,MA,entre Sidi Marrat et Oued Beht,Rabat-Salé-Zemmour-Zaer,1,33.536316,-5.842833,1052,4,2019
+577882076,Aquila fasciata,MA,Toufliht,Marrakech-Tensift-Al Haouz,1,31.48138,-7.431221,1375,3,2011
+2729889110,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+3296437400,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,2,2015
+2724699413,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,10,2009
+1202334534,Aquila fasciata,MA,Rosental,Sous-Massa-Draa,2,31.253529,-6.131401,1424,12,2010
+2695302762,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,2,31.334959,-5.891968,1554,4,2014
+3136331450,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2020
+2133098182,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2018
+2133064999,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2018
+2054495353,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2017
+1198464636,Aquila fasciata,MA,Draa Valley,Sous-Massa-Draa,2,30.675714,-6.319199,909,4,2009
+2206201403,Aquila fasciata,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,2,35.238678,-5.178101,401,2,2018
+2200091994,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2014
+2717748654,Aquila fasciata,MA,Ait Ourir,Marrakech-Tensift-Al Haouz,1,31.564064,-7.663662,676,2,2010
+3242556438,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2001
+1165954862,Aquila fasciata,MA,MA-Tarroudant- aérodrome,Sous-Massa-Draa,2,30.500225,-8.828511,253,4,2014
+3997481934,Aquila fasciata,MA,Morocco - Imouzzer,,2,30.67778,-9.481791,976,10,2022
+2838096271,Aquila fasciata,MA,Morocco - Tinghir,,2,31.522825,-5.528573,1282,3,2008
+3718055791,Aquila fasciata,MA,Morocco - Inezgane,,4,30.333591,-9.547931,17,7,2020
+2836584371,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.5888,-5.5943,1534,3,2017
+2121201740,Aquila fasciata,MA,"P30, Souss Massa, MA (29,846, -7,329)",Guelmim-Es Smara,2,29.845821,-7.329075,558,12,2017
+1205141160,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2010
+2157537837,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,5,2018
+3242694735,Aquila fasciata,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,2,2020
+1791882180,Aquila fasciata,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,2,31.428505,-7.408679,1273,3,2011
+2043247280,Aquila fasciata,MA,Ifni,Sous-Massa-Draa,2,29.313692,-10.209147,89,1,2017
+2719966459,Aquila fasciata,MA,Vallée du Draa,Sous-Massa-Draa,1,31.301695,-6.037049,1473,4,2000
+3276816431,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2129703975,Aquila fasciata,MA,Ouad llip,Sous-Massa-Draa,1,30.66537,-7.273271,1673,3,2018
+2213271865,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,4,2016
+2215994627,Aquila fasciata,MA,Route Guelmim - Tan Tan,Guelmim-Es Smara,1,28.62538,-10.79058,258,10,2018
+2149582819,Aquila fasciata,MA,Jemaa el-Fnaa,Marrakech-Tensift-Al Haouz,1,31.625834,-7.988906,460,4,2018
+2207294625,Aquila fasciata,MA,Morocco - Gorges de Todra,Sous-Massa-Draa,1,31.62099,-5.562465,1639,6,2016
+1743164156,Aquila fasciata,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2016
+3672674771,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2018
+2088498995,Aquila fasciata,MA,Jbel Moussa,Tanger-Tétouan,1,35.898125,-5.412033,807,8,2017
+2117033083,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2018
+2740728695,Aquila fasciata,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,3,2019
+2663941529,Aquila fasciata,MA,Near Tinghir—Roadside Stop,Sous-Massa-Draa,2,31.429974,-5.666606,1349,3,2019
+3207113427,Aquila fasciata,MA,Agrssif,Sous-Massa-Draa,2,29.627197,-9.019616,1016,4,2018
+2681002963,Aquila fasciata,MA,"Escale Foret, Marrakesh-Safi, MA (31.544, -7.534)",Marrakech-Tensift-Al Haouz,1,31.544065,-7.53427,945,3,2019
+2725258367,Aquila fasciata,MA,fezna roadside birding,Meknès-Tafilalet,1,31.513437,-4.448386,832,3,2016
+2218761469,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2018
+3221224569,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2020
+3296178886,Aquila fasciata,MA,Sidi Kankouche,Tanger-Tétouan,1,35.82884,-5.707406,6,9,2006
+3259401665,Aquila fasciata,MA,Agadir--Tighanimine,Sous-Massa-Draa,1,30.432272,-9.487557,168,10,2018
+3658641755,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2021
+2747729785,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2019
+2744551850,Aquila fasciata,MA,"Gorges du Dadès, Drâa-Tafilalet, MA (31.53, -5.925)",Sous-Massa-Draa,1,31.53016,-5.925409,1794,3,2019
+3648607209,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2021
+2106502177,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2008
+2115152776,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,12,2015
+2801464038,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+2667638854,Aquila fasciata,MA,"Escale Foret, Marrakesh-Safi, MA (31.544, -7.534)",Marrakech-Tensift-Al Haouz,1,31.544065,-7.53427,945,3,2019
+3170036103,Aquila fasciata,MA,Emirates center area,Fès-Boulemane,2,33.002018,-4.094237,938,4,2003
+1720805214,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2016
+1357285517,Aquila fasciata,MA,Tagdilt - Gorges de Dades area,Sous-Massa-Draa,4,31.4091,-5.9914,1564,3,2015
+2228947463,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,12,2018
+1716812483,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,2,2016
+3654415884,Aquila fasciata,MA,South of Amerzgane,Sous-Massa-Draa,1,30.939434,-7.205594,1258,4,2018
+2186889565,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2007
+2756100720,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+3632340110,Aquila fasciata,MA,Tazemmourt,Sous-Massa-Draa,2,30.404652,-8.827816,278,11,2021
+1402858764,Aquila fasciata,MA,Inraren (Paradise Valley),Sous-Massa-Draa,2,30.551817,-9.557826,179,5,2015
+1719770153,Aquila fasciata,MA,N13 near Tillicht,Meknès-Tafilalet,2,32.33062,-4.55291,1384,2,2016
+2838537288,Aquila fasciata,MA,Morocco - Zerkten,,1,31.407092,-7.392683,1370,4,2012
+2787967943,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,12,2013
+2228692652,Aquila fasciata,MA,"Unnamed Road, Guelmim-Oued Noun, MA (28,97, -10,228)",Guelmim-Es Smara,1,28.970123,-10.228284,178,11,2018
+2328366812,Aquila fasciata,MA,Ait Barka (Atlasgrünspecht),,1,31.488346,-7.440882,1443,12,2013
+2838893404,Aquila fasciata,MA,Morocco - Aouint Yghomane,,1,28.342083,-10.386014,166,1,2011
+2836405317,Aquila fasciata,MA,Morocco - Oulad Yahia Lagraire,,2,30.745515,-6.09278,990,4,2016
+2832330824,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.584185,-5.591254,1445,4,2012
+2836231678,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.587,-5.6,1504,5,2018
+3727895228,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,2,35.310711,-2.960966,114,9,2020
+2833322622,Aquila fasciata,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.92243,-6.849535,1093,4,2018
+3732165904,Aquila fasciata,ES,Spain - Melilla,,1,35.314924,-2.944805,2,11,2021
+2842396655,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.620723,-5.559943,1570,4,2019
+4056266876,Aquila fasciata,MA,Morocco - Aouint Lahna,,2,28.646973,-9.474527,366,11,2022
+3726023548,Aquila fasciata,MA,Morocco - Lqliaa,,1,30.29224,-9.533161,32,10,2019
+3719177757,Aquila fasciata,MA,Morocco - Agadir,,1,30.365757,-9.596322,11,3,2021
+2844078789,Aquila fasciata,MA,Morocco - Aznaguen,,2,30.460597,-7.416538,1701,12,2019
+3966368935,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.743902,-9.362113,1491,11,2022
+2832257262,Aquila fasciata,MA,Morocco - Skoura Ahl El Oust,,1,31.069403,-6.534119,1230,4,2012
+2838201510,Aquila fasciata,MA,Morocco - Bni Chiker,,1,35.206346,-2.998481,744,3,2019
+2832419546,Aquila fasciata,MA,Morocco - Tigzmerte,,2,29.74394,-7.78179,692,4,2013
+3726948023,Aquila fasciata,MA,Morocco - Agadir,,1,30.363913,-9.593438,9,10,2020
+2838757033,Aquila fasciata,MA,Morocco - Aznaguen,,2,30.460469,-7.416539,1704,12,2019
+2102476827,Aquila fasciata,MA,Vallée du Sous,Sous-Massa-Draa,2,30.50721,-8.705848,317,2,2017
+2714586295,Aquila fasciata,MA,Oued Draa--Tansikht,Sous-Massa-Draa,1,30.686808,-6.192155,854,4,2000
+4057521856,Aquila fasciata,MA,Morocco - Massa,,1,29.996198,-9.651337,10,1,2023
+2141931042,Aquila fasciata,MA,Wadi,Sous-Massa-Draa,1,30.93874,-7.209286,1256,3,2018
+2719614523,Aquila fasciata,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+2130602198,Aquila fasciata,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354313,-5.957429,1546,3,2008
+3285154229,Aquila fasciata,MA,"Cafe Restaurante Timzzillite, Dades Gorge",Sous-Massa-Draa,2,31.529676,-5.925245,1793,3,2014
+2711260792,Aquila fasciata,MA,"Gorges du Dadès, Drâa-Tafilalet, MA (31.53, -5.925)",Sous-Massa-Draa,1,31.53016,-5.925409,1794,3,2019
+1167757558,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2014
+2841040711,Aquila fasciata,MA,Morocco - Ighrem N'Ougdal,,3,31.127059,-7.349393,1534,7,2013
+2837591024,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.530043,-5.9254,1796,3,2019
+3729610442,Aquila fasciata,ES,Spain - Melilla,,2,35.314923,-2.944808,2,12,2020
+2839063515,Aquila fasciata,MA,Morocco - Tighmi,,1,29.582344,-9.428222,470,3,2014
+2840582404,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.52995,-5.925136,1804,3,2014
+2835748551,Aquila fasciata,MA,Morocco - Souss-Massa NP,,1,30.05603,-9.656379,7,10,2011
+3997029957,Aquila fasciata,MA,Morocco - Lqliaa,,1,30.289215,-9.56169,30,9,2022
+3997081220,Aquila fasciata,MA,Morocco - Tansifte,,1,30.816322,-6.762184,1294,10,2022
+3718536285,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,3,35.310799,-2.960987,114,10,2020
+2328365784,Aquila fasciata,MA,Aguelmim,,1,30.454889,-7.44873,1745,1,2009
+3947301673,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.051861,-9.68444,60,10,2022
+2836325284,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.535143,-5.922612,1745,4,2017
+2328365273,Aquila fasciata,MA,Dades-Schlucht,,1,31.574734,-5.891762,1788,12,2008
+2778133782,Aquila fasciata,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2016
+2204328800,Aquila fasciata,MA,"Sidi Moussa Ben Ali, MA (33.517, -7.347)",Chaouia-Ouardigha,1,33.51723,-7.347281,118,11,2018
+4028693647,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.36157,-9.593036,11,12,2022
+2839876409,Aquila fasciata,MA,Morocco - Gorges du Dades,,2,31.5353,-5.9223,1745,3,2017
+2845584464,Aquila fasciata,MA,Morocco - Tagounite,,1,30.034806,-5.496106,627,2,2020
+3732058112,Aquila fasciata,MA,Morocco - Aouguenz,,2,29.846979,-9.171271,841,10,2021
+2328366032,Aquila fasciata,MA,südöstlich Telouet,,1,31.186954,-7.131496,1619,12,2013
+2328365496,Aquila fasciata,MA,"Boumalne, Marokko",,1,31.366537,-5.988922,1530,3,2001
+3389820461,Aquila fasciata,MA,Dades-Schlucht,,1,31.574734,-5.891762,1788,12,2007
+3728494954,Aquila fasciata,MA,Morocco - Agadir,,3,30.362503,-9.586827,11,9,2020
+2833463636,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,3,35.310773,-2.960916,115,9,2018
+3997659472,Aquila fasciata,MA,Morocco - Tansifte,,1,30.81635,-6.762149,1294,10,2022
+2836065112,Aquila fasciata,MA,Morocco - Bni Guil,,1,32.572422,-2.440492,1112,5,2015
+2844192523,Aquila fasciata,MA,Morocco - Sidi Ouassay,,1,30.049244,-9.650672,9,1,2018
+2836550939,Aquila fasciata,MA,Morocco - Ech-Challalate,,1,33.568823,-7.425785,104,12,2016
+3005095837,Aquila fasciata,MA,,Guelmim - Es-Semara,1,28.994442,-9.68926,411,1,2013
+4015187266,Aquila fasciata,MA,,Guelmim - Es-Semara,1,28.358819,-10.38788,179,1,2011
+3014092692,Aquila fasciata,MA,,Souss - Massa - Draâ,1,29.232911,-10.298922,50,1,2011
+2841502383,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.52995,-5.925136,1804,3,2014
+2696289155,Aquila fasciata,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,5,2008
+1402496974,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,9,2014
+2738843623,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,3,2019
+2043249583,Aquila fasciata,MA,Ifni,Sous-Massa-Draa,2,29.313692,-10.209147,89,1,2017
+3679714845,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2021
+3284180573,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+2680345833,Aquila fasciata,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,3,2019
+3534726186,Aquila fasciata,MA,"Fez-Meknès, MA (33.001, -4.171)",Fès-Boulemane,2,33.000637,-4.170895,1512,2,2021
+1744681376,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2016
+2692745126,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+1763995968,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2008
+2726296807,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,2,2007
+1794420917,Aquila fasciata,MA,Massa village to entrance to Oued massa national park,Sous-Massa-Draa,1,30.055553,-9.651267,39,10,2012
+3281749053,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,3,2004
+2772165747,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2015
+2143787347,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2018
+3236196052,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,2,2020
+2752728074,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,3,31.404198,-5.992012,1546,9,2019
+3608717955,Aquila fasciata,MA,"Unnamed Road, Guelmim-Oued Noun, MA (28.947, -9.976)",Guelmim-Es Smara,1,28.94661,-9.975677,269,10,2021
+1782985494,Aquila fasciata,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,2,2012
+3216897482,Aquila fasciata,MA,"P1901, Guelmim-Oued Noun, MA (29,15, -10,388)",Sous-Massa-Draa,6,29.15009,-10.387645,107,1,2016
+2212014764,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,9,2018
+2663290414,Aquila fasciata,MA,Oukaimeden viewpoint,Marrakech-Tensift-Al Haouz,1,31.200977,-7.869808,2692,3,2019
+3297823869,Aquila fasciata,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,2,2020
+1194449723,Aquila fasciata,MA,West of Derdara on R410,Tanger-Tétouan,2,35.09702,-5.434627,612,10,2014
+2693011310,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2018
+1199454969,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2005
+2740629492,Aquila fasciata,MA,"Tin Mansour, Souss Massa, MA (30,115, -9,554)",Sous-Massa-Draa,1,30.114922,-9.55361,68,3,2019
+2193866971,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,2,32.175045,-4.366765,1223,2,2018
+1411432822,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,4,2013
+3599653262,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2021
+2801492919,Aquila fasciata,MA,Erfoud area,Meknès-Tafilalet,1,31.326,-4.085,754,5,2019
+3194584396,Aquila fasciata,MA,Morocco - Tazenakht region,Sous-Massa-Draa,1,30.559998,-7.235023,1432,4,2013
+2043564925,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2017
+3213375150,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2020
+2217130013,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,9,2018
+2707840365,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,3,31.404198,-5.992012,1546,9,2019
+2227107598,Aquila fasciata,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,11,2018
+3284762263,Aquila fasciata,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,3,30.030989,-9.644449,10,9,2019
+2796807638,Aquila fasciata,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+2142247422,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,4,2018
+2716854909,Aquila fasciata,MA,Vallée d'Ait Mansour,Sous-Massa-Draa,1,29.625727,-8.928364,1638,4,2016
+1723298437,Aquila fasciata,MA,Barrage,Chaouia-Ouardigha,1,33.733006,-6.9668,159,3,2016
+2792739440,Aquila fasciata,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,9,2013
+2749425334,Aquila fasciata,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2008
+1194054127,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2000
+3569690762,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,1,2019
+2141868355,Aquila fasciata,MA,"(30.4935,-9.6135)",Sous-Massa-Draa,1,30.49353,-9.613457,142,4,2018
+966407399,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,2,31.404198,-5.992012,1546,9,2013
+3182928457,Aquila fasciata,MA,Garganta del Todra,Sous-Massa-Draa,2,31.59046,-5.596455,1439,11,2018
+2203375648,Aquila fasciata,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,8,2018
+971260399,Aquila fasciata,MA,Jbel Moussa,Tanger-Tétouan,1,35.898125,-5.412033,807,11,2013
+2169871687,Aquila fasciata,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,2,31.1371,-7.9205,1725,5,2018
+2757358597,Aquila fasciata,MA,Oukaimeden viewpoint,Marrakech-Tensift-Al Haouz,1,31.200977,-7.869808,2692,3,2019
+3585804474,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2021
+3284130989,Aquila fasciata,MA,Ferdiua,Tanger-Tétouan,1,35.8309,-5.626846,123,8,2004
+2655188459,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,1,32.175045,-4.366765,1223,1,2019
+1167761698,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2014
+3629647582,Aquila fasciata,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,9,2013
+3651769985,Aquila fasciata,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,11,2021
+3286381783,Aquila fasciata,MA,Km 32 marker near Ouarzazate,Sous-Massa-Draa,1,30.789114,-6.698761,1395,4,2006
+1791391801,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2006
+3572016007,Aquila fasciata,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,11,2021
+1773016116,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,10,2016
+3203161669,Aquila fasciata,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,9,2020
+1726402286,Aquila fasciata,MA,Draa valley,Sous-Massa-Draa,2,30.710432,-6.589147,1607,3,2016
+817828914,Aquila fasciata,MA,N9 to Zagora,Sous-Massa-Draa,1,30.714365,-6.501893,1045,2,2006
+3277680689,Aquila fasciata,MA,Tagdilt track south end,Sous-Massa-Draa,2,31.301636,-5.899976,1572,4,2018
+3630265448,Aquila fasciata,MA,Ait Baha (east of on R105),Sous-Massa-Draa,2,30.046822,-9.067498,802,2,2010
+3636975727,Aquila fasciata,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,1,30.28438,-9.580526,24,10,2021
+3234326449,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,3,2020
+3559151520,Aquila fasciata,MA,"P1506, Drâa-Tafilalet, MA (31,196, -7,131)",Sous-Massa-Draa,1,31.195904,-7.130672,1644,11,2021
+3540928603,Aquila fasciata,MA,Bel Ghiada,L'Oriental,1,32.68407,-2.72386,1244,6,2007
+3276824976,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2018
+1730111177,Aquila fasciata,MA,Assif Amerzgane,Sous-Massa-Draa,1,31.038475,-7.215571,1324,4,2016
+1790197440,Aquila fasciata,MA,Oued Dades--Boumalne,Sous-Massa-Draa,4,31.369457,-5.988785,1522,1,2004
+2799968124,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3214254727,Aquila fasciata,MA,MA-Merzouga (Lac Dayet Srij),Meknès-Tafilalet,1,31.103954,-4.048814,695,4,2019
+2730935182,Aquila fasciata,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+1792490096,Aquila fasciata,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,1,2004
+2741596152,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,3,2019
+821025481,Aquila fasciata,MA,"Morocco, Ait Bougamez to Azilal.",Tadla-Azilal,2,31.8207,-6.522787,1787,4,2012
+2741163609,Aquila fasciata,MA,Hotel Aurocher,Marrakech-Tensift-Al Haouz,2,31.264784,-7.818445,1524,3,2019
+2799961914,Aquila fasciata,MA,Todra Gorge,Sous-Massa-Draa,1,31.5771,-5.5831,1404,4,2013
+2776933626,Aquila fasciata,MA,ouarzazate,Sous-Massa-Draa,1,30.915073,-6.906347,1110,3,2019
+3547482930,Aquila fasciata,MA,"P1506, Drâa-Tafilalet, MA (31,196, -7,131)",Sous-Massa-Draa,1,31.195904,-7.130672,1644,11,2021
+2708646070,Aquila fasciata,MA,Mirarete Del Musa,Tanger-Tétouan,2,35.85271,-5.44013,444,11,2019
+2726648764,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,3,31.586287,-5.590968,1575,3,2013
+3195450303,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2019
+2229540535,Aquila fasciata,MA,"A7, Marrakech-Safi, MA (31,774, -8,166)",Marrakech-Tensift-Al Haouz,1,31.774378,-8.16627,374,11,2018
+817098995,Aquila fasciata,MA,Aguelmouss to Ourzarzate,Sous-Massa-Draa,2,31.204367,-7.438973,1812,2,2001
+3640806637,Aquila fasciata,MA,"Guelmim, town",Guelmim-Es Smara,1,28.98685,-10.057756,313,9,2017
+2716313150,Aquila fasciata,MA,"42452, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.3585,-7.7628)",Marrakech-Tensift-Al Haouz,2,31.35847,-7.762842,966,10,2019
+575935296,Aquila fasciata,MA,A7 near Al Medal,Sous-Massa-Draa,2,30.675714,-9.238129,752,3,2007
+3292772367,Aquila fasciata,MA,Remparts de Taroudant,Sous-Massa-Draa,2,30.468142,-8.872082,223,3,2012
+3611789297,Aquila fasciata,MA,Todra Gorge,Sous-Massa-Draa,1,31.52296,-5.526539,1274,5,2001
+1794429356,Aquila fasciata,MA,Mouth of Oued Souss,Sous-Massa-Draa,1,30.363514,-9.585015,8,10,2012
+2763246702,Aquila fasciata,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,9,2013
+3522381106,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.59285,-5.594524,1453,3,2007
+2771388454,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,3,2019
+3209089472,Aquila fasciata,MA,Observatorio de La Venta,Tanger-Tétouan,2,35.87485,-5.457671,205,8,2012
+2677883954,Aquila fasciata,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+3634546874,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,3,2000
+2694849820,Aquila fasciata,MA,Gorges du Oued Zireg,Taza-Al Hoceima-Taounate,2,34.13517,-4.309184,433,1,2019
+2709017840,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+3216255165,Aquila fasciata,MA,Targa Wassay,Sous-Massa-Draa,1,29.0922,-10.2719,103,3,2012
+2801465453,Aquila fasciata,MA,Draa valley,Sous-Massa-Draa,2,30.710432,-6.589147,1607,3,2016
+2226361019,Aquila fasciata,MA,Hotel Kasbah Ennakhile,Sous-Massa-Draa,1,30.866343,-5.855329,1031,11,2018
+2146127290,Aquila fasciata,MA,"Oued Massa, northern approach",Sous-Massa-Draa,1,30.040062,-9.642428,13,4,2018
+2774940544,Aquila fasciata,MA,Gorge du Todra,Sous-Massa-Draa,2,31.526972,-5.530758,1281,4,2001
+2696547490,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,3,31.404198,-5.992012,1546,9,2019
+1194092448,Aquila fasciata,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2000
+2739684541,Aquila fasciata,MA,Escarpement à l'oest de Imiter,Sous-Massa-Draa,1,31.374048,-5.810267,1467,3,2019
+2700913844,Aquila fasciata,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,9,2019
+3139493393,Aquila fasciata,MA,"Imi Ntizeght, Imi Ntizeght, Souss-Massa, MA (29.745, -8.913)",Sous-Massa-Draa,2,29.745075,-8.912712,1072,3,2020
+3144187520,Aquila fasciata,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2020
+2217861136,Aquila fasciata,MA,restaurant at N'Kob,Sous-Massa-Draa,1,30.86636,-5.855284,1030,11,2018
+2110741650,Aquila fasciata,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,1,35.238678,-5.178101,401,12,2017
+2703884603,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2019
+2791226795,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,3,31.586287,-5.590968,1575,3,2019
+2661292529,Aquila fasciata,MA,"ECWP, Fès-Meknès, MA (33,009, -4,092)",Fès-Boulemane,1,33.009308,-4.092107,939,3,2019
+2219377431,Aquila fasciata,MA,"Unnamed Road, Guelmim-Oued Noun, MA (28,97, -10,228)",Guelmim-Es Smara,1,28.970123,-10.228284,178,11,2018
+2670412265,Aquila fasciata,MA,"N9, Drâa-Tafilalet, MA (30,725, -6,605)",Sous-Massa-Draa,1,30.724705,-6.604554,1672,3,2019
+3292245065,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+1717671597,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3580841735,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,5,30.585133,-9.529026,425,3,2020
+2731385518,Aquila fasciata,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2705238697,Aquila fasciata,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,3,30.030989,-9.644449,10,9,2019
+2748940200,Aquila fasciata,MA,"Escale Foret, Marrakesh-Safi, MA (31.544, -7.534)",Marrakech-Tensift-Al Haouz,1,31.544065,-7.53427,945,3,2019
+2747114163,Aquila fasciata,MA,"P30, Souss Massa, MA (29,846, -7,329)",Guelmim-Es Smara,2,29.845821,-7.329075,558,12,2017
+2211250566,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2004
+3214153579,Aquila fasciata,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,2,31.1371,-7.9205,1725,5,2010
+2700224708,Aquila fasciata,MA,Cap Malabata,Tanger-Tétouan,1,35.816746,-5.749175,59,8,2004
+946702908,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2013
+3667532091,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,4,2013
+1721861027,Aquila fasciata,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2016
+3196248344,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2003
+2128201382,Aquila fasciata,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,2,30.585133,-9.529026,425,3,2018
+2763615763,Aquila fasciata,MA,"N9, Drâa-Tafilalet, MA (30,725, -6,605)",Sous-Massa-Draa,1,30.724705,-6.604554,1672,3,2019
+1402850663,Aquila fasciata,MA,Inraren (Paradise Valley),Sous-Massa-Draa,2,30.551817,-9.557826,179,5,2015
+1197796742,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2014
+2734113829,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,4,2019
+2048824426,Aquila fasciata,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,1,31.26397,-4.271297,755,3,2017
+3199132382,Aquila fasciata,MA,Observatorio de La Venta,Tanger-Tétouan,1,35.87485,-5.457671,205,9,2003
+1791388090,Aquila fasciata,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,10,2006
+2739888083,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2019
+2767302432,Aquila fasciata,MA,Aoulouz,Sous-Massa-Draa,1,30.63,-8.1001,910,5,2019
+3209581364,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,2,2019
+1753514580,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,12,2015
+965788506,Aquila fasciata,MA,"Dades Gorge, Boumaine Dades, Morocco",Sous-Massa-Draa,2,31.404198,-5.992012,1546,9,2013
+2180514141,Aquila fasciata,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,5,2018
+2795286084,Aquila fasciata,MA,Road to Oued Nounn,Sous-Massa-Draa,2,29.177696,-10.348805,91,9,2019
+2043245709,Aquila fasciata,MA,Joui Zkara,Guelmim-Es Smara,1,28.938534,-10.45362,217,1,2017
+2218846064,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2018
+2738471731,Aquila fasciata,MA,Agdz أكدز,Sous-Massa-Draa,1,30.709265,-6.446773,930,5,2019
+2713275244,Aquila fasciata,MA,Assaca Valley | Oued Noun,Sous-Massa-Draa,2,29.119007,-10.372899,23,4,2012
+3226976486,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2020
+3205209339,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,11,2012
+2672484680,Aquila fasciata,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2518022053,Aquila fasciata,MA,,Souss - Massa - Draâ,1,31.562303,-5.581356,1380,12,2019
+1744716745,Aquila fasciata,MA,Tizi n'Tairhemt,Meknès-Tafilalet,1,32.62133,-4.532161,1738,3,2016
+2717060957,Aquila fasciata,MA,Vallée d'Ait Mansour,Sous-Massa-Draa,1,29.625727,-8.928364,1638,4,2016
+3194444284,Aquila fasciata,MA,Date Palm Plantation,Meknès-Tafilalet,1,31.252312,-4.285339,758,4,2018
+2780965384,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,9,2019
+3279775304,Aquila fasciata,MA,Taroudant,Sous-Massa-Draa,1,30.479397,-8.867866,237,2,2015
+3556165956,Aquila fasciata,MA,Jemaa el-Fnaa,Marrakech-Tensift-Al Haouz,1,31.625834,-7.988906,460,3,2009
+3278099593,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,8,2013
+3151577724,Aquila fasciata,MA,"47703, Zagora MA-Souss-Massa-Drâa 30.77767, -5.56782",Sous-Massa-Draa,2,30.777666,-5.56782,857,3,2020
+2700048424,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,2,2017
+3178994863,Aquila fasciata,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,11,2003
+3668830988,Aquila fasciata,MA,"P1506, Drâa-Tafilalet, MA (31,196, -7,131)",Sous-Massa-Draa,1,31.195904,-7.130672,1644,11,2021
+820837200,Aquila fasciata,MA,"Morocco, Ait Bougamez (Happy Valley)",Tadla-Azilal,1,31.654839,-6.449316,1823,4,2012
+1719683526,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,2,2016
+2178140130,Aquila fasciata,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,1,31.26397,-4.271297,755,3,2016
+2213513101,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,3,31.586287,-5.590968,1575,4,2017
+2796503769,Aquila fasciata,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,6,2006
+3286873820,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,9,2019
+3631940219,Aquila fasciata,MA,"80322, Agadir MA-Souss-Massa-Drâa (30.6019,-9.4780)",Sous-Massa-Draa,1,30.601881,-9.478,672,11,2021
+2122235908,Aquila fasciata,MA,"Agouliz, Guelmim-Es Semara, MA (29,738, -8,192)",Guelmim-Es Smara,2,29.738308,-8.19151,1007,1,2018
+2133981674,Aquila fasciata,MA,Oued Ziz--Errachidia,Meknès-Tafilalet,2,31.934944,-4.423081,1014,2,2013
+2124839350,Aquila fasciata,MA,Sandy plains,Guelmim-Es Smara,1,28.817204,-10.334297,190,2,2017
+1398911892,Aquila fasciata,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,2,33.713158,-6.929712,284,1,2011
+2185138859,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+2133208006,Aquila fasciata,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2018
+2725216196,Aquila fasciata,MA,Cirque de Jaaffar,Meknès-Tafilalet,2,32.556793,-4.91382,2055,6,2017
+2719170995,Aquila fasciata,MA,Vallée d'Ait Mansour,Sous-Massa-Draa,1,29.625727,-8.928364,1638,4,2016
+1764058857,Aquila fasciata,MA,Sous Valley Argan trees,Sous-Massa-Draa,2,30.583765,-8.543115,420,4,2008
+2100473170,Aquila fasciata,MA,"Grand Casablanca, MA (33.572, -7.429)",Grand Casablanca,1,33.57204,-7.42903,94,10,2017
+3186430716,Aquila fasciata,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,3,2012
+2725432853,Aquila fasciata,MA,Vallée d'Ait Mansour,Sous-Massa-Draa,1,29.625727,-8.928364,1638,4,2016
+3639608885,Aquila fasciata,MA,Gorges du Ziz,Meknès-Tafilalet,2,32.175045,-4.366765,1223,4,2001
+2156181726,Aquila fasciata,MA,Asif Tifnout,Sous-Massa-Draa,1,30.700294,-8.162112,689,4,2018
+2170862930,Aquila fasciata,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,6,2018
+1194101135,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,3,2000
+1734946334,Aquila fasciata,MA,Tizi n'Tairhemt,Meknès-Tafilalet,1,32.62133,-4.532161,1738,3,2016
+3632448896,Aquila fasciata,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,2,2020
+3212373447,Aquila fasciata,MA,"N10, Drâa-Tafilalet, MA (30.946, -7.027)",Sous-Massa-Draa,2,30.94557,-7.026888,1182,3,2014
+2712060674,Aquila fasciata,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,5,2018
+1720624283,Aquila fasciata,MA,Restaurant at N31 33 00 W07 34 50,Marrakech-Tensift-Al Haouz,1,31.549837,-7.580556,796,3,2016
+1167749182,Aquila fasciata,MA,Road - Ouarzazate - Tazenakht,Sous-Massa-Draa,2,30.961344,-7.20098,1320,4,2014
+2750300490,Aquila fasciata,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+3517129077,Aquila fasciata,ES,Acantilados de Aguadú,Melilla,2,35.315456,-2.945325,9,4,2021
+3187882515,Aquila fasciata,MA,Plaines de Zaida,Meknès-Tafilalet,2,32.791946,-4.944277,1483,2,2016
+1346238994,Aquila fasciata,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,2,31.255966,-7.973832,1151,1,2015
+3201937295,Aquila fasciata,MA,"Tamri (30.6992, -9.8206)",Sous-Massa-Draa,1,30.6992,-9.8206,21,3,2006
+2782081397,Aquila fasciata,MA,"42452, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.3585,-7.7628)",Marrakech-Tensift-Al Haouz,2,31.35847,-7.762842,966,10,2019
+2129295344,Aquila fasciata,MA,"(30.9376,-7.2093)",Sous-Massa-Draa,1,30.937597,-7.209331,1264,3,2018
+2742408712,Aquila fasciata,MA,Asni - Outgal - Route P2028 a/r,Marrakech-Tensift-Al Haouz,2,31.265676,-7.826183,1586,3,2018
+1791408648,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2007
+1773024617,Aquila fasciata,MA,"Unbekannter Ort - 31,588x-5,599 - 03.11.2016 10:53",Sous-Massa-Draa,2,31.587908,-5.5995,1483,11,2016
+2168747320,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,5,2018
+3985947895,Aquila fasciata,MA,,Guelmim - Es-Semara,1,28.646845,-9.474478,365,11,2022
+3283874308,Aquila fasciata,MA,Agadir,Sous-Massa-Draa,4,30.938967,-7.21158,1258,4,2003
+2843908488,Aquila fasciata,MA,Morocco - Tagounite,,1,30.03532,-5.495737,631,2,2020
+2211066250,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2004
+2839375292,Aquila fasciata,MA,Morocco - Ouarzazate,,1,30.926663,-6.874283,1108,2,2016
+2840167440,Aquila fasciata,MA,Morocco - Anti-Atlas Central\n,,4,30.505484,-7.800293,1259,8,2011
+2838862867,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.535143,-5.922612,1745,4,2017
+2713488950,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,3,2019
+2842341617,Aquila fasciata,MA,Morocco - Touama,,2,31.474272,-7.431506,1447,3,2015
+3466205691,Aquila fasciata,MA,,Marrakech - Tensift - Al Haouz,1,31.230204,-7.823001,2397,2,2018
+2839741211,Aquila fasciata,MA,Morocco - Ech-Challalate,,1,33.57283,-7.432751,106,12,2016
+2840653496,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.5881,-5.5942,1486,2,2014
+2842657757,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.5907,-5.5964,1441,4,2017
+2836449743,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,2,35.306493,-2.961298,84,1,2019
+3651704401,Aquila fasciata,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2019
+2328363500,Aquila fasciata,MA,Oued Massa Nationalpark,,1,30.167284,-9.649104,0,11,2001
+2328363469,Aquila fasciata,MA,"Tinerhir (Tinghir), Stadt am Hohen Atlas",,1,31.522362,-5.529556,1298,12,2012
+3725006172,Aquila fasciata,MA,Morocco - Inezgane,,2,30.333633,-9.550408,16,11,2018
+3907581531,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,1,35.310851,-2.960982,114,5,2022
+2832609451,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.580957,-5.590891,1414,2,2014
+2843730231,Aquila fasciata,MA,Morocco - Adis,,1,29.546989,-8.022201,488,2,2020
+2206124905,Aquila fasciata,MA,"Guelmim-Oued Noun, MA (28,986, -10,442)",Guelmim-Es Smara,2,28.986328,-10.441648,195,11,2018
+3995880820,Aquila fasciata,MA,Morocco - Al Majjatia Oulad Taleb,,1,33.488689,-7.541949,152,5,2022
+2672855842,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+3214441331,Aquila fasciata,MA,"Souss-Massa, MA (29,678, -9,521)",Sous-Massa-Draa,2,29.677723,-9.52144,214,4,2016
+3995637693,Aquila fasciata,MA,Morocco - Targua Ntouchka,,1,29.847181,-9.189517,679,11,2022
+2836344246,Aquila fasciata,MA,Morocco - Ouarzazate,,2,30.90679,-6.878699,1111,12,2015
+2155022318,Aquila fasciata,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2018
+2839390479,Aquila fasciata,ES,Spain - Estrecho de Gibraltar,,1,35.953553,-5.600281,0,11,2019
+2832606588,Aquila fasciata,MA,Morocco - Massa,,1,29.977577,-9.647603,11,2,2014
+2839557099,Aquila fasciata,MA,Morocco - Ouarzazate,,1,30.923478,-6.867982,1099,1,2016
+2833266722,Aquila fasciata,MA,Morocco - Touama,,2,31.473927,-7.432049,1439,5,2018
+2832182035,Aquila fasciata,MA,Morocco - Dadès-Draa\n,,2,31.086669,-7.143989,1329,4,2011
+3996677905,Aquila fasciata,MA,Morocco - Lqliaa,,1,30.288958,-9.5081,46,9,2022
+2832666966,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.588528,-5.596061,1440,3,2016
+2833022451,Aquila fasciata,MA,Morocco - Ouarzazate,,1,30.9234,-6.8692,1101,4,2017
+3825624426,Aquila fasciata,MA,Morocco - Imouzzer,,1,30.675003,-9.48346,1118,3,2022
+3720715083,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,1,35.31087,-2.961006,114,5,2021
+3904827005,Aquila fasciata,MA,Morocco - Ain Dorbane,,1,33.065711,-7.221822,646,4,2022
+4057470698,Aquila fasciata,MA,Morocco - Taliouine,,1,30.526935,-7.906725,1011,12,2022
+2839206595,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.621101,-5.560107,1566,3,2015
+2836559851,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.535143,-5.922612,1745,4,2017
+2833015487,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.590857,-5.59665,1447,4,2017
+2842167070,Aquila fasciata,MA,Morocco - Gorges du Dades,,2,31.506566,-5.944168,1669,7,2019
+3995451346,Aquila fasciata,MA,Morocco - Tansifte,,1,30.81635,-6.762149,1294,10,2022
+3822339682,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.566045,-5.579976,1382,3,2016
+2840578343,Aquila fasciata,MA,Morocco - Ighrem N'Ougdal,,3,31.127059,-7.349393,1534,7,2013
+3719182498,Aquila fasciata,MA,Morocco - Agadir,,1,30.363979,-9.589455,10,12,2020
+2833244577,Aquila fasciata,MA,Morocco - Telouet,,2,31.266497,-7.289521,1749,12,2017
+2841843284,Aquila fasciata,MA,Morocco - Bni Guil,,1,32.442531,-1.446505,1138,4,2019
+2839564126,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.620991,-5.562465,1639,6,2016
+4056618785,Aquila fasciata,MA,Morocco - Oued Sous,,2,30.281071,-9.579997,35,11,2022
+2838508737,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.588536,-5.594632,1496,4,2012
+3723194629,Aquila fasciata,MA,Morocco - Agadir,,2,30.362003,-9.573468,14,10,2021
+2836717415,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.5893,-5.5963,1438,3,2017
+3719475943,Aquila fasciata,MA,Morocco - Agadir,,1,30.363099,-9.586743,9,1,2021
+2839744878,Aquila fasciata,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.264058,-7.814898,1619,10,2016
+2832401623,Aquila fasciata,MA,Morocco - Bas Draa,,1,28.570788,-10.905402,74,12,2011
+2844048101,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.536524,-5.920073,1750,3,2019
+3731780464,Aquila fasciata,MA,Morocco - Agadir,,1,30.362898,-9.586923,9,8,2021
+2844216615,Aquila fasciata,ES,Spain - Melilla,,1,35.281449,-2.95034,35,4,2020
+2838923859,Aquila fasciata,MA,Morocco - Ighil N'Oumgoun,,2,31.436884,-6.209836,1804,4,2014
+2833192414,Aquila fasciata,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.225955,-4.420166,843,1,2017
+3822949513,Aquila fasciata,MA,Morocco - Imouzzer,,1,30.670977,-9.479058,1230,3,2022
+2835580358,Aquila fasciata,MA,Morocco - Taghjijt,,1,28.813393,-9.500427,548,11,2011
+2840237412,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.530048,-5.925404,1796,3,2014
+2839050258,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.58255,-5.588833,1536,3,2014
+2835416487,Aquila fasciata,MA,Morocco - Fask,,2,28.9498,-9.732284,384,1,2013
+2841157147,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.617945,-5.577899,1617,1,2016
+2836058352,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.589922,-5.593662,1639,4,2016
+2833254888,Aquila fasciata,MA,Morocco - Ihaddadene,,2,35.2,-3.02,519,6,2018
+2844099931,Aquila fasciata,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.92243,-6.849535,1093,4,2018
+2844416679,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,3,35.310881,-2.961008,114,5,2019
+2836414873,Aquila fasciata,MA,Morocco - Tazart,,1,31.47578,-7.42406,1496,2,2018
+2841481739,Aquila fasciata,MA,Morocco - Amerzgane,,1,31.041703,-7.205753,1318,7,2013
+4057041622,Aquila fasciata,MA,Morocco - Imouzzer,,1,30.674736,-9.481152,1117,1,2023
+2833078245,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.5298,-5.9251,1802,4,2018
+2839182512,Aquila fasciata,MA,Morocco - Tizguite,,1,33.753128,-5.199294,911,11,2014
+3725340507,Aquila fasciata,MA,Morocco - Agadir,,1,30.363246,-9.587401,11,8,2019
+2835000054,Aquila fasciata,MA,Morocco - Aznaguen,,2,30.460649,-7.416505,1699,12,2019
+1794565426,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,4,2013
+2832569804,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.621381,-5.560345,1572,3,2015
+2833981357,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.587907,-5.5995,1483,11,2016
+3824963306,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.583728,-5.590253,1460,3,2014
+2844873545,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.587272,-5.59115,1645,4,2019
+3645055612,Aquila fasciata,MA,Asni,Marrakech-Tensift-Al Haouz,2,31.248314,-7.873116,1808,3,2018
+3252479221,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2014
+3008525578,Aquila fasciata,MA,,Souss - Massa - Draâ,1,30.069542,-9.660829,36,1,2007
+2182942622,Aquila fasciata,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,5,2018
+2840025619,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.5872,-5.6,1498,3,2017
+2843224410,Aquila fasciata,MA,Morocco - Adis,,1,29.521922,-8.031897,479,2,2020
+2839113510,Aquila fasciata,MA,Morocco - Gorges de Todra,,2,31.5881,-5.5945,1489,2,2014
+2842670508,Aquila fasciata,MA,Morocco - Meknès - Tafilalet,,2,31.886887,-4.559326,1089,4,2010
+2833134069,Aquila fasciata,MA,Morocco - Gorges du Dades,,1,31.553,-5.907,1738,4,2018
+2839187525,Aquila fasciata,MA,Morocco - Farkhana,,2,35.320137,-2.974147,154,12,2019
+2837629896,Aquila fasciata,MA,Morocco - Echatea El Abied,,2,28.87,-10.5,167,3,2019
+2835948734,Aquila fasciata,MA,Morocco - Ech-Challalate,,1,33.567715,-7.426184,114,11,2016
+3717898509,Aquila fasciata,MA,Morocco - Sidi Bibi,,1,30.264023,-9.515584,54,8,2020
+2833128273,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.588186,-5.593915,1505,4,2018
+2840403058,Aquila fasciata,MA,Morocco - Bni Guil,,1,32.572422,-2.440492,1112,5,2015
+2835716251,Aquila fasciata,MA,Morocco - Ighil N'Oumgoun,,1,31.414847,-6.146391,1686,2,2016
+2843670559,Aquila fasciata,ES,Spain - Estrecho de Gibraltar,,1,35.953553,-5.600281,0,10,2019
+2839683050,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.5886,-5.592,1722,1,2017
+3732621225,Aquila fasciata,MA,Morocco - Agadir,,2,30.363878,-9.586886,7,10,2021
+2836007194,Aquila fasciata,MA,Morocco - Tissint,,1,29.820465,-7.196846,486,12,2016
+2838636515,Aquila fasciata,MA,Morocco - Souss - Massa - Draâ,,1,30.642047,-8.485565,489,4,2010
+2841275318,Aquila fasciata,MA,Morocco - Amerzgane,,1,31.041703,-7.205753,1318,7,2013
+3716197132,Aquila fasciata,MA,Morocco - Oued Sous,,1,30.27486,-9.572281,24,2,2020
+2726650158,Aquila fasciata,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,2,2016
+3996419434,Aquila fasciata,MA,Morocco - Imouzzer,,2,30.678263,-9.475296,1181,10,2022
+4058275615,Aquila fasciata,MA,Morocco - Gorges du Dades,,2,31.530161,-5.925069,1805,10,2016
+2838370860,Aquila fasciata,ES,Spain - Melilla,,1,35.286177,-2.958026,29,12,2019
+3825339565,Aquila fasciata,MA,Morocco - Tazarine,,1,30.83699,-5.659153,920,3,2020
+2838848284,Aquila fasciata,MA,Morocco - Tarmigt,,2,30.863606,-6.859108,1133,1,2014
+2836784474,Aquila fasciata,MA,Morocco - Gorges de Todra,,1,31.58,-5.61,1769,5,2018
+2841235815,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,1,35.310725,-2.960985,114,4,2019
+2833245197,Aquila fasciata,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.92243,-6.849535,1093,4,2018
+2838533839,Aquila fasciata,MA,Morocco - Skoura Ahl El Oust,,1,31.069667,-6.527861,1224,4,2012
+2838923562,Aquila fasciata,MA,Morocco - Tarmigt,,1,30.872683,-6.86554,1147,3,2014
+2833364564,Aquila fasciata,MA,Morocco - Ait Youl,,1,31.4403,-6.011194,1633,12,2018
+2837614834,Aquila fasciata,MA,Morocco - Tendrara,,1,32.930573,-2.042156,1405,12,2018
+2835544928,Aquila fasciata,MA,Morocco - Souss-Massa NP,,1,30.072968,-9.668926,10,8,2010
+2118685706,Aquila fasciata,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2002
+3145925899,Aquila fasciata,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,2,2020
+3005107035,Aquila fasciata,MA,,Souss - Massa - Draâ,1,29.248163,-10.287231,62,3,2012
+2228427539,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,11,2018
+3759251543,Aquila fasciata,MA,,Chaouia - Ouardigha,1,33.065632,-7.221864,646,4,2022
+2988460103,Aquila fasciata,MA,,Guelmim - Es-Semara,1,28.351719,-10.380196,149,1,2011
+2791419338,Aquila fasciata,MA,"Calle Omar Ben Abdelaziz, Ouarzazate MA-Souss-Massa-Drâa (31.4492,-5.9702)",Sous-Massa-Draa,1,31.449245,-5.970214,1637,9,2019
+3171740703,Aquila fasciata,MA,Barrage Youssef Ibn Tachfin,Sous-Massa-Draa,1,29.835655,-9.484763,106,5,2005
+2741482834,Aquila fasciata,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,12,2018
+2835739767,Aquila fasciata,MA,Morocco - Touama,,2,31.4731,-7.4328,1450,3,2015
+3716995598,Aquila fasciata,MA,Morocco - Agadir,,1,30.364062,-9.586587,7,6,2020
+2835585510,Aquila fasciata,MA,Morocco - Bas Draa,,1,28.654979,-10.717434,154,12,2011
+3717808790,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,1,35.31104,-2.961084,112,7,2020
+2835425449,Aquila fasciata,MA,Morocco,,1,30.058546,-9.659386,10,2,2010
+3730431412,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,2,35.307305,-2.962006,80,2,2021
+2839834555,Aquila fasciata,MA,Morocco - Sidi Mzal,,2,29.798414,-8.886806,1418,4,2014
+3716696876,Aquila fasciata,ES,Spain - Melilla - Barranco del Nano,,2,35.310903,-2.961032,114,6,2020
+3731483926,Aquila fasciata,MA,Morocco - Ida Ougoummad,,2,30.694954,-8.151451,699,10,2021
+2833131176,Aquila fasciata,MA,Morocco - Lqliaa,,4,30.290792,-9.564432,27,9,2017

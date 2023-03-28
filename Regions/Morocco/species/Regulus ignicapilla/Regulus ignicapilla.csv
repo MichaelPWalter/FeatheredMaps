@@ -1,0 +1,758 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1617116340,Regulus ignicapilla,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,11,2009
+3466092921,Regulus ignicapilla,MA,,Marrakech - Tensift - Al Haouz,1,31.301033,-7.764167,1172,2,2018
+3005136583,Regulus ignicapilla,MA,,Chaouia - Ouardigha,1,33.070264,-7.231884,625,12,2020
+1620568216,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,7,2019
+1620339682,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2014
+1369706124,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,5,2015
+2202646712,Regulus ignicapilla,MA,Tensift-Al Haouz,Marrakech-Tensift-Al Haouz,1,31.240547,-7.865324,1775,4,2017
+3255194562,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2020
+2543194616,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2015
+1791770043,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,3,2013
+3250839873,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,5,35.90542,-5.372675,221,9,2020
+1738447121,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,11,33.48899,-5.144713,1718,5,2016
+2738131090,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,3,33.48899,-5.144713,1718,6,2019
+3211238589,Regulus ignicapilla,MA,"Upper Pine forest, Oukaïmeden Park",Marrakech-Tensift-Al Haouz,7,31.229877,-7.821068,2360,5,2010
+1369715315,Regulus ignicapilla,MA,Ifrane (town),Meknès-Tafilalet,1,33.529232,-5.108879,1655,5,2015
+595866218,Regulus ignicapilla,MA,Aït-Lekah,Marrakech-Tensift-Al Haouz,1,31.310015,-7.742143,1015,12,2008
+2798520083,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,1,2015
+3539530609,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,9,2021
+3215617349,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,5,33.48899,-5.144713,1718,5,2010
+3211397221,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,11,2020
+3590673743,Regulus ignicapilla,MA,Azrou (east),Meknès-Tafilalet,1,33.432934,-5.176328,1646,3,2007
+2697288692,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,4,2014
+2720529818,Regulus ignicapilla,MA,Roadside stop N9 west,Marrakech-Tensift-Al Haouz,1,31.543129,-7.551422,862,4,2008
+595894067,Regulus ignicapilla,MA,"Maroc, Azrou (forêt au-dessus de la ville)",Meknès-Tafilalet,1,33.40651,-5.161686,1916,5,2008
+1194444426,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,4,35.176052,-5.341244,486,10,2014
+2109287494,Regulus ignicapilla,MA,Auberge Casa Linda,Tanger-Tétouan,1,35.158028,-5.25567,698,10,2017
+2145460204,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2018
+2190439352,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,10,2015
+2705091091,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2016
+1194987091,Regulus ignicapilla,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,3,35.129738,-5.089073,1678,10,2014
+3632363089,Regulus ignicapilla,MA,Aurocher Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.263971,-7.819494,1521,4,2011
+1202131360,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2005
+2724916354,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,4,33.560863,-5.199182,1533,4,2001
+3546276171,Regulus ignicapilla,MA,"N9, Marrakesh-Safi, MA (31,489, -7,437)",Marrakech-Tensift-Al Haouz,2,31.48919,-7.437317,1466,11,2021
+1715569916,Regulus ignicapilla,MA,"31.2301x-7.8236 - Feb 14, 2016, 10:21 AM",Marrakech-Tensift-Al Haouz,1,31.2301,-7.823556,2394,2,2016
+2790050777,Regulus ignicapilla,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2013
+1205818304,Regulus ignicapilla,MA,valley below Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.241133,-7.808833,1892,3,2010
+3213483804,Regulus ignicapilla,MA,MA-Azrou (Cedre Gouraud Forest),Meknès-Tafilalet,2,33.41828,-5.178575,1757,4,2016
+3278059196,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,10,2020
+2219029273,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,10,2018
+3633172013,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,6,2012
+3281106419,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,5,2010
+3213797414,Regulus ignicapilla,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,1,35.89167,-5.36642,307,11,2020
+2069438909,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2017
+1778492560,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,6,33.65042,-5.029721,1470,12,2016
+1739952928,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,20,33.427013,-5.155838,1678,5,2016
+2124423054,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,3,31.478024,-7.434708,1465,3,2018
+840567167,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2012
+1359288662,Regulus ignicapilla,MA,Zedenwald bei Azrou,Meknès-Tafilalet,1,33.41992,-5.177846,1748,4,2015
+2672504550,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+3188037982,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,10,2020
+3265528872,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,6,35.90559,-5.361607,175,9,2020
+2125997136,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,1,2018
+2213093978,Regulus ignicapilla,MA,"P2030, Marrakech-Safi, MA (31.265, -7.812)",Marrakech-Tensift-Al Haouz,2,31.264988,-7.811712,1609,9,2018
+975017125,Regulus ignicapilla,MA,Kasbah Ourika,Marrakech-Tensift-Al Haouz,1,31.351053,-7.764985,921,12,2013
+2772611768,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2019
+2091686005,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,11,2017
+2220262278,Regulus ignicapilla,MA,Vallée de Tamatert,Marrakech-Tensift-Al Haouz,1,31.142403,-7.90538,1921,11,2018
+2170903765,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,5,2018
+2710112387,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,11,2019
+3210931112,Regulus ignicapilla,MA,Ifrane (west),Meknès-Tafilalet,3,33.55153,-5.181361,1582,1,2016
+3507251884,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2021
+1739978964,Regulus ignicapilla,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,3,33.606663,-4.907874,1515,5,2016
+1784934810,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,3,31.478024,-7.434708,1465,3,2015
+2174910779,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,6,2018
+2136835772,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2018
+3681714632,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,6,2021
+2154648836,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,3,2018
+3522149539,Regulus ignicapilla,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,2,2021
+1718698223,Regulus ignicapilla,MA,P2030 stop 3,Marrakech-Tensift-Al Haouz,4,31.230307,-7.822888,2395,2,2016
+2668366572,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,2,35.910793,-5.368713,140,3,2019
+3630274551,Regulus ignicapilla,MA,Forêt de Taghzaft,Meknès-Tafilalet,1,33.4109,-5.147164,1833,4,2018
+3636736277,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,12,2021
+1789176219,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,10,31.201849,-7.859733,2609,4,2009
+2111313976,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2017
+1158866954,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2014
+2115159795,Regulus ignicapilla,MA,Lac Aoua,Meknès-Tafilalet,1,33.65568,-5.044803,1478,2,2017
+1793995128,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2013
+1789939548,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2009
+3286578441,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,9,2020
+1789897245,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2005
+2796915279,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,2,35.910793,-5.368713,140,7,2016
+3209361687,Regulus ignicapilla,ES,Pista Los Hornillos,Ceuta,1,35.90928,-5.35482,49,12,2020
+3632443298,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2008
+3215309695,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,4,2016
+1411078066,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,20,33.65042,-5.029721,1470,3,2011
+1730102507,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2016
+2662601492,Regulus ignicapilla,ES,Carretera García Aldave,Ceuta,1,35.9157,-5.369609,35,3,2019
+1345832193,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,1,2015
+1721521591,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+2097100801,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,5,33.560863,-5.199182,1533,9,2017
+3214949130,Regulus ignicapilla,MA,Toufliht on road to Quarzazate,Marrakech-Tensift-Al Haouz,2,31.479494,-7.43446,1436,3,2014
+2107653425,Regulus ignicapilla,MA,"Doukkala-Abda, MA (32.922, -8.809)",Doukkala-Abda,1,32.921616,-8.808676,0,10,2017
+2219059331,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,10,2018
+2786602276,Regulus ignicapilla,MA,"P2030, Marrakesh-Safi, MA (31,231, -7,822)",Marrakech-Tensift-Al Haouz,6,31.230873,-7.821524,2367,11,2019
+3551425819,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2011
+1734776834,Regulus ignicapilla,MA,Near Sidi Ali,Meknès-Tafilalet,1,33.089348,-5.018606,2054,3,2016
+3651029523,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2009
+937893042,Regulus ignicapilla,MA,Morocco Moulay Brahim,Marrakech-Tensift-Al Haouz,1,31.280605,-7.963028,1182,1,2013
+1354708129,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2015
+1786469741,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,3,2015
+3518935015,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,5,2021
+2108766979,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,2,2002
+3543982962,Regulus ignicapilla,MA,"Région col Tizi-n-tichka, MA",Marrakech-Tensift-Al Haouz,2,31.307854,-7.373567,2079,11,2021
+2660980903,Regulus ignicapilla,MA,above Azrou,Meknès-Tafilalet,2,33.42385,-5.179245,1722,3,2019
+2693054847,Regulus ignicapilla,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+1356119138,Regulus ignicapilla,MA,MA--Marrakech-Tensift-Al Haouz--Ourika,Marrakech-Tensift-Al Haouz,1,31.3069,-7.736894,1034,3,2015
+2634423316,Regulus ignicapilla,MA,,Meknès - Tafilalet,1,33.419817,-5.17969,1754,5,2018
+3947240541,Regulus ignicapilla,MA,,Marrakech - Tensift - Al Haouz,1,31.13106,-7.908883,2115,10,2022
+2980789830,Regulus ignicapilla,MA,,Marrakech - Tensift - Al Haouz,1,31.326406,-7.401576,1944,3,2006
+3031724279,Regulus ignicapilla,MA,,Chaouia - Ouardigha,1,33.07011,-7.23191,623,1,2021
+2220122527,Regulus ignicapilla,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,11,2018
+3623276785,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+2096221007,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,10,2017
+2755060055,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+2718997539,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,1,2006
+3187237167,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2017
+3191546655,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,10,2020
+3679277673,Regulus ignicapilla,MA,PN Ifrane--Dayet Hachlaf,Meknès-Tafilalet,1,33.54598,-5.002792,1670,12,2013
+1369685399,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2015
+2095749944,Regulus ignicapilla,MA,PN de Bouhachem,Tanger-Tétouan,2,35.260136,-5.412179,981,9,2017
+3183055842,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,9,2020
+2126076000,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,10,33.41931,-5.18162,1762,1,2018
+2717741289,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,6,33.41931,-5.18162,1762,10,2019
+3068089847,Regulus ignicapilla,MA,,Meknès - Tafilalet,1,32.597748,-4.531264,1885,1,2017
+3298583565,Regulus ignicapilla,MA,Dayet Aoua,Meknès-Tafilalet,1,33.65396,-5.032402,1472,3,2006
+2785860215,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,2,2015
+1719798918,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,2,2016
+2210270832,Regulus ignicapilla,MA,"Unknown Location - (33.527, -5.105)",Meknès-Tafilalet,1,33.52693,-5.105148,1646,9,2018
+2178031415,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,3,2016
+2669441549,Regulus ignicapilla,ES,Carretera García Aldave,Ceuta,1,35.9157,-5.369609,35,3,2019
+2659395375,Regulus ignicapilla,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+3541661724,Regulus ignicapilla,MA,"N9, Marrakesh-Safi, MA (31,489, -7,437)",Marrakech-Tensift-Al Haouz,2,31.48919,-7.437317,1466,11,2021
+2717731210,Regulus ignicapilla,MA,"P2030, Marrakesh-Safi, MA (31,231, -7,822)",Marrakech-Tensift-Al Haouz,6,31.230873,-7.821524,2367,11,2019
+1719797982,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,4,31.478024,-7.434708,1465,3,2016
+2095734883,Regulus ignicapilla,MA,"P21, Meknes-Tafilalet, MA (33,428, -5,175)",Meknès-Tafilalet,1,33.42842,-5.175088,1693,9,2017
+2329761396,Regulus ignicapilla,MA,"Dayet Aaoua b. Ifrane, Marokko",,1,33.663498,-5.015602,1500,3,2001
+2840953212,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,4,31.229951,-7.824129,2392,9,2013
+2208920769,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,10,2018
+2543187653,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,6,2016
+1620538235,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2018
+2832419269,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230625,-7.808829,1906,9,2013
+3995080825,Regulus ignicapilla,MA,Morocco - Lacs du moyen Atlas,,2,33.481163,-5.151706,1671,5,2022
+2841628310,Regulus ignicapilla,MA,Morocco - Touama,,1,31.4788,-7.4346,1437,10,2014
+2798170217,Regulus ignicapilla,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,2,2013
+1739974522,Regulus ignicapilla,MA,P7215--Tioumliline,Meknès-Tafilalet,1,33.41608,-5.209365,1615,5,2016
+2773693512,Regulus ignicapilla,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,10,35.28193,-5.489002,1156,1,2019
+3995034264,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230755,-7.821852,2376,2,2019
+3208703834,Regulus ignicapilla,MA,Aurocher Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.263971,-7.819494,1521,4,2011
+3242566202,Regulus ignicapilla,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,6,2004
+2173097039,Regulus ignicapilla,MA,"N2, Khamis M'Diq, Tanger-Tétouan-Al Hoceïma, MA (35,067, -5,044)",Tanger-Tétouan,8,35.066845,-5.043581,985,5,2018
+1721641056,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+2837514242,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.229977,-7.823147,2396,2,2019
+2832410551,Regulus ignicapilla,MA,Morocco - Sti Fadma,,1,31.286692,-7.781306,1260,4,2014
+2165192819,Regulus ignicapilla,MA,Ait Benhaddou thru Tiz n' Tichka-cross Haouz Plains-Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.326603,-7.623138,2687,12,2012
+2708953743,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,11,2019
+3553073005,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,9,2021
+2055160652,Regulus ignicapilla,MA,"31,578x-7,86 - 8/4/2017 21:10",Marrakech-Tensift-Al Haouz,1,31.577917,-7.859996,517,4,2017
+2695748642,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2010
+3281423158,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+1735776730,Regulus ignicapilla,MA,Bosque de Cedros,Meknès-Tafilalet,1,33.432087,-5.176191,1655,3,2016
+2707987884,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,11,2019
+3239786016,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98734,-5.071087,2075,10,2003
+3634985057,Regulus ignicapilla,MA,Oukaimden km 7,Marrakech-Tensift-Al Haouz,2,31.242178,-7.815324,2122,6,2021
+2766476025,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98112,-5.06586,2037,6,2019
+3201810389,Regulus ignicapilla,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2018
+2217471399,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,3,2015
+1356964658,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2015
+3282387621,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,11,2020
+3660487891,Regulus ignicapilla,MA,"N9, Marrakesh-Safi, MA (31,489, -7,437)",Marrakech-Tensift-Al Haouz,2,31.48919,-7.437317,1466,11,2021
+1716684992,Regulus ignicapilla,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,2,2016
+3207431440,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,12,2006
+2129957785,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,4,2018
+3287451840,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2020
+2801280336,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2010
+1789935752,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2009
+1735772761,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+3571206168,Regulus ignicapilla,MA,"R203, Marrakech-Safi, MA (30.914, -8.315)",Marrakech-Tensift-Al Haouz,1,30.913836,-8.315075,1881,11,2021
+1721525178,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+2722354580,Regulus ignicapilla,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,2,2013
+1734775594,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+1721004550,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+3535636485,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,3,2007
+2149616498,Regulus ignicapilla,ES,Arroyo Calamocarro II,Ceuta,1,35.910652,-5.364711,44,5,2015
+1369695749,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,4,33.65042,-5.029721,1470,5,2015
+2181022630,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,2,31.1371,-7.9205,1725,5,2018
+2159620751,Regulus ignicapilla,MA,Ras El Maa,Meknès-Tafilalet,1,33.47432,-5.138211,1625,4,2017
+1770221708,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,10,2016
+3216545669,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,5,2010
+3236845751,Regulus ignicapilla,MA,Café Tizi Ait Barka,Marrakech-Tensift-Al Haouz,1,31.489925,-7.438774,1455,2,2020
+3301160390,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2015
+3139146111,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,7,33.41931,-5.18162,1762,2,2020
+3564229076,Regulus ignicapilla,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,10,2021
+2124841031,Regulus ignicapilla,MA,Ifran,Meknès-Tafilalet,1,33.50574,-5.168068,1521,4,2017
+1402859895,Regulus ignicapilla,MA,SE Oukaiimeden,Marrakech-Tensift-Al Haouz,1,31.187412,-7.845633,2712,5,2015
+1761507728,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,3,31.1371,-7.9205,1725,9,2016
+2153018215,Regulus ignicapilla,MA,R 2028 Tahanout - Asni riad,Marrakech-Tensift-Al Haouz,2,31.236288,-7.853937,2138,4,2018
+2683966893,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98112,-5.06586,2037,6,2019
+2679576348,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+3179453603,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,6,2020
+2743529276,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,2,35.176052,-5.341244,486,2,2018
+2066445462,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,4,2017
+3201343595,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,10,2020
+3278045629,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2020
+2100017697,Regulus ignicapilla,MA,"P21, Meknes-Tafilalet, MA (33,428, -5,175)",Meknès-Tafilalet,1,33.42842,-5.175088,1693,9,2017
+2790399933,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,10,2015
+1402541918,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,4,33.560863,-5.199182,1533,9,2014
+3213592449,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2020
+2727061872,Regulus ignicapilla,MA,"Centro, Beni Mellal MA-Tadla-Azilal (32,6555,-5,8235)",Tadla-Azilal,1,32.65547,-5.823459,1365,2,2019
+2137025803,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2018
+3207217552,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,3,31.478024,-7.434708,1465,3,2007
+3584683963,Regulus ignicapilla,MA,"Upper Pine forest, Oukaïmeden Park",Marrakech-Tensift-Al Haouz,2,31.229877,-7.821068,2360,10,2021
+1402845205,Regulus ignicapilla,MA,SE Oukaiimeden,Marrakech-Tensift-Al Haouz,1,31.187412,-7.845633,2712,5,2015
+2182946739,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,5,2018
+2725704623,Regulus ignicapilla,MA,Mgoun massif,Sous-Massa-Draa,2,31.55407,-6.436612,3164,10,2019
+3633222506,Regulus ignicapilla,MA,PN Ifrane--Jbel Hebri,Meknès-Tafilalet,2,33.365746,-5.138898,1916,2,2011
+2794739589,Regulus ignicapilla,MA,Towards Mgoun gorges,Sous-Massa-Draa,1,31.613605,-6.24327,2331,10,2019
+2199323272,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,2,2015
+1356970492,Regulus ignicapilla,MA,Igunane,Marrakech-Tensift-Al Haouz,2,31.23372,-7.810292,1968,3,2015
+2175743628,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,5,2018
+2124800708,Regulus ignicapilla,MA,"Morocco, Oukaimeden area",Marrakech-Tensift-Al Haouz,2,31.2335,-7.8188,2263,4,2017
+1791883077,Regulus ignicapilla,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,1,31.428505,-7.408679,1273,3,2011
+2798528444,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2010
+2715836237,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.572, -5.233)",Meknès-Tafilalet,1,33.571857,-5.232873,1428,9,2019
+2670424523,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+3300749879,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2020
+1354712892,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,4,31.201849,-7.859733,2609,3,2015
+3206758011,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,4,33.65042,-5.029721,1470,3,2009
+3273680907,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,5,35.90542,-5.372675,221,10,2020
+3218333145,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,7,33.41931,-5.18162,1762,2,2020
+1743883832,Regulus ignicapilla,MA,For�t de Jabaa (6.8 km due NW. of Ifrane),Meknès-Tafilalet,3,33.5489,-5.1805,1592,5,2016
+2779901618,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,2,2017
+3533369240,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,9,2021
+3579981544,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,11,2021
+2141845362,Regulus ignicapilla,MA,P2030 stop,Marrakech-Tensift-Al Haouz,2,31.229977,-7.821493,2364,5,2018
+3512967831,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,3,2021
+2156130758,Regulus ignicapilla,MA,"(35.2829,-5.4896)",Tanger-Tétouan,1,35.282875,-5.48962,1143,5,2018
+1721519295,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+3269328988,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2020
+2229987632,Regulus ignicapilla,MA,Cedrales carretera Azrou-Khenifra,Meknès-Tafilalet,1,33.345528,-5.233519,1835,12,2018
+1734758469,Regulus ignicapilla,MA,Bosque de Cedros,Meknès-Tafilalet,1,33.432087,-5.176191,1655,3,2016
+2750502379,Regulus ignicapilla,MA,"MA-Meknès-Tafilalet-P7231 (33.5129,-5.0078)",Meknès-Tafilalet,2,33.512867,-5.007804,1784,9,2019
+3551262166,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,1,33.41615,-5.162115,1816,4,2018
+2127390124,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,3,33.41931,-5.18162,1762,3,2018
+1203280208,Regulus ignicapilla,MA,Ifrane area,Meknès-Tafilalet,1,33.44863,-4.987106,1753,5,2008
+2163783428,Regulus ignicapilla,MA,"MA-Marrakesh-Tensift-El Haouz - 31.099x-7.913 - Apr 10, 2017 6:16 PM",Marrakech-Tensift-Al Haouz,2,31.099081,-7.913274,2297,4,2017
+2176439117,Regulus ignicapilla,MA,Ait Benhaddou thru Tiz n' Tichka-cross Haouz Plains-Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.326603,-7.623138,2687,12,2012
+2737088204,Regulus ignicapilla,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,10,35.28193,-5.489002,1156,1,2019
+966453482,Regulus ignicapilla,MA,High Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.250378,-7.789307,2156,9,2013
+1735767987,Regulus ignicapilla,MA,Bosque de Cedros,Meknès-Tafilalet,1,33.432087,-5.176191,1655,3,2016
+2131944629,Regulus ignicapilla,MA,Igunane - Road P2030,Marrakech-Tensift-Al Haouz,1,31.239523,-7.809978,1940,3,2018
+2663402211,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,3,2019
+1735782701,Regulus ignicapilla,MA,Near Sidi Ali,Meknès-Tafilalet,1,33.089348,-5.018606,2054,3,2016
+2801037538,Regulus ignicapilla,MA,Vej før Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.267319,-7.81579,1500,2,2016
+2660562565,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,10,31.201849,-7.859733,2609,3,2007
+2718442504,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2017
+3208590208,Regulus ignicapilla,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,2,33.606663,-4.907874,1515,3,2009
+3635965206,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,5,2021
+2153451385,Regulus ignicapilla,MA,"(31.2273,-7.8252)",Marrakech-Tensift-Al Haouz,1,31.227268,-7.825206,2395,3,2018
+3273969956,Regulus ignicapilla,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,7,2003
+1721440771,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+3535465638,Regulus ignicapilla,ES,Pista Los Hornillos,Ceuta,1,35.90928,-5.35482,49,10,2021
+3637418499,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,9,2021
+3582163411,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,9,2021
+1791885084,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,4,31.201849,-7.859733,2609,3,2011
+2703212652,Regulus ignicapilla,MA,Camino de Oukaimeden,Marrakech-Tensift-Al Haouz,3,31.249105,-7.854145,1882,5,2015
+1394153069,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,9,2015
+2684086602,Regulus ignicapilla,MA,Oukaimeden road (cedars),Marrakech-Tensift-Al Haouz,5,31.230366,-7.82176,2371,3,2019
+3278204751,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,1,35.90559,-5.361607,175,12,2020
+2085833649,Regulus ignicapilla,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+1725372187,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2016
+1735781331,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+1206640779,Regulus ignicapilla,MA,Tinichchi to Tahnaout,Marrakech-Tensift-Al Haouz,2,31.291424,-7.901165,1564,12,2014
+2156121736,Regulus ignicapilla,MA,"(35.2829,-5.4896)",Tanger-Tétouan,1,35.282875,-5.48962,1143,5,2018
+1790248918,Regulus ignicapilla,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz (31,2277,-7,8130)",Marrakech-Tensift-Al Haouz,2,31.22771,-7.812976,2013,1,2004
+3190711958,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,5,35.90542,-5.372675,221,10,2020
+2131489751,Regulus ignicapilla,MA,"(35,283, -5,49)",Tanger-Tétouan,3,35.282852,-5.489518,1142,1,2018
+1784877635,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2015
+2065476202,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2017
+3277561545,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,9,2020
+2705888584,Regulus ignicapilla,MA,"Upper Pine forest, Oukaïmeden Park",Marrakech-Tensift-Al Haouz,1,31.229877,-7.821068,2360,4,2017
+3206177870,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98734,-5.071087,2075,10,2003
+3558264855,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,6,2021
+2096243354,Regulus ignicapilla,MA,PN de Bouhachem,Tanger-Tétouan,2,35.260136,-5.412179,981,9,2017
+2170874020,Regulus ignicapilla,MA,Zone forestière et de limites,Meknès-Tafilalet,6,33.34017,-5.235844,1801,4,2017
+2230387882,Regulus ignicapilla,MA,Matate to Tizi Oudite,Marrakech-Tensift-Al Haouz,1,31.151312,-7.954876,2011,11,2018
+3669522922,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,1,2020
+2669988386,Regulus ignicapilla,MA,"(31.2402,-7.8655)",Marrakech-Tensift-Al Haouz,2,31.240236,-7.865529,1798,4,2019
+2038430675,Regulus ignicapilla,MA,Buhachaen,Tanger-Tétouan,2,35.292854,-5.499454,1069,3,2017
+2180504313,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,5,2018
+1717855930,Regulus ignicapilla,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,2,2016
+2795009858,Regulus ignicapilla,MA,Ifrane area and forest,Meknès-Tafilalet,1,33.526,-5.149,1702,4,2019
+598422403,Regulus ignicapilla,MA,conifers near Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.286472,-7.885437,1620,3,2011
+2096883345,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+1405863386,Regulus ignicapilla,MA,Tizi Aït Barka,Marrakech-Tensift-Al Haouz,3,31.489988,-7.438742,1455,11,2015
+2712883110,Regulus ignicapilla,MA,Riff mountains,Tanger-Tétouan,1,35.170635,-5.248623,985,12,2019
+2665010102,Regulus ignicapilla,MA,"Road to Oukaimeden (31.24915, -7.86138)",Marrakech-Tensift-Al Haouz,1,31.24915,-7.86138,1828,3,2019
+2758328406,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+1786472514,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,3,31.478024,-7.434708,1465,3,2015
+2197210694,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,9,2018
+2145708780,Regulus ignicapilla,MA,Oukaimeden Road at Igunane,Marrakech-Tensift-Al Haouz,5,31.288996,-7.777097,1225,3,2018
+2722995581,Regulus ignicapilla,MA,"Oukaïmeden (31.2285, -7.8238)",Marrakech-Tensift-Al Haouz,1,31.2285,-7.8238,2363,2,2016
+2797367846,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2016
+2731264472,Regulus ignicapilla,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,10,35.28193,-5.489002,1156,1,2019
+3135736205,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,7,33.41931,-5.18162,1762,2,2020
+1791254991,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,10,2007
+3134811066,Regulus ignicapilla,MA,"P2030, Marrakesh-Safi, MA (31.231, -7.821)",Marrakech-Tensift-Al Haouz,1,31.230867,-7.821031,2360,2,2020
+2153620028,Regulus ignicapilla,MA,Igunane - Road P2030,Marrakech-Tensift-Al Haouz,1,31.239523,-7.809978,1940,3,2018
+1402861231,Regulus ignicapilla,MA,Igunane,Marrakech-Tensift-Al Haouz,1,31.23859,-7.807803,1887,5,2015
+2799249838,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.572, -5.233)",Meknès-Tafilalet,1,33.571857,-5.232873,1428,9,2019
+1369682865,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,8,31.201849,-7.859733,2609,5,2015
+2718436414,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2016
+3175634655,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,8,35.90559,-5.361607,175,9,2020
+1784933246,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,3,2015
+2717052920,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2729748733,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,10,31.201849,-7.859733,2609,3,2007
+2170782730,Regulus ignicapilla,MA,"(35.2829,-5.4896)",Tanger-Tétouan,1,35.282875,-5.48962,1143,5,2018
+2793727520,Regulus ignicapilla,MA,"(31,2384,-7,8625)",Marrakech-Tensift-Al Haouz,5,31.238432,-7.862497,1826,4,2018
+2668203290,Regulus ignicapilla,MA,"91002, Chechaouen MA-Tanger - Tétouan (35.1358,-5.2337)",Tanger-Tétouan,2,35.13583,-5.233713,941,4,2019
+966609433,Regulus ignicapilla,MA,High Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.250378,-7.789307,2156,9,2013
+1735772644,Regulus ignicapilla,MA,Bosque de Cedros,Meknès-Tafilalet,1,33.432087,-5.176191,1655,3,2016
+1411438259,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,4,2013
+2764580538,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,3,2019
+2693691605,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2010
+2787954024,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,11,2019
+2208004702,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,10,2018
+3543275788,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,4,31.201849,-7.859733,2609,2,2020
+3588009454,Regulus ignicapilla,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,1,33.606663,-4.907874,1515,1,2021
+2689624234,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+1718044473,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,2,2016
+3285189168,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,4,33.427013,-5.155838,1678,5,2006
+2094520608,Regulus ignicapilla,MA,PN de Bouhachem,Tanger-Tétouan,2,35.260136,-5.412179,981,9,2017
+2775187077,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,1,35.90559,-5.361607,175,1,2016
+1744722105,Regulus ignicapilla,MA,Bosque de Cedros,Meknès-Tafilalet,1,33.432087,-5.176191,1655,3,2016
+1735772910,Regulus ignicapilla,MA,Near Sidi Ali,Meknès-Tafilalet,1,33.089348,-5.018606,2054,3,2016
+3286102986,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2672610536,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+1787856093,Regulus ignicapilla,MA,X - Duplicate = Lac (Dayet Aoua),Meknès-Tafilalet,1,33.655155,-5.042494,1470,3,2013
+3650344548,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,11,2021
+2129326983,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+2835974281,Regulus ignicapilla,MA,Morocco - Asni,,1,31.248887,-7.862243,1825,6,2015
+1158368224,Regulus ignicapilla,MA,Ifrane Region,Meknès-Tafilalet,1,33.529408,-5.074435,1760,2,2014
+2329785985,Regulus ignicapilla,MA,"Dayet Aaoua b. Ifrane, Marokko",,1,33.663498,-5.015602,1500,3,2010
+2744303648,Regulus ignicapilla,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,10,35.28193,-5.489002,1156,1,2019
+2188261641,Regulus ignicapilla,MA,Aroumd,Marrakech-Tensift-Al Haouz,1,31.123945,-7.919532,1921,10,2010
+2836195022,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.2277,-7.8218,2320,11,2016
+2833070966,Regulus ignicapilla,MA,Morocco - Ourika,,1,31.2626,-7.8398,1761,4,2018
+2841063323,Regulus ignicapilla,MA,Morocco - Asni,,1,31.248619,-7.858195,1857,3,2019
+2841167401,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,5,31.2303,-7.822659,2386,3,2019
+1620538255,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,8,2018
+2843033699,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230161,-7.82282,2394,4,2017
+2841349867,Regulus ignicapilla,MA,Morocco - Asni,,4,31.26823,-7.907118,1403,1,2019
+2835690452,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.204873,-7.861748,2625,3,2014
+2837620286,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,3,31.242141,-7.815318,2123,3,2019
+3729821337,Regulus ignicapilla,MA,Morocco - Ben Ahmed,,1,33.070168,-7.231958,624,12,2020
+2543179705,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2015
+2712799139,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,1,33.5362,-5.1165,1629,5,2011
+2836140267,Regulus ignicapilla,MA,Morocco - Touama,,1,31.477715,-7.434042,1442,4,2016
+3279140504,Regulus ignicapilla,ES,Pista Los Hornillos,Ceuta,3,35.90928,-5.35482,49,9,2020
+3264771212,Regulus ignicapilla,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,2,31.239517,-7.664165,1364,3,2013
+2760208445,Regulus ignicapilla,MA,"(31.2402,-7.8655)",Marrakech-Tensift-Al Haouz,2,31.240236,-7.865529,1798,4,2019
+2071478230,Regulus ignicapilla,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,5,2017
+595890836,Regulus ignicapilla,MA,"Maroc, Ifrane, Souce Vitel",Meknès-Tafilalet,1,33.542324,-5.114436,1595,5,2008
+2677431695,Regulus ignicapilla,MA,Hotel Aurocher,Marrakech-Tensift-Al Haouz,2,31.264784,-7.818445,1524,3,2019
+1744718812,Regulus ignicapilla,MA,Near Sidi Ali,Meknès-Tafilalet,1,33.089348,-5.018606,2054,3,2016
+2654741261,Regulus ignicapilla,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+2718948679,Regulus ignicapilla,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,2,2008
+3187490141,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,6,31.201849,-7.859733,2609,2,2016
+2835958999,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.199852,-7.865977,2747,4,2015
+2844524043,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.238841,-7.807431,1879,4,2018
+1620515627,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,6,2017
+3684166818,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,11,2021
+2795752591,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,3,35.90559,-5.361607,175,1,2012
+3286462996,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,2,35.910793,-5.368713,140,10,2020
+2840390026,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230142,-7.822402,2372,4,2017
+2833151290,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.238841,-7.807431,1879,4,2018
+1782442534,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2016
+3947429678,Regulus ignicapilla,MA,,Marrakech - Tensift - Al Haouz,1,31.117371,-7.969292,2001,10,2022
+2329787442,Regulus ignicapilla,MA,Ait Barka (Atlasgrünspecht),,1,31.488346,-7.440882,1443,12,2013
+1620339670,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2014
+1620568295,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,8,2019
+2543193530,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2015
+1620375691,Regulus ignicapilla,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2014
+1620339715,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2014
+1394145379,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,9,2015
+3718767533,Regulus ignicapilla,MA,Morocco - Ben Ahmed,,1,33.069981,-7.231721,622,1,2021
+2836266807,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,10,31.23,-7.8232,2396,4,2016
+2832653747,Regulus ignicapilla,MA,Morocco - Asni,,2,31.249193,-7.860793,1835,4,2015
+2832969431,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.2335,-7.8188,2263,4,2017
+2833049826,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.229666,-7.822261,2367,3,2018
+1793561838,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2013
+1402543171,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,9,2014
+2832468553,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.21427,-7.842178,2556,4,2014
+2243606672,Regulus ignicapilla,MA,Ifrane NP,,1,33.419,-5.181,1768,3,2014
+3753038471,Regulus ignicapilla,MA,"Park Okaimden منتزه أوكيمدن (near Igunane), Al Haouz, Marrakech-Safi",,1,31.2276,-7.8227,2333,3,2022
+4056033348,Regulus ignicapilla,MA,Morocco - Souss - Massa - Draâ,,2,31.629933,-5.84753,1831,1,2011
+3732895987,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230433,-7.821644,2372,10,2021
+2839565999,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.22707,-7.823043,2314,4,2016
+2999148083,Regulus ignicapilla,MA,,Chaouia - Ouardigha,1,33.069369,-7.231429,621,12,2020
+3005214998,Regulus ignicapilla,MA,,Chaouia - Ouardigha,1,33.069528,-7.233186,620,12,2020
+2141263002,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,3,2018
+3286125461,Regulus ignicapilla,MA,Jemaa el-Fnaa,Marrakech-Tensift-Al Haouz,1,31.625834,-7.988906,460,3,2013
+2838533823,Regulus ignicapilla,MA,Morocco - Talassantane NP,,2,35.089117,-5.167888,1170,2,2012
+4056618783,Regulus ignicapilla,MA,Morocco - Sti Fadma,,1,31.278072,-7.809261,1416,11,2022
+2839422833,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.242258,-7.815321,2120,3,2015
+3285223460,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+1206630919,Regulus ignicapilla,MA,Tinichchi,Marrakech-Tensift-Al Haouz,1,31.264246,-7.821343,1544,12,2014
+2788670517,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2006
+2749982382,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.572, -5.233)",Meknès-Tafilalet,1,33.571857,-5.232873,1428,9,2019
+3211986314,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2010
+3210293409,Regulus ignicapilla,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,1,35.89167,-5.36642,307,11,2020
+840830562,Regulus ignicapilla,MA,MA-Aguelmane Azigza (Maroc),Meknès-Tafilalet,1,32.97363,-5.447092,1490,3,2012
+2209098946,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,10,2018
+3233016901,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98734,-5.071087,2075,10,2003
+2699749221,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+2054592581,Regulus ignicapilla,MA,Igunane,Marrakech-Tensift-Al Haouz,1,31.237904,-7.809219,1930,4,2017
+1203528890,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2007
+2745473288,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,5,2017
+3276479669,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,4,33.65042,-5.029721,1470,2,2007
+2693375043,Regulus ignicapilla,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,12,2013
+2784834406,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.572, -5.233)",Meknès-Tafilalet,1,33.571857,-5.232873,1428,9,2019
+2797131937,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,11,2008
+2144630052,Regulus ignicapilla,MA,Forest before Oukaïmeden,Marrakech-Tensift-Al Haouz,6,31.231115,-7.820485,2352,3,2018
+3547177491,Regulus ignicapilla,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,1,33.606663,-4.907874,1515,1,2021
+2150443130,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+3243158550,Regulus ignicapilla,MA,"7. ožu 2020. 12:09-33,407, -5,185",Meknès-Tafilalet,4,33.40664,-5.184932,1835,3,2020
+2171955565,Regulus ignicapilla,MA,"(35.2829,-5.4896)",Tanger-Tétouan,1,35.282875,-5.48962,1143,5,2018
+2209931854,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2011
+2755492290,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,3,2019
+2684773377,Regulus ignicapilla,MA,"(33.4315,-5.1762)",Meknès-Tafilalet,4,33.4315,-5.176224,1656,4,2019
+1744720168,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+2773389335,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,11,2014
+3197503563,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2011
+1744682554,Regulus ignicapilla,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2016
+3284914703,Regulus ignicapilla,MA,MA-Ifran (Fort de Ben Smim),Meknès-Tafilalet,2,33.488575,-5.145577,1703,4,2016
+2136553526,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2013
+3209204455,Regulus ignicapilla,MA,Col du Zad,Meknès-Tafilalet,2,32.98734,-5.071087,2075,10,2003
+2102022738,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2017
+3693199897,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2015
+2055898753,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2017
+837442980,Regulus ignicapilla,MA,Midelt area,Meknès-Tafilalet,1,32.70592,-4.731586,1426,3,2001
+1402843840,Regulus ignicapilla,MA,Igunane,Marrakech-Tensift-Al Haouz,1,31.23859,-7.807803,1887,5,2015
+3555142986,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,11,2012
+1206224702,Regulus ignicapilla,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,1,35.129738,-5.089073,1678,9,2011
+3176682673,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,8,2020
+2206215630,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,2,2018
+3175338274,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,3,35.910793,-5.368713,140,8,2020
+3273809237,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2006
+3215685541,Regulus ignicapilla,MA,MA-Tazelga (Woodland),Marrakech-Tensift-Al Haouz,3,31.240236,-7.865529,1798,4,2019
+2713681412,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2015
+2760553236,Regulus ignicapilla,MA,"91002, Chechaouen MA-Tanger - Tétouan (35.1358,-5.2337)",Tanger-Tétouan,2,35.13583,-5.233713,941,4,2019
+2751570505,Regulus ignicapilla,MA,"(31.2402,-7.8655)",Marrakech-Tensift-Al Haouz,2,31.240236,-7.865529,1798,4,2019
+3644244418,Regulus ignicapilla,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,11,2018
+3253941427,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,9,2020
+1396523366,Regulus ignicapilla,MA,Autour de Azrou,Meknès-Tafilalet,1,33.423775,-5.198529,1621,4,2009
+1739968994,Regulus ignicapilla,MA,Source Ben Smim,Meknès-Tafilalet,1,33.49146,-5.160087,1542,5,2016
+2169325898,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2018
+2139589767,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,1,35.176052,-5.341244,486,2,2018
+2798861509,Regulus ignicapilla,MA,Lac Afenourir,Meknès-Tafilalet,1,33.280018,-5.250915,1808,4,2007
+1763440407,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,9,2016
+3183725428,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,10,2014
+2722122464,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2017
+2136555444,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2013
+3215580135,Regulus ignicapilla,MA,Forêt de Taghzaft,Meknès-Tafilalet,2,33.4109,-5.147164,1833,3,2004
+3611276857,Regulus ignicapilla,MA,"80322, Agadir MA-Souss-Massa-Drâa (30.6019,-9.4780)",Sous-Massa-Draa,1,30.601881,-9.478,672,11,2021
+1790256141,Regulus ignicapilla,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30,9282,-6,8585)",Sous-Massa-Draa,1,30.928186,-6.858497,1103,1,2004
+2787821434,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.572, -5.233)",Meknès-Tafilalet,1,33.571857,-5.232873,1428,9,2019
+1719998541,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,4,31.478024,-7.434708,1465,3,2016
+2217811753,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,6,2018
+1738809552,Regulus ignicapilla,MA,Fôret de Jaâba,Meknès-Tafilalet,5,33.574104,-5.221174,1472,5,2016
+2771002051,Regulus ignicapilla,MA,"MA-Meknès-Tafilalet-R707 (33.5719,-5.2330)",Meknès-Tafilalet,1,33.57192,-5.233045,1429,9,2019
+2211167982,Regulus ignicapilla,MA,"P2030, Marrakech-Safi, MA (31,23, -7,822)",Marrakech-Tensift-Al Haouz,2,31.23016,-7.822127,2369,4,2016
+2686896868,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2016
+3555503884,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,12,2021
+3141447562,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,3,2020
+595868215,Regulus ignicapilla,MA,"Maroc, forêt près d'Ifrane",Meknès-Tafilalet,1,33.54311,-5.030708,1780,5,2008
+3213697450,Regulus ignicapilla,MA,MA-Toufliht (Koulla Foret),Marrakech-Tensift-Al Haouz,2,31.479864,-7.436902,1525,4,2016
+837477151,Regulus ignicapilla,MA,Midelt area,Meknès-Tafilalet,1,32.70592,-4.731586,1426,3,2001
+2733580268,Regulus ignicapilla,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+3257789079,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,5,2003
+3683777788,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2013
+1738542476,Regulus ignicapilla,MA,Fôret de Jaâba,Meknès-Tafilalet,5,33.574104,-5.221174,1472,5,2016
+3556674488,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,6,2012
+2142912260,Regulus ignicapilla,MA,"(31,2384,-7,8625)",Marrakech-Tensift-Al Haouz,5,31.238432,-7.862497,1826,4,2018
+3152269493,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,3,2020
+2066538427,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2017
+3251235924,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2020
+2200256221,Regulus ignicapilla,MA,"P2030, Marrakech-Safi, MA (31.23, -7.823)",Marrakech-Tensift-Al Haouz,2,31.229702,-7.823498,2391,9,2018
+2201240162,Regulus ignicapilla,MA,"N13, Fez-Meknès, MA (33,411, -5,179)",Meknès-Tafilalet,1,33.41096,-5.179276,1853,3,2013
+3274564074,Regulus ignicapilla,MA,Dayet Aoua,Meknès-Tafilalet,1,33.654556,-5.04175,1470,4,2016
+2207563600,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,9,2018
+1724891180,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,4,2016
+2139309862,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2018
+2667473648,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,3,2019
+3535801935,Regulus ignicapilla,MA,"R707, Fez-Meknès, MA (33.48, -5.024)",Meknès-Tafilalet,1,33.480125,-5.023881,1855,1,2021
+1410590012,Regulus ignicapilla,MA,Igunane region,Marrakech-Tensift-Al Haouz,30,31.243187,-7.808146,1845,3,2011
+1793119801,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2013
+3509280888,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,2,2021
+2085268215,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+2162159455,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+3197004260,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,8,2020
+840644775,Regulus ignicapilla,MA,"Morocco, Ait Bougamez (Happy Valley)",Tadla-Azilal,1,31.654839,-6.449316,1823,4,2012
+1721517151,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+3562128201,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2021
+3211135488,Regulus ignicapilla,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,3,31.1371,-7.9205,1725,10,2018
+3137488548,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,5,33.41931,-5.18162,1762,2,2020
+2716476260,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,1,35.176052,-5.341244,486,2,2018
+1179342890,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,1,33.528374,-5.10817,1656,5,2003
+2779927516,Regulus ignicapilla,MA,Foret d'Azrou,Meknès-Tafilalet,1,33.430565,-5.204564,1429,3,2000
+2062514383,Regulus ignicapilla,MA,PN Toubkal--Refuge Toubkal,Marrakech-Tensift-Al Haouz,1,31.063862,-7.937933,3169,4,2017
+2682732574,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+2675556903,Regulus ignicapilla,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2019
+3692323345,Regulus ignicapilla,MA,Boulemane,Fès-Boulemane,1,33.35561,-4.726694,1795,11,2013
+2048602027,Regulus ignicapilla,MA,Ras El Maa,Meknès-Tafilalet,1,33.47432,-5.138211,1625,4,2017
+2207972599,Regulus ignicapilla,MA,"Unknown Location - (33.527, -5.105)",Meknès-Tafilalet,1,33.52693,-5.105148,1646,9,2018
+595897120,Regulus ignicapilla,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,5,2008
+2741635950,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,5,2017
+1792338200,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+2033863631,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,2,2017
+2220126400,Regulus ignicapilla,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,11,2018
+1201805387,Regulus ignicapilla,MA,Parque Nacional Ifrane,Meknès-Tafilalet,1,33.427574,-5.1636,1662,1,2011
+2053893024,Regulus ignicapilla,MA,"MA-Marrakesh-Tensift-El Haouz - 31.099x-7.913 - Apr 10, 2017 6:16 PM",Marrakech-Tensift-Al Haouz,2,31.099081,-7.913274,2297,4,2017
+2763983057,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,3,33.48899,-5.144713,1718,6,2019
+3194742990,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,10,2020
+2798500721,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,4,2011
+2220374741,Regulus ignicapilla,MA,Vallée de Imenane--Tizi n'Tamatert to Ouaneskra to Tamguist,Marrakech-Tensift-Al Haouz,1,31.153662,-7.857096,2129,11,2018
+3227415448,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2020
+840660792,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,1,33.534096,-5.116568,1622,3,2012
+2679118414,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,4,2019
+2082448155,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,3,33.560863,-5.199182,1533,7,2017
+2209104624,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,10,2018
+2227624073,Regulus ignicapilla,MA,Cedrales carretera Azrou-Khenifra,Meknès-Tafilalet,1,33.345528,-5.233519,1835,12,2018
+2129859422,Regulus ignicapilla,MA,"Golf de Dar Essalam, Rabat, MA (33.917, -6.835)",Rabat-Salé-Zemmour-Zaer,1,33.916504,-6.834821,127,1,2018
+2035031996,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,5,33.560863,-5.199182,1533,3,2017
+3585338860,Regulus ignicapilla,MA,"Upper Pine forest, Oukaïmeden Park",Marrakech-Tensift-Al Haouz,2,31.229877,-7.821068,2360,10,2021
+2693119876,Regulus ignicapilla,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,10,35.28193,-5.489002,1156,1,2019
+3204491158,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2020
+944614805,Regulus ignicapilla,MA,Talassemtane National Park--northeast from Chefchaouen,Tanger-Tétouan,1,35.17707,-5.258675,974,7,2008
+3198226539,Regulus ignicapilla,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,4,31.255966,-7.973832,1151,4,2006
+2663143547,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,10,31.201849,-7.859733,2609,3,2007
+1735782277,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+3215526470,Regulus ignicapilla,MA,Ben Slimane,Chaouia-Ouardigha,1,33.63035,-7.129165,255,12,2020
+2150441293,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,3,2018
+3212565746,Regulus ignicapilla,MA,MA-(Dait) Lac de Aoua,Meknès-Tafilalet,2,33.648346,-5.034358,1483,4,2019
+2702122426,Regulus ignicapilla,MA,Park Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.229427,-7.822051,2369,3,2019
+2145808299,Regulus ignicapilla,MA,Forest before Oukaïmeden,Marrakech-Tensift-Al Haouz,6,31.231115,-7.820485,2352,3,2018
+2133250562,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2018
+2135815257,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,3,33.41931,-5.18162,1762,2,2018
+2175503147,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,1,35.176052,-5.341244,486,9,2015
+3686843377,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+3178303137,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,3,35.910793,-5.368713,140,8,2020
+2663455701,Regulus ignicapilla,MA,"(33.4315,-5.1762)",Meknès-Tafilalet,4,33.4315,-5.176224,1656,4,2019
+2800978157,Regulus ignicapilla,MA,"Jbel Ayachi, Cirque de Jaaffar",Meknès-Tafilalet,1,32.567215,-4.913783,1956,12,2013
+3211743892,Regulus ignicapilla,MA,Azrú-Azrou--Cèdre Gouraud,Meknès-Tafilalet,1,33.42541,-5.154856,1703,3,2008
+3267335609,Regulus ignicapilla,ES,Pista la Lastra,Ceuta,3,35.90559,-5.361607,175,9,2020
+941675946,Regulus ignicapilla,MA,Vallée de Tamatert,Marrakech-Tensift-Al Haouz,1,31.142403,-7.90538,1921,6,2008
+3614245713,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,9,2021
+1756264946,Regulus ignicapilla,MA,P7215--est de Ait El-Haj,Meknès-Tafilalet,1,33.366108,-5.273609,1622,5,2016
+2654233673,Regulus ignicapilla,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+2786474114,Regulus ignicapilla,MA,PN de Bouhachem,Tanger-Tétouan,3,35.260136,-5.412179,981,12,2019
+2230313852,Regulus ignicapilla,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,11,2018
+3608116454,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,10,2021
+2060529789,Regulus ignicapilla,MA,Zone forestière et de limites,Meknès-Tafilalet,6,33.34017,-5.235844,1801,4,2017
+1735782716,Regulus ignicapilla,MA,Near Sidi Ali,Meknès-Tafilalet,1,33.089348,-5.018606,2054,3,2016
+1721527675,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+3675569283,Regulus ignicapilla,MA,Azrou - Forest S of the village,Meknès-Tafilalet,3,33.40773,-5.227629,1679,7,2006
+1620339464,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,8,2013
+2129405523,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,3,31.478024,-7.434708,1465,3,2018
+2096077605,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,5,33.560863,-5.199182,1533,9,2017
+3289637118,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,8,2020
+2126558488,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,5,2016
+2778094851,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,3,33.560863,-5.199182,1533,4,2016
+1166045790,Regulus ignicapilla,MA,MA-Imlil- col,Marrakech-Tensift-Al Haouz,2,31.150389,-7.891085,2335,4,2014
+3665482857,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2020
+944459858,Regulus ignicapilla,MA,Talassemtane National Park--northeast from Chefchaouen,Tanger-Tétouan,1,35.17707,-5.258675,974,7,2008
+1791776179,Regulus ignicapilla,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,1,31.428505,-7.408679,1273,3,2013
+3210289561,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,5,33.48899,-5.144713,1718,4,2009
+2112283311,Regulus ignicapilla,MA,RN Bouhachem--domaine général,Tanger-Tétouan,10,35.176052,-5.341244,486,9,2017
+2210259598,Regulus ignicapilla,MA,PN Ifrane--Dayet Hachlaf,Meknès-Tafilalet,1,33.54598,-5.002792,1670,9,2018
+1738667324,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,11,33.48899,-5.144713,1718,5,2016
+3210762994,Regulus ignicapilla,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,11,2012
+840882048,Regulus ignicapilla,MA,"Morocco, Ait Bougamez (Happy Valley)",Tadla-Azilal,1,31.654839,-6.449316,1823,4,2012
+1721429945,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+3290235422,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2012
+2187574124,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,3,2014
+2117771236,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2018
+2663240487,Regulus ignicapilla,MA,Oukaimeden road (cedars),Marrakech-Tensift-Al Haouz,5,31.230366,-7.82176,2371,3,2019
+2772491744,Regulus ignicapilla,MA,Route Sebta-Chefchaouen,Tanger-Tétouan,1,35.220333,-5.315196,273,6,2005
+2667183958,Regulus ignicapilla,MA,"(31.2402,-7.8655)",Marrakech-Tensift-Al Haouz,2,31.240236,-7.865529,1798,4,2019
+3290284207,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,1,2000
+2663607457,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,3,2019
+2201560782,Regulus ignicapilla,MA,Tinitine (near Imlil),Marrakech-Tensift-Al Haouz,1,31.182482,-7.941647,1443,8,2012
+1168958871,Regulus ignicapilla,MA,MA-Imlil- col,Marrakech-Tensift-Al Haouz,2,31.150389,-7.891085,2335,4,2014
+3279505166,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2006
+2742914782,Regulus ignicapilla,MA,Asni - Outgal - Route P2028 a/r,Marrakech-Tensift-Al Haouz,2,31.265676,-7.826183,1586,3,2018
+1167623398,Regulus ignicapilla,MA,MA-Imlil- col,Marrakech-Tensift-Al Haouz,2,31.150389,-7.891085,2335,4,2014
+3223445468,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2020
+2193880146,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,2,2018
+2730571330,Regulus ignicapilla,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,12,2005
+2189462162,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,6,2018
+3263963029,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,3,31.201849,-7.859733,2609,2,2020
+3147104746,Regulus ignicapilla,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.2646,-7.8189)",Marrakech-Tensift-Al Haouz,1,31.264605,-7.818867,1520,1,2020
+2701907723,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,6,33.41931,-5.18162,1762,10,2019
+2798048195,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,2,35.910793,-5.368713,140,6,2016
+2104379095,Regulus ignicapilla,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2676008848,Regulus ignicapilla,MA,"P2030, Marrakech-Safi, MA (31,23, -7,823)",Marrakech-Tensift-Al Haouz,1,31.229824,-7.822738,2382,3,2019
+1402777851,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,3,33.487774,-5.1454,1692,5,2015
+1786474698,Regulus ignicapilla,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2015
+3532169027,Regulus ignicapilla,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,1,2021
+3507014310,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,2,2021
+3648308869,Regulus ignicapilla,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,11,2021
+2790782147,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,5,2015
+1369703522,Regulus ignicapilla,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,5,33.48899,-5.144713,1718,5,2015
+2772066142,Regulus ignicapilla,MA,"MA—31.2490,-7.8615",Marrakech-Tensift-Al Haouz,1,31.248978,-7.861524,1834,3,2019
+3279708176,Regulus ignicapilla,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,3,2007
+1620501193,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2016
+2543151923,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,7,2015
+1620538195,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,8,2018
+2543664495,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,11,2017
+1620501249,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2016
+3180521564,Regulus ignicapilla,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,9,2020
+2840254563,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.230046,-7.823736,2393,4,2014
+2832385363,Regulus ignicapilla,MA,Morocco - Bab Taza,,1,35.128192,-5.163231,1665,2,2012
+2837455461,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.228013,-7.821848,2329,12,2018
+1346439438,Regulus ignicapilla,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,1,2015
+3723707819,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,4,31.230419,-7.821682,2372,10,2021
+3729323429,Regulus ignicapilla,MA,Morocco - Ben Ahmed,,1,33.069347,-7.232551,617,12,2020
+2838433545,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.22707,-7.823043,2314,4,2016
+1208902647,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.209694,1596,5,2011
+1208879051,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208902643,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.209694,1596,5,2011
+1208876423,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1208879049,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208856353,Regulus ignicapilla,MA,Azrou1,Fès-Meknès,1,33.485619,-5.163736,1628,5,2008
+1208879037,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879063,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879084,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879175,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879061,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208902675,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.209694,1596,5,2011
+1208879182,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208876407,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1208876420,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1208879189,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879048,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879172,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879171,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879166,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208876426,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1208856362,Regulus ignicapilla,MA,Azrou1,Fès-Meknès,1,33.485619,-5.163736,1628,5,2008
+1208879062,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879078,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879191,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879071,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879159,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879179,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879026,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879160,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879020,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208876390,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1208879164,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208879170,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.5396,-5.2097,1596,5,2011
+1208876429,Regulus ignicapilla,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+2842192599,Regulus ignicapilla,MA,Morocco - Touama,,4,31.477843,-7.434433,1456,3,2015
+1620537981,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,6,2018
+2207371391,Regulus ignicapilla,MA,"Roadside stop P2028 (31.2497,-7.8542)",Marrakech-Tensift-Al Haouz,4,31.249725,-7.854234,1871,11,2018
+1620537100,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,7,2017
+1620339689,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,9,2014
+2838774926,Regulus ignicapilla,MA,Morocco - Talambote,,1,35.13554,-5.13727,1730,6,2012
+2839680430,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.22937,-7.822782,2366,3,2016
+2841689416,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.2421,-7.8154,2128,4,2016
+3997699146,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.231065,-7.820728,2358,10,2022
+2835667091,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230188,-7.823956,2387,9,2013
+3825222660,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,3,31.207035,-7.853715,2596,3,2015
+2832579782,Regulus ignicapilla,MA,Morocco - Asni,,1,31.248319,-7.862316,1851,2,2015
+2840284073,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230309,-7.821528,2369,3,2018
+2840914659,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.261097,-7.838704,1798,2,2015
+2838317871,Regulus ignicapilla,MA,Morocco - Talambote,,1,35.105192,-5.104682,1392,6,2012
+2837873711,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.262228,-7.820538,1561,10,2019
+2836266632,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.228792,-7.82149,2350,4,2016
+2835734836,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.23,-7.83,2615,3,2015
+2837892804,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.242195,-7.815329,2122,3,2015
+2843414295,Regulus ignicapilla,MA,Morocco - Touama,,1,31.490101,-7.438642,1451,2,2014
+2836019794,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.2304,-7.8228,2390,4,2015
+3997409133,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230965,-7.820735,2359,10,2022
+2839503519,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.2301,-7.8236,2393,4,2014
+2839097546,Regulus ignicapilla,MA,Morocco - Sti Fadma,,1,31.283524,-7.798497,1326,4,2014
+2843192093,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.239874,-7.807171,1861,4,2018
+2833681350,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.229977,-7.823147,2396,2,2019
+2839497457,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,3,31.238262,-7.818626,2248,3,2016
+2840916236,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,3,31.229506,-7.823744,2393,2,2019
+2836475059,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.201849,-7.859732,2609,3,2018
+2836481948,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.239297,-7.813711,2077,5,2016
+2843088056,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.230099,-7.823227,2396,3,2020
+2842930508,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.22707,-7.823043,2314,4,2016
+2832791595,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,10,31.23,-7.8232,2396,4,2016
+2839252405,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.264675,-7.81863,1522,3,2020
+2838845244,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.240398,-7.810593,1953,12,2013
+2839083063,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230625,-7.808829,1906,9,2013
+2836395162,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.239874,-7.807171,1861,4,2018
+3547446020,Regulus ignicapilla,MA,Lac Aoua,Meknès-Tafilalet,1,33.65515,-5.04249,1470,3,2013
+1370830823,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2015
+3718559206,Regulus ignicapilla,MA,Morocco - Ben Ahmed,,1,33.068508,-7.234245,610,12,2020
+1620538302,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2018
+2543180615,Regulus ignicapilla,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2015
+2838577085,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,4,31.229951,-7.824129,2392,9,2013
+1402857174,Regulus ignicapilla,MA,Ifrane,Meknès-Tafilalet,3,33.487774,-5.1454,1692,5,2015
+3719373900,Regulus ignicapilla,MA,Morocco - Ben Ahmed,,1,33.069265,-7.231743,617,3,2021
+3825761966,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230593,-7.821515,2371,4,2018
+2835734765,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.261097,-7.838704,1798,2,2015
+2842144035,Regulus ignicapilla,MA,Morocco - Asni,,1,31.240102,-7.87628,1781,5,2017
+2839411882,Regulus ignicapilla,MA,Morocco - Asni,,2,31.249193,-7.860793,1835,4,2015
+2839635626,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,10,31.227344,-7.823613,2320,4,2016
+2832726590,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,10,31.23,-7.8232,2396,4,2016
+2099239073,Regulus ignicapilla,MA,Oued El Marsa,Tanger-Tétouan,1,35.902504,-5.442824,20,10,2017
+2229828513,Regulus ignicapilla,MA,"Forest east of Tazelga (31.2405,-7.8654)",Marrakech-Tensift-Al Haouz,2,31.240486,-7.865404,1779,11,2018
+2835096510,Regulus ignicapilla,MA,Morocco - Dayet Aoua,,1,33.651265,-5.040708,1482,2,2020
+2838724432,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.264637,-7.818746,1521,3,2020
+3824937736,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230385,-7.821645,2371,3,2016
+2833245208,Regulus ignicapilla,MA,Morocco - Ourika,,1,31.2626,-7.8398,1761,4,2018
+4057714873,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.230993,-7.821029,2358,11,2022
+2835251219,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.229769,-7.822633,2376,3,2017
+3721095035,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.242178,-7.815324,2122,6,2021
+2841343743,Regulus ignicapilla,MA,Morocco - Sti Fadma,,3,31.267985,-7.811564,1451,4,2015
+2840490978,Regulus ignicapilla,MA,Morocco - Bab Taza,,7,35.115486,-5.161428,1559,6,2013
+2832845322,Regulus ignicapilla,MA,Morocco - Asni,,2,31.247434,-7.859795,1935,3,2016
+2836460240,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.228792,-7.82149,2350,4,2016
+2839830434,Regulus ignicapilla,MA,Morocco - Touama,,1,31.477715,-7.434042,1442,4,2016
+2836032694,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230142,-7.822402,2372,4,2017
+2841105956,Regulus ignicapilla,MA,Morocco - Talambote,,2,35.122748,-5.080884,1746,6,2012
+2844611563,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,8,31.22977,-7.822992,2386,4,2017
+2839024318,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.230188,-7.823956,2387,9,2013
+2841535613,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,10,31.23,-7.8232,2396,4,2016
+3996085844,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.263651,-7.818209,1532,5,2022
+2835824665,Regulus ignicapilla,MA,Morocco - Annakhil,,1,31.655368,-7.975596,442,4,2014
+2839512402,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.216801,-7.821007,2535,3,2009
+2832538737,Regulus ignicapilla,MA,Morocco - Touama,,1,31.476959,-7.431331,1374,3,2015
+3729038447,Regulus ignicapilla,MA,Morocco - Touama,,1,31.4788,-7.4346,1437,10,2014
+2839411755,Regulus ignicapilla,MA,Morocco - Touama,,1,31.474272,-7.431506,1447,3,2015
+2835789468,Regulus ignicapilla,MA,Morocco - Asni,,1,31.248887,-7.862243,1825,6,2015
+3278104666,Regulus ignicapilla,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+3527368611,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2008
+3512445436,Regulus ignicapilla,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,4,2021
+1721526420,Regulus ignicapilla,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,3,2016
+2838932464,Regulus ignicapilla,MA,Morocco - Touama,,1,31.4741,-7.4323,1430,2,2014
+2832473581,Regulus ignicapilla,MA,Morocco - Zerkten,,1,31.331318,-7.378838,1720,4,2014
+2832479445,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.264533,-7.821419,1546,4,2014
+2835868348,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.23066,-7.821905,2376,3,2016
+1620559633,Regulus ignicapilla,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,6,2019
+3243958360,Regulus ignicapilla,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,5,2015
+2843748083,Regulus ignicapilla,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,4,31.237133,-7.809777,1961,2,2020
+2835572641,Regulus ignicapilla,MA,Morocco - Touama,,1,31.473011,-7.432568,1457,3,2015
+2832807337,Regulus ignicapilla,MA,Morocco - Ben Smim,,1,33.425972,-5.155105,1692,3,2016
+2835483387,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.2062,-7.8572,2614,3,2014
+2844350316,Regulus ignicapilla,MA,Morocco - Oukaïmedene,,1,31.208681,-7.850182,2595,3,2016
+2844223349,Regulus ignicapilla,MA,Morocco - Sti Fadma,,2,31.265339,-7.812712,1604,3,2020
+2832368330,Regulus ignicapilla,MA,Morocco - Zerkten,,2,31.433185,-7.408383,1244,2,2013

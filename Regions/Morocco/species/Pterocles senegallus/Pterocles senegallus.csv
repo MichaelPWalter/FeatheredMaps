@@ -1,0 +1,611 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3773401184,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.255854,-4.117688,741,4,2022
+2329626343,Pterocles senegallus,MA,Tafilalt / Marokko,,1,31.292635,-4.285011,755,12,2012
+2775735294,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+1746508471,Pterocles senegallus,MA,Merzouga--General Area,Meknès-Tafilalet,160,31.241426,-4.019279,744,3,2016
+1784879450,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,6,31.212925,-3.9884,736,4,2015
+2833896737,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.206588,-3.923883,711,4,2019
+3947281830,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.221578,-3.932774,729,10,2022
+4018714530,Pterocles senegallus,MA,"N Erg Chebbi, Tisserdmine, Errachidia Province, Drâa-Tafilalet",,1,31.2175,-3.9686,743,12,2022
+2243744009,Pterocles senegallus,MA,"Tata, Guelmim-Es Semara",,1,29.8521,-7.2631,514,4,2016
+2243792475,Pterocles senegallus,MA,"Tata, Souss Massa",,1,29.849,-7.252,509,4,2016
+3619430126,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,20,31.24111,-4.083794,729,3,2019
+1730381247,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,30,31.201033,-4.026918,733,3,2016
+2207283715,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),Meknès-Tafilalet,2,31.12224,-3.9229,710,6,2016
+3579643036,Pterocles senegallus,MA,"Guelmim-Oued Noun, MA (28,827, -10,334)",Guelmim-Es Smara,2,28.826973,-10.33391,188,11,2021
+2085213943,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,9,31.08315,-3.999495,697,9,2017
+2111880237,Pterocles senegallus,MA,"Guelmim-Oued Noun, MA (29,85, -6,564)",Guelmim-Es Smara,4,29.849827,-6.563981,457,12,2017
+2115167988,Pterocles senegallus,MA,Tissint 8 km SE,Guelmim-Es Smara,100,29.852076,-7.263154,515,2,2017
+3187534571,Pterocles senegallus,MA,R702 leaving Erfoud,Meknès-Tafilalet,60,31.443846,-4.330907,786,3,2020
+2663296124,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,60,31.207005,-3.924082,720,3,2019
+2672216192,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31,195, -4,094)",Meknès-Tafilalet,120,31.19516,-4.093672,713,3,2019
+3285800648,Pterocles senegallus,MA,Goulmina (east),Meknès-Tafilalet,2,31.750944,-4.871639,1085,4,2016
+2742790560,Pterocles senegallus,MA,"(31.2820,-4.0201)",Meknès-Tafilalet,4,31.281954,-4.020089,759,4,2019
+3266799216,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,2,2015
+3638535727,Pterocles senegallus,MA,Merzouga general area - Tisserdmine | trip with Lahcen,Meknès-Tafilalet,80,31.290462,-4.030025,760,9,2021
+2717834890,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+2151991248,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2724350674,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,1,31.174,-3.9867,785,2,2016
+3579612296,Pterocles senegallus,MA,"Oued Moulouya à Teggour MA (33.172, -3.861)",Fès-Boulemane,1,33.171875,-3.860774,823,4,2014
+2794602702,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+2145408344,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+2659179260,Pterocles senegallus,MA,W of Rissani,Meknès-Tafilalet,12,31.259735,-4.413248,753,2,2019
+3570916943,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2015
+2201778700,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,3,2016
+3142890343,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2020
+3206504765,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,20,31.24111,-4.083794,729,3,2019
+2762737987,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,10,31.08315,-3.999495,697,3,2018
+3566306575,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,10,31.28981,-4.091935,747,3,2007
+2107550492,Pterocles senegallus,MA,Zagora to M'Hamid region,Sous-Massa-Draa,1,30.061237,-5.607018,700,12,2012
+2031674888,Pterocles senegallus,MA,Sandgrouse location,Meknès-Tafilalet,20,31.230307,-3.943856,724,2,2017
+2669068850,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,14,31.212925,-3.9884,736,4,2019
+2115172696,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,12,2015
+3153846607,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,12,31.08315,-3.999495,697,3,2014
+1787862774,Pterocles senegallus,MA,Lac Dayet Srij,Meknès-Tafilalet,20,31.09253,-4.052325,687,3,2013
+1790272531,Pterocles senegallus,MA,Oued Dades--Boumalne,Sous-Massa-Draa,7,31.369457,-5.988785,1522,1,2004
+3205058808,Pterocles senegallus,MA,Sahb el-Ghassal,Meknès-Tafilalet,5,31.369688,-4.152585,761,4,2009
+3247739684,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2020
+3135916452,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2020
+1353235531,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,2,2015
+2162812325,Pterocles senegallus,MA,Rissani,Meknès-Tafilalet,2,31.278551,-4.278316,755,5,2018
+3688885319,Pterocles senegallus,MA,M'Ifri n'Ighass,Meknès-Tafilalet,1,31.25966,-4.411461,757,4,2013
+2043683195,Pterocles senegallus,MA,Erg Chebi area,Meknès-Tafilalet,29,31.217058,-3.983746,735,2,2017
+2050978185,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.278x-4.398 - Apr 5, 2017 12:42 AM",Meknès-Tafilalet,4,31.27821,-4.398057,754,4,2017
+2776210367,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2159135371,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,125,31.201033,-4.026918,733,5,2018
+3652381890,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,20,31.328703,-5.922575,1551,11,2021
+1720625592,Pterocles senegallus,MA,Spotted Sandgrouse site,Meknès-Tafilalet,6,31.259636,-4.411032,756,3,2016
+2666298415,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2667952184,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,35,31.08315,-3.999495,697,4,2019
+3214892499,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,5,31.08315,-3.999495,697,2,2019
+2796905680,Pterocles senegallus,MA,Merzouga--general area,Meknès-Tafilalet,12,31.09699,-4.014003,692,12,2015
+2780620994,Pterocles senegallus,MA,"Guelmim-Oued Noun, MA (29,764, -6,586)",Guelmim-Es Smara,5,29.763779,-6.586117,464,12,2017
+3138505099,Pterocles senegallus,MA,"Auto selected 31.16561, -4.04582",Meknès-Tafilalet,5,31.16561,-4.045816,718,3,2020
+2120147293,Pterocles senegallus,MA,"R702, Drâa-Tafilalet, MA (31.194, -4.049)",Meknès-Tafilalet,7,31.193642,-4.04933,727,3,2018
+3571055736,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,45,31.212925,-3.9884,736,11,2021
+1182988515,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,7,31.098513,-4.014988,699,5,2010
+2774850115,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+3278006583,Pterocles senegallus,MA,MA-Merzouga (Taouz),Meknès-Tafilalet,12,30.901312,-3.999995,670,4,2016
+3688003990,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,30,31.207346,-3.921684,715,4,2018
+1203513562,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,2,31.334959,-5.891968,1554,4,2007
+2740646398,Pterocles senegallus,MA,Erg Chebbi (general northeast area),Meknès-Tafilalet,100,31.231152,-3.963017,740,3,2019
+2758290687,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,40,31.08315,-3.999495,697,9,2019
+3292632692,Pterocles senegallus,MA,Escarpement au sud-ouest de Tinegherass,Meknès-Tafilalet,2,31.209732,-4.315025,780,3,2019
+1203507264,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,20,31.212925,-3.9884,736,4,2007
+3212186250,Pterocles senegallus,MA,"Morocco, Region de Merzouga (Erfoud)",Meknès-Tafilalet,320,31.290289,-3.980159,757,4,2017
+2744354683,Pterocles senegallus,MA,"(31.2069,-3.9240)",Meknès-Tafilalet,12,31.20695,-3.923966,720,4,2019
+3207087003,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,1,31.230656,-4.096431,747,4,2016
+3211416640,Pterocles senegallus,MA,Desert East of Erg Chebbi (guided),Meknès-Tafilalet,72,31.214897,-3.908999,734,4,2012
+2121752349,Pterocles senegallus,MA,Zagora to M'Hamid region,Sous-Massa-Draa,1,30.061237,-5.607018,700,12,2012
+2699722361,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.219, -3.932)",Meknès-Tafilalet,13,31.21919,-3.9317,727,9,2019
+2784065337,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.309, -3.996)",Meknès-Tafilalet,10,31.309105,-3.995699,772,9,2019
+3330512431,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.289547,-4.092867,746,3,2015
+3295494158,Pterocles senegallus,MA,Merzouga (north),Meknès-Tafilalet,4,31.239695,-4.094167,730,4,2016
+2220576898,Pterocles senegallus,MA,sandgrouse area,Meknès-Tafilalet,16,31.306328,-4.099176,745,11,2018
+2770148345,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.345, -4.097)",Meknès-Tafilalet,65,31.345018,-4.097458,759,3,2019
+2711195777,Pterocles senegallus,MA,Erg Chebbi — est,Meknès-Tafilalet,37,31.173185,-3.940512,717,11,2019
+2725740511,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,40,31.08315,-3.999495,697,2,2015
+2714381054,Pterocles senegallus,MA,Erg Chebbi und Merzouga-Gegend,Meknès-Tafilalet,1,31.211,-4.023,731,5,2018
+2048729483,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.207x-3.924 - Apr 3, 2017 4:03 PM",Meknès-Tafilalet,700,31.20706,-3.923962,720,4,2017
+1396337619,Pterocles senegallus,MA,Auberge Kasbah Derkaoua,Meknès-Tafilalet,5,31.29,-4.0917,749,4,2007
+2714454825,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,1,2017
+2755245623,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2802740069,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.345,-4.097,761,3,2019
+2171836323,Pterocles senegallus,MA,Rissani,Meknès-Tafilalet,2,31.278551,-4.278316,755,5,2018
+3681187686,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,3,2007
+1791478061,Pterocles senegallus,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,2,31.756083,-4.837632,1082,4,2005
+2708765879,Pterocles senegallus,MA,Sub Sahara,Sous-Massa-Draa,1,30.999323,-7.228585,1288,10,2014
+3456157902,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.206765,-3.923263,719,3,2018
+3692168869,Pterocles senegallus,MA,Palmeraie d'Igrane,Meknès-Tafilalet,2,31.140299,-4.021103,708,12,2012
+3266496047,Pterocles senegallus,MA,Wadi on way to Hotel Yasmina,Meknès-Tafilalet,1,31.218517,-4.020672,728,3,2013
+2754413813,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2841048415,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,18,31.260049,-4.411132,756,1,2014
+2832774464,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,11,31.296291,-4.010857,767,4,2016
+2837698735,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.206916,-3.924001,720,3,2019
+2840145712,Pterocles senegallus,MA,Morocco - Tafilalt\n,,2,31.260926,-4.35706,742,3,2012
+2836283200,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,200,31.17,-3.95,740,1,2017
+2835656451,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,11,31.296291,-4.010857,767,4,2016
+2839389548,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,1,31.21282,-3.989115,735,7,2015
+2634335500,Pterocles senegallus,MA,,Meknès - Tafilalet,1,31.292431,-4.010584,765,5,2018
+2835594805,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.215229,-3.985806,738,4,2012
+2835462671,Pterocles senegallus,MA,Morocco - Tafilalt\n,,16,31.261269,-4.354786,745,3,2012
+3206546874,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,2,2020
+2786135965,Pterocles senegallus,MA,"Guelmim-Oued Noun, MA (29,85, -6,564)",Guelmim-Es Smara,4,29.849827,-6.563981,457,12,2017
+2151299357,Pterocles senegallus,MA,Erfoud Erg Chebbi,Meknès-Tafilalet,14,31.188648,-4.031939,719,3,2018
+3196200494,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+2735942229,Pterocles senegallus,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,40,31.230532,-3.97439,736,4,2019
+2835852625,Pterocles senegallus,MA,Morocco - Tafilalt\n,,16,31.261269,-4.354786,745,3,2012
+2833150923,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,1,29.839875,-6.10265,509,2,2018
+2163783837,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.207x-3.924 - Apr 3, 2017 4:03 PM",Meknès-Tafilalet,700,31.20706,-3.923962,720,4,2017
+2329629981,Pterocles senegallus,MA,Kessel westlich Rissani,,1,31.259916,-4.411612,758,12,2012
+2715342304,Pterocles senegallus,MA,Erfoud (amb beduí Salam i Imad Cherkaoui),Meknès-Tafilalet,1,31.412,-4.218,787,4,2007
+2832208004,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,48,31.092417,-4.050179,697,4,2011
+2832516638,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.19019,-4.092177,726,2,2015
+2836094663,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.2007,-4.03,728,4,2016
+2839217597,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.14,-4.09,712,3,2015
+2835706566,Pterocles senegallus,MA,Morocco - Et-Taous,,3,30.976101,-3.830144,689,2,2013
+2836292103,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,80,31.2,-3.93,719,4,2018
+3133061828,Pterocles senegallus,MA,Sahb el-Ghassal,Meknès-Tafilalet,1,31.369688,-4.152585,761,1,2020
+3297360569,Pterocles senegallus,MA,M'Ifri n'Ighass,Meknès-Tafilalet,1,31.25966,-4.411461,757,4,2013
+2213808511,Pterocles senegallus,MA,Meknès Tafilalet General Area,Meknès-Tafilalet,2,31.3089,-4.000576,780,4,2017
+3192734872,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2019
+2208058071,Pterocles senegallus,MA,"N13, Drâa-Tafilalet, MA (31.151, -4.06)",Meknès-Tafilalet,50,31.151154,-4.060083,712,9,2018
+2214562562,Pterocles senegallus,MA,Off of R702,Meknès-Tafilalet,9,31.198746,-4.037203,724,11,2018
+1730093971,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,4,2016
+3662037844,Pterocles senegallus,MA,Ridge southwest of Rissani,Meknès-Tafilalet,13,31.233883,-4.357176,746,12,2013
+1726402051,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,3,31.201033,-4.026918,733,3,2016
+2765933567,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,30,31.212925,-3.9884,736,5,2019
+2101568847,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,32,31.334959,-5.891968,1554,10,2017
+1719770694,Pterocles senegallus,MA,Erg Chebbi area via 4x4,Meknès-Tafilalet,180,31.305761,-4.035115,763,2,2016
+1355664795,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+1785082885,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,32,31.28981,-4.091935,747,12,2010
+2673456951,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,140,31.212925,-3.9884,736,4,2019
+2101618584,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,75,31.08315,-3.999495,697,10,2017
+2783739975,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,12,31.093885,-4.051035,696,3,2007
+2058025691,Pterocles senegallus,MA,desert around auberge derkoura,Meknès-Tafilalet,75,31.33575,-4.102192,765,5,2017
+2771345521,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,30,31.08315,-3.999495,697,12,2019
+2796793691,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,3,31.201033,-4.026918,733,3,2016
+2044045973,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,12,31.201033,-4.026918,733,2,2017
+2731497797,Pterocles senegallus,MA,Wadi Merzane,Meknès-Tafilalet,2,31.358027,-4.136894,765,3,2007
+2153824620,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2145820392,Pterocles senegallus,MA,Merzouga dunes NE waterhole,Meknès-Tafilalet,20,31.207468,-3.923673,711,3,2018
+2684116388,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,140,31.212925,-3.9884,736,4,2019
+3280345888,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2018
+1746507844,Pterocles senegallus,MA,Merzouga--General Area,Meknès-Tafilalet,160,31.241426,-4.019279,744,3,2016
+2047765085,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,25,31.212925,-3.9884,736,3,2017
+3206469406,Pterocles senegallus,MA,N10--au nord de Toukane Nikar,Meknès-Tafilalet,1,31.754534,-4.837321,1090,3,2006
+2139315435,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,60,31.212925,-3.9884,736,3,2018
+2143785574,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+1781889876,Pterocles senegallus,MA,Merzouga area,Meknès-Tafilalet,1,31.254303,-4.034922,756,12,2016
+1794423411,Pterocles senegallus,MA,Unnamed Wadi,Sous-Massa-Draa,25,29.839186,-5.897302,519,10,2012
+2050710263,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.207x-3.924 - Apr 3, 2017 4:03 PM",Meknès-Tafilalet,700,31.20706,-3.923962,720,4,2017
+2176881461,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,10,2010
+1744950250,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,28,31.098557,-4.011864,688,4,2016
+1370841708,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+3287213117,Pterocles senegallus,MA,Nordöstlich Merzouge,Meknès-Tafilalet,20,31.207418,-3.923764,712,3,2018
+3259046965,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2012
+2195149513,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,10,31.08315,-3.999495,697,2,2015
+2065490388,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,30,31.212925,-3.9884,736,5,2017
+1187236581,Pterocles senegallus,MA,Merzouga/Desert,Meknès-Tafilalet,17,31.098513,-4.012113,688,3,2007
+2667062020,Pterocles senegallus,MA,"(31.2820,-4.0201)",Meknès-Tafilalet,4,31.281954,-4.020089,759,4,2019
+3633543669,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,11,31.093885,-4.051035,696,4,2008
+2737025730,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2714682734,Pterocles senegallus,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354237,-5.960534,1546,12,2019
+2732091944,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,20,31.143082,-3.998165,740,3,2019
+1402850306,Pterocles senegallus,MA,Tisserdmine (Erg Chebbi),Meknès-Tafilalet,100,31.316568,-4.0134,776,5,2015
+3644520183,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,20,31.328703,-5.922575,1551,11,2021
+2123475625,Pterocles senegallus,MA,M'Hamid desert area,Sous-Massa-Draa,1,29.819862,-5.722074,539,12,2012
+3632975175,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,1,31.24111,-4.083794,729,6,2012
+2755628727,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,60,31.207005,-3.924082,720,3,2019
+2767390233,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,30,31.212925,-3.9884,736,5,2019
+2150270469,Pterocles senegallus,MA,"Morocco, Bri M'Hamed Sijelmassa",Meknès-Tafilalet,7,31.261904,-3.973039,747,4,2017
+3151888188,Pterocles senegallus,MA,"Auto selected 31.16561, -4.04582",Meknès-Tafilalet,5,31.16561,-4.045816,718,3,2020
+2132250318,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,25,31.212925,-3.9884,736,3,2017
+1773014337,Pterocles senegallus,MA,"Unbekannter Ort - 31,283x-4,027 - 05.11.2016 13:08",Meknès-Tafilalet,45,31.28307,-4.027458,757,11,2016
+2768079002,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+3678578472,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.221, -3.935)",Meknès-Tafilalet,25,31.22146,-3.935277,722,2,2020
+3210227758,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,3,31.093885,-4.051035,696,4,2003
+1786483288,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,6,31.212925,-3.9884,736,4,2015
+2790530636,Pterocles senegallus,MA,Erg Chebbi - Merzouga,Meknès-Tafilalet,1,31.084854,-3.966152,699,10,2017
+2776991216,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2019
+1717737877,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,100,31.28981,-4.091935,747,2,2016
+3634147574,Pterocles senegallus,MA,Merzouga--Lac Dayet Srij,Meknès-Tafilalet,20,31.09253,-4.05233,687,3,2013
+1720435658,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,30,31.201033,-4.026918,733,3,2016
+2676571639,Pterocles senegallus,MA,Erg Chebbi (general northeast area),Meknès-Tafilalet,100,31.231152,-3.963017,740,3,2019
+2188548247,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31,232, -4,056)",Meknès-Tafilalet,10,31.232393,-4.056439,750,4,2016
+2714674688,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2014
+1786469635,Pterocles senegallus,MA,Auberge du Sud,Meknès-Tafilalet,2,31.209755,-4.023914,741,3,2015
+2794157027,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+2123984053,Pterocles senegallus,MA,"P30, Souss Massa, MA (29,728, -7,233)",Guelmim-Es Smara,8,29.72807,-7.233075,464,1,2018
+2069834137,Pterocles senegallus,MA,Sahara east of Auberge Derkoua,Meknès-Tafilalet,1,31.293098,-4.035501,759,5,2017
+2748087373,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2709599411,Pterocles senegallus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2002
+3230061415,Pterocles senegallus,MA,M'Ifri n'Ighass,Meknès-Tafilalet,10,31.25966,-4.411461,757,1,2020
+2059909869,Pterocles senegallus,MA,"MA-Mequinez-Tafilalet - 31,305x-4,001 - 12/4/2017 13:31",Meknès-Tafilalet,150,31.305075,-4.001444,774,4,2017
+2692411664,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2019
+2107547962,Pterocles senegallus,MA,M'Hamid desert area,Sous-Massa-Draa,1,29.819862,-5.722074,539,12,2012
+2206651661,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+1721380590,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,12,31.212925,-3.9884,736,3,2016
+3170207417,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,60,31.08315,-3.999495,697,11,2008
+2044198584,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,20,31.143082,-3.998165,740,2,2017
+3279205944,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2019
+3169013476,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,9,31.093885,-4.051035,696,11,2017
+3550850819,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,2,2015
+2175730209,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,125,31.201033,-4.026918,733,5,2018
+3268048253,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,20,31.143082,-3.998165,740,3,2019
+1761910971,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,9,31.334959,-5.891968,1554,4,2016
+2668822292,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+1721378854,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,12,31.212925,-3.9884,736,3,2016
+1183450074,Pterocles senegallus,MA,Merzouga area,Meknès-Tafilalet,12,31.1072,-4.0153,675,2,2012
+2165054548,Pterocles senegallus,MA,Zagora to Rissani,Meknès-Tafilalet,1,31.261894,-4.465556,793,12,2012
+2791361912,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.309, -3.996)",Meknès-Tafilalet,10,31.309105,-3.995699,772,9,2019
+2199654266,Pterocles senegallus,MA,Spotted Sandgrouse site,Meknès-Tafilalet,8,31.261887,-4.411139,761,3,2014
+2673049463,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.345, -4.097)",Meknès-Tafilalet,65,31.345018,-4.097458,759,3,2019
+2754535176,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,90,31.08315,-3.999495,697,3,2019
+2121228703,Pterocles senegallus,MA,Erfou R702,Meknès-Tafilalet,4,31.4247,-4.217527,802,1,2018
+2100297116,Pterocles senegallus,MA,"Merzouga, Meknes-Tafilalet",Meknès-Tafilalet,11,31.117699,-3.934729,702,10,2017
+3208360277,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2015
+837598790,Pterocles senegallus,MA,Piste de Tagdil,Sous-Massa-Draa,11,31.342388,-5.897713,1550,3,2006
+2137075544,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,60,31.212925,-3.9884,736,3,2018
+3222476594,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2020
+2112529160,Pterocles senegallus,MA,"Unnamed Road, Drâa-Tafilalet, MA (29,874, -5,835)",Sous-Massa-Draa,30,29.874144,-5.834563,538,12,2017
+1784879670,Pterocles senegallus,MA,Auberge du Sud,Meknès-Tafilalet,2,31.209755,-4.023914,741,3,2015
+3183911177,Pterocles senegallus,MA,"tagdicht track, Morocco",Sous-Massa-Draa,4,29.783329,-9.010607,1348,3,2018
+3194706386,Pterocles senegallus,MA,"MA-Meknès-Tafilalet-52372 (31,5132,-4,5586)",Meknès-Tafilalet,7,31.513212,-4.558627,860,11,2019
+2793950837,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+2836462813,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,7,31.2538,-4.4065,755,11,2016
+2841054603,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.2,-3.93,719,5,2018
+2842963749,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,25,31.206944,-3.923126,717,3,2020
+2832725327,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,42,31.2295,-4.0443,746,2,2016
+2182932231,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,125,31.201033,-4.026918,733,5,2018
+2066697810,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.278x-4.398 - Apr 5, 2017 12:42 AM",Meknès-Tafilalet,4,31.27821,-4.398057,754,4,2017
+1721377452,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,16,31.212925,-3.9884,736,3,2016
+2138646355,Pterocles senegallus,MA,"(31,2801,-4,0580)",Meknès-Tafilalet,15,31.280142,-4.058,759,3,2018
+1354721296,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,7,31.212925,-3.9884,736,3,2015
+2790960906,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+3652866507,Pterocles senegallus,MA,واد أسيف تيديلي | Oued Asif Tidili,Sous-Massa-Draa,2,30.922583,-6.936915,1123,11,2021
+941712016,Pterocles senegallus,MA,MA-Meknès-Tafilalet - 31.2793x-4.3576 - 13 déc. 2012 15:32,Meknès-Tafilalet,250,31.279266,-4.357576,761,12,2012
+941280411,Pterocles senegallus,MA,Agadir-East,Sous-Massa-Draa,6,30.395643,-9.585528,22,5,2010
+3209590683,Pterocles senegallus,MA,MA-Merzouga (Lac Dayet Srij),Meknès-Tafilalet,6,31.103954,-4.048814,695,4,2019
+2793770269,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,15,31.201033,-4.026918,733,9,2019
+1791996591,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2011
+3645952856,Pterocles senegallus,MA,Rissani Desert area,Meknès-Tafilalet,30,31.298529,-4.193414,747,4,2018
+3143011560,Pterocles senegallus,MA,"MA-Meknès-Tafilalet-52454 (31.2828,-4.0390)",Meknès-Tafilalet,10,31.282774,-4.039003,752,1,2020
+3658934896,Pterocles senegallus,MA,De Bouarfa à Figuig,L'Oriental,60,32.341522,-1.690004,1208,11,2013
+3299012513,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.221, -3.935)",Meknès-Tafilalet,25,31.22146,-3.935277,722,2,2020
+2657604539,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2015
+2784871322,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,8,31.143082,-3.998165,740,9,2019
+2154296910,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+2759263095,Pterocles senegallus,MA,Goulmina - vádí,Meknès-Tafilalet,1,31.750944,-4.871639,1085,4,2016
+3611674902,Pterocles senegallus,MA,Escarpement au sud-ouest de Tinegherass,Meknès-Tafilalet,2,31.209732,-4.315025,780,3,2019
+2695137984,Pterocles senegallus,MA,"Unnamed Road, Drâa-Tafilalet, MA (29,851, -5,878)",Sous-Massa-Draa,15,29.850805,-5.877953,521,12,2017
+3263707388,Pterocles senegallus,MA,Tinejdad,Meknès-Tafilalet,80,31.487967,-5.114165,1028,11,2017
+2717697710,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,22,31.334959,-5.891968,1554,4,2006
+2780124383,Pterocles senegallus,MA,Erg Chebbi — est,Meknès-Tafilalet,37,31.173185,-3.940512,717,11,2019
+2725381037,Pterocles senegallus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,32,30.070282,-9.662819,21,4,2018
+2099125384,Pterocles senegallus,MA,"Guelmim-Oued Noun, MA (29,764, -6,586)",Guelmim-Es Smara,5,29.763779,-6.586117,464,12,2017
+2705681577,Pterocles senegallus,MA,"Unnamed Road, Drâa-Tafilalet, MA (29,874, -5,835)",Sous-Massa-Draa,30,29.874144,-5.834563,538,12,2017
+2832763261,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,5,31.25,-4.41,759,3,2016
+2044946439,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,4,31.212925,-3.9884,736,2,2017
+3996240611,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.206693,-3.924192,716,10,2022
+2839856004,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,3,31.092417,-4.050179,697,4,2011
+2834484168,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,18,31.17853,-3.939576,728,12,2019
+2832725167,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,42,31.2295,-4.0443,746,2,2016
+2837366629,Pterocles senegallus,MA,Morocco - Région de Mhamid,,60,29.704202,-6.11366,485,2,2012
+2840335180,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,6,31.2067,-3.9236,720,3,2018
+2836149859,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,14,31.2999,-4.4234,770,11,2016
+2839820465,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.22,-3.96,730,3,2016
+2840830488,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,200,29.831289,-6.192032,482,1,2018
+2842477153,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,4,31.350389,-4.084626,758,4,2018
+2838396834,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,45,31.217569,-4.037332,729,4,2012
+2832209036,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.092417,-4.050179,697,4,2011
+2835274145,Pterocles senegallus,MA,Morocco,,1,29.89029,-5.719414,552,3,2007
+3826510946,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,100,31.206963,-3.923943,720,4,2018
+2137224290,Pterocles senegallus,MA,"R702, Drâa-Tafilalet, MA (31.194, -4.049)",Meknès-Tafilalet,7,31.193642,-4.04933,727,3,2018
+2798737972,Pterocles senegallus,MA,"Erfoud (31.4404, -4.2455)",Meknès-Tafilalet,1,31.4404,-4.2455,797,4,2007
+3673278527,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,9,31.24111,-4.083794,729,3,2019
+1394424436,Pterocles senegallus,MA,Rissani (general area),Meknès-Tafilalet,6,31.288527,-4.287918,752,9,2015
+3684251232,Pterocles senegallus,MA,Oued Anssi,Meknès-Tafilalet,1,31.251,-4.114,738,4,2015
+2835707840,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,2,29.869934,-6.177727,487,6,2014
+2835678939,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.092417,-4.050179,697,4,2011
+2832416632,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,7,31.212738,-3.91809,735,4,2013
+2843431311,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,42,31.229499,-4.044431,746,2,2016
+2835939647,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.3023,-4.0284,770,4,2016
+2840522276,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,9,31.341205,-4.04892,772,4,2016
+2839258950,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,3,29.87501,-6.191654,490,6,2014
+2832498765,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.13,-4.09,701,3,2015
+2841643783,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,11,31.105453,-4.051696,692,3,2019
+2842934520,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,12,31.18933,-3.940652,716,4,2016
+2118067396,Pterocles senegallus,MA,Oued Anssi,Meknès-Tafilalet,45,31.227142,-4.125534,712,1,2018
+2839892712,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,300,31.20465,-3.921252,711,4,2017
+2832599818,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,13,31.172841,-4.05211,724,4,2015
+2832899521,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.3023,-4.0284,770,4,2016
+2835852632,Pterocles senegallus,MA,Morocco - Tafilalt\n,,16,31.261269,-4.354786,745,3,2012
+2839156296,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,1,31.21282,-3.989115,735,7,2015
+2840113395,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.158745,-4.021009,738,8,2011
+2839694901,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.017915,-4.061206,695,8,2015
+2329631156,Pterocles senegallus,MA,UTM25_30R_0375_3450,,1,31.291401,-4.182,741,12,2012
+2835683749,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,9,31.144238,-4.081349,710,3,2015
+3995975619,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,150,31.25014,-4.021683,752,10,2022
+2833815738,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.205202,-3.924757,714,4,2019
+2832538177,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,8,31.163161,-4.049374,719,2,2016
+2609684591,Pterocles senegallus,MA,"Errachidia Province, Drâa-Tafilalet",,1,31.1856,-4.0222,746,4,2017
+2609683081,Pterocles senegallus,MA,"Errachidia Province, Drâa-Tafilalet",,1,31.1856,-4.0222,746,4,2017
+2609687710,Pterocles senegallus,MA,Erg Chebbi,,1,31.179,-3.98,740,10,2019
+2243594184,Pterocles senegallus,MA,Lac Yasmina,,1,31.213,-3.988,731,4,2012
+4018713532,Pterocles senegallus,MA,"N Erg Chebbi, Tisserdmine, Errachidia Province, Drâa-Tafilalet",,1,31.2175,-3.9686,743,12,2022
+3725916070,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,20,31.259129,-4.409598,752,3,2020
+2840669449,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,50,31.2597,-4.4116,757,2,2014
+2835575784,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,70,31.215816,-3.98632,739,4,2012
+2836494042,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,50,31.27795,-4.03938,754,12,2016
+2832684556,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.2944,-4.0969,745,4,2016
+2832194985,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.092417,-4.050179,697,4,2011
+2834955026,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,20,31.095284,-4.052729,687,4,2011
+2832889380,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,5,31.15639,-4.03975,714,2,2016
+2043248683,Pterocles senegallus,MA,"MA-Guelmim-Esmara - 28,478x-9,409 - 7 feb. 2017 18:34",Guelmim-Es Smara,7,28.478098,-9.4091,203,2,2017
+2154009865,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2103903192,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,9,31.08315,-3.999495,697,9,2017
+2176328289,Pterocles senegallus,MA,Zagora to Rissani,Meknès-Tafilalet,1,31.261894,-4.465556,793,12,2012
+2792050045,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,1,31.174,-3.9867,785,9,2019
+3269787977,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,9,31.212925,-3.9884,736,3,2020
+2801641189,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,3,31.201033,-4.026918,733,3,2016
+2705322923,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,3,2019
+2182941140,Pterocles senegallus,MA,Rissani,Meknès-Tafilalet,2,31.278551,-4.278316,755,5,2018
+2776580690,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,4,31.24111,-4.083794,729,4,2016
+1791989579,Pterocles senegallus,MA,Ridge West of Rissani (Pharaoh Eagle Owl site),Meknès-Tafilalet,40,31.278028,-4.349556,773,3,2011
+3142539902,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.221, -3.935)",Meknès-Tafilalet,25,31.22146,-3.935277,722,2,2020
+2784733479,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,140,31.212925,-3.9884,736,4,2019
+2725909769,Pterocles senegallus,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,1,31.756083,-4.837632,1082,5,2010
+2140042681,Pterocles senegallus,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,2,31.756083,-4.837632,1082,3,2018
+3690068002,Pterocles senegallus,MA,Escarpement au sud-ouest de Tinegherass,Meknès-Tafilalet,59,31.209732,-4.315025,780,2,2012
+2798593920,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2013
+2217483381,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,16,31.139406,-3.983742,758,11,2018
+1744945046,Pterocles senegallus,MA,"Taouz, Merzouga, Errachidia",Meknès-Tafilalet,6,30.906668,-3.996448,673,4,2016
+2753665592,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,50,31.08315,-3.999495,697,3,2019
+2167481014,Pterocles senegallus,MA,"MA-Meknes-Tafilalet - 31.278x-4.398 - Apr 5, 2017 12:42 AM",Meknès-Tafilalet,4,31.27821,-4.398057,754,4,2017
+1773124289,Pterocles senegallus,MA,"MA-Meknès-Tafilalet - 31,2x-3,926 - 13.11.2016 14:34",Meknès-Tafilalet,10,31.19971,-3.926036,714,11,2016
+2661610621,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,45,31.207132,-3.923975,718,3,2019
+3206496160,Pterocles senegallus,MA,MA-Merzouga (NE of Tisserdmine),Meknès-Tafilalet,18,31.30917,-4.020909,775,4,2016
+2043216426,Pterocles senegallus,MA,Erg Chebbi (general northeast area),Meknès-Tafilalet,350,31.231152,-3.963017,740,4,2017
+2213396100,Pterocles senegallus,MA,Plain west of Rissani,Meknès-Tafilalet,25,31.251429,-4.398395,755,3,2013
+2682568689,Pterocles senegallus,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,40,31.230532,-3.97439,736,4,2019
+2141675199,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+3296131056,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2017
+1177812911,Pterocles senegallus,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,6,2014
+1746506279,Pterocles senegallus,MA,Merzouga--General Area,Meknès-Tafilalet,160,31.241426,-4.019279,744,3,2016
+2740934890,Pterocles senegallus,MA,Wadi Merzane,Meknès-Tafilalet,2,31.358027,-4.136894,765,3,2007
+1721150219,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,30,31.201033,-4.026918,733,3,2016
+2139839503,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,11,31.212925,-3.9884,736,3,2018
+2740627776,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,6,31.24111,-4.083794,729,2,2019
+3651368999,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,45,31.212925,-3.9884,736,11,2021
+1402841030,Pterocles senegallus,MA,Tisserdmine (Erg Chebbi),Meknès-Tafilalet,100,31.316568,-4.0134,776,5,2015
+2037158285,Pterocles senegallus,MA,"MA-Guelmim-Esmara - 28,478x-9,409 - 7 feb. 2017 18:34",Guelmim-Es Smara,7,28.478098,-9.4091,203,2,2017
+2714163946,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.309, -3.996)",Meknès-Tafilalet,10,31.309105,-3.995699,772,9,2019
+2795640717,Pterocles senegallus,MA,Assif Amerzgane,Sous-Massa-Draa,2,31.038475,-7.215571,1324,2,2010
+3140377293,Pterocles senegallus,MA,A7 Marrakech - northern Morocco route,Marrakech-Tensift-Al Haouz,1,31.902718,-8.026853,509,3,2020
+2783605374,Pterocles senegallus,MA,Erg Chebbi--noroest,Meknès-Tafilalet,19,31.201033,-4.026918,733,4,2019
+2746846650,Pterocles senegallus,MA,merzougaa,Meknès-Tafilalet,1,31.081924,-4.004142,692,3,2019
+2724721381,Pterocles senegallus,MA,Rissani (multiple locations),Meknès-Tafilalet,2,31.260365,-4.317814,751,4,2018
+2161771273,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2757721684,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,30,31.212925,-3.9884,736,5,2019
+1753515481,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,12,2015
+2693190952,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2017
+1782691440,Pterocles senegallus,MA,Merzouga--General Area,Meknès-Tafilalet,160,31.241426,-4.019279,744,3,2016
+2712234064,Pterocles senegallus,MA,Sahara desert,Meknès-Tafilalet,1,31.220041,-3.963126,732,10,2014
+3632840945,Pterocles senegallus,MA,Mhamid,Sous-Massa-Draa,1,29.824493,-5.72423,537,4,2017
+2099108000,Pterocles senegallus,MA,"Unnamed Road, Drâa-Tafilalet, MA (29,851, -5,878)",Sous-Massa-Draa,15,29.850805,-5.877953,521,12,2017
+2050332881,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,1,31.145834,-3.967778,738,3,2017
+2717140061,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2018
+2801493135,Pterocles senegallus,MA,Merzouga-Rissani,Meknès-Tafilalet,1,31.232,-4.083,744,4,2019
+2037158071,Pterocles senegallus,MA,"MA-Guelmim-Esmara - 28,478x-9,409 - 7 feb. 2017 18:34",Guelmim-Es Smara,7,28.478098,-9.4091,203,2,2017
+2042079592,Pterocles senegallus,MA,Sandgrouse location,Meknès-Tafilalet,20,31.230307,-3.943856,724,2,2017
+2145408266,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2798878237,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,9,31.24111,-4.083794,729,4,2016
+3198917689,Pterocles senegallus,MA,Erg Chebbi,Meknès-Tafilalet,180,31.174,-3.9867,785,2,2016
+2130863841,Pterocles senegallus,MA,Erg Chebbi (general northeast area),Meknès-Tafilalet,40,31.231152,-3.963017,740,3,2018
+2705568813,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,90,31.08315,-3.999495,697,3,2019
+3214830941,Pterocles senegallus,MA,Desierto entre Merzane y Tisserdmine,Meknès-Tafilalet,1,31.3212,-4.0219,771,12,2016
+3279688725,Pterocles senegallus,MA,Merzouga general area - Tisserdmine | trip with Lahcen,Meknès-Tafilalet,32,31.290462,-4.030025,760,3,2018
+2094733856,Pterocles senegallus,MA,Merzouga,Meknès-Tafilalet,15,31.096258,-4.008722,694,1,2017
+3567247679,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,1,31.328703,-5.922575,1551,12,2013
+1735000151,Pterocles senegallus,MA,Merzouga--General Area,Meknès-Tafilalet,160,31.241426,-4.019279,744,3,2016
+2771262235,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,50,31.212925,-3.9884,736,4,2007
+2695754710,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,2,2014
+2134183351,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,40,31.28981,-4.091935,747,4,2007
+3240004286,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2020
+3528352926,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2008
+2706226430,Pterocles senegallus,EH,El Aaiun -- Sekhia Alhamra,Western Sahara,33,27.119764,-13.092784,23,9,2013
+2663591100,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.345, -4.097)",Meknès-Tafilalet,65,31.345018,-4.097458,759,3,2019
+1158516339,Pterocles senegallus,MA,Rissani (general area),Meknès-Tafilalet,14,31.288527,-4.287918,752,3,2014
+2161029988,Pterocles senegallus,MA,Water hole in desert,Meknès-Tafilalet,38,31.206642,-3.924281,716,4,2018
+2705627789,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,12,31.212925,-3.9884,736,10,2019
+2764372044,Pterocles senegallus,MA,"Región de Draa-Tafilalet, MA (31,207, -3,924)",Meknès-Tafilalet,22,31.20662,-3.924072,713,6,2019
+3243753340,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,9,31.143082,-3.998165,740,3,2020
+837483012,Pterocles senegallus,MA,west of Rissani,Meknès-Tafilalet,11,31.27679,-4.342518,743,2,2003
+2060537871,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,30,31.08315,-3.999495,697,4,2017
+2759220321,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,2,2019
+2801412814,Pterocles senegallus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,32,30.070282,-9.662819,21,4,2018
+2775587366,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,50,31.212925,-3.9884,736,4,2007
+2673712996,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.345, -4.097)",Meknès-Tafilalet,65,31.345018,-4.097458,759,3,2019
+2043002894,Pterocles senegallus,MA,Sandgrouse location,Meknès-Tafilalet,20,31.230307,-3.943856,724,2,2017
+2151657242,Pterocles senegallus,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,2,31.756083,-4.837632,1082,4,2006
+2672443536,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2192435051,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,30,31.08315,-3.999495,697,4,2017
+2661554769,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,3,2019
+2732598746,Pterocles senegallus,MA,Kam Kam Dunes area,Meknès-Tafilalet,30,31.169815,-3.940977,713,1,2019
+2150553467,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+2745976632,Pterocles senegallus,MA,merzougaa,Meknès-Tafilalet,1,31.081924,-4.004142,692,3,2019
+2229815475,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,4,2018
+3560537148,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,20,31.328703,-5.922575,1551,11,2021
+2683889274,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2771020772,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,70,31.08315,-3.999495,697,3,2013
+2202497050,Pterocles senegallus,MA,"N13, Drâa-Tafilalet, MA (31.151, -4.06)",Meknès-Tafilalet,50,31.151154,-4.060083,712,9,2018
+3686244428,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,45,31.212925,-3.9884,736,11,2021
+1780933440,Pterocles senegallus,EH,Seguiat Al-Hamra,Western Sahara,10,26.836353,-11.780648,144,2,2012
+3669812284,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,2,31.143082,-3.998165,740,4,2019
+2133346669,Pterocles senegallus,MA,"R702, Drâa-Tafilalet, MA (31.194, -4.049)",Meknès-Tafilalet,7,31.193642,-4.04933,727,3,2018
+2669608587,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2019
+2139467092,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,20,31.08315,-3.999495,697,3,2018
+3660455843,Pterocles senegallus,MA,Koudïat Mih Jrane,Meknès-Tafilalet,1,31.24111,-4.083794,729,6,2012
+2682903012,Pterocles senegallus,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,40,31.230532,-3.97439,736,4,2019
+2748087749,Pterocles senegallus,MA,"(31.2074,-3.9241)",Meknès-Tafilalet,110,31.207445,-3.924051,713,4,2019
+2681659498,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2716772432,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.309, -3.996)",Meknès-Tafilalet,10,31.309105,-3.995699,772,9,2019
+3548788989,Pterocles senegallus,MA,Merzouga Area,Meknès-Tafilalet,30,31.101,-4.02,704,3,2007
+3211681050,Pterocles senegallus,MA,M'Ifri n'Ighass,Meknès-Tafilalet,1,31.25966,-4.411461,757,4,2013
+3211565070,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,40,31.08315,-3.999495,697,9,2019
+2683412320,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,15,31.212925,-3.9884,736,4,2016
+959635928,Pterocles senegallus,MA,Tamlelt,L'Oriental,7,32.475014,-2.36618,1033,2,2009
+2746728901,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,120,31.212925,-3.9884,736,3,2019
+2151980887,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,2,31.334959,-5.891968,1554,3,2018
+3579796392,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,4,2004
+2660529092,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,12,31.093885,-4.051035,696,3,2007
+1721379730,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,12,31.212925,-3.9884,736,3,2016
+2724311859,Pterocles senegallus,MA,"Drâa-Tafilalet, MA (31.345, -4.097)",Meknès-Tafilalet,65,31.345018,-4.097458,759,3,2019
+2733589921,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2718130745,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,12,2014
+837536239,Pterocles senegallus,MA,Msissi,Meknès-Tafilalet,9,31.231018,-4.732532,814,2,2003
+2791719351,Pterocles senegallus,MA,Missour,Fès-Boulemane,1,33.0506,-3.9908,885,5,2006
+2728939129,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,12,31.093885,-4.051035,696,3,2007
+2768257310,Pterocles senegallus,MA,"Erg Chebbi (31.2205, -3.954)",Meknès-Tafilalet,1,31.2205,-3.954,726,5,2019
+1759474758,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,50,31.212925,-3.9884,736,4,2007
+1763796936,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,7,31.212925,-3.9884,736,4,2008
+2673804307,Pterocles senegallus,MA,"Regabi, Drâa-Tafilalet, MA (29,831, -5,627)",Sous-Massa-Draa,1,29.830858,-5.627223,558,5,2019
+3574894221,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2009
+2839532591,Pterocles senegallus,MA,Morocco - Tissint,,404,29.852,-7.263,516,4,2016
+3733049263,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.19019,-4.092177,726,2,2015
+2839913352,Pterocles senegallus,MA,Morocco - Tissint,,100,29.8519,-7.263,518,2,2017
+2832433925,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,20,31.214834,-3.985641,737,6,2014
+2836428174,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.180307,-3.916451,723,11,2018
+2835879836,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,2,29.869934,-6.177727,487,6,2014
+2770307680,Pterocles senegallus,MA,"MA-Mequinez-Tafilalet-P7107 (31,2531,-4,2840)",Meknès-Tafilalet,5,31.253098,-4.284004,747,2,2019
+2835299991,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,40,31.092417,-4.050179,697,4,2011
+2832263774,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,4,31.21463,-3.985752,733,4,2012
+2832268945,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,36,31.095284,-4.052729,687,4,2011
+2792779998,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+2839806477,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,9,31.341205,-4.04892,772,4,2016
+2845629906,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,25,31.20776,-3.925078,717,3,2020
+2840111531,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,5,31.2933,-4.1006,744,4,2016
+2839766485,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,5,31.2933,-4.1006,744,4,2016
+2840719023,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,6,31.095284,-4.052729,687,4,2011
+4057909040,Pterocles senegallus,MA,Morocco - Ktaoua,,19,30.145911,-5.504288,633,2,2023
+2835908594,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,8,31.26,-4.41,755,3,2014
+2844160110,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.260157,-4.411299,756,2,2014
+2839565314,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,4,31.25,-4.41,759,3,2016
+2836497536,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,45,31.2,-3.93,719,10,2017
+3904021744,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,200,31.20697,-3.924051,720,5,2022
+2762046983,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,4,2015
+2832242803,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.21527,-3.985866,738,4,2012
+2834065294,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.19971,-3.926036,714,11,2016
+2329626308,Pterocles senegallus,MA,Kies- und Sandwüste bei Merzouga,,1,31.154499,-4.027176,696,6,2017
+3225975037,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,2,2020
+2665835811,Pterocles senegallus,MA,"(31.2069,-3.9240)",Meknès-Tafilalet,12,31.20695,-3.923966,720,4,2019
+2832709456,Pterocles senegallus,MA,Morocco - Tissint,,404,29.852,-7.263,516,4,2016
+2833641450,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,60,31.206669,-3.924001,713,3,2019
+3732891962,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.206095,-3.923596,712,10,2021
+2702869362,Pterocles senegallus,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,150,31.143082,-3.998165,740,3,2017
+2839836118,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,42,31.2295,-4.0443,746,2,2016
+2843859248,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,4,31.350389,-4.084626,758,4,2018
+2798282049,Pterocles senegallus,MA,Sahara Desert and Erfoud,Meknès-Tafilalet,1,31.405,-4.208,788,5,2019
+2719924876,Pterocles senegallus,MA,Oued Ziz--Errachidia,Meknès-Tafilalet,61,31.934944,-4.423081,1014,3,2013
+3236420351,Pterocles senegallus,MA,Auberge Derkaoua,Meknès-Tafilalet,32,31.28981,-4.091935,747,4,2012
+2844922809,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,24,31.20772,-3.925036,717,3,2020
+2836839827,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,4,31.350389,-4.084626,758,4,2018
+2835453794,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.215816,-3.98632,739,4,2012
+2832630469,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,60,31.25,-4.42,767,3,2014
+2832295752,Pterocles senegallus,MA,Morocco - Tafilalt\n,,2,31.260926,-4.35706,742,3,2012
+2845614929,Pterocles senegallus,MA,Morocco - Touizgui,,130,28.346613,-9.409005,263,12,2019
+3290488170,Pterocles senegallus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2019
+3904185145,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,400,31.207179,-3.924321,717,6,2022
+2840205498,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.10682,-4.017716,686,4,2013
+2841599745,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.25,-4.15,734,3,2015
+2837560362,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,16,29.795368,-6.144104,490,1,2013
+3996903088,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.151873,-3.914987,712,5,2022
+2832919153,Pterocles senegallus,MA,Morocco - Tissint,,80,29.852,-7.263,516,2,2017
+3723239764,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.206108,-3.923638,712,10,2021
+2839586574,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.214433,-3.949678,729,4,2016
+2843535193,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,2,31.213065,-3.98754,731,4,2018
+2835364514,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.2073,-3.9237,715,4,2017
+2839322619,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.19019,-4.092177,726,2,2015
+2832429978,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,3,29.87501,-6.191654,490,6,2014
+2832711411,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,60,31.188562,-3.939756,722,4,2016
+2841800382,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,6,31.238706,-4.074882,733,3,2019
+2836028846,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,9,31.144867,-4.081059,714,3,2015
+2844354483,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.214433,-3.949678,729,4,2016
+2844124673,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,60,31.178724,-3.929856,712,2,2019
+2838878898,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,4,31.161538,-4.08076,716,3,2015
+2834835348,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.226466,-3.958962,744,3,2014
+2844674410,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,2,31.29977,-4.013156,763,3,2019
+2838362651,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.215816,-3.98632,739,4,2012
+2844876584,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.206762,-3.924001,715,3,2019
+2832750269,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,50,31.281629,-4.003256,755,4,2011
+2834998894,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,2,31.215187,-3.985422,738,5,2012
+2833231061,Pterocles senegallus,MA,Morocco - Er-Rissani,,5,31.230241,-4.126434,715,10,2018
+2835761689,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,7,31.13,-4.09,701,3,2015
+2841505601,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,60,31.239208,-4.075755,732,12,2018
+2832995651,Pterocles senegallus,MA,Morocco - Et-Taous,,1,30.901282,-3.85437,714,1,2017
+3822859038,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.280779,-4.128456,736,4,2018
+2832375156,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,15,31.259892,-4.411073,756,1,2014
+2836178153,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,4,31.2067,-3.9236,720,3,2018
+2837228023,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,3,31.095284,-4.052729,687,4,2011
+2839195437,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,22,31.25,-4.41,759,3,2014
+2837038613,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,21,31.18,-3.94,725,2,2019
+2838390745,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,20,31.215968,-3.984175,738,4,2012
+2842021227,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.20749,-3.923856,711,6,2016
+3725869178,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,18,31.259459,-4.408983,756,3,2020
+3997239796,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,100,31.206951,-3.923271,718,10,2022
+2843719704,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.238941,-4.092332,730,12,2018
+2832221025,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,8,31.092417,-4.050179,697,4,2011
+2839129089,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,7,31.212738,-3.91809,735,4,2013
+2840080669,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,60,31.188562,-3.939756,722,4,2016
+2835928493,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.118134,-4.02063,702,4,2013
+4058315522,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.2055,-3.92391,716,2,2023
+2841042936,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,3,31.185344,-3.920467,717,3,2019
+2838454696,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,4,31.215816,-3.98632,739,4,2012
+2839238032,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,5,31.095284,-4.052729,687,4,2011
+2832583005,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.071159,-4.040673,689,5,2015
+2839873812,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.207465,-3.923791,711,4,2017
+2840724513,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,35,31.207,-3.924,720,5,2018
+3904326811,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,400,31.207179,-3.924321,717,6,2022
+2840948736,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,45,31.215229,-3.982887,730,4,2012
+2683763713,Pterocles senegallus,MA,Kasbah Erg Chebbi,Meknès-Tafilalet,63,31.182417,-4.031872,729,3,2010
+941273822,Pterocles senegallus,MA,Sous-Massa National Park,Sous-Massa-Draa,3,30.306503,-9.585571,22,6,2010
+2835765359,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,80,31.100807,-4.054088,702,3,2016
+2836106638,Pterocles senegallus,MA,Morocco - Tissint,,404,29.852,-7.263,516,4,2016
+2832824614,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,5,31.2933,-4.1006,744,4,2016
+2329625347,Pterocles senegallus,MA,Kies- und Sandwüste bei Merzouga,,1,31.154499,-4.027176,696,6,2017
+2838191004,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,20,31.092417,-4.050179,697,4,2011
+2840623522,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.2071,-3.924,719,4,2017
+2768864258,Pterocles senegallus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,4,31.08315,-3.999495,697,3,2018
+2839926679,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,50,31.1752,-3.9418,704,4,2017
+2833020156,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,50,31.18576,-3.913663,720,4,2018
+2841397578,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.3023,-4.0284,770,4,2016
+3905453422,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,100,31.206894,-3.923968,719,6,2022
+2836063384,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,20,31.213193,-3.988427,734,7,2015
+2835991450,Pterocles senegallus,MA,Morocco - Es-Sfalat,,22,31.275079,-4.346361,742,2,2014
+2833204159,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.2,-3.93,719,3,2018
+2842004556,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,2,31.266107,-4.131624,738,4,2016
+3722568147,Pterocles senegallus,MA,Morocco - Es-Sfalat,,1,31.264997,-4.402098,770,10,2021
+2838136025,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,5,31.092417,-4.050179,697,4,2011
+2843847262,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,50,31.173709,-4.084978,709,2,2020
+2839903771,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,6,29.803898,-6.215057,483,4,2012
+2832728493,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,20,31.213193,-3.988427,734,7,2015
+2836512049,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,1,31.212925,-3.9884,736,3,2018
+2835834032,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.09219,-4.04869,698,4,2015
+2832677237,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,15,31.257127,-4.408944,755,3,2016
+2836124529,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,7,31.2943,-4.0085,762,4,2017
+2832390497,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,120,29.839415,-6.189165,481,4,2013
+2841774737,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,8,31.18,-3.94,725,2,2019
+2833818553,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,9,31.240293,-4.076484,730,3,2019
+2840753850,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,2,29.870341,-6.178054,487,6,2014
+2832416729,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,7,31.212738,-3.91809,735,4,2013
+2839115020,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,25,31.207733,-3.925083,717,3,2020
+2839766305,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.265232,-4.135908,738,4,2016
+2832491923,Pterocles senegallus,MA,Morocco - M'Hamid El Ghizlane,,2,29.870341,-6.178054,487,6,2014
+2832340510,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,25,31.260278,-4.415135,754,4,2013
+2842004527,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,2,31.2671,-4.1325,746,4,2016
+2840356062,Pterocles senegallus,MA,Morocco - Tissint,,8,29.826519,-7.227104,490,9,2017
+2840008261,Pterocles senegallus,MA,Morocco - Tissint,,80,29.852,-7.263,516,2,2017
+2836444572,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,5,31.24125,-4.085094,735,12,2018
+2838546746,Pterocles senegallus,MA,Morocco - Tafilalt\n,,2,31.260926,-4.35706,742,3,2012
+2842279345,Pterocles senegallus,MA,Morocco - Lac de Yasmina,,20,31.213193,-3.988427,734,7,2015
+2832806386,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.26341,-4.138239,739,4,2016
+3732348961,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,6,31.26167,-4.408288,744,10,2021
+2751400718,Pterocles senegallus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2843836502,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,2,31.277007,-4.06189,749,5,2018
+2835425983,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,37,31.092417,-4.050179,697,4,2011
+2839463238,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,8,31.221242,-3.985519,735,9,2014
+3716181196,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,52,31.26156,-4.418757,756,3,2020
+2842603423,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.098557,-4.011864,688,2,2015
+2840333604,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,7,31.212738,-3.91809,735,4,2013
+2836767416,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,100,31.2069,-3.924,720,3,2017
+2832279183,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,40,31.260052,-4.411279,756,9,2012
+2839467237,Pterocles senegallus,MA,Morocco - Meknès - Tafilalet,,1,31.195843,-4.077902,720,3,2009
+2833978304,Pterocles senegallus,MA,Morocco - Bni M'Hamed Sijelmassa,,45,31.283069,-4.027458,757,11,2016
+2839914421,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.207465,-3.923791,711,4,2017
+2835090935,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.10682,-4.017716,686,3,2018
+2131232600,Pterocles senegallus,MA,Erg Chebbi--nord,Meknès-Tafilalet,75,31.212925,-3.9884,736,4,2018
+2730450188,Pterocles senegallus,MA,Wadi Merzane,Meknès-Tafilalet,2,31.358027,-4.136894,765,3,2007
+2842323345,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,12,31.18933,-3.940652,716,4,2016
+2841320695,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,10,31.19019,-4.092177,726,2,2015
+2838509842,Pterocles senegallus,MA,Morocco - Région de Merzouga (Erfoud),,30,31.214662,-3.985779,733,4,2012

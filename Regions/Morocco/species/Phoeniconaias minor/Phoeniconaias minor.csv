@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2838096881,Phoeniconaias minor,MA,Morocco - Oualidia,,1,32.782061,-8.973835,7,4,2010
+3200961729,Phoeniconaias minor,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,5,2010
+2833594206,Phoeniconaias minor,MA,Morocco - Agadir,,1,30.360804,-9.58831,11,1,2019
+2838144527,Phoeniconaias minor,MA,Morocco - Doukkala - Abda,,1,32.783143,-8.971925,10,4,2010

@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3858735342,Pavo cristatus,MA,,Tadla - Azilal,1,31.724184,-6.967241,1069,3,2019
+3858486070,Pavo cristatus,ES,,Ceuta y Melilla,1,35.911675,-5.359571,22,6,2022
+2840417173,Pavo cristatus,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,4,30.905962,-6.857167,1117,3,2017

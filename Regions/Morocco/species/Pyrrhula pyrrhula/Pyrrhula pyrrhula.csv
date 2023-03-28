@@ -1,0 +1,10 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3693445492,Pyrrhula pyrrhula,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+3677442415,Pyrrhula pyrrhula,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,11,2010
+2102313749,Pyrrhula pyrrhula,MA,Forêt de Bouhachem--Alimadene,Tanger-Tétouan,2,35.27812,-5.460517,1011,10,2017
+1618033522,Pyrrhula pyrrhula,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,3,2001
+2725276758,Pyrrhula pyrrhula,ES,CEUTA (Sin especificar lugar),Ceuta,2,35.88783,-5.31149,25,3,2001
+1618033472,Pyrrhula pyrrhula,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,3,2001
+1614486524,Pyrrhula pyrrhula,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2010
+2724397344,Pyrrhula pyrrhula,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,11,2010
+1618056428,Pyrrhula pyrrhula,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2000

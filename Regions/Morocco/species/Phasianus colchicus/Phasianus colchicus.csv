@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2840955292,Phasianus colchicus,MA,Morocco - Moualine El Ghaba,,5,33.721163,-7.210307,115,7,2015
+2839426514,Phasianus colchicus,MA,Morocco - Bouznika,,1,33.72889,-7.205186,101,7,2015
+2839623475,Phasianus colchicus,MA,Morocco - Moualine El Ghaba,,2,33.721127,-7.210264,114,7,2015

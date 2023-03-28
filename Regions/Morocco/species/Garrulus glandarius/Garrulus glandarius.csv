@@ -1,0 +1,491 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1586160579,Garrulus glandarius,MA,Lac Aoua im Parc National D´Ifrane,,1,33.652424,-5.035493,1470,6,2017
+3416014159,Garrulus glandarius,MA,,Souss - Massa - Draâ,1,30.609188,-9.460808,793,11,2021
+3619112954,Garrulus glandarius,MA,"80322, Agadir MA-Souss-Massa-Drâa (30.6019,-9.4780)",Sous-Massa-Draa,7,30.601881,-9.478,672,11,2021
+2117418173,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,12,2016
+3572263838,Garrulus glandarius,MA,"Ait Bougamez, MA (31,673, -6,416)",Tadla-Azilal,2,31.672743,-6.416071,1872,9,2021
+3629840896,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,6,2012
+2096875622,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+3203684610,Garrulus glandarius,MA,MA-Azrou (Cedre Gouraud Forest),Meknès-Tafilalet,2,33.41828,-5.178575,1757,4,2016
+2655322333,Garrulus glandarius,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,5,35.28193,-5.489002,1156,1,2019
+2750519814,Garrulus glandarius,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,1,31.428505,-7.408679,1273,4,2003
+3656477739,Garrulus glandarius,MA,PN Ifrane--Dayet Hachlaf,Meknès-Tafilalet,1,33.54598,-5.002792,1670,12,2013
+2219689010,Garrulus glandarius,MA,"R203 at 30.9132,-8.3139",Marrakech-Tensift-Al Haouz,1,30.91325,-8.313946,1892,11,2018
+1194987095,Garrulus glandarius,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,4,35.129738,-5.089073,1678,10,2014
+2047870253,Garrulus glandarius,MA,"MA-Marrakesh-Tensift-El Haouz - 31.475x-7.423 - Apr 29, 2017 10:16 AM",Marrakech-Tensift-Al Haouz,1,31.475355,-7.422624,1510,4,2017
+3604041675,Garrulus glandarius,MA,"Avenue Hassan II, Ifran, Fez-Meknès, MA (33.536, -5.103)",Meknès-Tafilalet,1,33.53646,-5.102993,1654,5,2021
+1203280192,Garrulus glandarius,MA,Ifrane area,Meknès-Tafilalet,1,33.44863,-4.987106,1753,5,2008
+2143980755,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,3,2018
+2768016438,Garrulus glandarius,MA,"R203, Al Haouz MA-Marrakech-Tensift-Al Haouz (30.9084,-8.3056)",Marrakech-Tensift-Al Haouz,1,30.908403,-8.305563,1681,4,2019
+3206900655,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+1410584553,Garrulus glandarius,MA,Ourakene,Marrakech-Tensift-Al Haouz,1,31.272865,-7.912881,1347,3,2011
+2108266756,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,2,2002
+1787856252,Garrulus glandarius,MA,X - Duplicate = Lac (Dayet Aoua),Meknès-Tafilalet,1,33.655155,-5.042494,1470,3,2013
+1738542528,Garrulus glandarius,MA,Fôret de Jaâba,Meknès-Tafilalet,1,33.574104,-5.221174,1472,5,2016
+2756892059,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,2,33.75105,-6.934414,238,9,2019
+2801182723,Garrulus glandarius,MA,"(31,2384,-7,8625)",Marrakech-Tensift-Al Haouz,2,31.238432,-7.862497,1826,4,2018
+2785050414,Garrulus glandarius,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,6,2006
+2752661420,Garrulus glandarius,MA,"91002, Chechaouen MA-Tanger - Tétouan (35.1444,-5.2602)",Tanger-Tétouan,1,35.144398,-5.260157,781,4,2019
+2679566785,Garrulus glandarius,MA,"R203, Al Haouz MA-Marrakech-Tensift-Al Haouz (30.9084,-8.3056)",Marrakech-Tensift-Al Haouz,1,30.908403,-8.305563,1681,4,2019
+2217889626,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,5,33.713158,-6.929712,284,10,2018
+3550748045,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,11,2012
+2739975619,Garrulus glandarius,MA,Parc Yasmina | حديقة ياسمينة,Grand Casablanca,1,33.587646,-7.623448,27,2,2019
+3625555547,Garrulus glandarius,MA,"Oum Jniba, Jbel Tichoukt, MA (33.374, -4.664)",Fès-Boulemane,2,33.373734,-4.664076,2140,2,2021
+3643397111,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+3268114744,Garrulus glandarius,MA,Parc l'Ile d'Amour,Meknès-Tafilalet,2,33.52351,-5.100692,1647,5,2010
+1743877947,Garrulus glandarius,MA,"S. side of Jbel Tazzeka at 16.2 km due SW. of Taza, centre",Taza-Al Hoceima-Taounate,3,34.0925,-4.1007,1389,5,2016
+1732620128,Garrulus glandarius,MA,Parc National d'Ifrane,Meknès-Tafilalet,4,33.42084,-5.137095,1853,4,2016
+2760380133,Garrulus glandarius,MA,"91000, Chechaouen MA-Tanger - Tétouan (35.1700,-5.2622)",Tanger-Tétouan,1,35.170033,-5.262241,629,4,2019
+2798031998,Garrulus glandarius,MA,Ouarzazate-Marraqueix,Marrakech-Tensift-Al Haouz,1,31.475,-7.422,1516,11,2008
+2719801817,Garrulus glandarius,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,11,2019
+830450906,Garrulus glandarius,MA,Ifrane-10 km south,Meknès-Tafilalet,1,33.438885,-5.054997,1891,3,2012
+2198796403,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,12,2004
+2719159394,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2016
+2119135313,Garrulus glandarius,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,2,35.238678,-5.178101,401,12,2017
+2700266567,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,5,33.41931,-5.18162,1762,10,2019
+2700743370,Garrulus glandarius,MA,"P7231, Fès-Meknès, MA (33.489, -5.065)",Meknès-Tafilalet,2,33.489124,-5.064695,1716,9,2019
+2681134988,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,6,2019
+2065369221,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2017
+3611406544,Garrulus glandarius,MA,"Ahbbak, Ait Bouguemez, MA (31,673, -6,416)",Tadla-Azilal,2,31.672743,-6.416071,1872,9,2021
+2741397520,Garrulus glandarius,MA,"R203, Al Haouz MA-Marrakech-Tensift-Al Haouz (30.9084,-8.3056)",Marrakech-Tensift-Al Haouz,1,30.908403,-8.305563,1681,4,2019
+2769715192,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2006
+2788372845,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2016
+588119676,Garrulus glandarius,MA,"Maroc, Ifrane, route des lacs",Meknès-Tafilalet,10,33.47398,-5.104265,1717,5,2008
+3556116215,Garrulus glandarius,MA,"Région col Tizi-n-tichka, MA",Marrakech-Tensift-Al Haouz,2,31.307854,-7.373567,2079,11,2021
+2214093780,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,12,2004
+2705369552,Garrulus glandarius,MA,"Unnamed Road, Souss Massa, MA (30.605, -9.476)",Sous-Massa-Draa,1,30.605457,-9.476135,664,12,2019
+3681054622,Garrulus glandarius,MA,Asni-Ouirgane road--9 km to Asni,Marrakech-Tensift-Al Haouz,1,31.2022,-8.044,944,11,2013
+3202776168,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2009
+3295168424,Garrulus glandarius,MA,"R707, Fez-Meknès, MA (33.48, -5.023)",Meknès-Tafilalet,1,33.48005,-5.023485,1847,11,2020
+2160276439,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2018
+3138041115,Garrulus glandarius,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2020
+2743543900,Garrulus glandarius,MA,"91000, Chechaouen MA-Tanger - Tétouan (35.1700,-5.2622)",Tanger-Tétouan,1,35.170033,-5.262241,629,4,2019
+2715114589,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+1779097924,Garrulus glandarius,MA,Rte P2030 below Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.28053,-7.805883,1376,12,2016
+3223603170,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,2,33.713158,-6.929712,284,3,2020
+2100022167,Garrulus glandarius,MA,"P21, Meknes-Tafilalet, MA (33,428, -5,175)",Meknès-Tafilalet,1,33.42842,-5.175088,1693,9,2017
+2072491646,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,4,2017
+2133196176,Garrulus glandarius,MA,R203,Sous-Massa-Draa,1,30.907188,-8.306577,1687,2,2018
+2095614965,Garrulus glandarius,MA,"P7200, Meknès-Tafilalet, MA (33,654, -5,044)",Meknès-Tafilalet,1,33.653877,-5.044236,1474,9,2017
+3628867063,Garrulus glandarius,MA,Forêt de Taghzaft,Meknès-Tafilalet,1,33.4109,-5.147164,1833,4,2018
+2712429525,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,2,33.75105,-6.934414,238,9,2019
+2787116103,Garrulus glandarius,MA,Cork Oak Woods; Side road off R403,Chaouia-Ouardigha,2,33.670525,-6.896539,338,3,2016
+2136557823,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2013
+1402541971,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,9,2014
+2798863466,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,4,2001
+588041239,Garrulus glandarius,MA,Azrou area,Meknès-Tafilalet,1,33.441612,-5.225029,1264,10,2007
+1394817723,Garrulus glandarius,MA,Moulay Abdesallam pèlerinage Maroc - MA-Tanger - Tétouan-Larache-93034 - 35.3201x-5.5039,Tanger-Tétouan,1,35.32014,-5.503936,1353,7,2015
+2703529562,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,5,33.41931,-5.18162,1762,10,2019
+2116217788,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,3,33.41931,-5.18162,1762,1,2018
+588120493,Garrulus glandarius,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,5,2008
+2201125315,Garrulus glandarius,MA,"R403, Rabat-Salé-Kénitra, MA (33.728, -6.932)",Rabat-Salé-Zemmour-Zaer,4,33.72816,-6.932128,252,9,2018
+3146369618,Garrulus glandarius,MA,Forêt de Taghzaft,Meknès-Tafilalet,2,33.4109,-5.147164,1833,2,2020
+1401938652,Garrulus glandarius,MA,"Ras Lma (in Moroccan Darija), Ras El Ma (as written on signs)",Meknès-Tafilalet,14,33.476665,-5.136859,1614,12,2015
+2736023956,Garrulus glandarius,MA,El-Aourane,Rabat-Salé-Zemmour-Zaer,1,33.397434,-6.723167,669,2,2019
+2684542299,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,4,2019
+3602512651,Garrulus glandarius,MA,Parc Lalla Hasna,Marrakech-Tensift-Al Haouz,1,31.623278,-7.994812,463,4,2017
+3559696494,Garrulus glandarius,MA,Ifrane,Meknès-Tafilalet,1,33.41615,-5.162115,1816,4,2018
+2125109587,Garrulus glandarius,MA,Aït Bouguemez,Tadla-Azilal,1,31.649729,-6.457944,1817,4,2016
+3645570396,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,11,2013
+2066700731,Garrulus glandarius,MA,"MA-Marrakesh-Tensift-El Haouz - 31.475x-7.423 - Apr 29, 2017 10:16 AM",Marrakech-Tensift-Al Haouz,1,31.475355,-7.422624,1510,4,2017
+2682337959,Garrulus glandarius,MA,"Marrakech-Tensift-El Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.2687,-7.8290)",Marrakech-Tensift-Al Haouz,2,31.26867,-7.829036,1707,4,2019
+2111645683,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,1,35.176052,-5.341244,486,9,2017
+1790256011,Garrulus glandarius,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30,9282,-6,8585)",Sous-Massa-Draa,2,30.928186,-6.858497,1103,1,2004
+2060301298,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,4,2017
+2103090017,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+2153462041,Garrulus glandarius,MA,"(31.2814,-7.8033)",Marrakech-Tensift-Al Haouz,1,31.281418,-7.803307,1356,3,2018
+2170907208,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,16,33.427013,-5.155838,1678,6,2018
+2726840547,Garrulus glandarius,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+1738808256,Garrulus glandarius,MA,Fôret de Jaâba,Meknès-Tafilalet,1,33.574104,-5.221174,1472,5,2016
+2790870551,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,10,2019
+2214548277,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,5,2016
+1677161253,Garrulus glandarius,MA,Sidi-Yahya-des-Zaers / Marokko,,1,33.820229,-6.903534,123,3,2001
+2676267117,Garrulus glandarius,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,1,31.428505,-7.408679,1273,10,2004
+2838880239,Garrulus glandarius,MA,Morocco - Dayet Aoua,,2,33.646776,-5.035799,1473,9,2014
+3995730354,Garrulus glandarius,MA,Morocco - Imouzzer,,2,30.671091,-9.482445,1175,10,2022
+2108107713,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,8,2017
+2786860552,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,3,2010
+2781603270,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,2,33.75105,-6.934414,238,9,2019
+1744720367,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,3,2016
+2098407312,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,4,33.713158,-6.929712,284,9,2017
+2107284953,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,1,2014
+3277167970,Garrulus glandarius,MA,Dayet Aoua,Meknès-Tafilalet,1,33.654556,-5.04175,1470,4,2016
+2070885626,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,7,2017
+2165848470,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,5,2018
+1724248864,Garrulus glandarius,MA,Road to reservoir,Tadla-Azilal,2,32.18916,-6.520979,908,3,2016
+3215445911,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+2142516260,Garrulus glandarius,MA,Sidi Fares mountain road,Marrakech-Tensift-Al Haouz,1,31.235481,-7.885351,1786,5,2018
+2136550072,Garrulus glandarius,MA,Ruta My Brahim-Taraudant-Agadir,Sous-Massa-Draa,1,30.735062,-8.429646,675,4,2006
+2716670330,Garrulus glandarius,MA,Zaer region between Sidi Yahya des Zaers and Sidi Bettache,Rabat-Salé-Zemmour-Zaer,1,33.717056,-6.929234,275,4,2001
+2658584628,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,12,2016
+1725372102,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2016
+2230883967,Garrulus glandarius,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,1,33.53186,-5.105928,1639,4,2016
+2210291578,Garrulus glandarius,MA,PN Béni Snassen,L'Oriental,1,34.81067,-2.404504,794,1,2015
+2151994090,Garrulus glandarius,MA,"MA-Marrakesh-Tensift-El Haouz - 31.475x-7.423 - Apr 29, 2017 10:16 AM",Marrakech-Tensift-Al Haouz,1,31.475355,-7.422624,1510,4,2017
+2739709791,Garrulus glandarius,MA,"N9, Marrakesh-Safi, MA (31,543, -7,534)",Marrakech-Tensift-Al Haouz,2,31.54307,-7.533616,942,4,2019
+3286612189,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,11,2012
+2182345875,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,2,2018
+3644832320,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2008
+2793956893,Garrulus glandarius,MA,"N13, Tangier-Tetouan, MA (35,03, -5,37)",Tanger-Tétouan,2,35.02975,-5.369592,176,9,2017
+829412726,Garrulus glandarius,MA,Kasbah du Toubkal,Marrakech-Tensift-Al Haouz,1,31.131992,-7.919023,1831,3,2007
+2165825025,Garrulus glandarius,MA,Chaabat al-Mcabene,Rabat-Salé-Zemmour-Zaer,1,33.67056,-6.892118,340,5,2018
+2787535416,Garrulus glandarius,MA,Tizi-n-Test,Sous-Massa-Draa,2,30.86567,-8.37816,2170,2,2017
+2746174504,Garrulus glandarius,MA,"(31.2414,-7.9195)",Marrakech-Tensift-Al Haouz,4,31.241426,-7.919486,1813,4,2019
+2124840099,Garrulus glandarius,MA,Ifran,Meknès-Tafilalet,1,33.50574,-5.168068,1521,4,2017
+3211238981,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2678657685,Garrulus glandarius,MA,Jbel Mouchchene,Rabat-Salé-Zemmour-Zaer,1,33.482403,-6.167123,971,3,2019
+2777652442,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2006
+2717299773,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,2,33.75105,-6.934414,238,9,2019
+3224546718,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,4,33.713158,-6.929712,284,3,2020
+1402859918,Garrulus glandarius,MA,Tizi N´Test,Sous-Massa-Draa,2,30.841547,-8.382869,1462,5,2015
+2775263283,Garrulus glandarius,MA,"P7231, Fès-Meknès, MA (33.489, -5.065)",Meknès-Tafilalet,2,33.489124,-5.064695,1716,9,2019
+2780726906,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,6,2019
+3680870922,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,6,2012
+2774225918,Garrulus glandarius,MA,Vallée d'Imlil,Marrakech-Tensift-Al Haouz,1,31.1371,-7.9205,1725,3,2018
+3147786885,Garrulus glandarius,MA,Forêt de Taghzaft,Meknès-Tafilalet,4,33.4109,-5.147164,1833,2,2020
+1369703510,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,2,33.48899,-5.144713,1718,5,2015
+1787485111,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,10,2012
+3210157794,Garrulus glandarius,MA,Tizi-n-Test,Sous-Massa-Draa,1,30.8203,-8.3956,1250,3,2006
+3287977248,Garrulus glandarius,MA,Vallée d'Imouzzer,Sous-Massa-Draa,1,30.676725,-9.477704,1156,6,2014
+3529635846,Garrulus glandarius,MA,Azrou (east),Meknès-Tafilalet,1,33.432934,-5.176328,1646,3,2007
+1724926978,Garrulus glandarius,MA,Cork Oak Woods; Side road off R403,Chaouia-Ouardigha,2,33.670525,-6.896539,338,3,2016
+2689918688,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2019
+2653540651,Garrulus glandarius,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+2779583336,Garrulus glandarius,MA,Talassemtane National Park,Tanger-Tétouan,1,35.1317,-5.0592,1377,7,2009
+2055849697,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2017
+3248561023,Garrulus glandarius,MA,Plains N Col du Zad,Meknès-Tafilalet,1,33.04235,-5.061078,2174,10,2003
+3574402715,Garrulus glandarius,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,1,33.606663,-4.907874,1515,1,2021
+2671559089,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2019
+2040869256,Garrulus glandarius,MA,Cedar Gourard,Meknès-Tafilalet,1,33.42664,-5.15597,1697,2,2017
+2799596649,Garrulus glandarius,MA,Jemaa el-Fnaa,Marrakech-Tensift-Al Haouz,1,31.625834,-7.988906,460,5,2015
+2063714236,Garrulus glandarius,MA,PN Ifrane--Dayet Hachlaf,Meknès-Tafilalet,1,33.54598,-5.002792,1670,4,2017
+3200440109,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2015
+2234116823,Garrulus glandarius,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,7,35.129738,-5.089073,1678,1,2015
+1789095527,Garrulus glandarius,MA,"Midelt, Morocco",Meknès-Tafilalet,1,32.679928,-4.734215,1469,9,2013
+3552236981,Garrulus glandarius,MA,Lac Aoua,Meknès-Tafilalet,1,33.65515,-5.04249,1470,3,2013
+1789901222,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2005
+2752075407,Garrulus glandarius,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,5,35.28193,-5.489002,1156,1,2019
+2790799969,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,5,2017
+3660710698,Garrulus glandarius,MA,"R203, Marrakech-Safi, MA (30.897, -8.334)",Sous-Massa-Draa,3,30.897457,-8.334487,2089,11,2021
+2683133514,Garrulus glandarius,MA,"Marrakech-Tensift-El Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.2687,-7.8290)",Marrakech-Tensift-Al Haouz,2,31.26867,-7.829036,1707,4,2019
+2115169962,Garrulus glandarius,MA,Zaers,Rabat-Salé-Zemmour-Zaer,1,33.709595,-6.925794,282,4,2017
+2674200728,Garrulus glandarius,MA,"91000, Chechaouen MA-Tanger - Tétouan (35.1700,-5.2622)",Tanger-Tétouan,1,35.170033,-5.262241,629,4,2019
+2169325056,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,4,31.478024,-7.434708,1465,5,2018
+3650524468,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+2703431310,Garrulus glandarius,MA,by P6012 at 2.3 km due NE. of Tafoughalt (centre),L'Oriental,2,34.8171,-2.391,647,5,2017
+1729765298,Garrulus glandarius,MA,Tizi N'Tichka,Sous-Massa-Draa,1,31.286325,-7.382469,2189,4,2016
+3546125366,Garrulus glandarius,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,6,34.07908,-4.120763,1470,10,2021
+2669351038,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2007
+1356122444,Garrulus glandarius,MA,MA--Sous-Massa-Draa--Tizi n Test pass,Sous-Massa-Draa,1,30.853788,-8.375468,1566,3,2015
+3215577571,Garrulus glandarius,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,6,2011
+2227624072,Garrulus glandarius,MA,Cedrales carretera Azrou-Khenifra,Meknès-Tafilalet,1,33.345528,-5.233519,1835,12,2018
+2782950593,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,10,2019
+2215540008,Garrulus glandarius,MA,Fôret de Sidi Bettache,Chaouia-Ouardigha,2,33.574394,-6.874892,382,11,2018
+2218585590,Garrulus glandarius,MA,Cedrales carretera Azrou-Khenifra,Meknès-Tafilalet,1,33.345528,-5.233519,1835,12,2018
+3564048024,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2000
+3212037028,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,2,2019
+2084745508,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+2715664683,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,2,31.201849,-7.859733,2609,12,2019
+2719698072,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2017
+2116011323,Garrulus glandarius,MA,Route de l'Oukaimden,Marrakech-Tensift-Al Haouz,1,31.284273,-7.796795,1316,2,2018
+2066621452,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,4,33.427013,-5.155838,1678,4,2017
+3284678232,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,10,2012
+2754825222,Garrulus glandarius,MA,"MA-Meknès-Tafilalet-P7231 (33.5129,-5.0078)",Meknès-Tafilalet,3,33.512867,-5.007804,1784,9,2019
+3194098125,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2013
+1179346919,Garrulus glandarius,MA,Ifrane,Meknès-Tafilalet,1,33.528374,-5.10817,1656,5,2003
+2675040532,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,4,2019
+2662967955,Garrulus glandarius,MA,near Moulay Idriss,Meknès-Tafilalet,1,34.030994,-5.571334,524,5,2017
+1205015743,Garrulus glandarius,MA,Fes (general area),Fès-Boulemane,1,34.0372,-5.0029,408,12,2009
+2693024917,Garrulus glandarius,MA,Lake,Meknès-Tafilalet,1,33.651905,-5.033058,1470,12,2005
+2733023296,Garrulus glandarius,MA,Oued Bou Hanï,Rabat-Salé-Zemmour-Zaer,1,33.572147,-5.873755,444,4,2019
+2711525765,Garrulus glandarius,MA,"3 de dez de 2019 22:20-31,25, -7,886",Marrakech-Tensift-Al Haouz,1,31.250359,-7.885567,1683,12,2019
+2705124173,Garrulus glandarius,MA,"12152, Temara MA-Rabat-Salé-Zemmour-Zaer (33.7511,-6.9340)",Rabat-Salé-Zemmour-Zaer,4,33.751106,-6.933966,236,9,2019
+589276297,Garrulus glandarius,MA,Toufliht,Marrakech-Tensift-Al Haouz,2,31.48138,-7.431221,1375,3,2011
+2739237031,Garrulus glandarius,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,3,2019
+3205368206,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,4,33.65042,-5.029721,1470,5,2006
+3132121921,Garrulus glandarius,MA,"R203, Souss Massa, MA (30,793, -8,386)",Sous-Massa-Draa,1,30.793251,-8.385954,991,1,2020
+1778508002,Garrulus glandarius,MA,"N13 at 33.4127, -5.1810",Meknès-Tafilalet,1,33.412697,-5.181015,1786,12,2016
+2675373051,Garrulus glandarius,MA,Jbel Moufras,Rabat-Salé-Zemmour-Zaer,1,33.5161,-5.85065,1093,4,2019
+3551847801,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2020
+2838644624,Garrulus glandarius,MA,Morocco - Région de Sidi Bettache (Zaër),,1,33.660639,-6.880703,330,3,2012
+3284779813,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2006
+1735781330,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,3,2016
+2713191061,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2010
+3284178143,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,20,31.201849,-7.859733,2609,4,2003
+2158918654,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,5,2018
+1201805346,Garrulus glandarius,MA,Parque Nacional Ifrane,Meknès-Tafilalet,2,33.427574,-5.1636,1662,1,2011
+2788983226,Garrulus glandarius,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,1,2019
+2741889004,Garrulus glandarius,MA,"Marrakech-Tensift-El Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.2687,-7.8290)",Marrakech-Tensift-Al Haouz,2,31.26867,-7.829036,1707,4,2019
+2796063828,Garrulus glandarius,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2015
+1393814931,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,9,2015
+1749049276,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,10,2001
+2798411951,Garrulus glandarius,MA,Col du Zad,Meknès-Tafilalet,1,32.98112,-5.06586,2037,6,2019
+1402541868,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,5,33.560863,-5.199182,1533,9,2014
+2729903096,Garrulus glandarius,MA,El-Aourane,Rabat-Salé-Zemmour-Zaer,1,33.397434,-6.723167,669,2,2019
+2669128337,Garrulus glandarius,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+2103281149,Garrulus glandarius,MA,Atlas House,Meknès-Tafilalet,2,33.50574,-5.168056,1521,1,2018
+2749679194,Garrulus glandarius,MA,entre Sidi Marrat et Oued Beht,Rabat-Salé-Zemmour-Zaer,1,33.536316,-5.842833,1052,4,2019
+2682706673,Garrulus glandarius,MA,Col du Zad,Meknès-Tafilalet,1,32.98112,-5.06586,2037,6,2019
+2134578578,Garrulus glandarius,MA,Fôret d'Essehoul,Rabat-Salé-Zemmour-Zaer,2,33.880074,-6.612643,220,4,2018
+2083553828,Garrulus glandarius,MA,"P21, Meknes-Tafilalet, MA (33,428, -5,175)",Meknès-Tafilalet,1,33.42842,-5.175088,1693,9,2017
+3286201418,Garrulus glandarius,MA,Algou Tizi n'test,Sous-Massa-Draa,2,30.874975,-8.360256,2035,4,2018
+2102359323,Garrulus glandarius,MA,N13--Forêt de Brikcha,Tanger-Tétouan,2,34.9506,-5.528717,155,10,2017
+1761705124,Garrulus glandarius,MA,"Unknown Location - 34.063x-4.987 - Sep 16, 2016 10:41 AM",Fès-Boulemane,14,34.062775,-4.986638,382,9,2016
+2785697499,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,8,31.201849,-7.859733,2609,5,2019
+1190419507,Garrulus glandarius,MA,"MA-Marrakesh-Tensift-El Haouz - 31.2183x-7.9681 - Oct 5, 2014, 7:31 AM",Marrakech-Tensift-Al Haouz,6,31.218323,-7.968051,1328,10,2014
+2721483629,Garrulus glandarius,MA,Lehri,Meknès-Tafilalet,1,32.858654,-5.623058,842,3,2000
+3208490494,Garrulus glandarius,MA,PN Ifran--Dayet Ifrah,Meknès-Tafilalet,4,33.556587,-4.933805,1618,3,2009
+1739979111,Garrulus glandarius,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,1,33.606663,-4.907874,1515,5,2016
+1774634752,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,6,2016
+3632550564,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2015
+2731311076,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2007
+2106940965,Garrulus glandarius,MA,"P7200, Meknès-Tafilalet, MA (33,654, -5,044)",Meknès-Tafilalet,1,33.653877,-5.044236,1474,9,2017
+2147968283,Garrulus glandarius,MA,Fôret d'Essehoul,Rabat-Salé-Zemmour-Zaer,2,33.880074,-6.612643,220,4,2018
+3279279751,Garrulus glandarius,MA,Fôret de Ben Smim,Meknès-Tafilalet,1,33.488255,-5.146369,1681,4,2018
+2669092390,Garrulus glandarius,MA,"R203, Al Haouz MA-Marrakech-Tensift-Al Haouz (30.9084,-8.3056)",Marrakech-Tensift-Al Haouz,1,30.908403,-8.305563,1681,4,2019
+1786474809,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2015
+3212989373,Garrulus glandarius,MA,"Ifrane campsite, Morocco",Meknès-Tafilalet,1,33.530876,-5.121818,1642,10,2006
+2090378816,Garrulus glandarius,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,1,31.255966,-7.973832,1151,10,2017
+2210165574,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,10,33.560863,-5.199182,1533,9,2018
+2794204496,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,10,33.427013,-5.155838,1678,8,2019
+2144623234,Garrulus glandarius,MA,R203,Sous-Massa-Draa,1,30.907188,-8.306577,1687,2,2018
+3202982480,Garrulus glandarius,MA,MA-Tazilda (Oued Tichka),Marrakech-Tensift-Al Haouz,3,31.434603,-7.408107,1254,4,2016
+3693311055,Garrulus glandarius,MA,Parc La Prairie | بحيرة افران,Meknès-Tafilalet,4,33.53186,-5.105928,1639,10,2021
+2159618293,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,4,33.427013,-5.155838,1678,4,2017
+2832476525,Garrulus glandarius,MA,Morocco - Tigrigra,,2,33.419218,-5.18059,1764,3,2014
+2211955082,Garrulus glandarius,MA,Fôret de Sidi Bettache,Chaouia-Ouardigha,2,33.574394,-6.874892,382,11,2018
+2210343058,Garrulus glandarius,MA,PN Béni Snassen,L'Oriental,4,34.81067,-2.404504,794,1,2015
+2833251361,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.493286,-5.076066,1687,11,2017
+2836099599,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.490907,-5.148439,1690,12,2014
+3823730626,Garrulus glandarius,MA,Morocco - Imouzzer,,1,30.671043,-9.476558,1246,3,2022
+2075135249,Garrulus glandarius,MA,Lalla Outka,Taza-Al Hoceima-Taounate,1,34.73905,-4.844348,1441,4,2017
+1791474719,Garrulus glandarius,MA,Oued Tichka--Tazilda,Marrakech-Tensift-Al Haouz,10,31.428505,-7.408679,1273,4,2005
+3221645626,Garrulus glandarius,MA,Forêt de Taghzaft,Meknès-Tafilalet,2,33.4109,-5.147164,1833,2,2020
+2692275185,Garrulus glandarius,MA,"just W. of R507 at 0.5 km due NW. of jncn with P5432 (ca 26.4 km due S. of Taza, centre)",Taza-Al Hoceima-Taounate,1,33.9825,-4.0619,1398,6,2017
+2723569536,Garrulus glandarius,MA,Cork Oak Woods; Side road off R403,Chaouia-Ouardigha,2,33.670525,-6.896539,338,3,2016
+1761908600,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,4,2016
+3215256146,Garrulus glandarius,MA,Azrú-Azrou--Cèdre Gouraud,Meknès-Tafilalet,1,33.42541,-5.154856,1703,3,2008
+2200791266,Garrulus glandarius,MA,Jbel Tarmilat,Rabat-Salé-Zemmour-Zaer,1,33.386,-6.106483,1011,9,2018
+2698046769,Garrulus glandarius,MA,"P7231, Fès-Meknès, MA (33.489, -5.065)",Meknès-Tafilalet,2,33.489124,-5.064695,1716,9,2019
+2832890598,Garrulus glandarius,MA,Morocco - Asni,,1,31.239369,-7.862375,1829,3,2017
+2838998360,Garrulus glandarius,MA,Morocco - Tigrigra,,1,33.420107,-5.179399,1750,3,2014
+2839898716,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,2,33.486649,-5.135441,1705,4,2017
+2840956521,Garrulus glandarius,MA,Morocco - Bouchfaa,,5,34.064321,-4.26321,761,3,2014
+3759277136,Garrulus glandarius,MA,,Meknès - Tafilalet,1,33.491115,-5.161471,1542,8,2021
+3925405663,Garrulus glandarius,MA,,Rabat - Salé - Zemmour - Zaer,1,33.715588,-6.933844,275,10,2022
+3165473541,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,10,2014
+1354714026,Garrulus glandarius,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+2160694520,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2018
+2751785454,Garrulus glandarius,MA,"91002, Chechaouen MA-Tanger - Tétouan (35.1444,-5.2602)",Tanger-Tétouan,1,35.144398,-5.260157,781,4,2019
+2081953362,Garrulus glandarius,MA,Parc Lalla Hasna,Marrakech-Tensift-Al Haouz,1,31.623278,-7.994812,463,7,2017
+1743883662,Garrulus glandarius,MA,For�t de Jabaa (6.8 km due NW. of Ifrane),Meknès-Tafilalet,2,33.5489,-5.1805,1592,5,2016
+2755894109,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2019
+2759703336,Garrulus glandarius,MA,"40000, Marrakech Médina MA-Marrakech-Tensift-Al Haouz (31.6245,-7.9991)",Marrakech-Tensift-Al Haouz,1,31.62452,-7.999061,463,5,2019
+829419660,Garrulus glandarius,MA,Kasbah du Toubkal,Marrakech-Tensift-Al Haouz,1,31.131992,-7.919023,1831,3,2007
+1734775649,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,3,2016
+2108264988,Garrulus glandarius,MA,Col du Zad,Meknès-Tafilalet,1,33.011303,-5.072113,2172,2,2002
+2130681902,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2017
+1786471589,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2015
+1402843899,Garrulus glandarius,MA,Tizi N´Test,Sous-Massa-Draa,2,30.841547,-8.382869,1462,5,2015
+3215570951,Garrulus glandarius,MA,MA-(Dait) Lac de Aoua,Meknès-Tafilalet,3,33.648346,-5.034358,1483,4,2016
+2736726244,Garrulus glandarius,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+1784934910,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2015
+1739952964,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2016
+3136336200,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,2,2020
+1738446870,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,5,2016
+2701317448,Garrulus glandarius,MA,by P7048 at 0.8 km SE. of Zaouia d'Ifrane centre (4.4 km due N. of Ifrane centre),Meknès-Tafilalet,2,33.5644,-5.1263,1522,6,2017
+2791371937,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,4,2019
+3547761247,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,7,2010
+2056744448,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,5,2017
+2148452581,Garrulus glandarius,MA,Ruta My Brahim-Taraudant-Agadir,Sous-Massa-Draa,1,30.735062,-8.429646,675,4,2006
+2175499001,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,1,35.176052,-5.341244,486,9,2015
+2755338510,Garrulus glandarius,MA,Vallée d'Imouzzer,Sous-Massa-Draa,1,30.676725,-9.477704,1156,10,2011
+2192828598,Garrulus glandarius,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,11,2014
+3688885994,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2013
+2755012411,Garrulus glandarius,MA,"R203, Al Haouz MA-Marrakech-Tensift-Al Haouz (30.9084,-8.3056)",Marrakech-Tensift-Al Haouz,1,30.908403,-8.305563,1681,4,2019
+1202131377,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2005
+2163968644,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2018
+1789360408,Garrulus glandarius,MA,La Belle View,Sous-Massa-Draa,4,30.860542,-8.37701,2038,9,2016
+1735772668,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,3,2016
+2769186709,Garrulus glandarius,MA,"Jbel Ayachi, Cirque de Jaaffar",Meknès-Tafilalet,2,32.567215,-4.913783,1956,12,2013
+2702868990,Garrulus glandarius,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,5,35.28193,-5.489002,1156,1,2019
+2049239707,Garrulus glandarius,MA,Tizi n'Test,Sous-Massa-Draa,1,30.868267,-8.379135,2101,2,2017
+1402536841,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,9,2014
+2081617383,Garrulus glandarius,MA,"N13, Tangier-Tetouan, MA (35,03, -5,37)",Tanger-Tétouan,2,35.02975,-5.369592,176,9,2017
+3587630467,Garrulus glandarius,MA,PN Ifran--Dayet Iffer,Fès-Boulemane,1,33.606663,-4.907874,1515,1,2021
+2725753320,Garrulus glandarius,ES,"Mendicuti/Lomas de Topete, de Isabel II y de Luengo",Ceuta,4,35.89257,-5.357019,174,8,2008
+3268562188,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,7,2010
+1747526198,Garrulus glandarius,MA,"MA-Meknès-Tafilalet - 33,591x-5,261 - 28 juin 2016 21:59",Meknès-Tafilalet,2,33.591324,-5.260628,1355,6,2016
+2201039201,Garrulus glandarius,MA,Jbel Tarmilat,Rabat-Salé-Zemmour-Zaer,1,33.386,-6.106483,1011,9,2018
+2156524022,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,2,33.713158,-6.929712,284,9,2006
+2703278793,Garrulus glandarius,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+2768375472,Garrulus glandarius,MA,Barrage Sidi Chahed,Meknès-Tafilalet,1,34.04804,-5.322833,257,4,2019
+2103937459,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,9,2017
+1723299587,Garrulus glandarius,MA,Barrage,Chaouia-Ouardigha,2,33.733006,-6.9668,159,3,2016
+2797320156,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,2,33.75105,-6.934414,238,9,2019
+3202274259,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2680771985,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2019
+2655486389,Garrulus glandarius,MA,"Route de Tisemlale, Tanger-Tétouan-Al Hoceïma, MA (35,185, -5,233)",Tanger-Tétouan,2,35.185123,-5.232806,1337,1,2019
+1724631731,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2016
+1729902349,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,4,2016
+3200573539,Garrulus glandarius,MA,Plains N Col du Zad,Meknès-Tafilalet,1,33.04235,-5.061078,2174,10,2003
+3659439805,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+1359288683,Garrulus glandarius,MA,Zedenwald bei Azrou,Meknès-Tafilalet,1,33.41992,-5.177846,1748,4,2015
+3285590309,Garrulus glandarius,MA,"Imouzzer, Souss Massa, MA (30,532, -9,518)",Sous-Massa-Draa,3,30.532425,-9.517504,516,4,2016
+2670382176,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2019
+2071439072,Garrulus glandarius,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,5,2017
+3633765850,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,11,2021
+3533526059,Garrulus glandarius,MA,"R707, Fez-Meknès, MA (33.48, -5.024)",Meknès-Tafilalet,1,33.480125,-5.023881,1855,1,2021
+2069850587,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2017
+3212020875,Garrulus glandarius,MA,Col du Zad,Meknès-Tafilalet,4,32.98734,-5.071087,2075,10,2003
+2174844346,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,3,33.65042,-5.029721,1470,4,2017
+3169507459,Garrulus glandarius,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,5,2015
+1793119836,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2013
+1738666514,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,4,33.48899,-5.144713,1718,5,2016
+2126500284,Garrulus glandarius,MA,"Toufliht, Marrakech-Safi, MA (31,481, -7,433)",Marrakech-Tensift-Al Haouz,3,31.480595,-7.432981,1434,3,2018
+2143086491,Garrulus glandarius,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,1,35.129738,-5.089073,1678,4,2018
+3215562721,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2016
+2740795120,Garrulus glandarius,MA,"Marrakech-Tensift-El Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.2678,-7.8292)",Marrakech-Tensift-Al Haouz,1,31.267828,-7.829247,1708,4,2019
+1791255731,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,10,2007
+3224309927,Garrulus glandarius,MA,"Algou, Souss Massa, MA (30,844, -8,39)",Sous-Massa-Draa,1,30.844343,-8.390057,1300,1,2020
+2191662220,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,1,33.75107,-6.934405,238,9,2018
+2739788439,Garrulus glandarius,MA,"91000, Chechaouen MA-Tanger - Tétouan (35.1700,-5.2622)",Tanger-Tétouan,1,35.170033,-5.262241,629,4,2019
+3206542327,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2019
+3251899132,Garrulus glandarius,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,7,2003
+2725195003,Garrulus glandarius,MA,"15026, Khemisset MA-Rabat-Salé-Zemur-Zaer (34,0057,-5,9150)",Rabat-Salé-Zemmour-Zaer,1,34.00571,-5.914988,122,2,2019
+829786785,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,2,33.560863,-5.199182,1533,12,2012
+1194444399,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,2,35.176052,-5.341244,486,10,2014
+3631231475,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2015
+3642838166,Garrulus glandarius,MA,Lac Zerouka,Meknès-Tafilalet,3,33.544254,-5.095575,1616,12,2021
+1354708146,Garrulus glandarius,MA,"31.3724x-7.7992 - Mar 16, 2015, 6:55 AM",Marrakech-Tensift-Al Haouz,1,31.37237,-7.799223,870,3,2015
+1359297520,Garrulus glandarius,MA,Ifrane (town),Meknès-Tafilalet,3,33.529232,-5.108879,1655,4,2015
+3248899843,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,3,2014
+2059963682,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,4,2017
+3669622884,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,5,2014
+2747177664,Garrulus glandarius,MA,Jbel Mouchchene,Rabat-Salé-Zemmour-Zaer,1,33.482403,-6.167123,971,3,2019
+2116911877,Garrulus glandarius,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,2,2002
+2095782126,Garrulus glandarius,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,2,31.255966,-7.973832,1151,9,2017
+2092260890,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,4,33.713158,-6.929712,284,9,2017
+3197079588,Garrulus glandarius,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2018
+2800179297,Garrulus glandarius,MA,Barrage Sidi Chahed,Meknès-Tafilalet,1,34.04804,-5.322833,257,4,2019
+2686809700,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2018
+587889478,Garrulus glandarius,MA,Agadir to Essaouira,Marrakech-Tensift-Al Haouz,1,31.11174,-9.825897,194,6,2005
+2713658364,Garrulus glandarius,MA,"P7231, Fès-Meknès, MA (33.489, -5.065)",Meknès-Tafilalet,2,33.489124,-5.064695,1716,9,2019
+2729294328,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,2,35.176052,-5.341244,486,2,2018
+3554214706,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,5,33.427013,-5.155838,1678,10,2021
+3194627702,Garrulus glandarius,MA,Assif Amerzgane,Sous-Massa-Draa,1,31.038475,-7.215571,1324,3,2019
+2778771869,Garrulus glandarius,MA,"(31.2414,-7.9195)",Marrakech-Tensift-Al Haouz,4,31.241426,-7.919486,1813,4,2019
+3296024974,Garrulus glandarius,MA,Algou Tizi n'test,Sous-Massa-Draa,2,30.874975,-8.360256,2035,4,2018
+3221791139,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,2,2020
+3265145251,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,20,31.201849,-7.859733,2609,4,2003
+2211442130,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,5,33.713158,-6.929712,284,10,2018
+3219890180,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,2,2020
+2659759750,Garrulus glandarius,MA,above Azrou,Meknès-Tafilalet,1,33.42385,-5.179245,1722,3,2019
+2175676550,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2018
+2757465068,Garrulus glandarius,MA,Jbel Moufras,Rabat-Salé-Zemmour-Zaer,1,33.5161,-5.85065,1093,4,2019
+2668274570,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2007
+1743876919,Garrulus glandarius,MA,"near Jbel Tazzeka National Park (11.2 km due SSW. from Taza, centre)",Taza-Al Hoceima-Taounate,2,34.1143,-4.0373,1387,5,2016
+2791638570,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,1,2008
+1411078058,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,3,2011
+2171827891,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2018
+3206983841,Garrulus glandarius,MA,MA-(Dait) Lac de Aoua,Meknès-Tafilalet,4,33.648346,-5.034358,1483,4,2019
+3219747630,Garrulus glandarius,MA,Forêt de Taghzaft,Meknès-Tafilalet,3,33.4109,-5.147164,1833,2,2020
+2800633001,Garrulus glandarius,MA,PN Toubkal--Refuge Toubkal,Marrakech-Tensift-Al Haouz,5,31.063862,-7.937933,3169,12,2019
+2773034375,Garrulus glandarius,MA,"P7231, Fès-Meknès, MA (33.489, -5.065)",Meknès-Tafilalet,2,33.489124,-5.064695,1716,9,2019
+1791473673,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2005
+1724891379,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,4,2016
+2667910359,Garrulus glandarius,MA,entre Sidi Marrat et Oued Beht,Rabat-Salé-Zemmour-Zaer,1,33.536316,-5.842833,1052,4,2019
+2116290687,Garrulus glandarius,MA,Lac Aoua,Meknès-Tafilalet,1,33.65568,-5.044803,1478,2,2017
+2685625042,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,4,2019
+2791203772,Garrulus glandarius,MA,"(31.2414,-7.9195)",Marrakech-Tensift-Al Haouz,4,31.241426,-7.919486,1813,4,2019
+2682044141,Garrulus glandarius,MA,Oued Bou Hanï,Rabat-Salé-Zemmour-Zaer,1,33.572147,-5.873755,444,4,2019
+2712821606,Garrulus glandarius,MA,"P2028, Marrakech-Safi, MA (31,26, -7,836)",Marrakech-Tensift-Al Haouz,1,31.26034,-7.836238,1771,12,2019
+3238130326,Garrulus glandarius,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,6,2004
+1784877623,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2015
+1369694421,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,6,33.65042,-5.029721,1470,5,2015
+2737621930,Garrulus glandarius,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,5,35.28193,-5.489002,1156,1,2019
+3274459145,Garrulus glandarius,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,3,2007
+2216153067,Garrulus glandarius,MA,"R403, Rabat-Salé-Kénitra, MA (33.728, -6.932)",Rabat-Salé-Zemmour-Zaer,4,33.72816,-6.932128,252,9,2018
+2742849717,Garrulus glandarius,MA,"P4704, Tanger-Tétouan-Al Hoceïma, MA (35,282, -5,489)",Tanger-Tétouan,5,35.28193,-5.489002,1156,1,2019
+1735782340,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,3,2016
+3297154999,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2015
+3580970094,Garrulus glandarius,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,5,2014
+588118721,Garrulus glandarius,MA,"Maroc, Ifrane, Souce Vitel",Meknès-Tafilalet,1,33.542324,-5.114436,1595,5,2008
+2198202391,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,2,2018
+2680097826,Garrulus glandarius,MA,"MA., Tizi-n-Test road",Marrakech-Tensift-Al Haouz,1,31.17644,-8.076507,910,4,2015
+829210401,Garrulus glandarius,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,4,2002
+2201014710,Garrulus glandarius,MA,"Rabat-Salé-Kénitra, MA (33.751, -6.934)",Rabat-Salé-Zemmour-Zaer,1,33.75107,-6.934405,238,9,2018
+2095885955,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,4,33.713158,-6.929712,284,9,2017
+1782442639,Garrulus glandarius,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,2,31.478024,-7.434708,1465,3,2016
+2835659529,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.487101,-5.144605,1691,4,2013
+2839631481,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.474321,-5.159049,1669,7,2015
+588109251,Garrulus glandarius,MA,"Maroc, Azrou (forêt au-dessus de la ville)",Meknès-Tafilalet,1,33.40651,-5.161686,1916,5,2008
+2175798090,Garrulus glandarius,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,3,2014
+2171840441,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2018
+2118831791,Garrulus glandarius,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,2,30.585133,-9.529026,425,2,2018
+2837773458,Garrulus glandarius,MA,Morocco - Tigrigra,,2,33.419218,-5.18059,1764,3,2014
+2843691746,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.487101,-5.144605,1691,4,2013
+2128259192,Garrulus glandarius,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2018
+2832409642,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.487101,-5.144605,1691,4,2013
+1806345362,Garrulus glandarius,MA,,Oriental,1,34.812253,-2.402401,735,2,2015
+1208856337,Garrulus glandarius,MA,Azrou3,Fès-Meknès,1,33.486708,-5.146319,1681,5,2008
+1208856307,Garrulus glandarius,MA,Azrou3,Fès-Meknès,1,33.486708,-5.146319,1681,5,2008
+1208856325,Garrulus glandarius,MA,"Ifrane1, Jabaa forest",Fès-Meknès,1,33.556519,-5.182878,1556,5,2008
+1208856323,Garrulus glandarius,MA,Azrou3,Fès-Meknès,1,33.486708,-5.146319,1681,5,2008
+1208856327,Garrulus glandarius,MA,Azrou3,Fès-Meknès,1,33.486708,-5.146319,1681,5,2008
+1208856331,Garrulus glandarius,MA,"Ifrane1, Jabaa forest",Fès-Meknès,1,33.556519,-5.182878,1556,5,2008
+2835025148,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.548954,-5.099358,1611,1,2016
+1405106037,Garrulus glandarius,MA,Ouarzazate (general area),Sous-Massa-Draa,1,30.918377,-6.917866,1132,11,2012
+2723279187,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,2,35.176052,-5.341244,486,2,2018
+2841521994,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,2,33.486775,-5.143826,1704,6,2014
+2832454621,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,2,33.711366,-6.927022,278,2,2014
+3245314047,Garrulus glandarius,MA,Col du Zad,Meknès-Tafilalet,4,32.98734,-5.071087,2075,10,2003
+1370833235,Garrulus glandarius,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+2746652419,Garrulus glandarius,MA,"(31.2414,-7.9195)",Marrakech-Tensift-Al Haouz,4,31.241426,-7.919486,1813,4,2019
+3821924274,Garrulus glandarius,MA,Morocco - Tigrigra,,2,33.41674,-5.187506,1788,2,2014
+2839710478,Garrulus glandarius,MA,Morocco - Ben Smim,,2,33.414077,-5.179024,1780,3,2014
+2843014800,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,1,33.684695,-6.904061,322,4,2012
+3826815675,Garrulus glandarius,MA,Morocco - Imouzzer,,2,30.671793,-9.480581,1181,3,2022
+2839215646,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,1,33.684695,-6.904061,322,4,2012
+2840312164,Garrulus glandarius,MA,Morocco - Dayat Aoua,,4,33.476127,-5.028992,1815,11,2013
+2836127627,Garrulus glandarius,MA,Morocco - Sti Fadma,,1,31.282047,-7.802336,1355,3,2015
+2839216400,Garrulus glandarius,MA,Morocco - Tigrigra,,1,33.407944,-5.197821,1769,2,2013
+2833263615,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.488319,-5.146852,1676,5,2018
+2836206656,Garrulus glandarius,MA,Morocco - Ifrane,,1,33.5218,-5.1093,1666,4,2016
+2832346355,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.487101,-5.144605,1691,4,2013
+2842641777,Garrulus glandarius,MA,Morocco - Ifrane,,1,33.5218,-5.1093,1666,4,2016
+2841260994,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,2,33.476457,-5.135629,1619,5,2015
+2749324948,Garrulus glandarius,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2019
+2839317493,Garrulus glandarius,MA,Morocco - Tigrigra,,1,33.412634,-5.198815,1752,1,2015
+2841391657,Garrulus glandarius,MA,Morocco - Ifrane,,2,33.5218,-5.1093,1666,4,2016
+2836120341,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.474321,-5.159049,1669,7,2015
+2835531503,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,2,33.74818,-6.905079,236,4,2013
+2832624823,Garrulus glandarius,MA,Morocco - Sti Fadma,,2,31.281906,-7.801879,1342,3,2015
+2832503881,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.487101,-5.144605,1691,4,2013
+3631015638,Garrulus glandarius,MA,Parc Yasmina | حديقة ياسمينة,Grand Casablanca,1,33.587646,-7.623448,27,12,2021
+2836399094,Garrulus glandarius,MA,Morocco - Ben Smim,,1,33.466315,-5.163875,1619,9,2017
+2843151446,Garrulus glandarius,MA,Morocco - Tigrigra,,2,33.420426,-5.180254,1761,3,2016
+2843851245,Garrulus glandarius,MA,Morocco - Ourika,,2,31.257156,-7.843747,1802,6,2015
+2832623746,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,2,33.709653,-6.925982,283,3,2015
+2843332290,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.493286,-5.076066,1687,11,2017
+2837413264,Garrulus glandarius,MA,Morocco - Bab Boudir,,1,34.129673,-4.031318,1240,6,2019
+2838722441,Garrulus glandarius,MA,Morocco - Dayet Aoua,,1,33.652009,-5.04427,1521,2,2020
+2836183169,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,2,33.486649,-5.135441,1705,4,2017
+2839089696,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,2,33.709653,-6.925982,283,3,2015
+2842348098,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.489537,-5.147388,1678,4,2017
+2832232869,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,1,33.661748,-6.911214,330,5,2012
+2832681725,Garrulus glandarius,MA,Morocco - Tigrigra,,2,33.406236,-5.18579,1826,3,2016
+2833096544,Garrulus glandarius,MA,Morocco - Lacs du moyen Atlas,,1,33.489537,-5.147388,1678,4,2017
+2838608773,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,1,33.684695,-6.904061,322,4,2012
+2089922398,Garrulus glandarius,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,7,2017
+2799625496,Garrulus glandarius,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2008
+2128517994,Garrulus glandarius,MA,RN Bouhachem--domaine général,Tanger-Tétouan,2,35.176052,-5.341244,486,2,2018
+1743876043,Garrulus glandarius,MA,"near Jbel Tazzeka National Park (11.2 km due SSW. from Taza, centre)",Taza-Al Hoceima-Taounate,2,34.1143,-4.0373,1387,5,2016
+2702265558,Garrulus glandarius,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,2,34.07908,-4.120763,1470,12,2013
+2837857092,Garrulus glandarius,MA,Morocco - Bab Boudir,,10,34.129728,-4.031253,1240,6,2019
+2833230291,Garrulus glandarius,MA,Morocco - Dayat Aoua,,2,33.508495,-5.010082,1806,11,2018
+1743874744,Garrulus glandarius,MA,"Jbel Tazzeka National Park at 10.4 km due SW. of Taza, centre (by jncn of R507 with road to Bab Boudir)",Taza-Al Hoceima-Taounate,2,34.123,-4.0397,1391,5,2016
+2835733325,Garrulus glandarius,MA,Morocco - Asni,,1,31.248727,-7.863336,1820,2,2013
+2836009504,Garrulus glandarius,MA,Morocco - Ifrane,,1,33.5218,-5.1093,1666,4,2016
+2832516733,Garrulus glandarius,MA,Morocco - Sidi Yahya Zaer,,2,33.717767,-6.929852,267,3,2015
+2839356575,Garrulus glandarius,MA,Morocco - Ourika,,2,31.257156,-7.843747,1802,6,2015

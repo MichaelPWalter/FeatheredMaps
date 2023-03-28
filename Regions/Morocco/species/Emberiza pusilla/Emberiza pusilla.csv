@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3640795626,Emberiza pusilla,ES,Monte Hacho--Area general,Ceuta,1,35.896336,-5.291505,183,11,2017
+2717481714,Emberiza pusilla,ES,Monte Hacho,Ceuta,1,35.89719,-5.290354,161,11,2017
+3131790504,Emberiza pusilla,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013

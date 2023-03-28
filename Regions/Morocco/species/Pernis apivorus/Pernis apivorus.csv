@@ -1,0 +1,423 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3912197080,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.071328,-7.232491,636,9,2022
+2145844165,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+1614252915,Pernis apivorus,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2018
+2165045953,Pernis apivorus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,5,2018
+3545489993,Pernis apivorus,ES,"Mendicuti/Lomas de Topete, de Isabel II y de Luengo",Ceuta,34,35.89257,-5.357019,174,4,2021
+3616584718,Pernis apivorus,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,8,2021
+3148754045,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2182903522,Pernis apivorus,MA,P7217,Meknès-Tafilalet,1,33.38322,-5.221939,1792,5,2018
+2794325075,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2019
+2207073990,Pernis apivorus,MA,"Unnamed Road, MA (35,937, -5,543)",Tanger-Tétouan,3,35.936653,-5.543026,0,9,2018
+2795457751,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,5,2019
+3214132287,Pernis apivorus,MA,Ras Alboasa,Tanger-Tétouan,22,35.837814,-5.688279,17,8,2007
+2188256218,Pernis apivorus,MA,"P2030, Marrakech-Safi, MA (31.23, -7.823)",Marrakech-Tensift-Al Haouz,1,31.229702,-7.823498,2391,9,2018
+2768530981,Pernis apivorus,MA,Jbel Musa,Tanger-Tétouan,10,35.89877,-5.416012,732,9,2019
+3148813534,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,13,35.8899,-5.319831,7,4,2020
+3552140752,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,11,35.90542,-5.372675,221,5,2021
+2153113638,Pernis apivorus,MA,Port de Tanger Ville,Tanger-Tétouan,2,35.787125,-5.807095,4,5,2018
+3290578717,Pernis apivorus,MA,Sidi Kankouche,Tanger-Tétouan,1,35.82884,-5.707406,6,9,2006
+2717084539,Pernis apivorus,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+2198675654,Pernis apivorus,MA,"Unnamed Road, Drâa-Tafilalet, MA (31.292, -5.853)",Sous-Massa-Draa,1,31.29192,-5.852534,1575,9,2018
+3641975781,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,396,35.90542,-5.372675,221,8,2021
+3216267920,Pernis apivorus,MA,Puerto del Mediq-Cabo Negro,Tanger-Tétouan,1,35.68314,-5.310017,5,9,2006
+3206159219,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,133,35.83419,-5.581235,34,8,2004
+3633899609,Pernis apivorus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2021
+3231966350,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,25,35.91514,-5.362894,6,5,2020
+2194733523,Pernis apivorus,ES,"9 Avenida de África, Ceuta, Ceuta, ES (35,887, -5,323)",Ceuta,25,35.88731,-5.322706,28,9,2018
+2779489653,Pernis apivorus,MA,"Seleccionado automáticamente-35,888, -5,46",Tanger-Tétouan,4,35.888268,-5.46042,250,9,2019
+3155514006,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,35,35.8899,-5.319831,7,5,2020
+3239313106,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,19,35.9023,-5.346128,16,4,2020
+2157385642,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+3574587057,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2689127008,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,140,35.898037,-5.341559,16,5,2019
+1790194744,Pernis apivorus,ES,"Ceuta, puerto",Ceuta,4,35.89423,-5.322029,7,9,2014
+3627889527,Pernis apivorus,MA,Vertedero De Fnideq,Tanger-Tétouan,2,35.861073,-5.372824,186,6,2002
+2160761556,Pernis apivorus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,5,2018
+2786683483,Pernis apivorus,ES,Benzú,Ceuta,800,35.915916,-5.372888,13,9,2011
+2724656799,Pernis apivorus,ES,Punta Bermeja,Ceuta,23,35.90776,-5.348185,7,8,2015
+2771127467,Pernis apivorus,ES,CEUTA (casco urbano),Ceuta,600,35.888165,-5.305654,42,9,2011
+3268695912,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,9,2003
+3214208901,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,2,35.83419,-5.581235,34,8,2007
+1793935570,Pernis apivorus,MA,"L'Oliveriae de Marigha, nr Asni",Marrakech-Tensift-Al Haouz,3,31.193851,-8.052721,939,5,2014
+2182711523,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+1789897172,Pernis apivorus,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2005
+2792493794,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,1,35.87485,-5.457671,205,9,2011
+3146278241,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,4,2020
+2703253792,Pernis apivorus,MA,Cap Malabata,Tanger-Tétouan,50,35.816746,-5.749175,59,8,2004
+2167999307,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+3296752379,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,8,2004
+3659496763,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,5,2021
+3286132294,Pernis apivorus,MA,Ras Alboasa,Tanger-Tétouan,36,35.837814,-5.688279,17,8,2001
+2208888506,Pernis apivorus,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,916, -5,405)",Tanger-Tétouan,507,35.91614,-5.404598,65,9,2018
+2664156017,Pernis apivorus,ES,Ceuta -- playa de Benzú,Ceuta,16,35.914867,-5.367056,69,9,2005
+2679996498,Pernis apivorus,MA,Ourika Valley,Marrakech-Tensift-Al Haouz,1,31.331575,-7.758125,970,3,2010
+1758079259,Pernis apivorus,MA,Jbel Moussa,Tanger-Tétouan,1,35.898125,-5.412033,807,10,2012
+3273313951,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,9,2003
+3294855708,Pernis apivorus,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,30,35.015804,-6.214134,14,4,2007
+2183227822,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,50,35.9023,-5.346128,16,9,2018
+2792060136,Pernis apivorus,ES,"N-354, Ceuta, ES (35,915, -5,362)",Ceuta,1,35.914875,-5.361698,5,8,2019
+3266900637,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2149412118,Pernis apivorus,MA,P7217,Meknès-Tafilalet,1,33.38322,-5.221939,1792,5,2018
+2160709041,Pernis apivorus,MA,N13 n. of Midelt,Meknès-Tafilalet,1,32.752586,-4.920394,1477,5,2018
+3211979834,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,1,35.870358,-5.520804,48,9,2003
+2209470779,Pernis apivorus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,5,30.346031,-9.568678,8,9,2018
+3639798974,Pernis apivorus,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2021
+2717804801,Pernis apivorus,ES,Benzú,Ceuta,5,35.915916,-5.372888,13,3,2019
+1790931404,Pernis apivorus,ES,"Ceuta, La Tortuga",Ceuta,90,35.901703,-5.365577,204,9,2005
+3198456222,Pernis apivorus,MA,Dchar Lechehba مدشر لشهبة,Tanger-Tétouan,1,35.80007,-5.568318,85,8,2004
+3258929805,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,19,35.8899,-5.319831,7,5,2020
+3672069044,Pernis apivorus,ES,"Mendicuti/Lomas de Topete, de Isabel II y de Luengo",Ceuta,2,35.89257,-5.357019,174,4,2021
+3548611035,Pernis apivorus,ES,Acantilados Recinto Sur,Ceuta,7,35.888348,-5.299488,14,5,2021
+3627404162,Pernis apivorus,ES,Pinos del Tercio,Melilla,1,35.305042,-2.960371,106,5,2021
+3145018330,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,4,2020
+2160319297,Pernis apivorus,ES,"Calle Alcalde Enrique García Ponce, Ceuta, Ceuta, ES (35,895, -5,328)",Ceuta,1,35.894905,-5.328313,19,5,2018
+2053055044,Pernis apivorus,MA,⁨MA-مراكش-تانسيفت-الحوز-Essaouira-P2216⁩ - 31.3876x-9.7739,Marrakech-Tensift-Al Haouz,1,31.387638,-9.773915,69,5,2017
+3624997747,Pernis apivorus,ES,Ceuta ciudad—Hospital Universitario,Ceuta,1,35.880775,-5.341741,56,5,2021
+2175672110,Pernis apivorus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,5,2018
+2153868716,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+2790731215,Pernis apivorus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2019
+3549042743,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,72,35.90542,-5.372675,221,8,2021
+2170854944,Pernis apivorus,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,5,33.65042,-5.029721,1470,5,2018
+2750168247,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,14,35.898037,-5.341559,16,5,2019
+3212808312,Pernis apivorus,MA,Al Marsa,Tanger-Tétouan,1,35.90273,-5.447491,15,9,2005
+3802284511,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.069701,-7.236209,631,5,2022
+3539951202,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,5,35.90542,-5.372675,221,5,2021
+2083055646,Pernis apivorus,MA,5km west of Alnif,Meknès-Tafilalet,1,31.091602,-5.207047,928,9,2017
+3208430212,Pernis apivorus,MA,Oued Alian,Tanger-Tétouan,9,35.828426,-5.640933,82,9,2006
+3276504931,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,8,2004
+3159156460,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,4,2020
+3294002556,Pernis apivorus,MA,Ras Al Ksar es-Seghir,Tanger-Tétouan,273,35.84748,-5.562023,15,9,2003
+2739297942,Pernis apivorus,ES,"Ceuta, La Tortuga",Ceuta,5,35.901703,-5.365577,204,9,2005
+3287663868,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,128,35.908447,-5.482022,5,9,2005
+2726875589,Pernis apivorus,ES,Monte Hacho,Ceuta,2,35.89719,-5.290354,161,10,2018
+2801889307,Pernis apivorus,MA,Erg Chebbi und Merzouga-Gegend,Meknès-Tafilalet,1,31.211,-4.023,731,5,2018
+3200137204,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,57,35.87485,-5.457671,205,9,2005
+3297418957,Pernis apivorus,MA,Al Marsa road,Tanger-Tétouan,3,35.887596,-5.461356,256,9,2005
+2730613959,Pernis apivorus,ES,Ceuta -- playa del Tarajal,Ceuta,135,35.871834,-5.343271,0,8,2001
+2778606135,Pernis apivorus,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+3569192339,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+3215647754,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,3,35.908447,-5.482022,5,9,2003
+3280224776,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,10,35.87485,-5.457671,205,9,2003
+2175743783,Pernis apivorus,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,2,31.432106,-4.227419,794,5,2018
+3434881579,Pernis apivorus,MA,Tichimon naharet,Maroc,1,30.9,-4.966667,730,3,2000
+2160721916,Pernis apivorus,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,2,31.432106,-4.227419,794,5,2018
+3285151738,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,28,35.87485,-5.457671,205,9,2014
+3610906893,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,4,35.90542,-5.372675,221,5,2021
+3166322582,Pernis apivorus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,45,35.89061,-5.347041,50,5,2020
+3691050755,Pernis apivorus,ES,Arroyo de Calamocarro,Ceuta,9,35.910793,-5.368713,140,9,2021
+2697454536,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,134,35.90542,-5.372675,221,8,2004
+2095001540,Pernis apivorus,MA,PN de Bouhachem,Tanger-Tétouan,7,35.260136,-5.412179,981,9,2017
+2839601734,Pernis apivorus,MA,Morocco - Ait Siberne,,1,33.827444,-5.926259,150,5,2016
+2710933734,Pernis apivorus,ES,CEUTA (casco urbano),Ceuta,47,35.888165,-5.305654,42,8,2016
+2714411266,Pernis apivorus,ES,Monte Hacho,Ceuta,1,35.89719,-5.290354,161,7,2011
+2140172509,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+3196094127,Pernis apivorus,MA,Escarpement à l'oest de Rissani,Meknès-Tafilalet,1,31.278967,-4.359662,752,3,2019
+3535669098,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+3573790134,Pernis apivorus,MA,Sidi Boutayeb,Fès-Boulemane,2,33.03356,-4.07741,948,5,2017
+3296200893,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,655,35.83419,-5.581235,34,8,2004
+3165179514,Pernis apivorus,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,5,2015
+2195845860,Pernis apivorus,MA,"N16, Tanger-Tétouan-Al Hoceïma, MA (35,876, -5,456)",Tanger-Tétouan,26,35.87571,-5.455695,227,9,2018
+2786302549,Pernis apivorus,MA,Taroudant to Agadir,Sous-Massa-Draa,1,30.45341,-9.195557,111,5,2001
+3285376156,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,3,35.87485,-5.457671,205,9,2005
+3201317293,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,1,35.870358,-5.520804,48,8,2001
+2672136569,Pernis apivorus,MA,"N13, MA (32.978, -5.064)",Meknès-Tafilalet,240,32.978497,-5.064263,2026,5,2019
+1394423093,Pernis apivorus,MA,Rissani (general area),Meknès-Tafilalet,12,31.288527,-4.287918,752,9,2015
+3684685036,Pernis apivorus,ES,Loma Rubio/Loma Colmenar,Ceuta,1,35.882053,-5.339087,14,4,2021
+2148330131,Pernis apivorus,MA,N13 n. of Midelt,Meknès-Tafilalet,1,32.752586,-4.920394,1477,5,2018
+1203528773,Pernis apivorus,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2007
+3614576415,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+2757835217,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,14,35.898037,-5.341559,16,5,2019
+3296178459,Pernis apivorus,MA,Ras Alboasa,Tanger-Tétouan,2,35.837814,-5.688279,17,9,2007
+2148319854,Pernis apivorus,MA,"Hotel Taddart, N13, Midelt",Meknès-Tafilalet,2,32.70595,-4.789213,1427,5,2018
+3150542165,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,5,2020
+3284632610,Pernis apivorus,MA,Ferdiua,Tanger-Tétouan,319,35.8309,-5.626846,123,9,2007
+2717158991,Pernis apivorus,ES,Playa de Calamocarro,Ceuta,1,35.911804,-5.357037,7,7,2011
+2171740119,Pernis apivorus,MA,Rissani,Meknès-Tafilalet,12,31.278551,-4.278316,755,5,2018
+2755661792,Pernis apivorus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2007
+2668750150,Pernis apivorus,MA,"N10, Tinghir, Drâa-Tafilalet, MA (31.523, -5.529)",Sous-Massa-Draa,7,31.523235,-5.529293,1298,5,2019
+2138469232,Pernis apivorus,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,2,35.129738,-5.089073,1678,4,2018
+3182040529,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,100,35.965782,-5.609035,0,8,2020
+3206709326,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,4,35.83419,-5.581235,34,8,2004
+2146888161,Pernis apivorus,MA,Punta Almarsa,Tanger-Tétouan,2,35.909977,-5.397656,30,4,2018
+3212670944,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,54,35.83419,-5.581235,34,9,2006
+3685903145,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,5,35.965782,-5.609035,0,9,2021
+3263553689,Pernis apivorus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,19,35.89061,-5.347041,50,5,2020
+3292171141,Pernis apivorus,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,9,2006
+2748206628,Pernis apivorus,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,4,2019
+3272025037,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,2,35.870358,-5.520804,48,8,2001
+3226614981,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,4,2020
+3201878607,Pernis apivorus,MA,Unnamed lookout behind the jbel musa,Tanger-Tétouan,121,35.86239,-5.441213,249,9,2014
+3149695250,Pernis apivorus,MA,Le Meridien,Marrakech-Tensift-Al Haouz,1,31.619638,-8.006907,463,3,2020
+2161782098,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+3294535972,Pernis apivorus,ES,Pista la Lastra,Ceuta,9,35.90559,-5.361607,175,9,2020
+3157702878,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2772115278,Pernis apivorus,MA,"Avenue Ahmed Bel Frej, Fès, Fès-Meknès, MA (34,018, -5,007)",Fès-Boulemane,1,34.01827,-5.007406,435,9,2019
+3279316123,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,5,2020
+2710894529,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2019
+3208304870,Pernis apivorus,MA,Ras Alboasa,Tanger-Tétouan,3,35.837814,-5.688279,17,9,2003
+3236822568,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,14,35.898037,-5.341559,16,5,2020
+1369209606,Pernis apivorus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2015
+1369203061,Pernis apivorus,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,5,2015
+2720159402,Pernis apivorus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,11,31.334959,-5.891968,1554,4,2001
+1177781227,Pernis apivorus,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,6,2014
+2082364380,Pernis apivorus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,7,2017
+2685206318,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,19,35.9023,-5.346128,16,5,2019
+3288661315,Pernis apivorus,MA,Ras Alboasa,Tanger-Tétouan,4,35.837814,-5.688279,17,8,2007
+3290251222,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,37,35.87485,-5.457671,205,8,2006
+2163522772,Pernis apivorus,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,2,31.432106,-4.227419,794,5,2018
+2787874095,Pernis apivorus,MA,Ouarzazate-P1505 - 30.9791x-7.2186,Sous-Massa-Draa,1,30.97914,-7.218591,1274,4,2018
+2217129407,Pernis apivorus,MA,"P2030, Marrakech-Safi, MA (31.23, -7.823)",Marrakech-Tensift-Al Haouz,1,31.229702,-7.823498,2391,9,2018
+3148955863,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,5,2020
+3208804295,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,7,35.83419,-5.581235,34,8,2001
+3271975248,Pernis apivorus,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,2,33.427013,-5.155838,1678,5,2006
+3229998908,Pernis apivorus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,13,35.89061,-5.347041,50,5,2020
+3149403197,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+3271944421,Pernis apivorus,MA,Mirarete Del Musa,Tanger-Tétouan,59,35.85271,-5.44013,444,8,2001
+2182942567,Pernis apivorus,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,5,2018
+3270958524,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2171833163,Pernis apivorus,MA,Rissani,Meknès-Tafilalet,12,31.278551,-4.278316,755,5,2018
+3274666433,Pernis apivorus,MA,Puerto del Mediq-Cabo Negro,Tanger-Tétouan,3,35.68314,-5.310017,5,8,2001
+3215730764,Pernis apivorus,MA,Cap Malabata,Tanger-Tétouan,1,35.816746,-5.749175,59,9,2003
+3286628932,Pernis apivorus,MA,Ferdiua,Tanger-Tétouan,50,35.8309,-5.626846,123,8,2004
+3146803100,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2154069903,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+2782316117,Pernis apivorus,MA,Ghougine غوجين,Tanger-Tétouan,96,35.816185,-5.602753,208,8,2004
+3638903039,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+3272586501,Pernis apivorus,MA,"N8, Roadside",Tadla-Azilal,2,32.70517,-5.835434,774,5,2010
+3593521229,Pernis apivorus,ES,Estación de observación O’Donnell,Ceuta,5,35.881878,-5.329693,48,5,2021
+2786506305,Pernis apivorus,ES,Benzú,Ceuta,1000,35.915916,-5.372888,13,9,2009
+3201858910,Pernis apivorus,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,3,35.015804,-6.214134,14,8,2001
+3572009405,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2021
+3246599221,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,19,35.9023,-5.346128,16,4,2020
+2162801635,Pernis apivorus,MA,Rissani,Meknès-Tafilalet,12,31.278551,-4.278316,755,5,2018
+2789976220,Pernis apivorus,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+2703546193,Pernis apivorus,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,9,2019
+3152958140,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,5,2020
+3200165397,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,344,35.91514,-5.362894,6,8,2012
+2789619954,Pernis apivorus,MA,Tanger Med,Tanger-Tétouan,1,35.868065,-5.450395,261,9,2011
+2184916681,Pernis apivorus,MA,Raqbat el-Aagouz,Rabat-Salé-Zemmour-Zaer,2,33.552917,-6.259733,558,9,2018
+3234930276,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,15,35.898037,-5.341559,16,5,2020
+2715820678,Pernis apivorus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,9,2015
+2716996696,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,60,35.90542,-5.372675,221,8,2015
+2699499555,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1163,35.90542,-5.372675,221,9,2004
+1755195372,Pernis apivorus,MA,Jbel Moussa,Tanger-Tétouan,1,35.898125,-5.412033,807,10,2012
+2095286081,Pernis apivorus,MA,PN de Bouhachem,Tanger-Tétouan,7,35.260136,-5.412179,981,9,2017
+3595331549,Pernis apivorus,ES,Estación de observación O’Donnell,Ceuta,10,35.881878,-5.329693,48,5,2021
+3231975486,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,4,2020
+3241438535,Pernis apivorus,ES,"51 Pasaje Recreo Central, Ceuta, Ceuta, ES (35,889, -5,3)",Ceuta,6,35.889046,-5.299611,54,5,2020
+2698199640,Pernis apivorus,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+1369156199,Pernis apivorus,MA,Assif Amerzgane,Sous-Massa-Draa,2,31.038475,-7.215571,1324,5,2015
+2095450017,Pernis apivorus,MA,PN de Bouhachem,Tanger-Tétouan,7,35.260136,-5.412179,981,9,2017
+3579075099,Pernis apivorus,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,4,35.89167,-5.36642,307,9,2021
+3284496704,Pernis apivorus,MA,Sidi Kankouche,Tanger-Tétouan,29,35.82884,-5.707406,6,8,2007
+3207146634,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,8,35.870358,-5.520804,48,8,2007
+3268159766,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,21,35.83419,-5.581235,34,9,2011
+2699430726,Pernis apivorus,MA,Ghougine غوجين,Tanger-Tétouan,78,35.816185,-5.602753,208,8,2004
+3207927723,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,9,2003
+3291966394,Pernis apivorus,MA,Cap Malabata,Tanger-Tétouan,3,35.816746,-5.749175,59,8,2004
+3192741300,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,8,2020
+2157047396,Pernis apivorus,MA,Riad Amin,Marrakech-Tensift-Al Haouz,1,31.617235,-7.989624,472,4,2018
+2071302008,Pernis apivorus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,5,2017
+3168565002,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,5,2020
+3292102181,Pernis apivorus,MA,Cap Malabata,Tanger-Tétouan,21,35.816746,-5.749175,59,9,2003
+3200577219,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,110,35.87485,-5.457671,205,9,2006
+3235113176,Pernis apivorus,ES,"Calle Alcalde Ricardo Cerni González, Ceuta, Ceuta, ES (35,895, -5,328)",Ceuta,12,35.89492,-5.32812,21,4,2020
+2089676657,Pernis apivorus,MA,Jbel Moussa,Tanger-Tétouan,17,35.898125,-5.412033,807,9,2017
+3297369056,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,271,35.870358,-5.520804,48,9,2006
+3903539559,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.071391,-7.232161,637,9,2022
+2837502954,Pernis apivorus,ES,Spain - Estrecho de Gibraltar,,50,35.972116,-5.605545,0,5,2019
+3995984324,Pernis apivorus,MA,Morocco - Ain Dorbane,,1,33.071339,-7.232219,637,9,2022
+2768995510,Pernis apivorus,ES,Benzú,Ceuta,5,35.915916,-5.372888,13,6,2013
+3214135304,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,10,35.908447,-5.482022,5,8,2011
+2726599524,Pernis apivorus,ES,"Mendicuti/Lomas de Topete, de Isabel II y de Luengo",Ceuta,4,35.89257,-5.357019,174,8,2010
+3997412531,Pernis apivorus,ES,Spain - Ciudad de Ceuta,,1,35.902686,-5.28831,33,9,2022
+3824024151,Pernis apivorus,MA,Morocco - Zaida,,1,32.792881,-4.931817,1505,4,2022
+3692514136,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,11,35.90542,-5.372675,221,5,2021
+2716610473,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,227,35.908447,-5.482022,5,9,2011
+3148773225,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,5,2020
+1614173027,Pernis apivorus,ES,Arroyo de las bombas,Ceuta,1,35.88333,-5.31667,0,5,2002
+1291077251,Pernis apivorus,ES,,,1,35.946883,-5.641479,0,5,2016
+3415497957,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.069692,-7.236172,631,10,2021
+4054827276,Pernis apivorus,MA,,Tanger - Tétouan,1,35.769371,-5.581127,563,5,2022
+3773231863,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.069576,-7.236189,629,5,2022
+3802288518,Pernis apivorus,MA,,Chaouia - Ouardigha,1,33.069707,-7.236244,631,5,2022
+3723191661,Pernis apivorus,MA,Morocco - Ben Ahmed,,1,33.069699,-7.236274,630,10,2021
+2833267753,Pernis apivorus,ES,Spain - Melilla - Barranco del Nano,,102,35.310817,-2.960957,115,5,2018
+3676691865,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3642089368,Pernis apivorus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2021
+2723650513,Pernis apivorus,MA,Mirador Dalia,Tanger-Tétouan,1,35.899277,-5.474803,94,9,2019
+3203405173,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,8,2020
+2144272163,Pernis apivorus,MA,Punta Almarsa,Tanger-Tétouan,2,35.909977,-5.397656,30,4,2018
+1194880366,Pernis apivorus,MA,"Intercontinental Hotel, Tangier",Tanger-Tétouan,1,35.774055,-5.809879,34,10,2014
+2160763543,Pernis apivorus,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,5,2018
+1759975078,Pernis apivorus,MA,MA-Tangier-Tetouan-Tangier-Rue Khatib - 35.784x-5.81,Tanger-Tétouan,1,35.78443,-5.81016,39,9,2016
+2171841142,Pernis apivorus,MA,N13 n. of Midelt,Meknès-Tafilalet,1,32.752586,-4.920394,1477,5,2018
+3564452482,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,396,35.90542,-5.372675,221,8,2021
+2773661755,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2019
+3580800235,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+3562130331,Pernis apivorus,ES,Arroyo del Infierno--Area general,Ceuta,1,35.88736,-5.35196,67,9,2021
+3149124076,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2020
+3148316471,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,4,2020
+2770801599,Pernis apivorus,ES,Arroyo del Infierno,Ceuta,3,35.892666,-5.344787,31,3,2003
+3238302348,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,19,35.8899,-5.319831,7,5,2020
+3573789603,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2021
+2725017052,Pernis apivorus,ES,Monte Hacho,Ceuta,24,35.89719,-5.290354,161,6,2002
+3648215059,Pernis apivorus,MA,Agadir to Marrakesh en route,Sous-Massa-Draa,1,30.833694,-9.127625,888,3,2009
+3294897277,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,6,35.870358,-5.520804,48,8,2001
+3208115419,Pernis apivorus,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,5,2014
+3300281257,Pernis apivorus,MA,Ksar seghir,Tanger-Tétouan,30,35.84595,-5.562096,23,8,2004
+3215365933,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,4,35.908447,-5.482022,5,8,2007
+3204912739,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,10,35.87485,-5.457671,205,9,2003
+2682298769,Pernis apivorus,MA,Asif Tifnout,Sous-Massa-Draa,1,30.700294,-8.162112,689,4,2019
+3281551082,Pernis apivorus,MA,Ras Al Ahmiar,Tanger-Tétouan,1,35.913074,-5.464302,34,9,2005
+3654940183,Pernis apivorus,ES,Estación de observación O’Donnell,Ceuta,5,35.881878,-5.329693,48,5,2021
+2667264857,Pernis apivorus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2007
+2761696644,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,5,2019
+3244295827,Pernis apivorus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,19,35.89061,-5.347041,50,5,2020
+3297827184,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,11,35.870358,-5.520804,48,8,2001
+2110721345,Pernis apivorus,MA,Tanger med port,Tanger-Tétouan,10,35.8862,-5.465956,230,9,2017
+2204663897,Pernis apivorus,MA,"N13, Drâa-Tafilalet, MA (32.615, -4.528)",Meknès-Tafilalet,25,32.61482,-4.528321,1776,9,2018
+2685460349,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,5,2019
+3206587736,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,83,35.908447,-5.482022,5,9,2003
+2166992223,Pernis apivorus,MA,Random stop along Hwy 13,Meknès-Tafilalet,2,32.41598,-4.483979,1497,4,2018
+3553534368,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,9,35.91514,-5.362894,6,8,2021
+3205895840,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,227,35.908447,-5.482022,5,9,2011
+3215511628,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,133,35.87485,-5.457671,205,8,2012
+1789360225,Pernis apivorus,MA,La Belle View,Sous-Massa-Draa,31,30.860542,-8.37701,2038,9,2016
+2785859900,Pernis apivorus,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,10,2019
+3640409789,Pernis apivorus,ES,Casco urbano—Barrio de El Polígono,Ceuta,1,35.8866,-5.324185,33,5,2021
+3276555996,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,6,35.908447,-5.482022,5,9,2006
+3301090345,Pernis apivorus,MA,Jbel Moussa Lodge,Tanger-Tétouan,19,35.875282,-5.455956,231,9,2006
+2161744506,Pernis apivorus,MA,Punta Almarsa,Tanger-Tétouan,2,35.909977,-5.397656,30,4,2018
+1789944859,Pernis apivorus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2009
+3624059689,Pernis apivorus,MA,Ifrane,Meknès-Tafilalet,1,33.41615,-5.162115,1816,4,2018
+3205367096,Pernis apivorus,MA,Cap Malabata,Tanger-Tétouan,73,35.816746,-5.749175,59,8,2004
+2170597917,Pernis apivorus,MA,Plaines de Zaida,Meknès-Tafilalet,1,32.791946,-4.944277,1483,5,2018
+2776433375,Pernis apivorus,MA,Ksar seghir,Tanger-Tétouan,3,35.84595,-5.562096,23,8,2004
+2752370563,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,17,35.9023,-5.346128,16,5,2019
+3208448797,Pernis apivorus,MA,Oued Alian,Tanger-Tétouan,34,35.828426,-5.640933,82,9,2003
+3200837877,Pernis apivorus,MA,Port d'Asilah,Tanger-Tétouan,2,35.46962,-6.035614,8,9,2003
+2165419567,Pernis apivorus,MA,Jbel Moussa Lodge,Tanger-Tétouan,9,35.875282,-5.455956,231,4,2018
+3659706259,Pernis apivorus,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,4,35.89167,-5.36642,307,9,2021
+2799729721,Pernis apivorus,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,340,35.89167,-5.36642,307,9,2011
+3216258118,Pernis apivorus,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,9,2019
+3277583721,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2775927878,Pernis apivorus,MA,"Unnamed Road, MA (35,937, -5,543)",Tanger-Tétouan,3,35.936653,-5.543026,0,9,2018
+3282139724,Pernis apivorus,MA,"Avenue Ahmed Bel Frej, Fès, Fès-Meknès, MA (34,018, -5,007)",Fès-Boulemane,1,34.01827,-5.007406,435,9,2019
+3286628502,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,1,35.83419,-5.581235,34,8,2007
+3234312196,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,25,35.91514,-5.362894,6,5,2020
+2071160530,Pernis apivorus,MA,roadside stop,Meknès-Tafilalet,1,33.43452,-5.185718,1611,4,2017
+2712099832,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,902,35.90542,-5.372675,221,9,2004
+2184914565,Pernis apivorus,MA,Moufaraoua,Rabat-Salé-Zemmour-Zaer,251,33.444515,-6.068133,1049,9,2018
+3284968315,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,5,35.90542,-5.372675,221,8,2012
+2698532185,Pernis apivorus,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+3205096595,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,106,35.908447,-5.482022,5,9,2007
+3666232018,Pernis apivorus,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2021
+3299685999,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,1,35.908447,-5.482022,5,9,2005
+1177779301,Pernis apivorus,MA,Région de Merzouga,Meknès-Tafilalet,1,31.139582,-4.024086,710,6,2014
+3286694316,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,8,2020
+3290993891,Pernis apivorus,MA,Ras Altares,Tanger-Tétouan,1,35.829258,-5.71963,47,8,2001
+3290339283,Pernis apivorus,MA,Ksar seghir,Tanger-Tétouan,1,35.84595,-5.562096,23,8,2004
+3630878520,Pernis apivorus,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,5,2021
+2209394698,Pernis apivorus,MA,Moufaraoua,Rabat-Salé-Zemmour-Zaer,251,33.444515,-6.068133,1049,9,2018
+2723163565,Pernis apivorus,ES,Monte de Isabel II,Ceuta,400,35.892666,-5.365797,333,8,2016
+3651483026,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2021
+1402535551,Pernis apivorus,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,9,2014
+3646552789,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2165472739,Pernis apivorus,MA,Jbel Moussa Lodge,Tanger-Tétouan,3,35.875282,-5.455956,231,4,2018
+3148995819,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,5,2020
+2725419843,Pernis apivorus,ES,Arroyo de Calamocarro,Ceuta,3,35.910793,-5.368713,140,8,2015
+3207573520,Pernis apivorus,MA,Ksar seghir,Tanger-Tétouan,3,35.84595,-5.562096,23,9,2007
+3542544889,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+3292012455,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,254,35.87485,-5.457671,205,9,2007
+1791458921,Pernis apivorus,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2005
+3223941750,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,8,35.8899,-5.319831,7,5,2020
+2766614813,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,21,35.83419,-5.581235,34,9,2011
+3151207395,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,4,2020
+3293444621,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,8,35.870358,-5.520804,48,8,2001
+2682590057,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,140,35.898037,-5.341559,16,5,2019
+2186165020,Pernis apivorus,MA,Tanger--Medina,Tanger-Tétouan,27,35.788074,-5.810396,36,9,2018
+3236338941,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2787973625,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,3,2012
+3249160022,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,19,35.9023,-5.346128,16,4,2020
+3289045571,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,433,35.870358,-5.520804,48,9,2007
+3608816599,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,14,35.965782,-5.609035,0,9,2021
+2777102335,Pernis apivorus,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,1,35.89167,-5.36642,307,6,2009
+2684060645,Pernis apivorus,ES,Costa norte--Area general,Ceuta,13,35.90671,-5.348191,30,5,2019
+2171750465,Pernis apivorus,MA,P7217,Meknès-Tafilalet,1,33.38322,-5.221939,1792,5,2018
+3148976809,Pernis apivorus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,45,35.89061,-5.347041,50,5,2020
+2666401192,Pernis apivorus,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,4,2019
+2185964707,Pernis apivorus,MA,"N13, Drâa-Tafilalet, MA (32.615, -4.528)",Meknès-Tafilalet,25,32.61482,-4.528321,1776,9,2018
+3204370572,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,341,35.87485,-5.457671,205,9,2007
+2196471356,Pernis apivorus,MA,Raqbat el-Aagouz,Rabat-Salé-Zemmour-Zaer,2,33.552917,-6.259733,558,9,2018
+3180640496,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2020
+3265210936,Pernis apivorus,ES,Pista la Lastra,Ceuta,1,35.90559,-5.361607,175,9,2020
+2182934482,Pernis apivorus,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,5,33.65042,-5.029721,1470,5,2018
+3205998323,Pernis apivorus,MA,Port Tanger-Med,Tanger-Tétouan,4,35.870358,-5.520804,48,8,2001
+3206093407,Pernis apivorus,MA,Al Marsa road,Tanger-Tétouan,32,35.887596,-5.461356,256,9,2005
+3190455874,Pernis apivorus,ES,"2Z Calle 030, Ceuta, Ceuta, ES (35,895, -5,322)",Ceuta,5,35.895344,-5.322158,4,9,2020
+3147249965,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,13,35.8899,-5.319831,7,4,2020
+2175738171,Pernis apivorus,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,5,33.65042,-5.029721,1470,5,2018
+3138254987,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2020
+3229729924,Pernis apivorus,ES,"N-354, Ceuta, ES (35,912, -5,359)",Ceuta,1,35.91187,-5.359364,19,5,2020
+3267827461,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,36,35.87485,-5.457671,205,9,2014
+2718991921,Pernis apivorus,ES,Arroyo de las Bombas,Ceuta,60,35.881992,-5.372083,103,8,2015
+3216598964,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,74,35.87485,-5.457671,205,9,2005
+3299243241,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+3226749868,Pernis apivorus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,5,2020
+1410523328,Pernis apivorus,MA,Jebel Toubkal High Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.059528,-7.913936,4076,9,2007
+3153148208,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,8,35.8899,-5.319831,7,5,2020
+3211808392,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,2674,35.87485,-5.457671,205,8,2012
+2051534035,Pernis apivorus,MA,Wade Gaulmima,Meknès-Tafilalet,1,32.637375,-4.554005,1552,4,2017
+3201465190,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,3,35.90542,-5.372675,221,8,2020
+3274720842,Pernis apivorus,MA,Unnamed lookout behind the jbel musa,Tanger-Tétouan,18,35.86239,-5.441213,249,9,2003
+2765042036,Pernis apivorus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,5,2019
+3238874068,Pernis apivorus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,6,2020
+3211506960,Pernis apivorus,MA,Punta Cires,Tanger-Tétouan,4,35.908447,-5.482022,5,4,2007
+1790204281,Pernis apivorus,ES,"Ceuta, playa Benítez",Ceuta,29,35.90096,-5.344425,3,9,2014
+2729278005,Pernis apivorus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2007
+3545326353,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,2,35.90542,-5.372675,221,9,2021
+3288791081,Pernis apivorus,MA,Dchar Lechehba مدشر لشهبة,Tanger-Tétouan,691,35.80007,-5.568318,85,8,2004
+3171278846,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,17,35.8899,-5.319831,7,5,2020
+3168090322,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,4,2020
+1789940748,Pernis apivorus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2009
+3165585725,Pernis apivorus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,6,2020
+3281675806,Pernis apivorus,MA,Unnamed lookout behind the jbel musa,Tanger-Tétouan,181,35.86239,-5.441213,249,9,2014
+3637930674,Pernis apivorus,MA,Jbel Moussa,Tanger-Tétouan,4,35.898125,-5.412033,807,9,2013
+3230150948,Pernis apivorus,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,5,2020
+2198922111,Pernis apivorus,ES,"Calle Segismundo Moret, Tarifa, Andalucía, ES (35,979, -5,564)",Andalucía,12,35.97856,-5.56356,0,9,2018
+2141550626,Pernis apivorus,MA,Jbel Moussa Lodge,Tanger-Tétouan,2,35.875282,-5.455956,231,4,2018
+3206218212,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,2000,35.87485,-5.457671,205,8,2004
+2714599378,Pernis apivorus,ES,Playa de la Ribera,Ceuta,3000,35.88705,-5.316519,0,6,2009
+2088488580,Pernis apivorus,MA,"(35,8318,-5,6858)",Tanger-Tétouan,14,35.831764,-5.685815,74,8,2017
+2719742128,Pernis apivorus,ES,"Calle Segismundo Moret, Tarifa, Andalucía, ES (35,979, -5,564)",Andalucía,12,35.97856,-5.56356,0,9,2018
+3204311852,Pernis apivorus,MA,Observatorio El Cañón,Tanger-Tétouan,582,35.83419,-5.581235,34,9,2007
+3206213731,Pernis apivorus,MA,Observatorio de La Venta,Tanger-Tétouan,29,35.87485,-5.457671,205,9,2014
+3649247105,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3300737363,Pernis apivorus,MA,Ksar seghir,Tanger-Tétouan,21,35.84595,-5.562096,23,9,2003
+3148672736,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,35,35.8899,-5.319831,7,5,2020
+2634448374,Pernis apivorus,MA,,Meknès - Tafilalet,1,31.4296,-4.220005,811,5,2018
+2832404191,Pernis apivorus,MA,Morocco - Sidi Yahya Zaer,,1,33.759027,-6.912804,241,5,2011
+3825790277,Pernis apivorus,MA,Morocco - Taghramt,,120,35.87571,-5.456113,232,5,2022
+2772907297,Pernis apivorus,MA,Gorge du Todra,Sous-Massa-Draa,1,31.526972,-5.530758,1281,4,2001
+3825956031,Pernis apivorus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.173142,-3.986279,783,5,2012
+3725859081,Pernis apivorus,ES,Spain - Melilla - Barranco del Nano,,51,35.310903,-2.961032,114,6,2020
+3903954358,Pernis apivorus,MA,Morocco - Lqliaa,,15,30.346953,-9.567875,9,9,2018
+3996181314,Pernis apivorus,ES,Spain - Ciudad de Ceuta,,1,35.902641,-5.288335,32,9,2022
+3726569881,Pernis apivorus,ES,Spain - Melilla,,21,35.281478,-2.950344,36,9,2020
+3997611174,Pernis apivorus,MA,Morocco - Ain Dorbane,,1,33.071267,-7.232301,636,9,2022
+2840993374,Pernis apivorus,MA,Morocco - Tangerois,,368,35.882658,-5.475099,165,9,2011
+2840620877,Pernis apivorus,ES,Spain - Zona marítimo terrestre de los acantilados de Aguadú,,7,35.319113,-2.953212,92,9,2018
+3995034947,Pernis apivorus,MA,Morocco - Ouaklim,,1,31.404905,-5.718024,1362,5,2022
+2840765781,Pernis apivorus,MA,Morocco - Taghramt,,238,35.852996,-5.440224,440,5,2018
+2832835892,Pernis apivorus,MA,Morocco - Ait Siberne,,1,33.827444,-5.926259,150,5,2016
+3905828687,Pernis apivorus,MA,Morocco - Région de Merzouga (Erfoud),,1,31.125519,-3.991021,722,5,2012
+2839314139,Pernis apivorus,MA,Morocco - Lac de Yasmina,,1,31.214352,-3.988742,733,5,2012
+3827095738,Pernis apivorus,MA,Morocco - Ben Ahmed,,12,33.069739,-7.236199,631,5,2022
+3904060174,Pernis apivorus,MA,Morocco - Ben Ahmed,,1,33.069703,-7.236221,631,5,2022
+3997379165,Pernis apivorus,ES,Spain - Ciudad de Ceuta,,1,35.902641,-5.288335,32,9,2022
+3165128142,Pernis apivorus,ES,Casco urbano—jardines de la Argentina,Ceuta,17,35.8899,-5.319831,7,5,2020
+3570065643,Pernis apivorus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3594847684,Pernis apivorus,ES,Estación de observación O’Donnell,Ceuta,10,35.881878,-5.329693,48,5,2021
+3680260617,Pernis apivorus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,5,2021

@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2832549534,Porphyrio alleni,MA,Morocco - Sidi Ouassay,,1,29.999871,-9.644394,9,12,2014
+2713732687,Porphyrio alleni,ES,Puerto de Ceuta,Ceuta,1,35.89239,-5.315516,4,12,2000
+1148979140,Porphyrio alleni,MA,Ait Meziane,Meknès-Tafilalet,1,33.660023,-5.04813,1504,3,2012
+3673399399,Porphyrio alleni,ES,Puerto--Area general,Ceuta,1,35.89376,-5.313418,0,12,2000

@@ -1,0 +1,674 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1370840567,Ardea purpurea,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2125591454,Ardea purpurea,MA,Larache - Alcácer Quibir,Tanger-Tétouan,1,35.197933,-6.115844,13,5,2013
+2670962353,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+3719991246,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.542751,-7.76606,13,4,2021
+2832855608,Ardea purpurea,MA,Morocco - Agadir,,1,30.3628,-9.5832,11,4,2017
+2095570444,Ardea purpurea,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,10,2017
+3282970598,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2020
+1791455618,Ardea purpurea,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,5,2012
+3521189142,Ardea purpurea,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,5,2021
+3513651707,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2021
+2758318917,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+1778373747,Ardea purpurea,MA,Saltpans between Sidi Brahim and Sidi Moussa,Doukkala-Abda,1,32.91953,-8.81089,7,3,2012
+2154002214,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2186544518,Ardea purpurea,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2014
+2171942028,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,5,2018
+2058312242,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,4,2017
+1724015836,Ardea purpurea,MA,Merja Bargha,Tanger-Tétouan,7,35.016563,-6.208759,15,3,2016
+2088292957,Ardea purpurea,MA,Embouchoure du Oued Moulouya,L'Oriental,1,35.11813,-2.340244,7,8,2017
+3615798525,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,6,2012
+3655105956,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+1167614952,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2152209461,Ardea purpurea,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+3214348062,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,8,2004
+1788112379,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,6,35.195835,-6.111832,7,2,2009
+2797744907,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2019
+2141005533,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,4,2018
+3577763745,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2008
+3216399534,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,3,2019
+2198593115,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2138009652,Ardea purpurea,MA,Oued Bouregreg--Akrech (واد بورڭراڭ ــ عكراش),Rabat-Salé-Zemmour-Zaer,1,33.93606,-6.794792,11,3,2018
+2770057057,Ardea purpurea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,4,2014
+2073135021,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2017
+3624083069,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+817008865,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2001
+2208410519,Ardea purpurea,MA,"N16, Tanger-Tétouan-Al Hoceïma, MA (35,572, -5,323)",Tanger-Tétouan,1,35.572308,-5.322643,8,9,2018
+2697950813,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+1724002887,Ardea purpurea,MA,Merja Bargha,Tanger-Tétouan,7,35.016563,-6.208759,15,3,2016
+2784418790,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2019
+3683795376,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2018
+2059809185,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3244740644,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2003
+2795257617,Ardea purpurea,ES,Monte Hacho--Parque de San Amaro,Ceuta,1,35.89759,-5.296673,24,9,2008
+2232889281,Ardea purpurea,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2017
+2792866289,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2007
+3656102029,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2021
+2151684612,Ardea purpurea,MA,Ouled Oqba er-Riah,Rabat-Salé-Zemmour-Zaer,1,34.009636,-6.784675,9,4,2018
+2161081404,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+1731805997,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+3173029469,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,7,2020
+3218760486,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,3,2020
+2717924652,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2010
+2798363264,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2007
+1402842612,Ardea purpurea,MA,Tikioute,Sous-Massa-Draa,9,29.983885,-9.659858,7,5,2015
+1410573196,Ardea purpurea,MA,Drayd (unexact),Sous-Massa-Draa,3,30.220953,-9.532614,65,3,2011
+2751858438,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2144171461,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,5,2018
+1785064051,Ardea purpurea,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+2748601158,Ardea purpurea,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+2106523506,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,5,2017
+2759955868,Ardea purpurea,MA,Oued Massa P30cross,Sous-Massa-Draa,1,29.888174,-9.589536,23,3,2007
+2662728068,Ardea purpurea,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2019
+2673415731,Ardea purpurea,MA,Bridge N of Ait Iyass,Sous-Massa-Draa,1,29.993298,-9.661251,9,3,2019
+2748801727,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+3572327663,Ardea purpurea,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,6,2002
+1409894657,Ardea purpurea,MA,Oued Assif n'Srou,Sous-Massa-Draa,1,30.704597,-9.823925,12,3,2015
+3215762814,Ardea purpurea,MA,Aït Lyass--Massa River,Sous-Massa-Draa,2,29.985668,-9.66289,10,6,2002
+3175628395,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,4,30.031328,-9.644645,8,8,2020
+3554118628,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+2745869501,Ardea purpurea,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,1,30.96861,-6.758807,1106,4,2019
+2712362466,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,6,34.24279,-6.672684,7,3,2008
+2210251356,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,8,2012
+1357632662,Ardea purpurea,MA,Oued Boukila,Guelmim-Es Smara,1,28.919855,-10.154157,214,4,2015
+3685200481,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2021
+3206699618,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,2,35.717155,-5.33949,7,9,2003
+2698528103,Ardea purpurea,MA,"Unknown Location - (34.84, -6.233)",Gharb-Chrarda-Beni Hssen,1,34.840145,-6.232605,13,9,2019
+2183686658,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,9,2018
+3241957376,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,7,2020
+1733678147,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+2137746928,Ardea purpurea,MA,Wadi,Sous-Massa-Draa,3,30.93874,-7.209286,1256,3,2018
+2068396153,Ardea purpurea,MA,Embouchoure du Oued Moulouya,L'Oriental,2,35.11813,-2.340244,7,7,2017
+2782107918,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,5,2019
+3287655201,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2020
+2714332425,Ardea purpurea,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,5,2008
+2675406882,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,13,33.54445,-7.761624,14,4,2019
+2737821161,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,5,2019
+3296412465,Ardea purpurea,MA,PN Merdja Zerka,Gharb-Chrarda-Beni Hssen,1,34.821304,-6.297861,9,4,2008
+2128092002,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+2714720043,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2018
+2076311579,Ardea purpurea,MA,Embouchoure du Oued Moulouya,L'Oriental,1,35.11813,-2.340244,7,8,2017
+1743872393,Ardea purpurea,MA,"lower Loukkos marshes (4.5-7.5 km due SE. of Larache, centre)",Tanger-Tétouan,2,35.1637,-6.1078,8,5,2016
+3599936968,Ardea purpurea,ES,Estación de observación O’Donnell,Ceuta,2,35.881878,-5.329693,48,5,2021
+2784615903,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,10,2018
+1791493717,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2012
+2712979968,Ardea purpurea,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,9,2019
+2198993290,Ardea purpurea,MA,Ouled Mhamed,Doukkala-Abda,1,32.631138,-8.782539,125,9,2018
+3576950039,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,4,2013
+2714881493,Ardea purpurea,MA,Oued Massa,Sous-Massa-Draa,6,30.008463,-9.652519,11,5,2001
+1732130721,Ardea purpurea,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+1732947422,Ardea purpurea,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+3215718188,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,4,2007
+1396342894,Ardea purpurea,MA,Al-Mansour Ad-Dahbi,Sous-Massa-Draa,1,30.9223,-6.8498,1093,4,2007
+1168969012,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Marrakech-Tensift-Al Haouz,1,31.204466,-7.85894,2608,4,2014
+1411496510,Ardea purpurea,MA,Barrage El Mansour - centre,Sous-Massa-Draa,1,30.958942,-6.755862,1112,4,2013
+1784878473,Ardea purpurea,MA,Auberge du Sud,Meknès-Tafilalet,1,31.209755,-4.023914,741,3,2015
+2752343959,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+3276541850,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+2795824979,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,3,2015
+2071315051,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,5,2017
+2775865050,Ardea purpurea,MA,Gourizim,Sous-Massa-Draa,1,29.632181,-10.005689,6,9,2019
+1726325179,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2016
+3201340763,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2006
+3259194386,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+1785053987,Ardea purpurea,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+3640071827,Ardea purpurea,MA,Asillah - South Cliffs,Tanger-Tétouan,1,35.451286,-6.0513,22,10,2021
+3196405043,Ardea purpurea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,4,2006
+3563055975,Ardea purpurea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,4,2008
+3299801719,Ardea purpurea,MA,Oued Aassif Ounila--Aït Benhaddou,Sous-Massa-Draa,1,31.045864,-7.131483,1272,4,2013
+2691796374,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,5,2019
+2791197424,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,8,2003
+2131264173,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,5,2017
+3561935574,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2000
+2181325454,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,5,2018
+2713919422,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+3256266338,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2132142071,Ardea purpurea,MA,Asif Tifnout,Sous-Massa-Draa,2,30.700294,-8.162112,689,4,2018
+1168960372,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2139640995,Ardea purpurea,MA,"(30,9384,-7,2095)",Sous-Massa-Draa,4,30.938437,-7.209453,1258,3,2018
+2150375109,Ardea purpurea,MA,Larache,Tanger-Tétouan,2,35.168407,-6.129126,65,4,2018
+2839601859,Ardea purpurea,MA,Morocco - Massa,,1,29.961884,-9.65836,9,4,2016
+2836213152,Ardea purpurea,MA,Morocco - Agadir,,1,30.363332,-9.580182,9,3,2017
+2835418216,Ardea purpurea,MA,Morocco - Massa,,1,29.99553,-9.659901,9,4,2012
+2832843303,Ardea purpurea,MA,Morocco - Massa,,1,29.978275,-9.664564,13,4,2016
+2844593179,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543736,-7.766983,13,6,2019
+2840023991,Ardea purpurea,MA,Morocco - Sidi Ouassay,,14,30.022376,-9.64325,8,8,2013
+3174729088,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,5,2005
+2157432015,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2840999474,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544589,-7.76267,11,4,2014
+2832548559,Ardea purpurea,MA,Morocco - Oualidia,,1,32.776971,-8.9761,33,4,2012
+2835808403,Ardea purpurea,MA,Morocco - Laouamra,,1,35.151494,-6.099099,9,10,2014
+2833279350,Ardea purpurea,MA,Morocco - Dar Bouazza,,3,33.543362,-7.765617,9,4,2018
+3185417339,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2001
+1755324855,Ardea purpurea,MA,"MA-Tánger-Tetuán-Arcila-Avenue Khalid Ibn Oualid - 35,476x-6,025",Tanger-Tétouan,1,35.475677,-6.025115,10,7,2016
+2839481341,Ardea purpurea,MA,Morocco - Larache,,1,35.170003,-6.109238,16,3,2016
+3299842205,Ardea purpurea,MA,Parc National de Sous Massa,Sous-Massa-Draa,1,30.055758,-9.653909,13,3,2014
+1357404815,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2015
+3279452793,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,3,2009
+2841746373,Ardea purpurea,MA,Morocco - Dar Bouazza,,8,33.543587,-7.763329,11,3,2019
+3683215028,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2021
+2751728375,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,10,2013
+3270608213,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2214535598,Ardea purpurea,MA,Punta Almarsa,Tanger-Tétouan,1,35.909977,-5.397656,30,5,2015
+2144668971,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2018
+1167606648,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+2204604968,Ardea purpurea,MA,Oued Tensift,Marrakech-Tensift-Al Haouz,1,31.689837,-7.969616,400,10,2015
+1759530889,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+2105023096,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2018
+1357280732,Ardea purpurea,MA,Oued Assif n'Srou,Sous-Massa-Draa,1,30.704597,-9.823925,12,3,2015
+2762842746,Ardea purpurea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,3,2019
+1182670245,Ardea purpurea,MA,Zeida,Meknès-Tafilalet,2,32.799072,-4.941337,1493,5,2010
+1755329033,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,7,2016
+2209980316,Ardea purpurea,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,8,2005
+3279097569,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,7,2020
+3269671307,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2671636873,Ardea purpurea,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,1,30.96861,-6.758807,1106,4,2019
+3622908402,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,5,2021
+2712891310,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,7,2009
+3617652765,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2021
+3539443308,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,5,2010
+2156103671,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,5,2018
+1786483268,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2015
+3651644705,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2021
+2683589531,Ardea purpurea,MA,Fort Bou Jerif,Guelmim-Es Smara,1,29.082088,-10.331371,85,5,2019
+2175669695,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,5,2018
+3215947784,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+3207445742,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2014
+2162164092,Ardea purpurea,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,3,2018
+1730174034,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2693737746,Ardea purpurea,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,4,2014
+2142746391,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2018
+1777491040,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2012
+3692994667,Ardea purpurea,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,9,2021
+2128125392,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,6,30.031328,-9.644645,8,4,2017
+2167613117,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,7,2018
+967515610,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2700917158,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,3,35.717155,-5.33949,7,8,2004
+2150539858,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2191400020,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,9,34.013096,-6.813711,11,8,2018
+2801448067,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2010
+3277131587,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2020
+2748088863,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+3537990362,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2021
+2070283887,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,5,2017
+1731736218,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2016
+3200548840,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,5,2009
+2190114936,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,5,2018
+1203369883,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2007
+2715430656,Ardea purpurea,ES,Puerto de Ceuta,Ceuta,1,35.89239,-5.315516,4,2,2009
+3254066942,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2003
+2789037946,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,5,2019
+2795429227,Ardea purpurea,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2002
+2728978457,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+1732130820,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2016
+2184789142,Ardea purpurea,MA,Smir-Restinga,Tanger-Tétouan,1,35.76473,-5.347699,11,11,2006
+2784653162,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2018
+2673034202,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2019
+1357502406,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2015
+577010297,Ardea purpurea,MA,Oued Massa,Sous-Massa-Draa,3,30.055128,-9.654407,8,5,2011
+2793232521,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2167312859,Ardea purpurea,MA,Souss massa national park,Sous-Massa-Draa,1,30.208197,-9.623036,75,5,2018
+2691723077,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,5,2019
+3203699536,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2006
+1396346944,Ardea purpurea,MA,Tamri,Sous-Massa-Draa,3,30.7052,-9.8417,8,4,2007
+3283271937,Ardea purpurea,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,4,2003
+2693352494,Ardea purpurea,MA,"(33,5445,-7,7594)",Grand Casablanca,2,33.544533,-7.75944,14,4,2018
+1167612299,Ardea purpurea,MA,MA-Massa NP- Pont à Ifentar,Sous-Massa-Draa,1,29.961132,-9.658121,9,4,2014
+3288692185,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,9,2006
+2053977834,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2017
+2043019531,Ardea purpurea,MA,MA-Souss-Massa-Drâa-Chtouka Ait Baha-Oued Dial Masa - 29.9874x-9.6641,Sous-Massa-Draa,1,29.987425,-9.664118,12,4,2017
+1731225354,Ardea purpurea,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+2130207596,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,4,2018
+2794739543,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,2,35.89061,-5.347041,50,3,2010
+3635904128,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,3,2019
+2188316073,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2016
+2155542045,Ardea purpurea,MA,Larache,Tanger-Tétouan,2,35.168407,-6.129126,65,4,2018
+2210018873,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2016
+3204065982,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,3,2009
+2725738559,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+2762757807,Ardea purpurea,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+1168980675,Ardea purpurea,MA,MA-Massa NP- Pont à Ifentar,Sous-Massa-Draa,1,29.961132,-9.658121,9,4,2014
+2695425807,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2008
+3203113727,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,5,2010
+1411496502,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2165369993,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2153216239,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,5,2005
+2162216193,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2186565027,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2014
+1166203966,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2074046173,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,5,2017
+2144197556,Ardea purpurea,MA,Barrage Abdelmoumen,Sous-Massa-Draa,1,30.688845,-9.220018,637,2,2014
+2138985091,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2018
+1177938117,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,6,2014
+2143473315,Ardea purpurea,MA,"(31,3036,-6,0340)",Sous-Massa-Draa,1,31.303616,-6.034014,1481,3,2018
+2743222940,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2140808584,Ardea purpurea,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,3,2018
+2722107928,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2018
+3207943163,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,6,34.24279,-6.672684,7,3,2008
+3186489528,Ardea purpurea,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,4,2003
+2778294551,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2019
+1793176985,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,3,35.152462,-6.102734,13,3,2012
+2671426283,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+2691193447,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2181337412,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,5,2018
+3289145875,Ardea purpurea,MA,MA-Sidi Abjallah (Oum Er-Rbia River),Marrakech-Tensift-Al Haouz,1,32.64195,-7.784916,193,4,2019
+2201735234,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+2056500027,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2017
+3226641426,Ardea purpurea,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2020
+2228362068,Ardea purpurea,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2017
+1168963266,Ardea purpurea,MA,MA-Massa NP- boucles de Massa,Sous-Massa-Draa,2,29.990812,-9.658347,11,4,2014
+2142899599,Ardea purpurea,MA,"(34,8043,-6,3098)",Gharb-Chrarda-Beni Hssen,1,34.804264,-6.309818,11,4,2018
+2193701374,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2018
+3649434411,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,8,2021
+3645276921,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+2746297982,Ardea purpurea,MA,"(32.6419,-7.7849)",Marrakech-Tensift-Al Haouz,1,32.64195,-7.784916,193,4,2019
+2682169334,Ardea purpurea,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,3,2019
+2800201556,Ardea purpurea,MA,Sidi Bou Ghaba Lake (30 km N of Rabat),Gharb-Chrarda-Beni Hssen,1,34.235,-6.683,19,3,2007
+1789940641,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2009
+2159311480,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2018
+1785040425,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2015
+1726400918,Ardea purpurea,MA,Draa valley,Sous-Massa-Draa,24,30.710432,-6.589147,1607,3,2016
+2194647524,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,9,2018
+2151595894,Ardea purpurea,MA,"45006 Ouarzazate, Ouarzazate MA-Souss-Massa-Drâa (30,9613,-6,7570)",Sous-Massa-Draa,1,30.961304,-6.756953,1113,3,2018
+2724814391,Ardea purpurea,MA,Aqua Mirage hotel and surrounding area,Marrakech-Tensift-Al Haouz,1,31.534313,-7.997243,548,5,2019
+2789336542,Ardea purpurea,MA,"(34,8043,-6,3098)",Gharb-Chrarda-Beni Hssen,1,34.804264,-6.309818,11,4,2018
+1357454523,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2015
+2143223247,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+1791778919,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,3,2013
+2665005407,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+2767202858,Ardea purpurea,MA,Barrage Aoulouz,Sous-Massa-Draa,4,30.686493,-8.150697,754,4,2014
+575981489,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+2765308771,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+2836186205,Ardea purpurea,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.9608,-6.7509,1095,4,2018
+2833043027,Ardea purpurea,MA,Morocco - Agadir,,1,30.363332,-9.580182,9,3,2017
+3646035934,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+2168003462,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+1763913617,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2008
+820727182,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2012
+2659072945,Ardea purpurea,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,1,30.031122,-9.644047,7,3,2007
+2099150999,Ardea purpurea,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,10,2017
+2171735230,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,4,35.195835,-6.111832,7,5,2018
+2789194788,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2007
+1791461350,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2005
+2136744909,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2018
+2662050239,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,3,2007
+3295133332,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2712301639,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+2769194541,Ardea purpurea,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,1,29.98752,-9.651463,10,3,2018
+1168967693,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+1750254342,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,24,30.918804,-6.835792,1093,3,2016
+2129057939,Ardea purpurea,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,3,2018
+1759462647,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+3273127295,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2001
+2046938938,Ardea purpurea,MA,"Oued Massa, Iyass",Sous-Massa-Draa,1,29.985262,-9.663173,11,3,2017
+2738422476,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2019
+3677816973,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2009
+2745806876,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2019
+2719226316,Ardea purpurea,MA,Plage de Tifnit,Sous-Massa-Draa,1,30.201324,-9.641147,12,4,2002
+2662016267,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2007
+2725835547,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2018
+2134643194,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2018
+2748966587,Ardea purpurea,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,3,2019
+2670382190,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+1786475732,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2015
+2668986544,Ardea purpurea,MA,"(32.6419,-7.7849)",Marrakech-Tensift-Al Haouz,1,32.64195,-7.784916,193,4,2019
+3206459096,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,2,35.717155,-5.33949,7,9,2003
+2798521514,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2008
+2716853966,Ardea purpurea,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,3,2019
+3296526451,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2668908280,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+3280626190,Ardea purpurea,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,4,2006
+2153891061,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,5,2018
+3580181895,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2021
+3214765410,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,3,2006
+2146489600,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+1791975749,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2011
+1733681858,Ardea purpurea,MA,تلال حد الغربية | Collines de Had Gharbia,Tanger-Tétouan,1,35.52147,-5.92824,68,4,2016
+2681104735,Ardea purpurea,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,1,30.96861,-6.758807,1106,4,2019
+2231679513,Ardea purpurea,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+3301227911,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,6,34.24279,-6.672684,7,3,2008
+2796654979,Ardea purpurea,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,7,2015
+2794661200,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,11,2013
+1177941097,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,6,2014
+2169872736,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,5,2018
+1402841226,Ardea purpurea,MA,Tikioute,Sous-Massa-Draa,9,29.983885,-9.659858,7,5,2015
+3293164612,Ardea purpurea,MA,"Site witheld, Atlantic coast",Doukkala-Abda,7,32.7796,-8.970971,37,4,2009
+2669871269,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2019
+2840186865,Ardea purpurea,MA,Morocco - Laouamra,,1,35.153838,-6.0898,8,5,2017
+3728576863,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.544014,-7.761808,14,4,2021
+2836707155,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.0298,-9.6448,8,4,2018
+2838717985,Ardea purpurea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.858649,-8.889227,0,7,2010
+2835738654,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544504,-7.761589,14,3,2015
+2843471368,Ardea purpurea,MA,Morocco - Agadir,,1,30.363246,-9.587401,11,8,2019
+2833324726,Ardea purpurea,MA,Morocco - Madagh,,10,35.118329,-2.342362,6,5,2018
+2841136401,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.544209,-7.761306,14,4,2019
+2832462031,Ardea purpurea,MA,Morocco - Dar Bouazza,,4,33.543897,-7.764987,9,3,2015
+3720601071,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543808,-7.762578,13,4,2021
+3718805280,Ardea purpurea,MA,Morocco - Madagh,,9,35.116402,-2.344269,8,8,2020
+2841218309,Ardea purpurea,MA,Morocco - Larache - salines de Lixus,,2,35.19,-6.16,49,4,2019
+2835690769,Ardea purpurea,MA,Morocco - Talsint,,1,32.498141,-3.409853,1239,4,2015
+2836274580,Ardea purpurea,MA,Morocco - Laouamra,,1,35.149334,-6.08809,6,4,2017
+2842860500,Ardea purpurea,MA,Morocco - Massa,,1,29.978275,-9.664564,13,4,2016
+3727368737,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543967,-7.762867,13,7,2020
+2836060705,Ardea purpurea,MA,Morocco - Sidi Ouassay,,2,30.0562,-9.6541,16,4,2017
+3720111000,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.543513,-7.764616,13,5,2021
+2836051926,Ardea purpurea,MA,Morocco - Laouamra,,1,35.144531,-6.082704,10,5,2017
+3188597975,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2003
+2836086467,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.542253,-7.767334,12,4,2014
+3647143136,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,6,2012
+2744781586,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+2660572773,Ardea purpurea,MA,Oued Massa P30cross,Sous-Massa-Draa,1,29.888174,-9.589536,23,3,2007
+3718168829,Ardea purpurea,MA,Morocco - Ras El Ma,,2,35.123035,-2.346968,4,8,2020
+2838834212,Ardea purpurea,MA,Morocco - Oualidia,,26,32.744926,-9.018544,57,9,2012
+2836765789,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031047,-9.644492,10,4,2017
+3190784790,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+920647319,Ardea purpurea,MA,Stausee El Mansour bei Ouarzazate / Marokko,,1,30.94228,-6.780281,1093,12,2008
+1337917569,Ardea purpurea,MA,"Dayet Aaoua b. Ifrane, Marokko",,1,33.663498,-5.015602,1500,3,2015
+2684574809,Ardea purpurea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,3,2019
+3285608058,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,3,35.717155,-5.33949,7,5,2003
+2839687294,Ardea purpurea,MA,Morocco - Laouamra,,1,35.162985,-6.107662,9,3,2016
+3288782259,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,3,35.717155,-5.33949,7,8,2004
+2840352290,Ardea purpurea,MA,Morocco - Sidi Ouassay,,3,30.060176,-9.660319,13,9,2013
+2835963684,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.008576,-9.643117,13,4,2015
+2840709233,Ardea purpurea,MA,Morocco - Dar Bouazza,,14,33.536087,-7.766747,11,8,2018
+2833194898,Ardea purpurea,MA,Morocco - Madagh,,1,35.119107,-2.336967,6,6,2018
+2841104046,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.543606,-7.762786,13,4,2019
+2836399979,Ardea purpurea,MA,Morocco - Larache,,1,35.195835,-6.111832,7,4,2018
+2843600973,Ardea purpurea,MA,Morocco - Dar Bouazza,,16,33.542751,-7.764046,14,8,2018
+3718646054,Ardea purpurea,MA,Morocco - Madagh,,1,35.119133,-2.337253,7,8,2020
+2839852495,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.0328,-9.6444,7,4,2016
+2840665135,Ardea purpurea,MA,Morocco - Laouamra,,1,35.13659,-6.078466,11,5,2017
+2840573301,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544649,-7.761469,14,4,2018
+2634425846,Ardea purpurea,MA,,Tanger - Tétouan,1,35.198635,-6.106766,17,5,2018
+2839270464,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.0399,-9.6422,13,4,2014
+2839206392,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.046,-9.6471,7,3,2014
+2046318610,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2017
+1722078655,Ardea purpurea,MA,lower Loukkos marshes (E. of Larache),Tanger-Tétouan,1,35.1656,-6.1082,8,3,2016
+2148455005,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2006
+1167627662,Ardea purpurea,MA,MA-Massa NP- boucles de Massa,Sous-Massa-Draa,2,29.990812,-9.658347,11,4,2014
+3294959470,Ardea purpurea,MA,Missour,Fès-Boulemane,1,33.045063,-4.003853,892,10,2013
+1788108974,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2009
+1785042821,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2015
+1411499064,Ardea purpurea,MA,Vallée des Roses--domaine générale,Sous-Massa-Draa,1,31.34626,-6.168351,1518,3,2013
+3677104293,Ardea purpurea,MA,Asillah - South Cliffs,Tanger-Tétouan,1,35.451286,-6.0513,22,10,2021
+2715843002,Ardea purpurea,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,4,2002
+1763594127,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2007
+3270795455,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2006
+1786470753,Ardea purpurea,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+2137978276,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+2758158700,Ardea purpurea,MA,"(32.6419,-7.7849)",Marrakech-Tensift-Al Haouz,1,32.64195,-7.784916,193,4,2019
+3519750707,Ardea purpurea,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,5,2021
+2151182808,Ardea purpurea,MA,Ouled Oqba er-Riah,Rabat-Salé-Zemmour-Zaer,1,34.009636,-6.784675,9,4,2018
+2680717670,Ardea purpurea,MA,Oued Anssi,Meknès-Tafilalet,6,31.227142,-4.125534,712,3,2010
+2724736886,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,5,2017
+2686248368,Ardea purpurea,MA,"(30.9686,-6.7588)",Sous-Massa-Draa,1,30.96861,-6.758807,1106,4,2019
+2669674829,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+1369602739,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2015
+3289339648,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+1166215496,Ardea purpurea,MA,MA-Massa NP- Pont à Ifentar,Sous-Massa-Draa,1,29.961132,-9.658121,9,4,2014
+2699039785,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,9,2019
+3233085735,Ardea purpurea,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2020
+578489914,Ardea purpurea,MA,Barrage al-Mansoor Ed-Dahbi,Sous-Massa-Draa,1,30.924906,-6.875381,1112,3,2011
+1395567774,Ardea purpurea,MA,Embouchure Oued Tamri - MA-Souss-Massa-Draa - 30.7116x-9.8562 - 21 juil. 2014 17:27,Sous-Massa-Draa,3,30.711645,-9.856212,10,7,2014
+3566416383,Ardea purpurea,ES,Melilla,Melilla,1,35.283035,-2.946255,28,3,2021
+2149620111,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,4,2018
+2664868028,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+2185961325,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,7,2018
+1732136975,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+3202871917,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,6,2002
+2752269752,Ardea purpurea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,11,34.861694,-6.277668,10,4,2019
+2150013737,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2018
+2715923296,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,4,2001
+1786479933,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,4,2015
+2753845546,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+2791567507,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,4,2012
+2685371419,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2011
+1168966106,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Marrakech-Tensift-Al Haouz,1,31.204466,-7.85894,2608,4,2014
+2722994014,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2012
+1168976282,Ardea purpurea,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+2747407444,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+1784885678,Ardea purpurea,MA,Merja Ouled Sgher,Tanger-Tétouan,8,35.049885,-6.207318,19,4,2015
+2762247143,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,3,2007
+2146885964,Ardea purpurea,MA,Larache,Tanger-Tétouan,2,35.168407,-6.129126,65,4,2018
+2171835007,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,5,2018
+2171851431,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,4,35.195835,-6.111832,7,5,2018
+575979375,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2007
+2725700259,Ardea purpurea,MA,Wadi | Noun River,Sous-Massa-Draa,2,29.093609,-10.334455,62,4,2012
+2075047571,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,5,2017
+3296136140,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2009
+1786484271,Ardea purpurea,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+2758517920,Ardea purpurea,MA,Oued Massa reserve,Sous-Massa-Draa,2,30.10333,-9.569435,74,5,2019
+1167623407,Ardea purpurea,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+3291787400,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2147963909,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,4,2018
+1772911700,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2012
+3139324094,Ardea purpurea,MA,"Oued Dial Masa, Chtouka Ait Baha MA-Souss-Massa-Drâa 29.99536, -9.65979",Sous-Massa-Draa,13,29.995361,-9.659795,10,3,2020
+1357450790,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2015
+2798112262,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,3,2018
+3544235302,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2018
+1355667072,Ardea purpurea,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2798615274,Ardea purpurea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2732163895,Ardea purpurea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,11,34.861694,-6.277668,10,4,2019
+1785071131,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,4,2015
+2718376202,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2007
+2143093433,Ardea purpurea,MA,"(33,5445,-7,7594)",Grand Casablanca,2,33.544533,-7.75944,14,4,2018
+3208052651,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2006
+1785074499,Ardea purpurea,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,4,2015
+1786482362,Ardea purpurea,MA,Merja Ouled Sgher,Tanger-Tétouan,8,35.049885,-6.207318,19,4,2015
+2151483164,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2018
+3613660643,Ardea purpurea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,9,2021
+2171999455,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,4,35.195835,-6.111832,7,5,2018
+3549671066,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,3,2014
+2148443433,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2006
+2691654305,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,10,2013
+2669618883,Ardea purpurea,MA,Oued Massa P30cross,Sous-Massa-Draa,1,29.888174,-9.589536,23,3,2007
+2228267049,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2017
+1732955947,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+2163098071,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2018
+3215647717,Ardea purpurea,MA,MA-Casablanca (Lac Dayat Dar Bouazza),Grand Casablanca,1,33.54363,-7.764092,12,4,2019
+2137982310,Ardea purpurea,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,3,2018
+3577428904,Ardea purpurea,ES,Loma Rubio/Loma Colmenar,Ceuta,1,35.882053,-5.339087,14,9,2021
+2154625350,Ardea purpurea,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,1,29.98752,-9.651463,10,3,2018
+3280802242,Ardea purpurea,MA,Oued Massa area,Sous-Massa-Draa,1,29.993118,-9.661185,7,2,2011
+1166038080,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Sous-Massa-Draa,1,30.697985,-8.167083,683,4,2014
+1411045413,Ardea purpurea,MA,Ait-Ouabelli,Guelmim-Es Smara,1,29.229713,-8.534911,466,3,2011
+2065189533,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,5,2017
+2795824567,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,6,2017
+2747967822,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,8,33.54445,-7.761624,14,3,2019
+1791339131,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2006
+946929521,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2013
+1165964341,Ardea purpurea,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+2719662295,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2017
+3570254988,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+1786469600,Ardea purpurea,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,4,2015
+2800681290,Ardea purpurea,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+2170751025,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,5,2018
+2797838029,Ardea purpurea,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,4,2014
+2752809525,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+2689862414,Ardea purpurea,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,3,2019
+1763599514,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2007
+2745100185,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2007
+3665727504,Ardea purpurea,MA,Merdja Zerka N.P.--Nador Canal,Gharb-Chrarda-Beni Hssen,1,34.8113,-6.299689,12,4,2013
+3687976896,Ardea purpurea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,9,2021
+2139396967,Ardea purpurea,MA,"(30,9628,-6,7535)",Sous-Massa-Draa,2,30.96285,-6.753508,1102,3,2018
+3255136236,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+3289479375,Ardea purpurea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2015
+3205713513,Ardea purpurea,MA,MA-Agadir (Imallalen-Oued Massa),Sous-Massa-Draa,2,30.003473,-9.655787,9,4,2016
+1732950955,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2016
+3211382709,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2003
+2657584637,Ardea purpurea,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,1,30.28438,-9.580526,24,4,2015
+1164457900,Ardea purpurea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+2801772117,Ardea purpurea,ES,Puerto de Ceuta,Ceuta,1,35.89239,-5.315516,4,10,2015
+1165961478,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Marrakech-Tensift-Al Haouz,1,31.204466,-7.85894,2608,4,2014
+1786469510,Ardea purpurea,MA,Auberge du Sud,Meknès-Tafilalet,1,31.209755,-4.023914,741,3,2015
+3640967613,Ardea purpurea,ES,Arroyo del Infierno--Area general,Ceuta,1,35.88736,-5.35196,67,9,2006
+3263321999,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,10,35.152462,-6.102734,13,3,2003
+1164505816,Ardea purpurea,MA,MA-Massa NP- boucles de Massa,Sous-Massa-Draa,2,29.990812,-9.658347,11,4,2014
+2739763472,Ardea purpurea,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,3,2019
+3292788502,Ardea purpurea,MA,Taliouine olive groves,Sous-Massa-Draa,7,30.52595,-7.904181,1013,3,2006
+2711643238,Ardea purpurea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2018
+3563779674,Ardea purpurea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,9,2021
+1792231757,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2013
+1790931342,Ardea purpurea,ES,"Ceuta, La Tortuga",Ceuta,1,35.901703,-5.365577,204,9,2005
+1794571557,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2136444140,Ardea purpurea,MA,Oued Bouregreg--Akrech (واد بورڭراڭ ــ عكراش),Rabat-Salé-Zemmour-Zaer,1,33.93606,-6.794792,11,3,2018
+2717424278,Ardea purpurea,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,9,2006
+1733673733,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2016
+3677026139,Ardea purpurea,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,4,2018
+3575470918,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+3285995954,Ardea purpurea,MA,MA-Ouarzazate (Mansour Eddahbi Dam),Sous-Massa-Draa,1,30.923555,-6.865172,1102,4,2019
+1167613578,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Marrakech-Tensift-Al Haouz,1,31.204466,-7.85894,2608,4,2014
+2789271489,Ardea purpurea,MA,Tamri,Sous-Massa-Draa,1,30.696974,-9.834137,11,5,2001
+3140773038,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2020
+2784065342,Ardea purpurea,MA,"Unknown Location - (34.84, -6.233)",Gharb-Chrarda-Beni Hssen,1,34.840145,-6.232605,13,9,2019
+2140946339,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2018
+3216339736,Ardea purpurea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,8,2013
+1409657625,Ardea purpurea,MA,Larache - Alcácer Quibir,Tanger-Tétouan,1,35.197933,-6.115844,13,5,2013
+3528763403,Ardea purpurea,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,5,2021
+3577267324,Ardea purpurea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,6,34.24279,-6.672684,7,3,2008
+1184165038,Ardea purpurea,MA,résidence les jardins d'assilah,Tanger-Tétouan,10,35.473164,-6.017986,24,8,2014
+3268692673,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2153495287,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2018
+3583740301,Ardea purpurea,MA,مرجة الحلوفة | Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.96267,-6.244043,11,3,2019
+3207791221,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,8,2004
+2151000911,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,4,2018
+3273910439,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2020
+1721424519,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,15,30.918804,-6.835792,1093,3,2016
+3556361197,Ardea purpurea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,9,2021
+1187823410,Ardea purpurea,MA,essaouira,Marrakech-Tensift-Al Haouz,2,31.50363,-9.84375,0,9,2014
+3299499341,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2012
+3157094018,Ardea purpurea,MA,"Oued Dial Masa, Chtouka Ait Baha MA-Souss-Massa-Drâa 29.99536, -9.65979",Sous-Massa-Draa,13,29.995361,-9.659795,10,3,2020
+3274411440,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,2,35.717155,-5.33949,7,9,2007
+2802002897,Ardea purpurea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,4,2016
+2667806246,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,3,2007
+3676137831,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2021
+2771732231,Ardea purpurea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2019
+2700359232,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+2659779233,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,3,2007
+2232546625,Ardea purpurea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2017
+2694438026,Ardea purpurea,MA,Oued Massa,Sous-Massa-Draa,1,30.057463,-9.655754,16,4,2006
+3214108461,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,8,2010
+3273064295,Ardea purpurea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2011
+3198850162,Ardea purpurea,MA,"Unnamed Road, Agadir, Souss Massa, MA (30,373, -9,604)",Sous-Massa-Draa,1,30.373161,-9.604058,12,3,2016
+2725842482,Ardea purpurea,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2018
+3295900226,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,8,2006
+2774155157,Ardea purpurea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,11,34.861694,-6.277668,10,4,2019
+2128219919,Ardea purpurea,MA,"Morocco, Oued Massa",Sous-Massa-Draa,2,29.998064,-9.659052,8,4,2017
+2776818559,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,6,2019
+2838642212,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544185,-7.762785,13,10,2013
+2836925747,Ardea purpurea,MA,Morocco - Massa,,1,29.993599,-9.660349,11,4,2018
+2059812765,Ardea purpurea,MA,Oued Masa – Sidi Binzarne road,Sous-Massa-Draa,2,30.048294,-9.648356,8,4,2017
+1788955590,Ardea purpurea,MA,Oued Smir,Tanger-Tétouan,1,35.70255,-5.33778,7,3,2016
+2833745837,Ardea purpurea,MA,Morocco - Dar Bouazza,,13,33.544542,-7.761497,14,4,2019
+2839352439,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.046,-9.6471,7,3,2014
+3172485953,Ardea purpurea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,10,35.152462,-6.102734,13,3,2003
+3209660852,Ardea purpurea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,14,35.717155,-5.33949,7,8,2007
+2094315338,Ardea purpurea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,6,34.013096,-6.813711,11,8,2017
+2835808728,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.008576,-9.643117,13,4,2015
+2833083550,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031,-9.6445,10,4,2017
+2839049644,Ardea purpurea,MA,Morocco - Salines de Oualidia,,1,32.785182,-8.969908,8,5,2014
+3727891922,Ardea purpurea,MA,Morocco - Tamri estuary,,2,30.709039,-9.85485,12,7,2020
+2833452409,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.543362,-7.765617,9,4,2018
+2832941112,Ardea purpurea,MA,Morocco - Laouamra,,1,35.149334,-6.08809,6,4,2017
+2838893246,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.030621,-9.644723,10,3,2014
+2844419201,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.544403,-7.759929,11,4,2019
+2832489762,Ardea purpurea,MA,Morocco - Massa,,1,29.985765,-9.663877,16,3,2015
+2837461991,Ardea purpurea,MA,Morocco - Massa,,1,29.979656,-9.666022,14,5,2018
+3717573214,Ardea purpurea,MA,Morocco - Tamri estuary,,1,30.708302,-9.853621,11,7,2020
+2839110486,Ardea purpurea,ES,Spain - Melilla,,2,35.281448,-2.95034,35,4,2020
+2836238493,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031047,-9.644492,10,4,2017
+2832539758,Ardea purpurea,MA,Morocco - Massa,,1,29.987465,-9.6649,12,3,2015
+2839018956,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544399,-7.76197,12,4,2013
+2840943706,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.554481,-7.741699,11,5,2016
+2832505433,Ardea purpurea,MA,Morocco - Massa,,1,30.0017,-9.6568,12,4,2014
+2840177755,Ardea purpurea,MA,Morocco - Massa,,1,29.996524,-9.659394,7,4,2012
+2840259271,Ardea purpurea,MA,Morocco - Massa,,1,29.993599,-9.660349,11,4,2018
+2836773959,Ardea purpurea,MA,Morocco - Massa,,1,29.9619,-9.6587,7,3,2018
+2835559184,Ardea purpurea,MA,Morocco - Sidi Ouassay,,3,30.060176,-9.660319,13,9,2013
+2838323812,Ardea purpurea,MA,Morocco - Oualidia,,1,32.776971,-8.9761,33,4,2012
+2832972450,Ardea purpurea,MA,Morocco - Agadir,,1,30.363332,-9.580182,9,3,2017
+2839247751,Ardea purpurea,MA,Morocco - Laouamra,,4,35.152967,-6.103562,14,3,2015
+2838433529,Ardea purpurea,MA,Morocco - Massa,,1,29.956464,-9.655819,20,4,2016
+2839941387,Ardea purpurea,MA,Morocco - Laouamra,,1,35.160498,-6.10581,3,4,2017
+2838626890,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544578,-7.761497,14,4,2013
+2834846693,Ardea purpurea,MA,Morocco - Sidi Ouassay,,3,30.027488,-9.642749,8,4,2015
+3726787332,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544077,-7.765101,9,7,2020
+2836351515,Ardea purpurea,MA,Morocco - Massa,,2,29.968418,-9.653291,12,4,2016
+2838845834,Ardea purpurea,MA,Morocco - Oualidia,,1,32.776971,-8.9761,33,4,2012
+2843960892,Ardea purpurea,MA,Morocco - Dar Bouazza,,4,33.544828,-7.760582,12,4,2015
+2836290942,Ardea purpurea,MA,Morocco - Sidi Ouassay,,6,30.0446,-9.646,9,4,2017
+2840922491,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.0411,-9.6433,15,3,2014
+3720548049,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.546803,-7.756373,18,4,2021
+3728585986,Ardea purpurea,MA,Morocco - Madagh,,2,35.094837,-2.336164,9,8,2020
+2835920926,Ardea purpurea,MA,Morocco - Sidi Ouassay,,2,30.057199,-9.65812,12,7,2014
+2842560838,Ardea purpurea,MA,Morocco - Madagh,,1,35.119103,-2.337022,6,6,2018
+2832258764,Ardea purpurea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.833942,-8.910717,13,4,2012
+2836449020,Ardea purpurea,MA,Morocco - Laouamra,,1,35.139307,-6.079968,13,5,2017
+2842761963,Ardea purpurea,MA,Morocco - Agadir,,1,30.362286,-9.57623,9,4,2018
+2841209350,Ardea purpurea,MA,Morocco - Massa,,1,29.918829,-9.620898,16,3,2019
+2836389391,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.54515,-7.760024,9,3,2017
+2836321228,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.04452,-9.646091,9,3,2017
+2839502444,Ardea purpurea,MA,Morocco - Massa,,1,29.961884,-9.65836,9,4,2016
+2840302104,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.546474,-7.758837,17,4,2013
+2836266143,Ardea purpurea,MA,Morocco - Massa,,1,29.975512,-9.660654,11,3,2017
+2832274737,Ardea purpurea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.805469,-8.946766,12,4,2012
+2837608356,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.54356,-7.763868,10,4,2019
+2838319673,Ardea purpurea,MA,Morocco - Oualidia,,1,32.776971,-8.9761,33,4,2012
+2844083225,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031326,-9.645167,8,3,2019
+2844285180,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544426,-7.759881,11,4,2019
+3727564549,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544163,-7.761417,14,7,2020
+2669272574,Ardea purpurea,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30.9618,-6.7580)",Sous-Massa-Draa,4,30.96178,-6.757993,1105,4,2019
+2833086063,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544862,-7.761126,15,4,2018
+2840654845,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.546805,-7.756189,18,4,2018
+2840678107,Ardea purpurea,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.9608,-6.7509,1095,4,2018
+2838837561,Ardea purpurea,MA,Morocco - Massa,,1,29.975512,-9.660654,11,3,2017
+2836825287,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.0298,-9.6448,8,4,2018
+2840300829,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031418,-9.645483,12,3,2018
+2833217026,Ardea purpurea,MA,Morocco - Massa,,1,29.993599,-9.660349,11,4,2018
+2835849010,Ardea purpurea,MA,Morocco - Sidi Ouassay,,14,30.008463,-9.652176,11,8,2013
+2835937345,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.549281,-7.753229,21,4,2016
+2832961697,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.54515,-7.760024,9,3,2017
+2844507566,Ardea purpurea,MA,Morocco - Massa,,1,29.9681,-9.6584,13,3,2017
+3657389092,Ardea purpurea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,6,29.922,-9.623,14,10,2021
+2764612209,Ardea purpurea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2019
+3718282225,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.542931,-7.765502,13,10,2020
+2840408554,Ardea purpurea,MA,Morocco - Agadir,,1,30.363332,-9.580182,9,3,2017
+2840104418,Ardea purpurea,MA,Morocco - Laouamra,,1,35.160745,-6.106093,3,3,2016
+2832620751,Ardea purpurea,MA,Morocco - Massa,,1,29.995957,-9.659958,11,4,2015
+2839933407,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.54479,-7.760439,10,4,2017
+2833204250,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031112,-9.644635,9,4,2018
+2832548701,Ardea purpurea,MA,Morocco - Massa,,2,29.976518,-9.631772,57,4,2015
+2834111154,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543736,-7.766983,13,6,2019
+2833209954,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.5449,-7.760725,14,4,2018
+2844067550,Ardea purpurea,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.965236,-6.742315,1098,6,2019
+2836797631,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.545089,-7.760981,16,8,2018
+2836272703,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.010598,-9.643151,8,4,2015
+2832404484,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.544399,-7.75955,13,3,2013
+2832301126,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543827,-7.762699,14,3,2013
+2835451756,Ardea purpurea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.805469,-8.946766,12,4,2012
+2832855421,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.54515,-7.760024,9,3,2017
+2835856563,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.555272,-7.742143,17,4,2013
+2840220277,Ardea purpurea,MA,Morocco - Massa,,1,29.9881,-9.6546,15,4,2018
+2840093940,Ardea purpurea,MA,Morocco - Laouamra,,1,35.160498,-6.10581,3,4,2017
+3825153322,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.03102,-9.64453,10,3,2014
+2835979760,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.546257,-7.758864,16,4,2015
+2835972511,Ardea purpurea,MA,Morocco - Sidi Yahya Zaer,,2,33.748643,-6.93924,234,4,2013
+2843251341,Ardea purpurea,MA,Morocco - Massa,,1,29.9882,-9.6546,14,4,2018
+2840463314,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.031112,-9.644635,9,4,2018
+2840705316,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.543635,-7.765416,9,8,2018
+2843607945,Ardea purpurea,MA,Morocco - Dar Bouazza,,1,33.543736,-7.764487,14,4,2018
+2844322939,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.033398,-9.643806,8,3,2019
+2840209064,Ardea purpurea,MA,Morocco - Massa,,2,29.968418,-9.653291,12,4,2016
+2836129804,Ardea purpurea,MA,Morocco - Sidi Ouassay,,1,30.010598,-9.643151,8,4,2015
+2166986123,Ardea purpurea,MA,Merja Sidi Boughaba Wetland - South,Gharb-Chrarda-Beni Hssen,1,34.214275,-6.68905,16,4,2018
+2719422396,Ardea purpurea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,24,30.918804,-6.835792,1093,3,2016
+1743870349,Ardea purpurea,MA,"Barragem de Garde sur l'Oued Loukkos (6.8 km due SE. of Larache, centre)",Tanger-Tétouan,3,35.1554,-6.0966,9,5,2016
+2726858505,Ardea purpurea,MA,Merja Bargha,Tanger-Tétouan,7,35.016563,-6.208759,15,3,2016
+3892336219,Ardea purpurea,MA,,Tanger - Tétouan,1,35.181742,-6.117454,11,4,2012
+1737176107,Ardea purpurea,MA,Oued Massa reserve,Sous-Massa-Draa,1,30.10333,-9.569435,74,5,2016
+1167616369,Ardea purpurea,MA,MA-Aoulouz- Oued Souss,Marrakech-Tensift-Al Haouz,1,31.204466,-7.85894,2608,4,2014
+2839330595,Ardea purpurea,MA,Morocco - Massa,,1,29.9951,-9.6597,11,4,2014
+3725055578,Ardea purpurea,MA,Morocco - Tamri estuary,,1,30.711003,-9.856483,8,3,2019
+2835973764,Ardea purpurea,MA,Morocco - Sidi Ouassay,,2,30.008613,-9.643149,12,4,2015
+2837684347,Ardea purpurea,MA,Morocco - Dar Bouazza,,2,33.54417,-7.761286,14,4,2019
+2839247830,Ardea purpurea,MA,Morocco - Sidi Ouassay,,2,30.00667,-9.643013,9,4,2015

@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3694520519,Larus cachinnans,MA,Port de Larache,Tanger-Tétouan,1,35.19741,-6.143807,13,12,2021
+3733314525,Larus cachinnans,MA,Morocco - Larache - salines de Lixus,,1,35.197565,-6.143896,9,12,2021
+3656537668,Larus cachinnans,MA,Port de Larache,Tanger-Tétouan,1,35.19741,-6.143807,13,12,2021

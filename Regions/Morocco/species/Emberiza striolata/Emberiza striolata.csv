@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1806065606,Emberiza striolata,MA,"Marrakech, Innenstadt",,1,31.623129,-7.995515,469,12,2017
+1615141413,Emberiza striolata,ES,Monte mendizabal,Ceuta,1,35.88333,-5.31667,0,11,2017
+1615141405,Emberiza striolata,ES,Monte mendizabal,Ceuta,1,35.88333,-5.31667,0,11,2016

@@ -1,0 +1,431 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3625824032,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,22,35.965782,-5.609035,0,9,2021
+2737120265,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,6,30.627277,-9.886665,9,3,2007
+2104385399,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2697693846,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,25,28.086882,-12.08218,10,9,2019
+3678901344,Sterna hirundo,MA,Oued el-Ouaar,Laâyoune-Boujdour-Sakia el Hamra,1,28.172533,-11.869138,13,8,2021
+2766914080,Sterna hirundo,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,3,28.677202,-11.117936,17,1,2016
+2671510217,Sterna hirundo,MA,"Bella Vista, Ben Slimane MA-Chaouia-Ouardigha (33.8218,-7.1173)",Rabat-Salé-Zemmour-Zaer,2,33.821754,-7.117297,13,4,2019
+3570032015,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,22,35.965782,-5.609035,0,9,2021
+3582341519,Sterna hirundo,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,1,34.03392,-6.839424,10,9,2021
+3640977007,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2012
+2719690590,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2014
+2209925857,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,10,35.965782,-5.609035,0,10,2010
+3208532290,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,8,2008
+1791355541,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,10,2006
+2135153924,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2018
+2206037318,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2018
+966423470,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,2,30.368135,-9.695435,0,9,2013
+2757723200,Sterna hirundo,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,14,30.64619,-9.884273,16,4,2014
+599579734,Sterna hirundo,MA,Morocco - Tangiers,Tanger-Tétouan,1,35.781612,-5.80503,10,5,2007
+2220237265,Sterna hirundo,MA,Agadir - Beach north of the Marina,Sous-Massa-Draa,20,30.439674,-9.650419,9,2,2016
+3536702774,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,2,28.086882,-12.08218,10,9,2021
+3540638875,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2096579290,Sterna hirundo,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,10,2017
+1363541310,Sterna hirundo,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,4,2015
+3271703153,Sterna hirundo,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+2751329849,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2019
+3300904800,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2009
+2148523160,Sterna hirundo,MA,Parc Mohammed V,Doukkala-Abda,1,33.247623,-8.496273,12,4,2018
+2103838878,Sterna hirundo,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,10,2017
+2682417099,Sterna hirundo,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,14,31.093885,-4.051035,696,5,2019
+3184259105,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,6,2020
+2748685872,Sterna hirundo,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,6,29.96278,-9.659664,9,3,2019
+2681656029,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3262606160,Sterna hirundo,MA,Agadir--Commercial Port,Sous-Massa-Draa,1,30.422958,-9.643378,0,3,2001
+3583919856,Sterna hirundo,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,2,33.901142,-7.002331,11,10,2021
+3198638500,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2008
+3618212811,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3575495767,Sterna hirundo,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,27,28.04759,-12.226908,0,9,2021
+1754907811,Sterna hirundo,ES,Estrecho de Gibraltar,Andalucía,2,35.943882,-5.561142,0,5,2013
+1740063205,Sterna hirundo,MA,Casablanca,Grand Casablanca,2,33.605064,-7.619346,9,4,2016
+2187121227,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2018
+3636341722,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,22,35.965782,-5.609035,0,9,2021
+2713826263,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,15,35.965782,-5.609035,0,9,2006
+3558760922,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,35,35.965782,-5.609035,0,3,2021
+2745182647,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2019
+1402494639,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,6,30.387526,-9.873276,0,9,2014
+3653534032,Sterna hirundo,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2004
+2137074297,Sterna hirundo,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+2779866992,Sterna hirundo,MA,Akhfennir cliffs,Laâyoune-Boujdour-Sakia el Hamra,11,28.105677,-12.042407,30,9,2019
+1789931758,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2009
+1167613617,Sterna hirundo,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,3,28.001081,-12.342865,7,4,2014
+3947476357,Sterna hirundo,MA,,Souss - Massa - Draâ,1,30.363302,-9.59775,6,9,2022
+3455698489,Sterna hirundo,MA,,,1,35.918794,-5.633624,0,9,2021
+3252158012,Sterna hirundo,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,23,33.614166,-7.65144,9,9,2020
+2153232272,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,5,2005
+2160453078,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,5,2005
+2662985335,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,3,2007
+2692898561,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2781763587,Sterna hirundo,MA,Tamri,Sous-Massa-Draa,2,30.696974,-9.834137,11,5,2001
+2071882277,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,4,35.965782,-5.609035,0,7,2017
+2786256693,Sterna hirundo,MA,MA-Agadir-Océan Atlantique Pelagic,Sous-Massa-Draa,2,30.422785,-9.618474,3,9,2019
+3637850839,Sterna hirundo,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,1,28.20494,-11.781549,0,8,2021
+3537365438,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,22,35.965782,-5.609035,0,9,2021
+2835948673,Sterna hirundo,MA,Morocco - Sidi Ouassay,,1,30.031,-9.6439,7,10,2016
+2836326384,Sterna hirundo,MA,Morocco - Agadir,,1,30.362656,-9.596386,9,10,2010
+3262985221,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2001
+2778183881,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,15,28.086882,-12.08218,10,9,2019
+2671682389,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3562423004,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2681042605,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2658212203,Sterna hirundo,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+2840472696,Sterna hirundo,MA,Morocco - Agadir,,1,30.362519,-9.575967,8,4,2012
+3715430564,Sterna hirundo,MA,Morocco - Agadir,,2,30.3628,-9.5832,11,4,2017
+2840289997,Sterna hirundo,MA,Morocco - Souss-Massa NP,,1,30.079569,-9.669841,9,3,2018
+2832376542,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.366537,-9.604477,11,4,2013
+3723926719,Sterna hirundo,MA,Morocco - Akhfennir,,8,28.087732,-12.067108,12,8,2021
+2832441497,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.365299,-9.603567,5,4,2013
+2715199042,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,4,2012
+2670944994,Sterna hirundo,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,4,2019
+2685711265,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2665650026,Sterna hirundo,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,4,2019
+2754722262,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+2100022637,Sterna hirundo,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,10,2017
+1791392061,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,10,2006
+2787161842,Sterna hirundo,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,3,27.161089,-13.185421,22,11,2004
+3286644863,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+3136845437,Sterna hirundo,MA,"Imi Ouaddar, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585432,-9.757981,13,2,2020
+2088136565,Sterna hirundo,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,10,2017
+2712130594,Sterna hirundo,MA,"Agadir--Oued Souss, S of city",Sous-Massa-Draa,1,30.36324,-9.58232,8,8,2018
+2097127496,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+942118200,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,6,2008
+3647923585,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,2,28.086882,-12.08218,10,8,2021
+3520550901,Sterna hirundo,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,62,30.43855,-9.649985,11,5,2021
+3167468973,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,76,30.36236,-9.586773,10,7,2020
+3563638349,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2021
+1164912812,Sterna hirundo,MA,MA-Afkhenir,Laâyoune-Boujdour-Sakia el Hamra,1,28.095627,-12.049999,17,4,2014
+2665221060,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,3,2007
+3141825400,Sterna hirundo,MA,"Imi Ouaddar, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585432,-9.757981,13,2,2020
+1794429197,Sterna hirundo,MA,Mouth of Oued Souss,Sous-Massa-Draa,1,30.363514,-9.585015,8,10,2012
+2681481270,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3191077147,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,17,30.36236,-9.586773,10,7,2020
+2734194222,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,6,30.627277,-9.886665,9,3,2007
+2143058229,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,5,2018
+1168963238,Sterna hirundo,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,3,28.001081,-12.342865,7,4,2014
+3582936847,Sterna hirundo,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,6,2012
+3617416666,Sterna hirundo,MA,Laguna Río Martil,Tanger-Tétouan,1,35.605152,-5.274661,0,12,2014
+3567871465,Sterna hirundo,MA,"Décharge Akhfennir, MA (28,083, -12,086)",Laâyoune-Boujdour-Sakia el Hamra,3,28.083185,-12.085656,11,8,2021
+3602148647,Sterna hirundo,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,27,28.04759,-12.226908,0,9,2021
+2217317566,Sterna hirundo,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,4,31.50961,-9.773447,12,11,2018
+3544275518,Sterna hirundo,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,9,2013
+3533962555,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,1,28.086882,-12.08218,10,9,2021
+3181896959,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,8,2020
+2160765371,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,5,2018
+2700094302,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,9,2019
+2723084426,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+2728635193,Sterna hirundo,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,1,35.784985,-5.9203,216,3,2007
+1168966156,Sterna hirundo,MA,MA-Afkhenir,Laâyoune-Boujdour-Sakia el Hamra,1,28.095627,-12.049999,17,4,2014
+841351739,Sterna hirundo,MA,"Oued Souss National Park, nr. Agadir",Sous-Massa-Draa,1,30.36384,-9.600017,7,9,2004
+2672064069,Sterna hirundo,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+3684037782,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,4,28.086882,-12.08218,10,8,2021
+2763839012,Sterna hirundo,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,10,28.04759,-12.226908,0,9,2019
+1791391041,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,10,2006
+2695991675,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,4,2016
+1717611765,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2014
+2689343212,Sterna hirundo,MA,Sidi Wassay,Sous-Massa-Draa,3,30.050697,-9.695046,9,9,2013
+3510552810,Sterna hirundo,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2697108899,Sterna hirundo,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,4,34.868355,-6.293106,14,6,2019
+3258562018,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2009
+2155283468,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,6,30.387526,-9.873276,0,5,2018
+2160723174,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,6,30.387526,-9.873276,0,5,2018
+2797556494,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2004
+2785110878,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,9,2019
+3284663792,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+3681770689,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,35,35.965782,-5.609035,0,3,2021
+3575960722,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+1395152669,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,5,30.387526,-9.873276,0,9,2015
+1791458937,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,60,30.36236,-9.586773,10,4,2005
+2791138536,Sterna hirundo,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,11,2019
+3562530634,Sterna hirundo,MA,Sidi Akhfennir,Laâyoune-Boujdour-Sakia el Hamra,11,28.09356,-12.056679,15,8,2021
+2145845722,Sterna hirundo,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+1402859905,Sterna hirundo,MA,Sidi R´bat (Souss Massa),Sous-Massa-Draa,1,30.067562,-9.662948,12,5,2015
+2718612275,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,20,30.627277,-9.886665,9,5,2001
+3562727736,Sterna hirundo,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,62,30.43855,-9.649985,11,5,2021
+2792216882,Sterna hirundo,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+3209070848,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,5,30.627277,-9.886665,9,3,2001
+2740612301,Sterna hirundo,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,1,35.784985,-5.9203,216,3,2007
+3209313814,Sterna hirundo,MA,Embouchure de l'Oued Sebou,Gharb-Chrarda-Beni Hssen,500,34.270313,-6.656759,0,5,2013
+2215677514,Sterna hirundo,MA,Sidi Wassay,Sous-Massa-Draa,1,30.055443,-9.687832,12,11,2018
+2678172824,Sterna hirundo,MA,Oued Tensift,Doukkala-Abda,1,32.020954,-9.335142,13,4,2019
+3257005895,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2003
+2776263317,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,21,30.36236,-9.586773,10,8,2019
+2758274085,Sterna hirundo,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,2,2018
+2085162237,Sterna hirundo,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,10,2017
+3656508896,Sterna hirundo,ES,"Auto selected 35.93018, -5.65715",Andalucía,2,35.930176,-5.657149,0,9,2021
+2080681077,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2017
+2667601878,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+3577352142,Sterna hirundo,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,24,28.677202,-11.117936,17,8,2021
+2685529793,Sterna hirundo,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,6,29.96278,-9.659664,9,3,2019
+2661097517,Sterna hirundo,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+2209465609,Sterna hirundo,MA,Plage de Tifnit,Sous-Massa-Draa,1,30.201324,-9.641147,12,8,2018
+3233218960,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,5,30.387526,-9.873276,0,10,2003
+2096873965,Sterna hirundo,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+2696265751,Sterna hirundo,MA,Plage Blanche,Guelmim-Es Smara,15,28.961557,-10.60406,16,9,2019
+3216646799,Sterna hirundo,MA,Essaouira,Marrakech-Tensift-Al Haouz,2,31.507444,-9.775416,4,4,2016
+2739734274,Sterna hirundo,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,4,2019
+3179098440,Sterna hirundo,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,5,33.614166,-7.65144,9,9,2020
+3181154487,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,76,30.36236,-9.586773,10,7,2020
+2750866132,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,6,30.627277,-9.886665,9,3,2007
+3205835247,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2003
+2175752513,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,6,30.387526,-9.873276,0,5,2018
+3577883764,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2000
+2796601952,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2010
+3650250763,Sterna hirundo,ES,"Auto selected 35.93018, -5.65715",Andalucía,2,35.930176,-5.657149,0,9,2021
+3664449551,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2218007866,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,10,2018
+3215455403,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,11,2011
+3300692729,Sterna hirundo,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2016
+2330385856,Sterna hirundo,MA,Merja Zerga / Marokko,,1,34.844238,-6.277313,20,3,2001
+2698831069,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,9,28.086882,-12.08218,10,9,2019
+2838460955,Sterna hirundo,MA,Morocco - Oued Sous,,3,30.365649,-9.605899,6,6,2012
+2838653644,Sterna hirundo,MA,Morocco - Essaouira,,11,31.509118,-9.771481,7,5,2013
+3724548526,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,1,34.858572,-6.28447,15,2,2014
+3435058648,Sterna hirundo,MA,Réserve biologique de sidi boughaba,Maroc,1,34.25,-6.683333,5,5,2004
+2833036470,Sterna hirundo,MA,Morocco - Agadir,,10,30.362653,-9.596327,10,11,2011
+2836021953,Sterna hirundo,ES,Spain - Estrecho de Gibraltar,,2,35.941875,-5.630924,0,8,2015
+2772474214,Sterna hirundo,MA,"Agadir--Oued Souss, S of city",Sous-Massa-Draa,1,30.36324,-9.58232,8,8,2018
+2840705228,Sterna hirundo,MA,Morocco - Oued Sous,,4,30.364137,-9.602909,6,6,2012
+3724426904,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,2,34.864769,-6.281404,11,3,2016
+2052188589,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+4057276427,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.366537,-9.604477,11,4,2013
+2839744138,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.364333,-9.601107,5,4,2011
+2838358380,Sterna hirundo,MA,Morocco - Oued Sous,,4,30.366136,-9.601407,9,11,2011
+2835498602,Sterna hirundo,MA,Morocco - Arekmane,,10,35.187221,-2.835106,0,5,2013
+2835993828,Sterna hirundo,MA,Morocco - Zaër\n,,10,33.859003,-7.307732,0,9,2015
+3732161361,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,25,28.035622,-12.240143,0,8,2021
+1385359690,Sterna hirundo,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,1,34.8549,-6.2753,10,12,2009
+3728811011,Sterna hirundo,MA,Morocco - Agadir,,1,30.363913,-9.593438,9,10,2020
+3729265950,Sterna hirundo,MA,Morocco - Agadir,,2,30.367043,-9.599513,10,5,2021
+2840692358,Sterna hirundo,MA,Morocco - Sidi Ouassay,,1,30.056931,-9.654724,15,11,2018
+3724169980,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,2,34.842591,-6.278454,25,2,2012
+2835411970,Sterna hirundo,MA,Morocco - Oued Sous,,15,30.364551,-9.603652,5,9,2010
+2715607587,Sterna hirundo,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+2684354675,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2838791474,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.366537,-9.604477,11,4,2013
+2832396788,Sterna hirundo,MA,Morocco - Agadir,,1,30.362519,-9.575967,8,4,2012
+2839122684,Sterna hirundo,MA,Morocco - Agadir,,1,30.362519,-9.575967,8,4,2012
+3731736748,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,9,28.030071,-12.252936,0,9,2021
+2838912208,Sterna hirundo,MA,Morocco - Agadir,,40,30.359249,-9.580078,9,6,2014
+3947478450,Sterna hirundo,MA,,Souss - Massa - Draâ,1,30.364093,-9.591216,16,9,2022
+3014075141,Sterna hirundo,MA,,Laâyoune - Boujdour - Sakia El Hamra,1,27.992167,-12.593365,7,8,2017
+2835671623,Sterna hirundo,MA,Morocco - Agadir,,1,30.368506,-9.599648,11,4,2013
+2171838338,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2018
+2782152944,Sterna hirundo,MA,Akhfennir cliffs,Laâyoune-Boujdour-Sakia el Hamra,21,28.105677,-12.042407,30,9,2019
+1395577211,Sterna hirundo,MA,Oued Souss entre embouchure et innezgane - MA-Souss-Massa-Draa-Inezgane - 30.3491x-9.5675 - 22 juil. 2014 08:07,Sous-Massa-Draa,4,30.34907,-9.567516,12,7,2014
+2126176344,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,13,35.965782,-5.609035,0,3,2017
+1791785923,Sterna hirundo,MA,Low Draa Road,Guelmim-Es Smara,5,28.624083,-11.102164,75,1,2016
+3635352194,Sterna hirundo,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,22,28.677202,-11.117936,17,8,2021
+844108633,Sterna hirundo,MA,Atlantic Ocean-Out from Casablanca Harbor,Grand Casablanca,1,33.77653,-7.649143,0,5,2012
+3541358167,Sterna hirundo,MA,Port de Tarfaya,Laâyoune-Boujdour-Sakia el Hamra,4,27.945261,-12.935386,10,8,2021
+2197344860,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,8,2012
+3520748224,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,5,2021
+3292393881,Sterna hirundo,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,8,33.614166,-7.65144,9,9,2020
+2107221908,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2014
+2140867699,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2013
+1789065215,Sterna hirundo,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2013
+2779093835,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3582925297,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+3299724625,Sterna hirundo,MA,MA-Agadir (Oued Sous),Sous-Massa-Draa,2,30.366068,-9.591254,11,4,2019
+3556277407,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2021
+3526730254,Sterna hirundo,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,62,30.43855,-9.649985,11,5,2021
+3565595430,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,7,28.086882,-12.08218,10,9,2021
+2795310696,Sterna hirundo,MA,Église de Saint André (St. Andrew's Church),Tanger-Tétouan,2,35.783073,-5.815485,66,11,2019
+3556182099,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2021
+2701153959,Sterna hirundo,MA,Salines de Sidi Moussa,Doukkala-Abda,5,32.997078,-8.73114,7,9,2019
+3225263421,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,2,2020
+1403037089,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2014
+3640163350,Sterna hirundo,ES,"Auto selected 35.93018, -5.65715",Andalucía,2,35.930176,-5.657149,0,9,2021
+1791459731,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,100,30.36236,-9.586773,10,4,2005
+1177936666,Sterna hirundo,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,6,2014
+1167616363,Sterna hirundo,MA,MA-Afkhenir,Laâyoune-Boujdour-Sakia el Hamra,1,28.095627,-12.049999,17,4,2014
+3296996623,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2012
+2088500447,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,8,2017
+3203931831,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+3205255342,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2002
+966393712,Sterna hirundo,ES,Estrecho de Gibraltar,Andalucía,2,35.943882,-5.561142,0,5,2013
+3691238645,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2660110359,Sterna hirundo,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,1,35.784985,-5.9203,216,3,2007
+3290174474,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,10,2020
+2701854700,Sterna hirundo,MA,"Imallalen, Souss Massa, MA (30.003, -9.656)",Sous-Massa-Draa,3,30.003222,-9.655995,8,9,2019
+2700486217,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+2679706378,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2698069101,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2019
+2666607524,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,12,34.855213,-6.270397,8,4,2019
+3639248448,Sterna hirundo,ES,"Auto selected 35.93018, -5.65715",Andalucía,2,35.930176,-5.657149,0,9,2021
+1789116591,Sterna hirundo,MA,Low Draa Road,Guelmim-Es Smara,5,28.624083,-11.102164,75,1,2016
+3259757812,Sterna hirundo,ES,"31 jul. 2020 13:08-35,962, -5,657",Andalucía,1,35.961803,-5.657028,0,7,2020
+2744542883,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,3,2007
+1396503103,Sterna hirundo,MA,Trajet Azrou-Casa,Chaouia-Ouardigha,2,32.987354,-7.051291,718,4,2009
+3635220689,Sterna hirundo,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+3202804003,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2020
+3604484021,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,7,28.086882,-12.08218,10,9,2021
+3296466234,Sterna hirundo,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2006
+3528610793,Sterna hirundo,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2773596954,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,9,2019
+2773855004,Sterna hirundo,EH,lighthouse - boujdour region,Western Sahara,45,26.426212,-14.179529,9,9,2019
+1399933743,Sterna hirundo,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,11,2015
+966064812,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,2,30.368135,-9.695435,0,9,2013
+3214302759,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,5,30.387526,-9.873276,0,10,2003
+2665663312,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,12,34.855213,-6.270397,8,4,2019
+2182932157,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,5,2018
+2722030604,Sterna hirundo,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,2,31.50961,-9.773447,12,4,2016
+2724444855,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2004
+2775221668,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3189771835,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2011
+2084745037,Sterna hirundo,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+2799199432,Sterna hirundo,ES,Playa del Desnarigado,Ceuta,1,35.895134,-5.28275,2,5,2013
+3540224870,Sterna hirundo,MA,Casablanca - El Hank,Grand Casablanca,7,33.6139,-7.650566,5,9,2021
+2167642706,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2018
+2144509954,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2017
+2732481102,Sterna hirundo,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,4,2019
+3618886763,Sterna hirundo,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,3,28.20494,-11.781549,0,9,2021
+3212328599,Sterna hirundo,MA,Tan-Tan beach,Guelmim-Es Smara,15,28.488111,-11.345098,0,10,2011
+2681915185,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2098143561,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+1402859954,Sterna hirundo,MA,Sidi R´bat (Souss Massa),Sous-Massa-Draa,1,30.067562,-9.662948,12,5,2015
+3661650490,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+2213103876,Sterna hirundo,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,1,28.677202,-11.117936,17,10,2018
+2104402431,Sterna hirundo,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2713712100,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,9,2019
+599625946,Sterna hirundo,MA,Parc National de Merdja Zerka,Gharb-Chrarda-Beni Hssen,15,34.871284,-6.28418,5,12,2008
+1791258796,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2007
+2148649034,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2013
+3641196501,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,11,2003
+2762076158,Sterna hirundo,MA,"80000, Agadir MA-Souss-Massa-Drâa (30.3627,-9.5757)",Sous-Massa-Draa,2,30.362673,-9.575707,8,9,2019
+3268614497,Sterna hirundo,MA,Tan-Tan beach,Guelmim-Es Smara,10,28.488111,-11.345098,0,11,2011
+2217129231,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2018
+1795238146,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2002
+2698877765,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,25,28.086882,-12.08218,10,9,2019
+3267998503,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2106949757,Sterna hirundo,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,10,2017
+2101948353,Sterna hirundo,MA,Souss-Massa NP coast,Sous-Massa-Draa,1,29.926567,-9.760431,47,9,2017
+1720005483,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2016
+1165972555,Sterna hirundo,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,3,28.001081,-12.342865,7,4,2014
+3660307574,Sterna hirundo,MA,Casablanca - El Hank,Grand Casablanca,7,33.6139,-7.650566,5,9,2021
+3654080003,Sterna hirundo,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,8,2021
+2088545040,Sterna hirundo,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,7,2017
+2698024131,Sterna hirundo,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,9,2019
+2795343390,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+3285474127,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,8,2020
+2723795351,Sterna hirundo,MA,Agadir to Diabat,Sous-Massa-Draa,10,30.54807,-9.7229,29,5,2001
+2181317231,Sterna hirundo,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,5,31.486546,-9.769808,9,5,2018
+2702133710,Sterna hirundo,MA,Pelagic trip in Atlantic off Agadir,Sous-Massa-Draa,1,30.368135,-9.695435,0,9,2019
+1205666875,Sterna hirundo,ES,Avistamiento de Cetaceos en el Estrecho,Andalucía,1,35.95706,-5.576527,0,9,2009
+2715143400,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2003
+2775054171,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,65,28.086882,-12.08218,10,9,2019
+2175654529,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2018
+2746025822,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,4,2019
+2791672369,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2209894346,Sterna hirundo,MA,"A1, Tangier-Tétouan-Al Hoceima, MA (35,056, -6,172)",Tanger-Tétouan,1,35.055557,-6.172422,77,11,2018
+3608441667,Sterna hirundo,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,8,28.086882,-12.08218,10,8,2021
+3616197310,Sterna hirundo,ES,"Auto selected 35.93018, -5.65715",Andalucía,2,35.930176,-5.657149,0,9,2021
+1205341253,Sterna hirundo,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2005
+2771047767,Sterna hirundo,MA,"Bella Vista, Ben Slimane MA-Chaouia-Ouardigha (33.8218,-7.1173)",Rabat-Salé-Zemmour-Zaer,2,33.821754,-7.117297,13,4,2019
+3296348156,Sterna hirundo,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+2785117391,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,9,2019
+3610114266,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2012
+2744511993,Sterna hirundo,MA,"Bella Vista, Ben Slimane MA-Chaouia-Ouardigha (33.8218,-7.1173)",Rabat-Salé-Zemmour-Zaer,2,33.821754,-7.117297,13,4,2019
+942103074,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,37,30.36236,-9.586773,10,6,2008
+2774115337,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3573880699,Sterna hirundo,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,7,35.015804,-6.214134,14,9,2013
+2725739020,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+3147187857,Sterna hirundo,MA,Agadir,Sous-Massa-Draa,8,30.420769,-9.599316,24,10,2003
+1791402691,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,10,2007
+3649701334,Sterna hirundo,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2781075950,Sterna hirundo,MA,Jbel Musa,Tanger-Tétouan,10,35.89877,-5.416012,732,9,2019
+2714335883,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2011
+2199341610,Sterna hirundo,MA,Morocco - Saline de sidi brahim,Doukkala-Abda,2,32.893,-8.843,11,1,2015
+1207946694,Sterna hirundo,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,6,2014
+3211863563,Sterna hirundo,MA,Agadir,Sous-Massa-Draa,8,30.420769,-9.599316,24,10,2003
+3681133223,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3548171488,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,3,35.965782,-5.609035,0,8,2021
+1177939694,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2014
+2794981119,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2019
+3576039983,Sterna hirundo,MA,Oued Chbika,Guelmim-Es Smara,14,28.290892,-11.531591,0,8,2021
+3575385046,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3200480466,Sterna hirundo,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,1,2002
+3683027605,Sterna hirundo,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,62,30.43855,-9.649985,11,5,2021
+3168112834,Sterna hirundo,MA,Plage de Tifnit,Sous-Massa-Draa,6,30.201324,-9.641147,12,7,2020
+1348329650,Sterna hirundo,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,4,30.627277,-9.886665,9,1,2015
+3533799526,Sterna hirundo,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,3,28.20494,-11.781549,0,9,2021
+2838483261,Sterna hirundo,MA,Morocco - Zaër\n,,1,33.950993,-6.932717,6,10,2012
+2835620992,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.364333,-9.601107,5,4,2011
+2844884071,Sterna hirundo,MA,Morocco - Larache - salines de Lixus,,1,35.198674,-6.154337,7,4,2019
+3722868524,Sterna hirundo,MA,Morocco - Arekmane,,1,35.123503,-2.753174,6,9,2021
+3727370819,Sterna hirundo,MA,Morocco - Agadir,,17,30.362285,-9.587702,11,7,2020
+3723226545,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,10,28.031853,-12.250307,0,9,2021
+3732964810,Sterna hirundo,MA,Morocco - Akhfennir,,4,28.093955,-12.052914,11,8,2021
+3723320976,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,2,34.836869,-6.246556,14,2,2012
+3715778027,Sterna hirundo,MA,Morocco - Agadir,,5,30.363394,-9.59667,8,8,2018
+3182292175,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2020
+2835745392,Sterna hirundo,MA,Morocco - Souss\n,,4,30.41019,-9.655609,0,6,2012
+3578594720,Sterna hirundo,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,6,2012
+3553692181,Sterna hirundo,MA,Sidi Akhfennir,Laâyoune-Boujdour-Sakia el Hamra,4,28.09356,-12.056679,15,8,2021
+3724848281,Sterna hirundo,MA,Morocco - Agadir,,1,30.361283,-9.584599,10,11,2018
+3715499470,Sterna hirundo,MA,Morocco - Agadir,,1,30.364,-9.5953,9,4,2017
+3731212039,Sterna hirundo,MA,Morocco - Tarfaya,,7,28.087,-12.082,10,9,2021
+599604894,Sterna hirundo,MA,"Maroc, plage au sud de Rabat",Rabat-Salé-Zemmour-Zaer,1,33.893574,-7.0046,8,5,2008
+3720072935,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,2,28.03618,-12.232849,7,3,2021
+2832854610,Sterna hirundo,MA,Morocco - Zaër\n,,2,33.822369,-7.184029,0,8,2017
+2835571676,Sterna hirundo,MA,Morocco - Arekmane,,11,35.127139,-2.757955,6,5,2013
+3824314201,Sterna hirundo,MA,Morocco - Agadir,,5,30.36533,-9.59795,12,5,2022
+3717230624,Sterna hirundo,MA,Morocco - Agadir,,76,30.362396,-9.5962,10,7,2020
+3726262696,Sterna hirundo,MA,Morocco - Agadir,,2,30.364062,-9.586587,7,6,2020
+3586383450,Sterna hirundo,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,5,2019
+3716207303,Sterna hirundo,MA,Morocco - Agadir,,21,30.363246,-9.587401,11,8,2019
+3731872886,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,1,28.0319,-12.271222,7,9,2021
+2840082493,Sterna hirundo,MA,Morocco - Oued Sous,,3,30.366136,-9.602094,6,11,2011
+2840004607,Sterna hirundo,MA,Morocco - Laouamra,,1,35.162529,-6.107086,3,4,2017
+3715782580,Sterna hirundo,MA,Morocco - Agadir,,10,30.362286,-9.57623,9,4,2018
+2832577318,Sterna hirundo,MA,Morocco - Essaouira,,1,31.510773,-9.774159,10,9,2014
+2836154058,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.366537,-9.604477,11,4,2013
+3827183207,Sterna hirundo,MA,Morocco - Agadir,,2,30.362955,-9.586053,8,5,2022
+3714943480,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,1,34.858,-6.2838,12,2,2014
+3728816887,Sterna hirundo,MA,Morocco - Agadir,,5,30.363246,-9.592722,11,10,2020
+2842343899,Sterna hirundo,MA,Morocco - Agadir,,15,30.434169,-9.647769,8,8,2015
+2835314966,Sterna hirundo,MA,Morocco - Oued Sous,,30,30.36293,-9.599219,6,7,2010
+3717223327,Sterna hirundo,MA,Morocco - Agadir,,76,30.362877,-9.589662,7,7,2020
+2835712565,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.365299,-9.603567,5,4,2013
+3732224923,Sterna hirundo,MA,Morocco - Akhfennir,,11,28.095001,-12.043762,18,8,2021
+3731857217,Sterna hirundo,MA,Morocco - Akhfennir,,4,28.088943,-12.072945,7,8,2021
+2840288663,Sterna hirundo,MA,Morocco - Essaouira,,1,31.508057,-9.776494,0,5,2013
+3732590519,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,4,28.028835,-12.239519,21,9,2021
+3824305106,Sterna hirundo,MA,Morocco - Agadir,,6,30.362946,-9.586095,8,5,2022
+3722600026,Sterna hirundo,MA,Morocco - Agadir,,1,30.413946,-9.618874,0,10,2021
+2840815588,Sterna hirundo,MA,Morocco - Agadir,,2,30.363246,-9.597529,6,10,2014
+3717542833,Sterna hirundo,MA,Morocco - Agadir,,10,30.362136,-9.592923,11,8,2020
+2840214982,Sterna hirundo,MA,Morocco - Bouznika,,2,33.843882,-7.289429,0,8,2013
+2838641409,Sterna hirundo,MA,Morocco - Harhoura,,4,33.952901,-6.92791,8,9,2011
+3715196474,Sterna hirundo,MA,Morocco - Merja Zerga Parque National,,4,34.846069,-6.271074,15,10,2015
+3718016873,Sterna hirundo,MA,Morocco - Agadir,,5,30.362503,-9.586827,11,9,2020
+2835866576,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.365299,-9.603567,5,4,2013
+2832550365,Sterna hirundo,MA,Morocco - Agadir,,1,30.363395,-9.596099,13,10,2014
+2835784914,Sterna hirundo,MA,Morocco - Agadir,,25,30.366892,-9.59816,11,6,2014
+2059809945,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2017
+2840607196,Sterna hirundo,MA,Morocco - Strait of Gibraltar,,25,35.925658,-5.60146,0,9,2017
+2841275792,Sterna hirundo,MA,Morocco - Agadir,,45,30.364951,-9.598961,8,6,2014
+2839591469,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.367321,-9.60072,9,11,2011
+2832528300,Sterna hirundo,MA,Morocco - Zaër\n,,3,33.817233,-7.244909,0,9,2014
+3733179835,Sterna hirundo,MA,Morocco - Akhfennir,,3,28.082529,-12.084589,1,8,2021
+2840358609,Sterna hirundo,MA,Morocco - Oued Sous,,1,30.365299,-9.603567,5,4,2013
+2832209286,Sterna hirundo,MA,Morocco - Oued Sous,,4,30.365104,-9.5993,7,7,2011
+2832369664,Sterna hirundo,MA,Morocco - Oued Sous,,2,30.366537,-9.604477,11,4,2013
+3732052891,Sterna hirundo,MA,Morocco - Akhfennir,,2,28.087732,-12.067108,12,8,2021
+2841026871,Sterna hirundo,MA,Morocco - El Mansouria,,10,33.861293,-7.271576,0,8,2013
+3731739770,Sterna hirundo,MA,Morocco - Lagune de Khnifiss,,1,28.026638,-12.286977,10,9,2021
+3718433634,Sterna hirundo,MA,Morocco - Agadir,,2,30.363986,-9.591349,17,10,2020
+2835870308,Sterna hirundo,MA,Morocco - Sidi Ouassay,,8,30.400249,-9.694923,0,11,2012
+2838003051,Sterna hirundo,MA,Morocco - Oued Sous,,40,30.363964,-9.601459,6,8,2010
+3717452369,Sterna hirundo,MA,Morocco - Agadir,,2,30.364358,-9.596957,12,8,2020
+3725016896,Sterna hirundo,MA,Morocco - Agadir,,15,30.363394,-9.596842,8,8,2018
+2832298732,Sterna hirundo,MA,Morocco - Agadir,,1,30.362519,-9.575967,8,4,2012
+3200168461,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,9,2020
+1789145773,Sterna hirundo,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2012
+1719387433,Sterna hirundo,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2016
+2838693381,Sterna hirundo,MA,Morocco - Agadir,,13,30.363026,-9.597931,6,6,2012
+3724351706,Sterna hirundo,MA,Morocco - Essaouira,,1,31.508457,-9.768332,12,7,2014
+2835727772,Sterna hirundo,MA,Morocco - Agadir,,6,30.365877,-9.595856,11,8,2015
+3730538681,Sterna hirundo,MA,Morocco - Agadir,,1,30.363415,-9.589576,11,8,2021
+3997718552,Sterna hirundo,ES,Spain - Estrecho de Gibraltar,,13,35.965781,-5.609035,0,3,2017
+2832630697,Sterna hirundo,MA,Morocco - Souss-Massa NP,,4,30.078433,-9.673068,6,3,2015

@@ -1,0 +1,416 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1614187693,Strix aluco,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,7,2003
+1614170066,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614173022,Strix aluco,ES,Arroyo topete,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614184601,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2004
+1614187664,Strix aluco,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,5,2003
+1614187642,Strix aluco,ES,Arroyo topete,Ceuta,1,35.88333,-5.31667,0,5,2004
+1614172996,Strix aluco,ES,Arroyo topete,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614173019,Strix aluco,ES,Arroyo topete,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614148209,Strix aluco,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,9,2000
+1614184527,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2004
+3552911232,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,5,2020
+2243787204,Strix aluco,MA,"Al Haouz, Marrakech-Safi",,1,31.1938,-8.0576,917,11,2017
+2609685085,Strix aluco,MA,"Al Haouz, Marrakech-Safi",,1,31.3527,-7.7636,914,4,2017
+2210280117,Strix aluco,MA,PN Béni Snassen,L'Oriental,1,34.81067,-2.404504,794,1,2015
+3614967968,Strix aluco,ES,Balsa de la M1,Melilla,1,35.31389,-2.950727,100,4,2021
+2739649206,Strix aluco,MA,"Merijha, Tinmel Mosque, Naima Fatima, Tizi n’Test",Marrakech-Tensift-Al Haouz,2,30.981876,-8.230348,1238,5,2017
+3688181708,Strix aluco,ES,Tesoreria,Ceuta,1,35.88721,-5.304985,53,1,2021
+3552266190,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,5,2020
+2043160261,Strix aluco,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,2,31.239517,-7.664165,1364,4,2017
+3550383167,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,4,2021
+2711105248,Strix aluco,MA,"just W. of R507 at 0.5 km due NW. of jncn with P5432 (ca 26.4 km due S. of Taza, centre)",Taza-Al Hoceima-Taounate,1,33.9825,-4.0619,1398,6,2017
+3277784986,Strix aluco,MA,Plains Ifrane,Meknès-Tafilalet,1,33.484764,-5.075368,1721,3,2004
+3234281949,Strix aluco,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26438, -7.81891",Marrakech-Tensift-Al Haouz,1,31.26438,-7.818908,1514,2,2020
+3295882094,Strix aluco,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+2726527247,Strix aluco,MA,Ijjoukak,Marrakech-Tensift-Al Haouz,1,30.9984,-8.1599,1204,2,2006
+1791390747,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,3,33.916267,-6.853956,107,10,2006
+3632264221,Strix aluco,ES,Finca Ferrer,Ceuta,1,35.910786,-5.359771,51,10,2020
+2058337851,Strix aluco,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,5,2017
+2048093493,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2088140631,Strix aluco,MA,"P2030, Marrakech-Tensift-Al Haouz, MA (31,202, -7,86)",Marrakech-Tensift-Al Haouz,1,31.201721,-7.860442,2606,10,2017
+3297917192,Strix aluco,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26450, -7.81890",Marrakech-Tensift-Al Haouz,1,31.264502,-7.8189,1517,2,2020
+3602548141,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,5,2020
+2681288728,Strix aluco,MA,Bled Data,Rabat-Salé-Zemmour-Zaer,3,33.941082,-6.787908,22,6,2019
+2687629783,Strix aluco,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,2,2018
+2797878203,Strix aluco,MA,Oulad Berhil,Sous-Massa-Draa,1,30.637672,-8.465223,499,3,2018
+3568762731,Strix aluco,ES,Desembocadura del río Oro - Melilla,Melilla,1,35.287426,-2.943157,9,5,2021
+3659296556,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+3204518031,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,9,2020
+3191551081,Strix aluco,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2016
+2229630361,Strix aluco,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,1,35.129738,-5.089073,1678,1,2015
+1207814840,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+1178147895,Strix aluco,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,6,2014
+2099835454,Strix aluco,ES,"15D Carretera de Benítez, Ceuta, Ceuta, ES (35,894, -5,336)",Ceuta,2,35.894165,-5.336446,10,12,2017
+3243321944,Strix aluco,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,4,2003
+2030742818,Strix aluco,MA,Centre de Recherche Forestiere,Rabat-Salé-Zemmour-Zaer,1,33.99208,-6.84092,67,1,2017
+2165903249,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,906, -5,371)",Ceuta,2,35.906063,-5.371068,180,6,2018
+2194356045,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+2713663679,Strix aluco,ES,"40 Carretera Benzú, Ceuta, Ceuta, ES (35,917, -5,37)",Ceuta,2,35.916836,-5.37042,3,12,2019
+3540655658,Strix aluco,ES,Bda. del Mixto,Ceuta,1,35.890205,-5.331089,60,8,2020
+2665007410,Strix aluco,MA,La Bergerie Hotel,Marrakech-Tensift-Al Haouz,1,31.192757,-8.057653,926,4,2019
+3187653999,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,9,2020
+3299459933,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2042071525,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2103558543,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,11,2017
+1720006489,Strix aluco,MA,MA-مراكش-تانسيفت-الحوز-Gueliz-Avenue Djnan El Harti - 31.6236x-8.0077,Marrakech-Tensift-Al Haouz,1,31.62365,-8.007697,464,3,2016
+3281001217,Strix aluco,MA,"Hay Massira 2, Missour",Fès-Boulemane,1,33.042076,-3.988517,874,3,2020
+3194306151,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,10,2020
+2119126636,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,2,2018
+3652221430,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2717855629,Strix aluco,ES,CEUTA (casco urbano),Ceuta,4,35.888165,-5.305654,42,1,2017
+2662662361,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,4,2019
+2176771485,Strix aluco,ES,"(35,911, -5,373)",Ceuta,1,35.91144,-5.373083,100,6,2018
+2686197840,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,5,2019
+3546274064,Strix aluco,MA,"Région col Tizi-n-tichka, MA",Marrakech-Tensift-Al Haouz,2,31.307854,-7.373567,2079,11,2021
+3511194198,Strix aluco,ES,"14 Barriada el Sarchal, Ceuta, Ceuta, ES (35,89, -5,296)",Ceuta,1,35.89033,-5.296085,28,2,2021
+2222850331,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,10,2018
+3155095146,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,5,2020
+3624830742,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2103291049,Strix aluco,MA,"P2030, Marrakech-Tensift-Al Haouz, MA (31,202, -7,86)",Marrakech-Tensift-Al Haouz,1,31.201721,-7.860442,2606,10,2017
+3538662373,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,1,2021
+1769576823,Strix aluco,MA,S. of Cap Spartel (W. of Tanger),Tanger-Tétouan,1,35.7597,-5.9367,22,10,2016
+3222562111,Strix aluco,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26438, -7.81891",Marrakech-Tensift-Al Haouz,1,31.26438,-7.818908,1514,2,2020
+2132300546,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+1369702252,Strix aluco,MA,Azrou (town),Meknès-Tafilalet,2,33.440517,-5.224102,1265,5,2015
+2768671203,Strix aluco,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,5,2019
+2664445729,Strix aluco,MA,Hotel Aurocher,Marrakech-Tensift-Al Haouz,1,31.264784,-7.818445,1524,3,2019
+3723767007,Strix aluco,MA,Morocco - Ifrane NP,,3,33.418011,-5.184044,1775,3,2012
+3558788336,Strix aluco,MA,"31, Rue Youssef Ben Tachfine, Rabat, Rabat-Salé-Kénitra, MA (34.013, -6.83)",Rabat-Salé-Zemmour-Zaer,1,34.01317,-6.830163,48,10,2021
+2034440342,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2835833562,Strix aluco,MA,Morocco - Meknes,,1,33.888951,-5.546813,530,2,2015
+1614187718,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,3,2004
+1614185831,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,4,2004
+1614148236,Strix aluco,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,9,2000
+1164458116,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+1755400757,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,5,33.916267,-6.853956,107,2,2016
+2844860570,Strix aluco,ES,Spain - Melilla,,1,35.284983,-2.955079,30,9,2019
+2840262667,Strix aluco,MA,Morocco - Meknes,,1,33.888991,-5.546867,531,6,2013
+2662111466,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,3,2019
+1614185887,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,10,2004
+1614259202,Strix aluco,ES,Benzu,Ceuta,1,35.88333,-5.31667,0,3,2011
+3200480419,Strix aluco,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,3,2007
+2050703851,Strix aluco,MA,Oued N'Fis,Marrakech-Tensift-Al Haouz,1,31.168316,-8.09072,934,3,2017
+2227600241,Strix aluco,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,10,2015
+3153272446,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+3563977266,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2039416409,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2132870381,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+3608769115,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,5,2020
+3209612090,Strix aluco,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+3594063756,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,906, -5,371)",Ceuta,1,35.906063,-5.371068,180,4,2021
+2196362375,Strix aluco,ES,"(35,911, -5,376)",Ceuta,2,35.91064,-5.375993,146,10,2018
+2695430360,Strix aluco,MA,by P6012 at 2.3 km due NE. of Tafoughalt (centre),L'Oriental,1,34.8171,-2.391,647,5,2017
+3553707493,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,12,2021
+2153237700,Strix aluco,MA,La Bergerie,Marrakech-Tensift-Al Haouz,1,31.19337,-8.057564,921,4,2018
+2115167991,Strix aluco,MA,Zaers,Rabat-Salé-Zemmour-Zaer,1,33.709595,-6.925794,282,2,2017
+2174826724,Strix aluco,ES,"Carretera del Embalse, Ceuta, Ceuta, ES (35,895, -5,36)",Ceuta,2,35.894825,-5.360172,208,7,2018
+3296091090,Strix aluco,MA,"RP2017, Al Haouz MA-Marrakesh-Tensift-El Haouz (31.3134,-7.7468)",Marrakech-Tensift-Al Haouz,1,31.313356,-7.746802,1030,6,2014
+2672305825,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,4,2019
+3607619271,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,893, -5,365)",Ceuta,1,35.892776,-5.365448,328,9,2021
+3205355493,Strix aluco,MA,Tanger - Camping Miramonte,Tanger-Tétouan,1,35.791763,-5.832549,30,4,2011
+2750917068,Strix aluco,MA,"Imsouane, mer",Sous-Massa-Draa,1,30.84287,-9.819693,21,10,2019
+2042044213,Strix aluco,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,2,2017
+2725616492,Strix aluco,MA,Parc Lalla Hasna,Marrakech-Tensift-Al Haouz,1,31.623278,-7.994812,463,3,2016
+3143330194,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+3282605907,Strix aluco,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2006
+3539844041,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2225823807,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2018
+3169607718,Strix aluco,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,4,2003
+2160772722,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+2049296064,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+3567917617,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,11,2021
+1369684106,Strix aluco,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2015
+2717362681,Strix aluco,ES,Benzú,Ceuta,4,35.915916,-5.372888,13,4,2019
+1164469826,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+1760965216,Strix aluco,MA,MA-Tangier-Tetouan-Chefchaouen-Rue Sidi Ahmed El Ouafi - 35.168x-5.261,Tanger-Tétouan,1,35.16817,-5.260788,602,9,2016
+2150840898,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+1750532070,Strix aluco,MA,Sidi Eddahbi | سيدي الدهبي,Chaouia-Ouardigha,1,33.05733,-7.17669,708,7,2016
+3257352566,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+1722996682,Strix aluco,MA,Parc Lalla Hasna,Marrakech-Tensift-Al Haouz,1,31.623278,-7.994812,463,3,2016
+3651565244,Strix aluco,ES,Calle Pinar,Ceuta,1,35.8885,-5.334637,53,9,2020
+2745320036,Strix aluco,MA,"N15, Missour, Fès-Meknès, MA (33,046, -3,985)",Fès-Boulemane,1,33.045788,-3.985373,870,4,2019
+2784188925,Strix aluco,MA,Ouirgane,Marrakech-Tensift-Al Haouz,1,31.173502,-8.077418,927,3,2003
+2067711346,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,5,2017
+3572786821,Strix aluco,ES,P. Calamocarro,Ceuta,1,35.912537,-5.36079,16,8,2021
+3227501050,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+3215643358,Strix aluco,MA,Camping azila Chefchaouen Morocco,Tanger-Tétouan,2,35.17594,-5.266914,706,10,2006
+2742192291,Strix aluco,MA,"Tamatert, Imlil",Marrakech-Tensift-Al Haouz,1,31.14173,-7.903831,1917,3,2019
+2793273376,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,1,2006
+3214472583,Strix aluco,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,1,34.87073,-6.252789,11,4,2016
+2718285841,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,5,2017
+2185429916,Strix aluco,MA,Beni-Snassen 2,L'Oriental,1,34.817028,-2.304479,642,12,2014
+3255709515,Strix aluco,ES,"3 Calle Bombero Marco Antonio Navas, Ceuta, Ceuta, ES (35,89, -5,321)",Ceuta,1,35.889874,-5.321387,27,5,2020
+2137017489,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+2673581600,Strix aluco,MA,Hotel Aurocher,Marrakech-Tensift-Al Haouz,1,31.264784,-7.818445,1524,3,2019
+3171340917,Strix aluco,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,4,2003
+2766801941,Strix aluco,MA,Jbel Musa,Tanger-Tétouan,1,35.89877,-5.416012,732,9,2019
+3295861379,Strix aluco,MA,Hôtel Marrakech Le Semiramis,Marrakech-Tensift-Al Haouz,1,31.647472,-8.017874,446,4,2009
+3581507503,Strix aluco,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2013
+2069539664,Strix aluco,MA,Lalla Outka,Taza-Al Hoceima-Taounate,2,34.73905,-4.844348,1441,4,2017
+1787653441,Strix aluco,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,10,2012
+2116005873,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,1,2018
+2194240080,Strix aluco,MA,Azrou,Meknès-Tafilalet,2,33.436054,-5.219146,1299,10,2018
+2143194078,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+2154064699,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+1755498730,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,5,33.916267,-6.853956,107,2,2016
+2101380719,Strix aluco,MA,Ben Ahmed-Quartier Raja_ حي الرجاء ابن احمد,Chaouia-Ouardigha,1,33.080048,-7.237995,613,10,2017
+1789902749,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2005
+1411078900,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,3,2011
+2839920882,Strix aluco,MA,Morocco - Meknes,,1,33.888959,-5.546901,530,6,2016
+2723402529,Strix aluco,MA,Ait Bougemez valley,Tadla-Azilal,2,31.655281,-6.444857,1822,10,2019
+3629098147,Strix aluco,ES,P. Calamocarro,Ceuta,1,35.91182,-5.364197,51,10,2020
+1780025228,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2016
+2694827277,Strix aluco,MA,"21 Avenue Hassan II, Chefchaouen, Tanger-Tétouan-Al Hoceïma, MA (35.169, -5.262)",Tanger-Tétouan,1,35.168545,-5.261608,615,6,2019
+1719328709,Strix aluco,MA,MA-مراكش-تانسيفت-الحوز-Gueliz-Avenue Djnan El Harti - 31.6236x-8.0077,Marrakech-Tensift-Al Haouz,1,31.62365,-8.007697,464,3,2016
+3651023240,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2661712592,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,3,2019
+2127052135,Strix aluco,MA,"(31,1988,-8,0493)",Marrakech-Tensift-Al Haouz,1,31.198809,-8.049336,932,3,2018
+2788928355,Strix aluco,MA,Jemaa el-Fnaa,Marrakech-Tensift-Al Haouz,1,31.625834,-7.988906,460,4,2011
+2762969896,Strix aluco,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2016
+2735031767,Strix aluco,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,5,2019
+3188310968,Strix aluco,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2019
+3648625843,Strix aluco,MA,Tanger - Camping Miramonte,Tanger-Tétouan,1,35.791763,-5.832549,30,4,2011
+3619499621,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2208819032,Strix aluco,MA,Azrou,Meknès-Tafilalet,2,33.436054,-5.219146,1299,10,2018
+1410582107,Strix aluco,MA,unknown place,Marrakech-Tensift-Al Haouz,1,30.915848,-8.297682,1600,3,2011
+2180442520,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,5,2018
+2791864037,Strix aluco,MA,Lalla Takerkoust--Collines,Marrakech-Tensift-Al Haouz,3,31.334694,-8.107665,722,4,2018
+3275185127,Strix aluco,ES,Barriada San Jose,Ceuta,1,35.883865,-5.332944,57,8,2020
+3154317397,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2766397010,Strix aluco,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,6,2019
+2658664123,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,3,2019
+2739726597,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,3,2019
+2701534430,Strix aluco,MA,Ourika أوريكا,Marrakech-Tensift-Al Haouz,1,31.371399,-7.789374,867,2,2017
+2776840083,Strix aluco,MA,Jardin Majorelle,Marrakech-Tensift-Al Haouz,1,31.641361,-8.002698,456,4,2008
+2033893134,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2183855591,Strix aluco,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,9,2018
+2832439639,Strix aluco,MA,Morocco - Meknes,,1,33.887781,-5.547917,518,6,2014
+3223334015,Strix aluco,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26438, -7.81891",Marrakech-Tensift-Al Haouz,1,31.26438,-7.818908,1514,2,2020
+2839694836,Strix aluco,MA,Morocco - Meknes,,1,33.888578,-5.546345,529,10,2015
+2832875669,Strix aluco,MA,Morocco - Taghramt,,1,35.8835,-5.4296,156,4,2016
+3905781492,Strix aluco,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,1,31.263215,-7.81875,1558,6,2022
+2840873202,Strix aluco,MA,Morocco - Meknes,,1,33.888974,-5.546857,530,10,2013
+1614173029,Strix aluco,ES,Monte isabel ii,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614250044,Strix aluco,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,8,2017
+1614250052,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,9,2012
+1614173014,Strix aluco,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614173026,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614170019,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614139309,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,10,2001
+1614170044,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614173059,Strix aluco,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,2,2003
+1614148204,Strix aluco,ES,Ceuta,Ceuta,1,35.88333,-5.31667,0,5,2001
+1614184626,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2004
+2832589582,Strix aluco,MA,Morocco - Meknes,,1,33.888933,-5.546805,529,2,2015
+1167619269,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+1614174087,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2001
+1614249177,Strix aluco,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,1,2017
+1614185779,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,4,2004
+1614200601,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,4,2008
+1614170040,Strix aluco,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614249164,Strix aluco,ES,Benzu,Ceuta,1,35.88333,-5.31667,0,4,2017
+1614148186,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,7,2001
+1614172986,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,1,2002
+1614173010,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614187643,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,8,2002
+2117481865,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,1,2018
+2149435620,Strix aluco,MA,Gorges du Dadès,Sous-Massa-Draa,2,31.509192,-5.940685,1664,5,2005
+3824399232,Strix aluco,MA,Morocco - Meknes,,1,33.899701,-5.512075,533,8,2013
+2273287941,Strix aluco,MA,,Tanger - Tétouan,1,35.168934,-5.261984,619,6,2019
+2330328603,Strix aluco,MA,Ifrane / Marokko,,1,33.519646,-5.107956,1699,3,2010
+2833207905,Strix aluco,MA,Morocco - Meknes,,1,33.889201,-5.546615,536,6,2018
+2836193366,Strix aluco,MA,Morocco - Meknes,,1,33.888948,-5.546874,530,3,2016
+2836015616,Strix aluco,MA,Morocco - Meknes,,1,33.889096,-5.54666,534,2,2015
+2832359251,Strix aluco,MA,Morocco - Meknes,,1,33.889016,-5.546905,531,12,2013
+2609686051,Strix aluco,MA,"Al Haouz, Marrakech-Safi",,1,31.3527,-7.7636,914,4,2017
+3111485302,Strix aluco,MA,Azrou,,1,33.4145,-5.0848,1964,4,2010
+2243848897,Strix aluco,MA,"Marrakech, Marrakech, Marrakech-Safi",,1,31.6656,-7.9677,434,3,2019
+2840364128,Strix aluco,MA,Morocco - Ben Ahmed,,1,33.068936,-7.243838,631,6,2017
+1614185896,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,10,2004
+2835786583,Strix aluco,MA,Morocco - Talat N'Yaaqoub,,1,30.984839,-8.228241,1276,5,2013
+2685552765,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,912, -5,373)",Ceuta,4,35.91152,-5.373068,97,4,2019
+3645747582,Strix aluco,ES,Pint Ball,Ceuta,1,35.911995,-5.359826,20,2,2021
+2231027910,Strix aluco,ES,"Pista del Cojo, Ceuta, Ceuta, ES (35,911, -5,368)",Ceuta,1,35.910995,-5.368216,131,11,2018
+3224730236,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+2122371339,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,1,2018
+2118422252,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+2677706662,Strix aluco,MA,Oued Dades--Boumalne,Sous-Massa-Draa,1,31.369457,-5.988785,1522,5,2019
+3286864202,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,10,2020
+2202069022,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2018
+3139419020,Strix aluco,MA,"27000, Nouaceur MA-Grand Casablanca (33.4002,-7.5481)",Chaouia-Ouardigha,1,33.4002,-7.548116,189,2,2020
+2773039617,Strix aluco,MA,A6 car park,Tanger-Tétouan,1,35.742958,-5.353641,53,1,2018
+3594775943,Strix aluco,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2008
+1724010572,Strix aluco,MA,Marrakesh,Marrakech-Tensift-Al Haouz,1,31.623442,-7.996182,467,3,2016
+1721729168,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,5,33.916267,-6.853956,107,2,2016
+3554039267,Strix aluco,ES,"Pista del Cojo, Ceuta, Ceuta, ES (35,911, -5,363)",Ceuta,1,35.911118,-5.36319,32,12,2021
+3578516224,Strix aluco,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,9,2021
+3534004286,Strix aluco,ES,Tesoreria,Ceuta,1,35.88721,-5.304985,53,1,2021
+3685388647,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,893, -5,365)",Ceuta,1,35.892776,-5.365448,328,9,2021
+2209709281,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,10,2018
+2077658437,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,6,2017
+2040423789,Strix aluco,MA,Oued N'Fis,Marrakech-Tensift-Al Haouz,1,31.168316,-8.09072,934,3,2017
+3553194874,Strix aluco,ES,Urbanización azud,Ceuta,1,35.89239,-5.344087,55,7,2020
+2786309563,Strix aluco,MA,Bled Data,Rabat-Salé-Zemmour-Zaer,3,33.941082,-6.787908,22,6,2019
+2146498049,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+1721196623,Strix aluco,MA,Parc Lalla Hasna,Marrakech-Tensift-Al Haouz,1,31.623278,-7.994812,463,3,2016
+3686853759,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,911, -5,373)",Ceuta,2,35.911484,-5.372905,98,4,2021
+1168973424,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+3141009055,Strix aluco,MA,"P2030, Al Haouz MA-Marrakech-Tensift-Al Haouz 31.26438, -7.81891",Marrakech-Tensift-Al Haouz,1,31.26438,-7.818908,1514,2,2020
+2739739557,Strix aluco,MA,"40000, Gueliz MA-Marrakech-Tensift-Al Haouz (31.6467,-8.0184)",Marrakech-Tensift-Al Haouz,1,31.646667,-8.018366,441,3,2019
+3602264871,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+1769565368,Strix aluco,MA,S. of Cap Spartel (W. of Tanger),Tanger-Tétouan,1,35.7597,-5.9367,22,10,2016
+2173709813,Strix aluco,MA,Fôret Toufliht,Marrakech-Tensift-Al Haouz,1,31.478024,-7.434708,1465,5,2018
+1793754891,Strix aluco,MA,Jardin Majorelle,Marrakech-Tensift-Al Haouz,2,31.641361,-8.002698,456,4,2014
+2197387905,Strix aluco,MA,PN Béni Snassen,L'Oriental,1,34.81067,-2.404504,794,1,2015
+2697440939,Strix aluco,MA,Ras el-Maa,Tanger-Tétouan,1,35.167236,-5.259812,580,12,2018
+3603267667,Strix aluco,ES,Casco urbano--zona oriental,Ceuta,1,35.888542,-5.30478,40,9,2020
+2801051508,Strix aluco,MA,Aït Bouguemez,Tadla-Azilal,1,31.649729,-6.457944,1817,4,2016
+3167781589,Strix aluco,MA,Tizert,Sous-Massa-Draa,1,30.211634,-8.429473,1250,3,2020
+3596394507,Strix aluco,MA,Azrou (east),Meknès-Tafilalet,1,33.432934,-5.176328,1646,3,2007
+2796211298,Strix aluco,MA,Lalla Takerkoust--Collines,Marrakech-Tensift-Al Haouz,1,31.334694,-8.107665,722,4,2018
+2185130047,Strix aluco,MA,Jardins de la Ménara,Marrakech-Tensift-Al Haouz,2,31.61392,-8.019966,465,3,2011
+1356875945,Strix aluco,MA,Marrakesh (general area),Marrakech-Tensift-Al Haouz,2,31.6275,-8.0,461,3,2015
+2775165690,Strix aluco,MA,"P2017, Marrakech-Safi, MA (31,349, -7,764)",Marrakech-Tensift-Al Haouz,1,31.34935,-7.764087,922,12,2019
+2179327680,Strix aluco,MA,"N2, Derdara, Tanger-Tétouan-Al Hoceïma, MA (35,105, -5,28)",Tanger-Tétouan,1,35.105133,-5.280443,388,5,2018
+2069959058,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,2,33.65042,-5.029721,1470,5,2017
+3259437339,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,3,2020
+843666105,Strix aluco,MA,MA-Marrakech,Marrakech-Tensift-Al Haouz,2,31.625908,-8.008492,461,12,2012
+3137441997,Strix aluco,MA,"David, Casablanca-Settat, MA (33,8, -7,228)",Chaouia-Ouardigha,1,33.800167,-7.228033,9,3,2020
+2753305501,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,4,2019
+2154206560,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+2216719000,Strix aluco,MA,Ras el-Maa,Tanger-Tétouan,1,35.167236,-5.259812,580,12,2018
+3650580545,Strix aluco,ES,Cerro Ramírez,Ceuta,1,35.892635,-5.346802,65,7,2020
+2105396709,Strix aluco,MA,A6 car park,Tanger-Tétouan,1,35.742958,-5.353641,53,1,2018
+2785609385,Strix aluco,MA,Vale Tiz'N'Test,Sous-Massa-Draa,1,30.868,-8.375,2081,2,2006
+3136531249,Strix aluco,MA,Forêt de Taghzaft,Meknès-Tafilalet,2,33.4109,-5.147164,1833,2,2020
+3561419046,Strix aluco,ES,C/ Conrado Álvarez,Ceuta,1,35.88989,-5.305064,27,4,2021
+2223905534,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2018
+2757803028,Strix aluco,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,6,2019
+3230821089,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+3276605784,Strix aluco,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,4,2003
+2155754307,Strix aluco,MA,"42173 Al Haouz, Al Haouz MA-Marrakech-Tensift-Al Haouz (31.1931,-8.0574)",Marrakech-Tensift-Al Haouz,1,31.193136,-8.057399,923,4,2018
+3563066421,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,4,2021
+3554549673,Strix aluco,ES,Barriada Los Rosales,Ceuta,1,35.88629,-5.339669,58,6,2020
+2661958218,Strix aluco,MA,Aurocher Oukameiden,Marrakech-Tensift-Al Haouz,2,31.264977,-7.816013,1512,3,2019
+2222429975,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,10,2018
+1394816388,Strix aluco,MA,Hotel Atlas Chefchaouen Maroc - MA-Tanger - Tétouan-Chefchaouen-91002 - 35.1734x-5.2633,Tanger-Tétouan,1,35.17342,-5.263336,705,7,2015
+3585242378,Strix aluco,MA,Vallée de Matate,Marrakech-Tensift-Al Haouz,1,31.156149,-7.940046,1768,11,2021
+3681667098,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2029388237,Strix aluco,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,3,2016
+1773024279,Strix aluco,MA,"Unbekannter Ort - 31,194x-8,058 - 01.11.2016 06:26",Marrakech-Tensift-Al Haouz,1,31.19396,-8.057993,918,11,2016
+2214344781,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,906, -5,371)",Ceuta,2,35.90619,-5.370834,171,12,2018
+3264830067,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,9,2020
+2759829629,Strix aluco,MA,Fôret Urbaine de Dar es-Salam,Rabat-Salé-Zemmour-Zaer,1,33.916267,-6.853956,107,5,2019
+3578370928,Strix aluco,MA,Ourika أوريكا,Marrakech-Tensift-Al Haouz,1,31.371399,-7.789374,867,11,2013
+2049464614,Strix aluco,MA,Oued N'Fis,Marrakech-Tensift-Al Haouz,1,31.168316,-8.09072,934,3,2017
+3237891955,Strix aluco,MA,Aurocher Oukaimeden,Marrakech-Tensift-Al Haouz,1,31.263456,-7.818983,1537,3,2020
+2214341160,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,894, -5,367)",Ceuta,3,35.89411,-5.367427,286,12,2018
+2731021573,Strix aluco,MA,Azrou,Meknès-Tafilalet,1,33.436054,-5.219146,1299,1,2019
+1369685400,Strix aluco,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2015
+3146985816,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2752828377,Strix aluco,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,4,2019
+2214335991,Strix aluco,ES,"Carretera del Embalse, Ceuta, Ceuta, ES (35,893, -5,359)",Ceuta,1,35.893185,-5.358608,187,12,2018
+3659029529,Strix aluco,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,3,2020
+3534334273,Strix aluco,ES,"N-362, Ceuta, Ceuta, ES (35,893, -5,365)",Ceuta,1,35.892776,-5.365448,328,9,2021
+3282883864,Strix aluco,MA,Private house,Tanger-Tétouan,1,35.897785,-5.440127,103,10,2015
+2719423790,Strix aluco,MA,Bouadil,Meknès-Tafilalet,1,32.46418,-5.505951,2084,6,2017
+3276728361,Strix aluco,MA,Barrage al-Hassan Addakhil,Meknès-Tafilalet,1,32.010513,-4.458389,1097,3,2007
+2197999524,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,10,2018
+2753854641,Strix aluco,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,8,2004
+2039022636,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+2185431323,Strix aluco,MA,Beni-Snassen 3,L'Oriental,2,34.833057,-2.34983,455,1,2015
+3155256911,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,4,2020
+2091496272,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+1765699107,Strix aluco,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,10,2016
+3541297149,Strix aluco,ES,Baluarte de San Antonio,Ceuta,1,35.897076,-5.291325,176,9,2020
+3644812279,Strix aluco,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,2,2021
+2226401122,Strix aluco,MA,Chefchaouen,Tanger-Tétouan,1,35.16732,-5.259833,579,12,2018
+3249668413,Strix aluco,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,1,35.91413,-5.362242,20,3,2020
+3613466198,Strix aluco,MA,"31, Rue Youssef Ben Tachfine, Rabat, Rabat-Salé-Kénitra, MA (34.013, -6.83)",Rabat-Salé-Zemmour-Zaer,1,34.01317,-6.830163,48,12,2021
+3651854301,Strix aluco,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2183943485,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,6,2018
+2832659704,Strix aluco,MA,Morocco - Taghramt,,1,35.8835,-5.4296,156,4,2016
+2843002459,Strix aluco,ES,Spain - Melilla,,1,35.316543,-2.954485,114,8,2019
+1614116574,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2018
+1614172977,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614169982,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614172991,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614172988,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2002
+1614164522,Strix aluco,ES,Loma larga,Ceuta,1,35.88333,-5.31667,0,4,2000
+1614185816,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,4,2004
+1614148184,Strix aluco,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,4,2001
+1614185819,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,10,2004
+1614169978,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614249180,Strix aluco,ES,Barriadas campo exterior,Ceuta,1,35.88333,-5.31667,0,4,2017
+2836374315,Strix aluco,MA,Morocco - Ben Ahmed,,1,33.068874,-7.246317,617,6,2017
+1614157849,Strix aluco,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2016
+3693203147,Strix aluco,MA,Fôret de la Maâmora--domaine général,Rabat-Salé-Zemmour-Zaer,1,34.112873,-6.64587,124,5,2014
+2832657741,Strix aluco,MA,Morocco - Taghramt,,1,35.8835,-5.4296,156,4,2016
+1614187707,Strix aluco,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,5,2005
+1614244714,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,8,2018
+1614174100,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2001
+1614258564,Strix aluco,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,10,2003
+1614250065,Strix aluco,ES,Arroyo de las bombas,Ceuta,1,35.88333,-5.31667,0,11,2012
+1614249172,Strix aluco,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,2,2017
+1614200609,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,4,2008
+1614187692,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,8,2002
+2832719194,Strix aluco,MA,Morocco - Meknes,,1,33.886839,-5.547459,510,2,2016
+1614174141,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2001
+2167493957,Strix aluco,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,6,2018
+2840464125,Strix aluco,MA,Morocco - Meknes,,1,33.888346,-5.546358,530,6,2018
+3715521610,Strix aluco,MA,Morocco - Oulad Berhil,,2,30.637427,-8.46508,498,3,2017
+4056768154,Strix aluco,MA,Morocco - Sti Fadma,,1,31.30707,-7.737187,1034,12,2022
+2835930653,Strix aluco,MA,Morocco - Meknes,,1,33.888957,-5.546809,530,3,2015
+2840190292,Strix aluco,MA,Morocco - Taghramt,,1,35.875337,-5.456028,231,5,2018
+2840415613,Strix aluco,MA,Morocco - Meknes,,1,33.888979,-5.546825,530,4,2014
+2836279641,Strix aluco,ES,Spain - Calamocarro-Benzú,,1,35.913187,-5.37319,66,9,2016
+2839567332,Strix aluco,MA,Morocco - Al Machouar - Stinia,,1,33.886424,-5.547867,515,2,2016
+3726575905,Strix aluco,ES,Spain - Melilla,,2,35.281492,-2.950355,36,9,2020
+3907024071,Strix aluco,MA,Morocco - Oukaimeden/Ukayemdan/Oukaimden,,2,31.264139,-7.819559,1524,6,2022
+3715907029,Strix aluco,MA,Morocco - Ouirgane,,1,31.193961,-8.057993,918,11,2016
+2839429254,Strix aluco,MA,Morocco - Taghramt,,1,35.883744,-5.429575,158,5,2015
+2838917159,Strix aluco,MA,Morocco - Meknes,,1,33.88894,-5.546891,530,11,2017
+2835734739,Strix aluco,MA,Morocco - Meknes,,1,33.888915,-5.546799,529,2,2015
+2835995834,Strix aluco,MA,Morocco - Meknes,,1,33.888914,-5.546494,531,5,2015
+2838725537,Strix aluco,MA,Morocco - Meknes,,1,33.888983,-5.546867,531,5,2013
+2837607111,Strix aluco,ES,Spain - Melilla,,1,35.278425,-2.945824,15,2,2020
+2835122463,Strix aluco,MA,Morocco - Taghramt,,2,35.8835,-5.4296,156,4,2016
+2843750194,Strix aluco,MA,Morocco - Talat N'Yaaqoub,,3,30.984618,-8.228259,1274,5,2017
+2839092529,Strix aluco,MA,Morocco - Meknes,,1,33.888991,-5.546861,531,10,2014
+2842490832,Strix aluco,MA,Morocco - Meknes,,2,33.888971,-5.546855,530,11,2015
+1614185839,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,2,2004
+1614173028,Strix aluco,ES,Arroyo del renegado,Ceuta,1,35.88333,-5.31667,0,5,2002
+2840036100,Strix aluco,MA,Morocco - Meknes,,1,33.887932,-5.544679,549,10,2017
+2835473879,Strix aluco,MA,Morocco - Meknes,,1,33.889,-5.546854,531,7,2013
+2836111229,Strix aluco,MA,Morocco - Meknes,,1,33.888971,-5.547105,530,3,2016
+2836771974,Strix aluco,ES,Spain - Melilla,,1,35.281382,-2.950223,34,6,2018
+3822897756,Strix aluco,ES,Spain - Melilla,,2,35.28136,-2.949982,33,3,2022
+2835943523,Strix aluco,MA,Morocco - Meknes,,1,33.888784,-5.546721,528,3,2017
+2843745030,Strix aluco,MA,Morocco - Meknes,,1,33.888894,-5.547207,529,6,2018
+2840297587,Strix aluco,MA,Morocco - Meknes,,1,33.888203,-5.547516,520,12,2017
+2844384000,Strix aluco,ES,Spain - Melilla,,1,35.305521,-2.955945,107,6,2018
+2838071060,Strix aluco,MA,Morocco - Harhoura,,1,33.94827,-6.930121,22,7,2012
+2837372051,Strix aluco,MA,Morocco - Parc naturel d'Ifrane (Moyen Atlas occidental),,1,33.597024,-5.245903,1383,5,2012
+2841354893,Strix aluco,MA,Morocco - Meknes,,1,33.889134,-5.54659,535,11,2015
+3996490948,Strix aluco,MA,Morocco - Sti Fadma,,1,31.306874,-7.737042,1034,5,2022
+2835789491,Strix aluco,MA,Morocco - Moualine El Ghaba,,2,33.721127,-7.210264,114,7,2015
+2839124977,Strix aluco,MA,Morocco - Meknes,,1,33.888982,-5.546844,531,4,2015
+2842394414,Strix aluco,MA,Morocco - Meknes,,1,33.888942,-5.546676,530,10,2014
+2840941656,Strix aluco,MA,Morocco - Meknes,,1,33.888957,-5.546809,530,3,2015
+2840111494,Strix aluco,MA,Morocco - Taghramt,,1,35.8835,-5.4296,156,4,2016
+3718496041,Strix aluco,ES,Spain - Melilla,,1,35.281443,-2.950339,35,12,2020
+2832414207,Strix aluco,MA,Morocco - Meknes,,1,33.868427,-5.542793,559,11,2013
+2835808583,Strix aluco,MA,Morocco - Meknes,,1,33.88891,-5.546764,529,3,2015
+2043001118,Strix aluco,MA,La Bergerie Hotel Grounds,Marrakech-Tensift-Al Haouz,2,31.193865,-8.057565,917,2,2017
+1167619265,Strix aluco,MA,MA-Secteur de Tamri- Oued Asif n'Srou,Sous-Massa-Draa,1,30.711012,-9.788507,48,4,2014
+1614187673,Strix aluco,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2003
+1614169997,Strix aluco,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2000
+1614249158,Strix aluco,ES,Arroyo de las bombas,Ceuta,1,35.88333,-5.31667,0,4,2017
+1614200602,Strix aluco,ES,Obimasa,Ceuta,1,35.88333,-5.31667,0,10,2005
+2771004402,Strix aluco,MA,Ouirgane (Mandar Kebir),Marrakech-Tensift-Al Haouz,1,31.1762,-8.0737,917,9,2017
+2832588742,Strix aluco,MA,Morocco - Meknes,,1,33.888247,-5.546361,530,4,2015
+2835493069,Strix aluco,MA,Morocco - Meknes,,1,33.888202,-5.547536,520,4,2018
+2833194793,Strix aluco,MA,Morocco - Meknes,,1,33.88866,-5.547363,526,6,2018
+3719276135,Strix aluco,ES,Spain - Melilla,,1,35.281443,-2.950339,35,12,2020
+2840058749,Strix aluco,ES,Spain - Ciudad de Ceuta,,1,35.888411,-5.36676,258,9,2016

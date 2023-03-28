@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2795733594,Corvus cornix,ES,CEUTA (casco urbano),Ceuta,1,35.888165,-5.305654,42,5,2007
+3242864293,Corvus cornix,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020
+3163202913,Corvus cornix,ES,Casco urbano—jardines de la Argentina,Ceuta,1,35.8899,-5.319831,7,4,2020

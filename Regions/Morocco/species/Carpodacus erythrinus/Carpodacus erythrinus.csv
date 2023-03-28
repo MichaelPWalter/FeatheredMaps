@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3612204842,Carpodacus erythrinus,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,9,2002
+2800583664,Carpodacus erythrinus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,9,2002
+1618303005,Carpodacus erythrinus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,9,2002
+2116069172,Carpodacus erythrinus,MA,Palmeraie d'Igrane,Meknès-Tafilalet,1,31.140299,-4.021103,708,4,2017

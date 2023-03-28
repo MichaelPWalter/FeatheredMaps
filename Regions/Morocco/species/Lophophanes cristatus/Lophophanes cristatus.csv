@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2782860476,Lophophanes cristatus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,3,2007
+2780201521,Lophophanes cristatus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2009

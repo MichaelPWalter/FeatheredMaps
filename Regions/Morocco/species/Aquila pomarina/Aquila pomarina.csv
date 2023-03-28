@@ -1,0 +1,7 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3632903386,Aquila pomarina,ES,Pinares de Rostrogordo,Melilla,1,35.313766,-2.959537,124,6,2021
+3275047477,Aquila pomarina,MA,Observatorio de La Venta,Tanger-Tétouan,1,35.87485,-5.457671,205,9,2007
+3714757868,Aquila pomarina,MA,Morocco - Tangerois,,1,35.855674,-5.447044,346,9,2010
+2844612282,Aquila pomarina,MA,Morocco - Taghramt,,1,35.884946,-5.428676,141,6,2017
+2836102835,Aquila pomarina,MA,Morocco - Taghramt,,1,35.895141,-5.420494,601,5,2016
+3905891515,Aquila pomarina,ES,Spain - Melilla - Barranco del Nano,,1,35.310848,-2.961,114,6,2021

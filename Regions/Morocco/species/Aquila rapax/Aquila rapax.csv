@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2328363556,Aquila rapax,MA,Straße S Argana,,1,30.765291,-9.154701,779,11,2001
+2328364598,Aquila rapax,MA,"Auberge du Sud (Café du Sud, Erg Chebbi) und Umgebung",,1,31.209929,-4.024365,740,4,2000
+2328364454,Aquila rapax,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,12,2001

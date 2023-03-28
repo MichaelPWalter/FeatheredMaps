@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2838958499,Chroicocephalus philadelphia,MA,Morocco - Salines de Oualidia,,1,32.784172,-8.971195,8,4,2014
+2835560974,Chroicocephalus philadelphia,MA,Morocco - Oualidia,,1,32.786717,-8.970251,7,3,2011
+2838978591,Chroicocephalus philadelphia,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.830781,-8.907663,4,1,2012
+2832365711,Chroicocephalus philadelphia,MA,Morocco - Sidi Abed,,1,33.00814,-8.71569,12,4,2013

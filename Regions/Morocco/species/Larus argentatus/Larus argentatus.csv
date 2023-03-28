@@ -1,0 +1,11 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+4028728652,Larus argentatus,MA,,Marrakech - Tensift - Al Haouz,1,31.50557,-9.765453,11,8,2022
+3268624042,Larus argentatus,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,1,30.43855,-9.649985,11,8,2013
+2442895474,Larus argentatus,MA,Essaouira / Marokko,,1,31.520712,-9.65828,129,11,2001
+2442862931,Larus argentatus,MA,Essaouira / Marokko,,1,31.51124,-9.773712,9,2,2015
+2442814474,Larus argentatus,MA,Tanger - City,,1,35.766571,-5.821552,24,10,2017
+2442875464,Larus argentatus,MA,Bucht und Strand N Taghazout,,1,30.61846,-9.652094,701,11,2001
+4028788851,Larus argentatus,MA,,Marrakech - Tensift - Al Haouz,1,31.510562,-9.772239,11,8,2022
+2838704950,Larus argentatus,MA,Morocco - Agadir,,1,30.437221,-9.649343,7,8,2013
+2841541092,Larus argentatus,MA,Morocco - Agadir,,1,30.43565,-9.648056,6,8,2013
+2836338392,Larus argentatus,MA,Morocco - Agadir,,1,30.437129,-9.649142,8,2,2017

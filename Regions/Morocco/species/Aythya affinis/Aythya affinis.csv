@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3203539982,Aythya affinis,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,3,2013
+3286073495,Aythya affinis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2015
+3565128541,Aythya affinis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2015
+2832390478,Aythya affinis,MA,Morocco - Laouamra,,1,35.015236,-6.215343,14,3,2013

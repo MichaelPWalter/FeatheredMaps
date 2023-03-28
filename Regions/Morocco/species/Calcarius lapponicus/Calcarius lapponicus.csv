@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3695037820,Calcarius lapponicus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,1,33.555717,-7.739337,8,11,2021
+3723620950,Calcarius lapponicus,MA,Morocco - Dar Bouazza,,1,33.556712,-7.738952,8,11,2021

@@ -1,0 +1,446 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1615174764,Anthus trivialis,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,6,2013
+1619540590,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,5,2007
+1618519192,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2004
+2717180194,Anthus trivialis,MA,Wadi | Noun River,Sous-Massa-Draa,1,29.093609,-10.334455,62,4,2012
+2215842223,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,6,28.001081,-12.342865,7,4,2017
+1787859175,Anthus trivialis,MA,"X - Duplicate (Oukaimeden), Western High Atlas",Marrakech-Tensift-Al Haouz,1,31.204323,-7.857204,2602,3,2013
+1619321801,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,10,2007
+1166205341,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+3674082873,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,4,2021
+1619075890,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2007
+1619240213,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,9,2005
+1167608016,Anthus trivialis,MA,MA-Taghjijt- Oued,Guelmim-Es Smara,1,29.063457,-9.423544,566,4,2014
+3201310619,Anthus trivialis,MA,Palmeraie d'Igrane,Meknès-Tafilalet,1,31.140299,-4.021103,708,3,2018
+2151334250,Anthus trivialis,MA,Gardens behind La Porte du Dades,Sous-Massa-Draa,5,31.302881,-6.033461,1477,3,2018
+2767346021,Anthus trivialis,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+2127464247,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2018
+2132242695,Anthus trivialis,MA,Sidi Wassay (inland),Sous-Massa-Draa,1,30.053642,-9.685758,42,3,2017
+2217428666,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2011
+1198464620,Anthus trivialis,MA,Draa Valley,Sous-Massa-Draa,1,30.675714,-6.319199,909,4,2009
+1778371468,Anthus trivialis,MA,Sidi Abed,Doukkala-Abda,1,33.03516,-8.694167,8,3,2012
+2762532215,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,3,28.539686,-11.031013,10,3,2007
+2143086187,Anthus trivialis,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,4,29.98752,-9.651463,10,3,2018
+2669452120,Anthus trivialis,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+1770712922,Anthus trivialis,MA,Tamdaght,Sous-Massa-Draa,1,31.082266,-7.143275,1325,4,2009
+1167617790,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+3206363550,Anthus trivialis,MA,Parc National de Sous Massa,Sous-Massa-Draa,1,30.055758,-9.653909,13,3,2014
+2151332808,Anthus trivialis,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,4,2018
+2228356329,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,6,28.001081,-12.342865,7,4,2017
+1183441018,Anthus trivialis,MA,Oued Massa area,Sous-Massa-Draa,3,30.056,-9.6611,10,2,2012
+2658394322,Anthus trivialis,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+2791195588,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2017
+2762697901,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,3,33.713158,-6.929712,284,4,2019
+2149617801,Anthus trivialis,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,4,2018
+2058325038,Anthus trivialis,MA,"MA-Sus-Masa-Draa - 30,186x-5,575 - 15/4/2017 23:11",Sous-Massa-Draa,1,30.185944,-5.575425,656,4,2017
+1791470003,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2005
+1719927654,Anthus trivialis,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9659x-6.7561,Sous-Massa-Draa,3,30.96592,-6.756087,1111,3,2016
+3272789472,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2006
+2127160212,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2002
+1770393289,Anthus trivialis,MA,Merzouga,Meknès-Tafilalet,1,31.086433,-4.007668,694,4,2006
+2148434961,Anthus trivialis,MA,Riad Dades,Sous-Massa-Draa,1,31.436584,-6.010311,1608,4,2018
+2666306996,Anthus trivialis,MA,Palmeraie d'Igrane,Meknès-Tafilalet,5,31.140299,-4.021103,708,4,2019
+3243733484,Anthus trivialis,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2001
+2736174659,Anthus trivialis,MA,Champs de Beni Mimoune,Meknès-Tafilalet,1,31.263906,-4.238521,746,3,2019
+2749129813,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2019
+2135710143,Anthus trivialis,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2017
+2227396289,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2011
+1168753261,Anthus trivialis,MA,Draa Valley,Sous-Massa-Draa,1,30.675714,-6.319199,909,4,2009
+1722993387,Anthus trivialis,MA,Olive Orchards,Marrakech-Tensift-Al Haouz,2,31.617653,-8.003121,460,3,2016
+1167623448,Anthus trivialis,MA,MA-Tan-Tan- Oued Draa,Guelmim-Es Smara,1,28.532036,-10.958289,9,4,2014
+2670820730,Anthus trivialis,MA,agadir,Sous-Massa-Draa,1,30.419777,-9.606588,10,3,2019
+2716092713,Anthus trivialis,MA,Oued Ziz--Errachidia,Meknès-Tafilalet,1,31.934944,-4.423081,1014,3,2013
+2725479490,Anthus trivialis,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,8,2014
+2718377093,Anthus trivialis,MA,Tamri,Sous-Massa-Draa,1,30.696974,-9.834137,11,5,2001
+2073081934,Anthus trivialis,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,5,2017
+2051637691,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,5,2017
+2706957360,Anthus trivialis,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,3,2003
+2666392216,Anthus trivialis,MA,Palmeraie d'Igrane,Meknès-Tafilalet,5,31.140299,-4.021103,708,4,2019
+2202547342,Anthus trivialis,MA,Khnifiss Lagoon,Laâyoune-Boujdour-Sakia el Hamra,1,28.034882,-12.244416,0,3,2011
+1761302305,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+2048880250,Anthus trivialis,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2017
+1164920813,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+1719358248,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2016
+1165959444,Anthus trivialis,MA,MA-Tan-Tan- Oued Draa,Guelmim-Es Smara,1,28.532036,-10.958289,9,4,2014
+578062628,Anthus trivialis,MA,Barrage al-Mansoor Ed-Dahbi,Sous-Massa-Draa,2,30.924906,-6.875381,1112,3,2011
+1202115156,Anthus trivialis,MA,Jorf,Meknès-Tafilalet,1,31.479916,-4.386806,811,4,2005
+821191298,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2012
+2801252645,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2013
+1206385556,Anthus trivialis,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,5,2006
+3563995314,Anthus trivialis,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2013
+2116290942,Anthus trivialis,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,2,2017
+2785779466,Anthus trivialis,ES,Huertas del Río de Oro,Melilla,1,35.29261,-2.950937,11,9,2019
+3208450794,Anthus trivialis,MA,MA-Azrou (Cedre Gouraud Forest),Meknès-Tafilalet,1,33.41828,-5.178575,1757,4,2016
+2662864284,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+1357274795,Anthus trivialis,MA,Oued Massa area,Sous-Massa-Draa,2,30.056,-9.6611,10,3,2015
+2056070691,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,4,2017
+2798502074,Anthus trivialis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2018
+817261482,Anthus trivialis,MA,El-Kelaa M'Gouna,Sous-Massa-Draa,1,31.236876,-6.134577,1419,4,2004
+2155537039,Anthus trivialis,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2018
+3632153789,Anthus trivialis,ES,Sierra Bullones--Piniers/San Francisco/Isabel II,Ceuta,1,35.89167,-5.36642,307,4,2021
+1168976264,Anthus trivialis,MA,MA-Tan-Tan- Oued Draa,Guelmim-Es Smara,1,28.532036,-10.958289,9,4,2014
+1168770424,Anthus trivialis,MA,Road to Oukaimaidene,Marrakech-Tensift-Al Haouz,1,31.285593,-7.89917,1440,4,2009
+2719074789,Anthus trivialis,ES,Monte Hacho,Ceuta,1,35.89719,-5.290354,161,4,2014
+1769576776,Anthus trivialis,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.8749,-6.2809,9,10,2016
+2058914405,Anthus trivialis,MA,N1- Guelmim,Guelmim-Es Smara,1,28.953968,-10.121607,232,3,2017
+3208772993,Anthus trivialis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+2139003959,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2018
+2155757500,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,3,2018
+3523474453,Anthus trivialis,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,4,2021
+3152876456,Anthus trivialis,EH,Oasis Lamseyed,Western Sahara,2,27.04231,-13.094491,60,3,2020
+2715614139,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2016
+3227272246,Anthus trivialis,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,3,2020
+2076612097,Anthus trivialis,MA,desert around auberge derkoura,Meknès-Tafilalet,1,31.33575,-4.102192,765,5,2017
+3202480799,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,3,30.031328,-9.644645,8,3,2014
+1719997424,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2016
+2048094842,Anthus trivialis,MA,Riverbed near Aoulouz,Sous-Massa-Draa,1,30.696598,-8.154629,689,2,2017
+1167608057,Anthus trivialis,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+2661720357,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+2751745417,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,3,2007
+2840964903,Anthus trivialis,MA,Morocco - Amerzgane,,1,30.924774,-7.232014,1281,4,2015
+2839221467,Anthus trivialis,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.290025,-4.0918,748,4,2013
+2154625348,Anthus trivialis,MA,"(30,0505,-9,6801)",Sous-Massa-Draa,1,30.050491,-9.680125,73,3,2018
+3079841886,Anthus trivialis,MA,,Chaouia - Ouardigha,1,33.071297,-7.232618,636,4,2021
+2839423708,Anthus trivialis,MA,Morocco - Amerzgane,,1,30.8983,-7.243114,1323,3,2015
+1618379182,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2003
+1618166075,Anthus trivialis,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2001
+1615128103,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2013
+1618275558,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2003
+1619241239,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2006
+1614402499,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2015
+1618160054,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2001
+3716153120,Anthus trivialis,MA,Morocco - Ben Ahmed,,1,33.069444,-7.23258,617,3,2020
+1396336176,Anthus trivialis,MA,Hassilabied,Meknès-Tafilalet,2,31.1315,-4.0191,691,4,2007
+3201191762,Anthus trivialis,MA,"Tamri, Souss-Massa, MA (30.628, -9.868)",Sous-Massa-Draa,2,30.627853,-9.868313,64,3,2014
+2762004451,Anthus trivialis,MA,Oued Draa--Tansikht,Sous-Massa-Draa,1,30.686808,-6.192155,854,3,2019
+2705678606,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+1409893351,Anthus trivialis,MA,Oued Massa area,Sous-Massa-Draa,2,30.056,-9.6611,10,3,2015
+2763886912,Anthus trivialis,MA,Ouarzazate--wadi,Sous-Massa-Draa,1,30.976847,-6.788989,1124,3,2010
+1158767074,Anthus trivialis,MA,Imouzzer Region,Sous-Massa-Draa,1,30.65951,-9.466,1221,3,2014
+1392256052,Anthus trivialis,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,10,2015
+1198468939,Anthus trivialis,MA,Road to Oukaimaidene,Marrakech-Tensift-Al Haouz,1,31.285593,-7.89917,1440,4,2009
+3827442454,Anthus trivialis,MA,Morocco - Région de Merzouga (Erfoud),,1,31.138077,-4.019846,707,5,2022
+3997737912,Anthus trivialis,MA,Morocco - Région de Merzouga (Erfoud),,1,31.173433,-3.940326,713,10,2022
+2116289534,Anthus trivialis,MA,Oued Sayed,Guelmim-Es Smara,12,28.962997,-10.121584,230,3,2015
+1615541550,Anthus trivialis,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2015
+1620245160,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,3,2019
+1618033731,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,4,2002
+1618051198,Anthus trivialis,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2001
+1615128060,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2013
+2050436548,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2017
+2744205998,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,3,31.28981,-4.091935,747,4,2003
+2122295422,Anthus trivialis,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,3,2018
+2049766103,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+3174437443,Anthus trivialis,MA,Tissint,Guelmim-Es Smara,3,29.906809,-7.316809,559,3,2020
+1764053342,Anthus trivialis,MA,Iriri River bridge,Sous-Massa-Draa,1,30.97599,-7.100408,1200,4,2008
+3579490340,Anthus trivialis,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+3298402769,Anthus trivialis,MA,R403--lagunes de Bir Ben Aabbou,Rabat-Salé-Zemmour-Zaer,1,33.73479,-6.934211,253,3,2006
+2797000392,Anthus trivialis,MA,"Upstream Crosing, Oued Massa",Sous-Massa-Draa,4,30.004612,-9.656747,9,3,2016
+1787662164,Anthus trivialis,MA,Lagune de Oualidia--Lagune du Camping de Oualidia,Doukkala-Abda,1,32.729427,-9.04531,9,10,2012
+1791472358,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2005
+1726401898,Anthus trivialis,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,3,2016
+2744481268,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,3,28.539686,-11.031013,10,3,2007
+1167609275,Anthus trivialis,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,3,28.44079,-11.371497,23,4,2014
+2047787841,Anthus trivialis,MA,Ighri Tea Stop,Sous-Massa-Draa,12,30.468798,-7.723947,1631,3,2017
+575966196,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2007
+1165971184,Anthus trivialis,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,3,28.44079,-11.371497,23,4,2014
+3554866107,Anthus trivialis,MA,Assa (Oued Drâa),Guelmim-Es Smara,3,28.497538,-9.401331,206,3,2013
+1721518184,Anthus trivialis,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+3279459921,Anthus trivialis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+3206774783,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+3577436508,Anthus trivialis,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+1791255490,Anthus trivialis,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,10,2007
+2674435723,Anthus trivialis,MA,merzougaa,Meknès-Tafilalet,1,31.081924,-4.004142,692,3,2019
+3215324407,Anthus trivialis,MA,Hamada du Zagora,Sous-Massa-Draa,2,30.300737,-5.837009,698,3,2004
+2746851700,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,3,33.713158,-6.929712,284,4,2019
+1725869912,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2016
+1794574171,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2150208070,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2018
+3202662631,Anthus trivialis,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2006
+2746669166,Anthus trivialis,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2019
+2800517631,Anthus trivialis,MA,"Upstream Crosing, Oued Massa",Sous-Massa-Draa,4,30.004612,-9.656747,9,3,2016
+2667893429,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,3,33.713158,-6.929712,284,4,2019
+3138329176,Anthus trivialis,MA,"Oued Dial Masa, Chtouka Ait Baha MA-Souss-Massa-Drâa 29.99536, -9.65979",Sous-Massa-Draa,3,29.995361,-9.659795,10,3,2020
+3518505902,Anthus trivialis,ES,Loma Rubio/Loma Colmenar,Ceuta,2,35.882053,-5.339087,14,3,2021
+2662099874,Anthus trivialis,MA,Oued Afra ??,Guelmim-Es Smara,1,28.707106,-10.530201,217,3,2007
+2718116336,Anthus trivialis,MA,Olive Orchards,Marrakech-Tensift-Al Haouz,2,31.617653,-8.003121,460,3,2016
+2787558230,Anthus trivialis,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,4,2010
+2686793813,Anthus trivialis,MA,Ouirgane,Marrakech-Tensift-Al Haouz,1,31.173502,-8.077418,927,3,2003
+1750246696,Anthus trivialis,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,3,2016
+2033882654,Anthus trivialis,MA,Riverbed near Aoulouz,Sous-Massa-Draa,1,30.696598,-8.154629,689,2,2017
+2132150173,Anthus trivialis,MA,Ighri Tea Stop,Sous-Massa-Draa,1,30.468798,-7.723947,1631,4,2018
+1720005654,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2016
+1791884876,Anthus trivialis,MA,"Marrakesh, west of old city",Marrakech-Tensift-Al Haouz,1,31.631508,-8.003969,465,3,2011
+1411500511,Anthus trivialis,MA,Taliouine,Sous-Massa-Draa,1,30.531685,-7.914662,1031,4,2013
+3231600755,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2020
+3609268390,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,6,33.07076,-7.232351,632,4,2021
+2730545423,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,3,2007
+2772179511,Anthus trivialis,MA,"(30,0505,-9,6801)",Sous-Massa-Draa,1,30.050491,-9.680125,73,3,2018
+2201192609,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+2750543737,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,5,28.539686,-11.031013,10,3,2007
+1719999761,Anthus trivialis,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9432x-6.8197,Sous-Massa-Draa,1,30.943232,-6.819696,1112,3,2016
+3188349730,Anthus trivialis,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2018
+2773792757,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+2119831137,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2018
+3573340379,Anthus trivialis,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,4,31.201849,-7.859733,2609,11,2019
+3181577854,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2012
+1721522984,Anthus trivialis,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+1410649028,Anthus trivialis,MA,Oued Sayed,Guelmim-Es Smara,4,28.962997,-10.121584,230,3,2011
+2790618598,Anthus trivialis,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,2,28.20494,-11.781549,0,9,2013
+3575076807,Anthus trivialis,MA,Ouarzazate,Sous-Massa-Draa,1,30.907948,-6.911555,1105,3,2013
+2147317150,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2018
+3247419412,Anthus trivialis,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2003
+2660289435,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,3,2007
+2738259199,Anthus trivialis,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,2,2018
+2122308077,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+1788843276,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2009
+2100934095,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2017
+2775589638,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,3,33.713158,-6.929712,284,4,2019
+3694942499,Anthus trivialis,MA,Koudïat Mih Jrane,Meknès-Tafilalet,1,31.24111,-4.083794,729,4,2013
+2742593346,Anthus trivialis,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,5,29.96278,-9.659664,9,3,2019
+1159230274,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2014
+2772071406,Anthus trivialis,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,5,2010
+2718877521,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,3,31.328703,-5.922575,1551,4,2012
+2048764797,Anthus trivialis,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,3,2017
+1719998651,Anthus trivialis,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354313,-5.957429,1546,3,2016
+3565848579,Anthus trivialis,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,9,2021
+2759955821,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,5,28.539686,-11.031013,10,3,2007
+3683017501,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2018
+2694469819,Anthus trivialis,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,1,31.26397,-4.271297,755,4,2014
+2198443241,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2014
+3625734248,Anthus trivialis,MA,Aguelmane de Sidi Ali,Meknès-Tafilalet,1,33.109,-5.029,1978,3,2019
+2043446006,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2017
+3259385932,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2012
+1786471862,Anthus trivialis,MA,Riad Dar Jemour,Marrakech-Tensift-Al Haouz,1,31.569626,-7.749105,570,3,2015
+2728834320,Anthus trivialis,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+1719998642,Anthus trivialis,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9659x-6.7561,Sous-Massa-Draa,3,30.96592,-6.756087,1111,3,2016
+2728121091,Anthus trivialis,ES,Arroyo Calamocarro II,Ceuta,1,35.910652,-5.364711,44,6,2013
+2776490580,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+1165972470,Anthus trivialis,MA,MA-Taghjijt- Oued,Guelmim-Es Smara,1,29.063457,-9.423544,566,4,2014
+2775725706,Anthus trivialis,MA,"Source De Tichka, Marrakesh-Safi, MA (31.291, -7.38)",Sous-Massa-Draa,1,31.291418,-7.379727,2139,9,2019
+2143657101,Anthus trivialis,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,3,2017
+3238588919,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,3,2020
+1168961763,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2758967703,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2019
+1168980524,Anthus trivialis,MA,MA-Taghjijt- Oued,Guelmim-Es Smara,1,29.063457,-9.423544,566,4,2014
+1785074413,Anthus trivialis,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2015
+3646969912,Anthus trivialis,MA,Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.204323,-7.857204,2602,3,2013
+2720468777,Anthus trivialis,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,2,2015
+817147177,Anthus trivialis,MA,Marrakech - Ouarzazate,Marrakech-Tensift-Al Haouz,1,31.371307,-7.405598,1483,3,2001
+2794262591,Anthus trivialis,ES,Playa de Calamocarro,Ceuta,1,35.911804,-5.357037,7,6,2013
+3275297251,Anthus trivialis,MA,Plage de Témara,Rabat-Salé-Zemmour-Zaer,1,33.931488,-6.953273,7,5,2006
+1791782572,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,3,2013
+2224784783,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2017
+3211657475,Anthus trivialis,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,4,2013
+2129691281,Anthus trivialis,MA,Fezna Ouled Jallal,Meknès-Tafilalet,1,31.501352,-4.419959,816,3,2018
+3286172092,Anthus trivialis,MA,Oued Massa area,Sous-Massa-Draa,1,29.993118,-9.661185,7,2,2011
+2744778777,Anthus trivialis,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2019
+2152808457,Anthus trivialis,MA,"(31,2919,-5,8525)",Sous-Massa-Draa,6,31.291878,-5.852536,1575,3,2018
+2041975023,Anthus trivialis,MA,N1- Guelmim,Guelmim-Es Smara,1,28.953968,-10.121607,232,3,2017
+2225923245,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2015
+2124828324,Anthus trivialis,ES,Arroyo Calamocarro II,Ceuta,1,35.910652,-5.364711,44,5,2015
+2171502383,Anthus trivialis,MA,"Merzouga, Morocco",Meknès-Tafilalet,2,31.0496,-3.98362,718,3,2018
+1730136580,Anthus trivialis,MA,Bou Jighigh (Fôret de Ben Smim),Meknès-Tafilalet,1,33.48899,-5.144713,1718,4,2016
+2667962237,Anthus trivialis,MA,Sidi Marrat,Rabat-Salé-Zemmour-Zaer,1,33.54455,-5.849833,957,4,2019
+3297531434,Anthus trivialis,MA,"Saffron Tea Room, Tizi-N-Taghatine",Sous-Massa-Draa,3,30.53018,-7.910237,1014,3,2014
+1168970493,Anthus trivialis,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2157979617,Anthus trivialis,MA,Sidi Kaouki,Marrakech-Tensift-Al Haouz,1,31.354956,-9.795985,11,4,2007
+2666301397,Anthus trivialis,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,5,2008
+2662187800,Anthus trivialis,MA,Oued Afra ??,Guelmim-Es Smara,1,28.707106,-10.530201,217,3,2007
+1787860152,Anthus trivialis,MA,Assa (Oued Drâa),Guelmim-Es Smara,3,28.497538,-9.401331,206,3,2013
+1721520567,Anthus trivialis,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+1205821200,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2010
+1676673830,Anthus trivialis,MA,Goulimime / Marokko,,1,28.990124,-10.062103,325,3,2001
+2135717561,Anthus trivialis,MA,Ighri Tea Stop,Sous-Massa-Draa,12,30.468798,-7.723947,1631,3,2017
+2667941119,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+1615334735,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2014
+1619717165,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2011
+1615174681,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2013
+1615605273,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2016
+1618519125,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2005
+1615128012,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2013
+1614420040,Anthus trivialis,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,4,2012
+1619717181,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2011
+1615626999,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2017
+2842048703,Anthus trivialis,MA,Morocco - Amerzgane,,1,30.898294,-7.243175,1323,3,2015
+2144124844,Anthus trivialis,MA,Riad Dades,Sous-Massa-Draa,1,31.436584,-6.010311,1608,4,2018
+1764531762,Anthus trivialis,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,2,34.00879,-6.847304,26,9,2016
+1168960362,Anthus trivialis,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,3,28.44079,-11.371497,23,4,2014
+2188119531,Anthus trivialis,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,4,31.36109,-7.390087,1590,3,2014
+2721156134,Anthus trivialis,MA,Parc Ifni - city,Sous-Massa-Draa,1,29.382349,-10.167012,10,9,2019
+3516482169,Anthus trivialis,MA,Oued Sayed,Guelmim-Es Smara,3,28.962997,-10.121584,230,3,2015
+2796742749,Anthus trivialis,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,3,2018
+3283918874,Anthus trivialis,MA,Taliouine olive groves,Sous-Massa-Draa,6,30.52595,-7.904181,1013,3,2006
+1619261353,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2006
+1619240934,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2009
+1619262034,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,9,2006
+1619191480,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,4,2005
+1619717210,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2011
+1617960613,Anthus trivialis,ES,Parque maritimo del mediterraneo,Ceuta,1,35.88333,-5.31667,0,10,2000
+1618521687,Anthus trivialis,ES,Huerta ferrer,Ceuta,1,35.88333,-5.31667,0,4,2004
+1614419319,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2012
+2220038512,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2018
+1721188211,Anthus trivialis,MA,Olive Orchards,Marrakech-Tensift-Al Haouz,2,31.617653,-8.003121,460,3,2016
+2837807139,Anthus trivialis,MA,Morocco,,1,30.062186,-9.661188,10,3,2007
+3995330388,Anthus trivialis,MA,Morocco - Ben Ahmed,,2,33.069907,-7.232594,621,10,2022
+2835565504,Anthus trivialis,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.290087,-4.091758,749,4,2013
+1890031906,Anthus trivialis,MA,,Souss - Massa - Draâ,1,30.859684,-6.84783,1143,3,2018
+2049769930,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+2789326571,Anthus trivialis,MA,Remparts de Taroudant,Sous-Massa-Draa,2,30.468142,-8.872082,223,3,2008
+2715688474,Anthus trivialis,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,4,2015
+2667012866,Anthus trivialis,MA,Palmeraie d'Igrane,Meknès-Tafilalet,5,31.140299,-4.021103,708,4,2019
+3212406135,Anthus trivialis,MA,Asrir,Guelmim-Es Smara,1,28.9272,-9.9981,280,3,2012
+2673438026,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+2798421855,Anthus trivialis,MA,Erg Chebbi--noroest,Meknès-Tafilalet,1,31.201033,-4.026918,733,3,2016
+966632695,Anthus trivialis,MA,High Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.250378,-7.789307,2156,9,2013
+2717721977,Anthus trivialis,MA,Tamri,Sous-Massa-Draa,2,30.707972,-9.835919,53,3,2015
+3168867899,Anthus trivialis,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2003
+2775317588,Anthus trivialis,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,4,29.98752,-9.651463,10,3,2018
+2783496912,Anthus trivialis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+1164456742,Anthus trivialis,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+3558618937,Anthus trivialis,MA,Cap d'El Beddouza,Doukkala-Abda,1,32.541122,-9.284434,23,11,2012
+2213863473,Anthus trivialis,MA,sous massa drâa,Sous-Massa-Draa,1,30.696093,-6.436045,927,4,2017
+2745680930,Anthus trivialis,MA,Oued Afra ??,Guelmim-Es Smara,1,28.707106,-10.530201,217,3,2007
+1787858365,Anthus trivialis,MA,"X - Duplicate (Oukaimeden), Western High Atlas",Marrakech-Tensift-Al Haouz,1,31.204323,-7.857204,2602,3,2013
+2798186056,Anthus trivialis,MA,Sidi Kaouki sud,Marrakech-Tensift-Al Haouz,1,31.3401,-9.790168,12,4,2007
+2762293867,Anthus trivialis,MA,Rocky area along N13 after Midelt,Meknès-Tafilalet,3,32.71512,-4.878545,1550,3,2019
+2734511275,Anthus trivialis,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,3,2007
+2788825933,Anthus trivialis,MA,Champs de Beni Mimoune,Meknès-Tafilalet,1,31.263906,-4.238521,746,3,2019
+3247612349,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,4,2020
+2732353938,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+1720320916,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2016
+1357632678,Anthus trivialis,MA,Oued Boukila,Guelmim-Es Smara,1,28.919855,-10.154157,214,4,2015
+2674978335,Anthus trivialis,MA,Sidi Marrat,Rabat-Salé-Zemmour-Zaer,1,33.54455,-5.849833,957,4,2019
+2729524365,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,3,28.539686,-11.031013,10,3,2007
+1721623452,Anthus trivialis,MA,Lac Zerouka,Meknès-Tafilalet,2,33.544254,-5.095575,1616,3,2016
+2724645351,Anthus trivialis,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2016
+2695362536,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+2785908247,Anthus trivialis,MA,Parc d'Ifni,Sous-Massa-Draa,2,29.387415,-10.171619,9,9,2019
+1720335252,Anthus trivialis,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354313,-5.957429,1546,3,2016
+2779379308,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,11,31.28981,-4.091935,747,4,2003
+2691078966,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,7,31.28981,-4.091935,747,4,2003
+1791387700,Anthus trivialis,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,10,2006
+2727258204,Anthus trivialis,MA,champs de Sidi el-Abed,Doukkala-Abda,6,33.03592,-8.688996,43,4,2016
+1168969095,Anthus trivialis,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+2747297822,Anthus trivialis,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2019
+2081107970,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2017
+3209614402,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2772132773,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+2698199422,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2140619682,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2018
+2154536220,Anthus trivialis,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,2,28.04759,-12.226908,0,4,2018
+966463209,Anthus trivialis,MA,High Atlas Mountains,Marrakech-Tensift-Al Haouz,1,31.250378,-7.789307,2156,9,2013
+946211279,Anthus trivialis,MA,31.2900x-4.0921 - 7 apr. 2013 21:48,Meknès-Tafilalet,1,31.29003,-4.092097,748,4,2013
+946245396,Anthus trivialis,MA,31.2900x-4.0921 - 7 apr. 2013 21:48,Meknès-Tafilalet,1,31.29003,-4.092097,748,4,2013
+3628788689,Anthus trivialis,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+2232842015,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2017
+938287396,Anthus trivialis,MA,"Agadir ,Souss massa",Sous-Massa-Draa,1,30.057209,-9.645996,95,2,2012
+1203507221,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2007
+1786469769,Anthus trivialis,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2015
+3278169808,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2006
+2155947164,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,3,2018
+2185312753,Anthus trivialis,MA,Oued Sayed,Guelmim-Es Smara,2,28.962997,-10.121584,230,3,2011
+3287050947,Anthus trivialis,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,2,33.56109,-6.871708,415,3,2009
+2155928191,Anthus trivialis,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,3,2018
+2138366125,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2017
+2799390026,Anthus trivialis,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,10,2019
+946060511,Anthus trivialis,MA,31.2900x-4.0921 - 7 apr. 2013 21:48,Meknès-Tafilalet,1,31.29003,-4.092097,748,4,2013
+2046383045,Anthus trivialis,MA,Riverbed near Aoulouz,Sous-Massa-Draa,1,30.696598,-8.154629,689,2,2017
+2199876589,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2018
+2709616584,Anthus trivialis,MA,Midelt,Meknès-Tafilalet,1,32.680164,-4.730387,1471,3,2000
+3195041833,Anthus trivialis,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,6,30.185549,-9.627369,90,3,2012
+2050867589,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2017
+1788814560,Anthus trivialis,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2009
+2045330864,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,4,2017
+3528581494,Anthus trivialis,MA,Azrou (east),Meknès-Tafilalet,1,33.432934,-5.176328,1646,3,2007
+3294855281,Anthus trivialis,MA,Cap d'El Beddouza,Doukkala-Abda,1,32.541122,-9.284434,23,11,2012
+2696663127,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+1719993181,Anthus trivialis,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354313,-5.957429,1546,3,2016
+3150069997,Anthus trivialis,MA,"Oued Dial Masa, Chtouka Ait Baha MA-Souss-Massa-Drâa 29.99536, -9.65979",Sous-Massa-Draa,3,29.995361,-9.659795,10,3,2020
+3601388717,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,4,2021
+2714982225,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2747842584,Anthus trivialis,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,2,28.04759,-12.226908,0,4,2018
+1793934668,Anthus trivialis,MA,"L'Oliveriae de Marigha, nr Asni",Marrakech-Tensift-Al Haouz,1,31.193851,-8.052721,939,5,2014
+1719924790,Anthus trivialis,MA,MA-Souss-Massa-Drâa-Ouarzazate-45006 - 30.9432x-6.8197,Sous-Massa-Draa,1,30.943232,-6.819696,1112,3,2016
+3556734281,Anthus trivialis,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,4,2021
+2054720744,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,3,31.28981,-4.091935,747,4,2017
+1203362115,Anthus trivialis,MA,Morocco--Agadir area,Sous-Massa-Draa,2,30.431446,-9.584223,79,3,2006
+2051086360,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2017
+2790595121,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+2746252949,Anthus trivialis,MA,Oued Draa,Guelmim-Es Smara,5,28.539686,-11.031013,10,3,2007
+1784937595,Anthus trivialis,MA,Riad Dar Jemour,Marrakech-Tensift-Al Haouz,1,31.569626,-7.749105,570,3,2015
+2199309687,Anthus trivialis,MA,Banc de Tangier (sorties pélagiques),Tanger-Tétouan,1,35.923325,-5.704093,0,9,2011
+2196959175,Anthus trivialis,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,3,2011
+1721555238,Anthus trivialis,MA,Alongside P2201,Marrakech-Tensift-Al Haouz,1,31.386616,-9.7753,76,3,2016
+3529361831,Anthus trivialis,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2008
+1791464134,Anthus trivialis,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,4,2005
+1355484825,Anthus trivialis,MA,Vallée d'Imouzzer,Sous-Massa-Draa,2,30.676725,-9.477704,1156,3,2015
+3562486255,Anthus trivialis,MA,"Région col Tizi-n-tichka, MA",Marrakech-Tensift-Al Haouz,1,31.307854,-7.373567,2079,11,2021
+1615557253,Anthus trivialis,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2016
+1614486755,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,5,2010
+2047881206,Anthus trivialis,MA,Sidi Wassay (inland),Sous-Massa-Draa,1,30.053642,-9.685758,42,3,2017
+2133188967,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2018
+3175985000,Anthus trivialis,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,10,2019
+3205690190,Anthus trivialis,MA,"MA (28,447, -11,377)",Guelmim-Es Smara,1,28.446867,-11.377284,14,4,2016
+3295271489,Anthus trivialis,MA,MA-Zaer (Reserve Royale de Chasse),Rabat-Salé-Zemmour-Zaer,3,33.708923,-6.930194,246,4,2019
+1410660864,Anthus trivialis,EH,Lamsid SW,Western Sahara,10,26.526876,-13.864403,66,3,2011
+576057822,Anthus trivialis,MA,Oued Autlauc,Sous-Massa-Draa,1,29.126099,-10.256558,178,3,2008
+3216120454,Anthus trivialis,MA,N1 80 km W of Guelmim,Guelmim-Es Smara,2,28.6311,-10.75537,232,3,2011
+3205955716,Anthus trivialis,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2003
+2128072913,Anthus trivialis,MA,"Talouine (région), Rte N10",Sous-Massa-Draa,1,30.52456,-7.88799,1038,3,2018
+2721308311,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,4,31.28981,-4.091935,747,4,2001
+3528515407,Anthus trivialis,ES,Quinto pino,Melilla,1,35.274563,-2.954215,34,4,2021
+1787855154,Anthus trivialis,MA,Ouarzazate,Sous-Massa-Draa,1,30.907948,-6.911555,1105,3,2013
+3516083396,Anthus trivialis,ES,Loma Rubio/Loma Colmenar,Ceuta,2,35.882053,-5.339087,14,4,2021
+3656406940,Anthus trivialis,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,8,2021
+2709363716,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2019
+2137656247,Anthus trivialis,ES,Arroyo Calamocarro II,Ceuta,1,35.910652,-5.364711,44,4,2009
+3662779957,Anthus trivialis,MA,Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.204323,-7.857204,2602,3,2013
+1765579980,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2016
+2772592804,Anthus trivialis,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,4,31.201849,-7.859733,2609,11,2019
+1167616409,Anthus trivialis,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2138358203,Anthus trivialis,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2017
+2058499047,Anthus trivialis,MA,N1- Guelmim,Guelmim-Es Smara,1,28.953968,-10.121607,232,3,2017
+2146893055,Anthus trivialis,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,3,2018
+1778576280,Anthus trivialis,MA,Sidi Ifni,Sous-Massa-Draa,1,29.399027,-10.162278,47,2,2012
+3512203038,Anthus trivialis,ES,Loma Rubio/Loma Colmenar,Ceuta,1,35.882053,-5.339087,14,4,2021
+1763584381,Anthus trivialis,MA,Oued Dades--Boumalne,Sous-Massa-Draa,2,31.369457,-5.988785,1522,4,2008
+3271619808,Anthus trivialis,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2014
+1728822860,Anthus trivialis,MA,"Upstream Crosing, Oued Massa",Sous-Massa-Draa,4,30.004612,-9.656747,9,3,2016
+1619075880,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2007
+1615179435,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2015
+1614486650,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2010
+1619633905,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,9,2008
+2840856361,Anthus trivialis,MA,Morocco - Ouarzazate,,2,30.9272,-6.8728,1103,4,2014
+1619096483,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2005
+1615174618,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2013
+1618160319,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2004
+1618051133,Anthus trivialis,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2001
+1618034258,Anthus trivialis,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,4,2001
+2835861465,Anthus trivialis,MA,Morocco - Sidi Slimane Moul Al Kifane,,1,33.799845,-5.454175,662,3,2014
+2832979932,Anthus trivialis,MA,Morocco - Merja Zerga Parque National,,1,34.81868,-6.300247,9,4,2017
+3726383351,Anthus trivialis,MA,Morocco - Ben Ahmed,,1,33.069749,-7.23421,624,4,2020
+3719667975,Anthus trivialis,MA,Morocco - Ain Dorbane,,2,33.071387,-7.232455,636,4,2021
+3824313394,Anthus trivialis,MA,Morocco - Région de Merzouga (Erfoud),,1,31.137276,-4.020452,704,5,2022
+2840145667,Anthus trivialis,MA,Morocco - Ouarzazate,,1,30.91224,-6.866112,1106,3,2012
+3720035573,Anthus trivialis,MA,Morocco - Ben Ahmed,,6,33.071099,-7.232015,634,4,2021
+2840649731,Anthus trivialis,MA,Morocco - Massa,,2,29.970766,-9.656751,10,1,2019
+1719980430,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2016
+2669883694,Anthus trivialis,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,3,33.713158,-6.929712,284,4,2019
+1618051169,Anthus trivialis,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2001
+1615334496,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2014
+1619241102,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2006
+3575901054,Anthus trivialis,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2021
+3725749184,Anthus trivialis,MA,Morocco - Ben Ahmed,,2,33.070497,-7.232285,630,3,2020
+2832798429,Anthus trivialis,MA,Morocco - Ait Boubidmane,,1,33.859651,-5.392349,638,3,2016
+3824433350,Anthus trivialis,MA,Morocco - Ben Ahmed,,1,33.069397,-7.231507,620,4,2022
+3513937573,Anthus trivialis,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,4,2021
+1187236576,Anthus trivialis,MA,Merzouga/Desert,Meknès-Tafilalet,1,31.098513,-4.012113,688,3,2007
+2838956457,Anthus trivialis,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,3,30.906035,-6.854553,1101,3,2014
+2719352680,Anthus trivialis,MA,Oued Boukila,Guelmim-Es Smara,3,28.919855,-10.154157,214,3,2018
+1615666102,Anthus trivialis,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,4,2018
+1618211299,Anthus trivialis,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,5,2002
+1619513488,Anthus trivialis,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2009
+3566354811,Anthus trivialis,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,4,2004
+2832445539,Anthus trivialis,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.290214,-4.091796,749,4,2011
+2833033438,Anthus trivialis,MA,Morocco - Merja Zerga Parque National,,1,34.81868,-6.300247,9,4,2017

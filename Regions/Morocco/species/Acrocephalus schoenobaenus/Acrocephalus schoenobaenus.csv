@@ -1,0 +1,527 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1619779876,Acrocephalus schoenobaenus,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,7,2010
+1620224283,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2017
+1618051136,Acrocephalus schoenobaenus,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2001
+1620248298,Acrocephalus schoenobaenus,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,4,2018
+2211521169,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2011
+2668192520,Acrocephalus schoenobaenus,MA,Oued Ziz--Errachidia,Meknès-Tafilalet,1,31.934944,-4.423081,1014,4,2019
+2130261597,Acrocephalus schoenobaenus,MA,"La Jade Hotel Ourika,",Marrakech-Tensift-Al Haouz,1,31.373144,-7.776329,876,2,2018
+2046683587,Acrocephalus schoenobaenus,MA,Zone d'épuration de Missour,Fès-Boulemane,2,33.04657,-3.981377,868,3,2017
+1615867063,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2000
+1615867056,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2000
+1620255636,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,5,2019
+2684757804,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,4,2019
+1721632718,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,3,2016
+2787838334,Acrocephalus schoenobaenus,MA,Lagune de Oualidia--Lagune du Camping de Oualidia,Doukkala-Abda,1,32.729427,-9.04531,9,10,2019
+3285230993,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,8,2020
+1735668248,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2016
+1744725211,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2016
+3565095009,Acrocephalus schoenobaenus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2021
+1356455551,Acrocephalus schoenobaenus,MA,MA--Marrakech-Tensift-Al Haouz--Ourika,Marrakech-Tensift-Al Haouz,1,31.3069,-7.736894,1034,3,2015
+1734957883,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2016
+1786469761,Acrocephalus schoenobaenus,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,6,30.038885,-9.666038,88,4,2015
+2719309806,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2018
+2703100358,Acrocephalus schoenobaenus,MA,Plage de Tifnit,Sous-Massa-Draa,2,30.201324,-9.641147,12,4,2002
+2660666362,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,4,31.212925,-3.9884,736,3,2007
+2738863128,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2019
+3654093277,Acrocephalus schoenobaenus,MA,South of Amerzgane,Sous-Massa-Draa,1,30.939434,-7.205594,1258,4,2018
+2726174518,Acrocephalus schoenobaenus,MA,Plaines de Zaida,Meknès-Tafilalet,2,32.791946,-4.944277,1483,3,2009
+2685882428,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+3139385680,Acrocephalus schoenobaenus,MA,"47703, Zagora MA-Souss-Massa-Drâa 30.77767, -5.56782",Sous-Massa-Draa,1,30.777666,-5.56782,857,3,2020
+3549493789,Acrocephalus schoenobaenus,MA,Marais d'el-Hotba,Doukkala-Abda,7,32.916702,-8.815498,0,2,2021
+1410649038,Acrocephalus schoenobaenus,MA,Oued Sayed,Guelmim-Es Smara,3,28.962997,-10.121584,230,3,2011
+2667988264,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,4,2019
+2133954406,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,6,34.013096,-6.813711,11,2,2018
+3298277074,Acrocephalus schoenobaenus,MA,"N10, Taroudant MA-Souss-Massa-Drâa 30.69442, -8.15481",Sous-Massa-Draa,1,30.694424,-8.154806,699,3,2020
+3280774000,Acrocephalus schoenobaenus,MA,Remparts de Taroudant,Sous-Massa-Draa,2,30.468142,-8.872082,223,3,2019
+1785064393,Acrocephalus schoenobaenus,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+2657693814,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+3546440582,Acrocephalus schoenobaenus,MA,Oued Ziz--Errachidia,Meknès-Tafilalet,1,31.934944,-4.423081,1014,4,2019
+2761352566,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,3,2019
+1786476931,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2015
+1396342876,Acrocephalus schoenobaenus,MA,Al-Mansour Ad-Dahbi,Sous-Massa-Draa,1,30.9223,-6.8498,1093,4,2007
+3255136235,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,5,35.152462,-6.102734,13,3,2009
+1389973936,Acrocephalus schoenobaenus,MA,"Sous-Massa-Draa, MA",Sous-Massa-Draa,1,30.052736,-9.657257,9,3,2001
+3215567578,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3202293551,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,2,2018
+3618782441,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,3,2019
+2043083865,Acrocephalus schoenobaenus,MA,"EcoLodge L'Ile, Ouarzazarte",Sous-Massa-Draa,1,30.904877,-6.765304,1148,2,2017
+816928545,Acrocephalus schoenobaenus,MA,Oued Draa--Tansikht,Sous-Massa-Draa,1,30.686808,-6.192155,854,3,2001
+2740799922,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,3,2019
+1786470758,Acrocephalus schoenobaenus,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+1354722527,Acrocephalus schoenobaenus,MA,"MA-Souss-Massa-Draâ-Ouarzazate - 30.9188x-6.9092 - Mar 17, 2015, 2:28 PM",Sous-Massa-Draa,1,30.918798,-6.909178,1125,3,2015
+2742573381,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,3,2019
+2794275022,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,2,30.686493,-8.150697,754,4,2014
+1166122403,Acrocephalus schoenobaenus,MA,MA-trajet Essaouira-Tamri- Oued,Marrakech-Tensift-Al Haouz,2,31.089308,-9.667374,155,4,2014
+2753244415,Acrocephalus schoenobaenus,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,2,29.98752,-9.651463,10,3,2018
+3273258704,Acrocephalus schoenobaenus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2006
+946060046,Acrocephalus schoenobaenus,MA,31.2900x-4.0921 - 7 apr. 2013 21:48,Meknès-Tafilalet,1,31.29003,-4.092097,748,4,2013
+2796700242,Acrocephalus schoenobaenus,MA,"Drâa-Tafilalet, MA (31,09, -4,04)",Meknès-Tafilalet,10,31.08986,-4.040245,695,3,2019
+2771277656,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+2656508141,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,2,2019
+2660833886,Acrocephalus schoenobaenus,MA,"Drâa-Tafilalet, MA (31,086, -4,042)",Meknès-Tafilalet,21,31.086264,-4.042019,682,3,2019
+2661478360,Acrocephalus schoenobaenus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,11,30.64619,-9.884273,16,3,2007
+1737967963,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2016
+2715683295,Acrocephalus schoenobaenus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,3,2016
+3265909447,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2009
+1354723698,Acrocephalus schoenobaenus,MA,"MA-Souss-Massa-Draa - 31.0351x-7.1861 - Mar 17, 2015, 2:20 PM",Sous-Massa-Draa,1,31.035135,-7.186105,1313,3,2015
+2668801663,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2775251697,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+2660629969,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1167609193,Acrocephalus schoenobaenus,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,1,28.44079,-11.371497,23,4,2014
+2700222399,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2017
+2732139212,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,15,35.195835,-6.111832,7,3,2007
+938271537,Acrocephalus schoenobaenus,MA,Agadir Souss massa,Sous-Massa-Draa,1,30.2389,-9.61647,70,2,2012
+3139701195,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2020
+2769176500,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2011
+2785831703,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,3,2017
+3288630864,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,1,2010
+1370839367,Acrocephalus schoenobaenus,MA,"MA-Souss-Massa-Draâ-Ouarzazate - 30.9188x-6.9092 - Mar 17, 2015, 2:28 PM",Sous-Massa-Draa,1,30.918798,-6.909178,1125,3,2015
+2751506533,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2007
+2747426976,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2042829149,Acrocephalus schoenobaenus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,6,34.02601,-6.814597,10,2,2017
+3252339262,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,9,35.152462,-6.102734,13,3,2009
+3527157021,Acrocephalus schoenobaenus,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,3,2021
+3152158198,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2014
+2723796177,Acrocephalus schoenobaenus,MA,Karting circuit Jaafaira,Marrakech-Tensift-Al Haouz,1,31.581,-7.981,495,3,2002
+2981043843,Acrocephalus schoenobaenus,MA,,Souss - Massa - Draâ,1,29.967707,-9.655471,10,3,2006
+2146981803,Acrocephalus schoenobaenus,MA,Cafe Yasmina,Meknès-Tafilalet,1,31.213112,-3.987548,731,4,2007
+2717518873,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,3,2019
+2789458862,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,10,2013
+1202115128,Acrocephalus schoenobaenus,MA,Jorf,Meknès-Tafilalet,1,31.479916,-4.386806,811,4,2005
+3650114269,Acrocephalus schoenobaenus,MA,Merzouga general area - Tisserdmine | trip with Lahcen,Meknès-Tafilalet,1,31.290462,-4.030025,760,3,2009
+1390991725,Acrocephalus schoenobaenus,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,10,2015
+2742044017,Acrocephalus schoenobaenus,MA,"Tamri, Souss Massa, MA (30,708, -9,856)",Sous-Massa-Draa,2,30.708046,-9.855808,14,3,2019
+2739685923,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,3,2007
+2138003128,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,3,2018
+1355019965,Acrocephalus schoenobaenus,MA,"29.9884x-9.6445 - Mar 20, 2015, 2:33 PM",Sous-Massa-Draa,1,29.988379,-9.644474,11,3,2015
+1168980577,Acrocephalus schoenobaenus,MA,MA-Atmoudi,Guelmim-Es Smara,1,29.24219,-9.18102,890,4,2014
+3211455015,Acrocephalus schoenobaenus,MA,Oued Massa area,Sous-Massa-Draa,4,29.993118,-9.661185,7,2,2011
+2213157055,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2016
+3151338969,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,2,2020
+3564454648,Acrocephalus schoenobaenus,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2008
+2659173039,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,15,35.195835,-6.111832,7,3,2007
+2212653574,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2018
+2713108310,Acrocephalus schoenobaenus,MA,Azaouia,Guelmim-Es Smara,1,28.66981,-10.702308,137,2,2012
+1168960364,Acrocephalus schoenobaenus,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,1,28.44079,-11.371497,23,4,2014
+2667884791,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+3578098318,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2832151156,Acrocephalus schoenobaenus,MA,Morocco,,1,30.971161,-6.729652,1131,3,2007
+3293757077,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,4,2006
+2792458848,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,4,2016
+2841048656,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.865385,-8.864765,23,4,2014
+1617130559,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2010
+1791461822,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2005
+2738001221,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+1836624336,Acrocephalus schoenobaenus,MA,,Doukkala - Abda,1,32.729747,-9.045224,9,3,2018
+2783501804,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+575943236,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2007
+1764531810,Acrocephalus schoenobaenus,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,9,2016
+1721634896,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,3,2016
+2724824798,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2764750053,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1620224604,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2017
+2791752064,Acrocephalus schoenobaenus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2010
+3143014603,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2020
+2150902804,Acrocephalus schoenobaenus,MA,"(30,3254,-5,8306)",Sous-Massa-Draa,1,30.325386,-5.830635,712,3,2018
+817808437,Acrocephalus schoenobaenus,MA,Lac El Mansour,Sous-Massa-Draa,1,30.947826,-6.791866,1109,3,2006
+2724553262,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2010
+3278535046,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+2661063082,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+2664324641,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2019
+2132144498,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,2,30.700294,-8.162112,689,4,2018
+3651681972,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,2,2020
+1791772002,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2739012105,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+1735943859,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2016
+3214518486,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,40,30.031328,-9.644645,8,3,2014
+1791469494,Acrocephalus schoenobaenus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2005
+3521219370,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,3,2021
+2665289483,Acrocephalus schoenobaenus,MA,Champs de Beni Mimoune,Meknès-Tafilalet,1,31.263906,-4.238521,746,3,2019
+3150911979,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,3,2020
+2710277592,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,4,2008
+2668092445,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2670098190,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,4,31.212925,-3.9884,736,3,2007
+2739832837,Acrocephalus schoenobaenus,MA,Oued Draa,Guelmim-Es Smara,10,28.539686,-11.031013,10,3,2007
+2667591886,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,2,2019
+1795274099,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,2,2002
+3610824665,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,6,33.54445,-7.761624,14,2,2021
+2744096208,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,3,2019
+2719933707,Acrocephalus schoenobaenus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2008
+577156848,Acrocephalus schoenobaenus,MA,Barrage al-Mansoor Ed-Dahbi,Sous-Massa-Draa,1,30.924906,-6.875381,1112,3,2011
+2148331972,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,3,2018
+3687223592,Acrocephalus schoenobaenus,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,2,2008
+2217962129,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2011
+2754760155,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,4,2019
+2138684435,Acrocephalus schoenobaenus,MA,Ouled Oqba er-Riah,Rabat-Salé-Zemmour-Zaer,1,34.009636,-6.784675,9,3,2018
+2143785693,Acrocephalus schoenobaenus,MA,Rissani (multiple locations),Meknès-Tafilalet,1,31.260365,-4.317814,751,4,2018
+2054769058,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,4,2017
+2661401579,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,4,31.212925,-3.9884,736,3,2007
+2669524718,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1784891546,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,4,2015
+2667503006,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,3,2019
+2209955743,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,3,2011
+2041451132,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2017
+2753162253,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2019
+2778276844,Acrocephalus schoenobaenus,MA,Merja Bargha,Tanger-Tétouan,2,35.016563,-6.208759,15,3,2016
+1786483243,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,4,2015
+3207454028,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2009
+2745482394,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,3,2007
+1165964372,Acrocephalus schoenobaenus,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+2667230895,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,1,30.700294,-8.162112,689,4,2019
+2680167667,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,3,2010
+2667764951,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,4,2019
+2225377673,Acrocephalus schoenobaenus,MA,Ifentar,Sous-Massa-Draa,1,29.96189,-9.65864,7,4,2017
+1743165200,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,4,30.686493,-8.150697,754,3,2016
+2731276073,Acrocephalus schoenobaenus,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,9,30.031122,-9.644047,7,3,2007
+1788109110,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2009
+2694144701,Acrocephalus schoenobaenus,MA,agadir,Sous-Massa-Draa,1,30.419777,-9.606588,10,3,2019
+1791996077,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2011
+2768754896,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2019
+1788952076,Acrocephalus schoenobaenus,MA,Oued Smir,Tanger-Tétouan,1,35.70255,-5.33778,7,3,2016
+2796050477,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,11,35.152462,-6.102734,13,3,2008
+3191369719,Acrocephalus schoenobaenus,MA,Tizert,Sous-Massa-Draa,1,30.211634,-8.429473,1250,3,2020
+2785479217,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,3,2016
+1167619311,Acrocephalus schoenobaenus,MA,MA-trajet Essaouira-Tamri- Oued,Marrakech-Tensift-Al Haouz,2,31.089308,-9.667374,155,4,2014
+3292038560,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,5,35.152462,-6.102734,13,3,2009
+2745585134,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,3,2019
+2038830525,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,4,30.700294,-8.162112,689,3,2017
+2049101919,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,2,2017
+2147199013,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,3,2018
+3264708386,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,5,35.152462,-6.102734,13,3,2009
+1735026910,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2016
+816945169,Acrocephalus schoenobaenus,MA,Oued Sous,Sous-Massa-Draa,1,30.365845,-9.60265,7,3,2001
+2666090644,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,3,2018
+1726324985,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,3,2016
+1369701214,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,5,2015
+3216005288,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,4,2011
+3197536578,Acrocephalus schoenobaenus,MA,Erg Chebbi,Meknès-Tafilalet,1,31.174,-3.9867,785,3,2006
+2659111946,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+2798523096,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2013
+2207875169,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,10,2018
+3220582471,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,3,2020
+3279063743,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2019
+3576085855,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2015
+2155034792,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2018
+3647926122,Acrocephalus schoenobaenus,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2010
+2652648276,Acrocephalus schoenobaenus,ES,Arroyo Calamocarro II,Ceuta,1,35.910652,-5.364711,44,6,2001
+3146989139,Acrocephalus schoenobaenus,MA,"N10, Taroudant MA-Souss-Massa-Drâa 30.69442, -8.15481",Sous-Massa-Draa,1,30.694424,-8.154806,699,3,2020
+3201333765,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2009
+1763796964,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2008
+1788808655,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2009
+3223679974,Acrocephalus schoenobaenus,MA,"Unnamed Road, Guelmim-Oued Noun, MA (28.83, -10.412)",Guelmim-Es Smara,1,28.830343,-10.411944,128,3,2020
+1730174048,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2670701908,Acrocephalus schoenobaenus,MA,MA—Lake Merzouga,Meknès-Tafilalet,10,31.105577,-4.052028,688,3,2019
+3215422120,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2007
+1165971212,Acrocephalus schoenobaenus,MA,MA-El Ouatia- réservoir,Guelmim-Es Smara,1,28.44079,-11.371497,23,4,2014
+1165955231,Acrocephalus schoenobaenus,MA,MA-Atmoudi,Guelmim-Es Smara,1,29.24219,-9.18102,890,4,2014
+2719135344,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,10,2009
+1411051085,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2011
+1728248022,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2016
+1724015752,Acrocephalus schoenobaenus,MA,Merja Bargha,Tanger-Tétouan,2,35.016563,-6.208759,15,3,2016
+2789668314,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,8,31.212925,-3.9884,736,4,2007
+2691638602,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,6,35.152462,-6.102734,13,3,2008
+2138409556,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2018
+3138659661,Acrocephalus schoenobaenus,MA,"47703, Zagora MA-Souss-Massa-Drâa 30.77767, -5.56782",Sous-Massa-Draa,1,30.777666,-5.56782,857,3,2020
+1370838115,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2729193107,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,3,2007
+3252191836,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+3508051737,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,9,33.54445,-7.761624,14,2,2021
+1205821173,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,3,2010
+2742415081,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2019
+1788804461,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2009
+3571928868,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2015
+1721209751,Acrocephalus schoenobaenus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,3,2016
+3585565283,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2004
+2788091658,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+2725724650,Acrocephalus schoenobaenus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,3,2016
+3209018915,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+3295273709,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+2209059910,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2018
+2832181944,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,5,32.910356,-8.824081,9,2,2011
+2835358937,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,5,32.939232,-8.796616,8,2,2011
+2657458096,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+3260784257,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,3,2001
+3617173001,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,19,30.700294,-8.162112,689,3,2021
+1722132495,Acrocephalus schoenobaenus,MA,Ouarzazate (general area),Sous-Massa-Draa,2,30.918377,-6.917866,1132,3,2016
+2672224138,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+2732353943,Acrocephalus schoenobaenus,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,9,30.031122,-9.644047,7,3,2007
+1787896530,Acrocephalus schoenobaenus,MA,Oued Massa,Sous-Massa-Draa,1,30.054363,-9.662944,9,2,2008
+1723983748,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,3,2016
+2138417843,Acrocephalus schoenobaenus,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,6,27.161089,-13.185421,22,2,2018
+3213240614,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,10,2007
+2731726745,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,4,2019
+3521728559,Acrocephalus schoenobaenus,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,3,2021
+2745152542,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,4,2019
+1786483410,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2015
+2037395356,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,3,2017
+1724783640,Acrocephalus schoenobaenus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,3,2016
+2669611903,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,3,2019
+1411321181,Acrocephalus schoenobaenus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,2,2015
+2784854783,Acrocephalus schoenobaenus,MA,Champs de Beni Mimoune,Meknès-Tafilalet,1,31.263906,-4.238521,746,3,2019
+2207826749,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,10,2018
+3295828659,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,20,30.070282,-9.662819,21,3,2006
+3263008324,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,3,2001
+2229647151,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2011
+2056449222,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2017
+2670268445,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2792183545,Acrocephalus schoenobaenus,ES,Arroyo del Infierno,Ceuta,2,35.892666,-5.344787,31,4,2010
+2134488074,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,3,33.987755,-6.797646,8,3,2018
+2745524698,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2152104357,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2018
+1369209625,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,5,2015
+2787590871,Acrocephalus schoenobaenus,MA,Oued Noun,Sous-Massa-Draa,1,29.139307,-10.40838,10,9,2019
+3138669966,Acrocephalus schoenobaenus,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,2,2020
+2725537090,Acrocephalus schoenobaenus,MA,Tamri,Sous-Massa-Draa,1,30.707972,-9.835919,53,3,2015
+2664517686,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2019
+2135909696,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+3288803888,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2019
+3290063908,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2003
+1355673574,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2197484330,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2018
+2758991994,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+1785042599,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2015
+3290377372,Acrocephalus schoenobaenus,MA,MA-Agadir (Imallalen-Oued Massa),Sous-Massa-Draa,1,30.003473,-9.655787,9,4,2016
+2669922871,Acrocephalus schoenobaenus,MA,Oued Draa,Guelmim-Es Smara,10,28.539686,-11.031013,10,3,2007
+2176762410,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,1,30.700294,-8.162112,689,3,2014
+2746037602,Acrocephalus schoenobaenus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2003
+2734715974,Acrocephalus schoenobaenus,MA,Remparts de Taroudant,Sous-Massa-Draa,2,30.468142,-8.872082,223,3,2019
+2681654762,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2838810964,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.164081,-6.10797,8,9,2013
+2543500887,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2015
+3825654355,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,30,35.152012,-6.097353,12,4,2022
+2832797289,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,3,35.162985,-6.107662,9,3,2016
+1836624326,Acrocephalus schoenobaenus,MA,,Doukkala - Abda,1,32.729747,-9.045224,9,3,2018
+2839352378,Acrocephalus schoenobaenus,MA,Morocco - Marais de El Otba,,3,32.919387,-8.808556,9,2,2014
+1617239995,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2010
+2672976423,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2019
+3614419059,Acrocephalus schoenobaenus,MA,Akka N'Ait Sidi,Guelmim-Es Smara,2,29.909351,-7.332774,578,3,2018
+2715195606,Acrocephalus schoenobaenus,MA,Assif Amerzgane,Sous-Massa-Draa,1,31.038475,-7.215571,1324,3,2015
+1726308522,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,4,30.686493,-8.150697,754,3,2016
+2662728655,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2741225387,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2019
+2667571240,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,3,2019
+2835759249,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.164081,-6.10797,8,9,2013
+1618522084,Acrocephalus schoenobaenus,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,4,2004
+1615947240,Acrocephalus schoenobaenus,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,6,2001
+2114264406,Acrocephalus schoenobaenus,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,1,27.161089,-13.185421,22,2,2018
+2836268721,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.1679,-6.1077,9,4,2016
+2839752849,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.1679,-6.1077,9,4,2016
+1411496527,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+1618166215,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2001
+1617130579,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2010
+1618049200,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2001
+1620255643,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,5,2019
+1617149400,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2010
+1168976253,Acrocephalus schoenobaenus,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+1721629352,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,3,2016
+2839974736,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.919723,-8.813438,10,4,2012
+2768892026,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,15,35.195835,-6.111832,7,3,2007
+1780943878,Acrocephalus schoenobaenus,EH,Lemseyed,Western Sahara,1,27.042692,-13.094864,55,2,2012
+2723627957,Acrocephalus schoenobaenus,MA,Rissani,Meknès-Tafilalet,1,31.275997,-4.252067,751,4,2016
+1355678827,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+2718118140,Acrocephalus schoenobaenus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,3,2017
+2136215625,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,3,2018
+2693801674,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2018
+3585266948,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2011
+1370825196,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+2130265927,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,4,2018
+2190858507,Acrocephalus schoenobaenus,MA,Oued Beht--Lalla Regraga,Rabat-Salé-Zemmour-Zaer,2,33.833954,-5.926146,145,9,2018
+3233208946,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,1,30.94206,-7.209015,1258,2,2020
+3223244541,Acrocephalus schoenobaenus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2020
+2750235073,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2139782921,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,2,2018
+1791976117,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,4,2011
+1793177032,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2012
+2746663428,Acrocephalus schoenobaenus,MA,"Oued Iriri, Drâa-Tafilalet, MA (30.942, -7.209)",Sous-Massa-Draa,2,30.94206,-7.209015,1258,3,2019
+2043237987,Acrocephalus schoenobaenus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,3,34.02601,-6.814597,10,3,2017
+2738876855,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+3679474631,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,3,2021
+1735668276,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2016
+1759474607,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,8,31.212925,-3.9884,736,4,2007
+3199375718,Acrocephalus schoenobaenus,MA,"Oued Noun (Assaka) (28.9673, -10.2214)",Guelmim-Es Smara,2,28.9673,-10.2214,182,10,2011
+3676027845,Acrocephalus schoenobaenus,MA,Oued Sayed,Guelmim-Es Smara,2,28.962997,-10.121584,230,3,2015
+3542684465,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+2738398695,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1411499180,Acrocephalus schoenobaenus,MA,Vallée des Roses--domaine générale,Sous-Massa-Draa,1,31.34626,-6.168351,1518,3,2013
+2125903272,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,2,2018
+3184702004,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+816907235,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2001
+2152004797,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2018
+1411330192,Acrocephalus schoenobaenus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,2,2015
+2723061318,Acrocephalus schoenobaenus,MA,Oulad Berhil,Sous-Massa-Draa,1,30.637672,-8.465223,499,3,2018
+2739118876,Acrocephalus schoenobaenus,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,3,33.56109,-6.871708,415,3,2007
+3625703670,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,7,33.54445,-7.761624,14,3,2021
+2044308958,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,3,2017
+1178849827,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2013
+3222681572,Acrocephalus schoenobaenus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,3,2020
+2137615377,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,3,2018
+2777726342,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2120734245,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,3,2008
+2740639908,Acrocephalus schoenobaenus,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,3,33.56109,-6.871708,415,3,2007
+2046993885,Acrocephalus schoenobaenus,MA,"Oued Massa, Iyass",Sous-Massa-Draa,2,29.985262,-9.663173,11,3,2017
+1784879436,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,2,31.212925,-3.9884,736,4,2015
+2753377018,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+3211544584,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2011
+2762415999,Acrocephalus schoenobaenus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2019
+2666271838,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2007
+2674602490,Acrocephalus schoenobaenus,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,3,33.56109,-6.871708,415,3,2007
+1717675089,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2016
+2038657192,Acrocephalus schoenobaenus,MA,Vallée du Akrech,Rabat-Salé-Zemmour-Zaer,1,33.930008,-6.803574,8,3,2017
+938256841,Acrocephalus schoenobaenus,MA,"Agadir ,Souss massa",Sous-Massa-Draa,1,30.057209,-9.645996,95,2,2012
+2674106130,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+2764781174,Acrocephalus schoenobaenus,MA,Oued Massa,Sous-Massa-Draa,1,30.057463,-9.655754,16,4,2006
+2150213551,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,3,33.987755,-6.797646,8,3,2018
+1792637288,Acrocephalus schoenobaenus,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2012
+2743366207,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,3,2019
+2135728432,Acrocephalus schoenobaenus,MA,Asif Tifnout,Sous-Massa-Draa,4,30.700294,-8.162112,689,3,2017
+3285007429,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2010
+3215088324,Acrocephalus schoenobaenus,MA,"Icht, R102, Souss Massa, MA (29,059, -8,855)",Guelmim-Es Smara,1,29.058884,-8.854643,516,4,2016
+2143681511,Acrocephalus schoenobaenus,MA,"(30,9384,-7,2095)",Sous-Massa-Draa,1,30.938437,-7.209453,1258,3,2018
+1786484183,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,4,2015
+2131041246,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2018
+1786480202,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,4,2015
+2700226165,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+3255826342,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2009
+816939859,Acrocephalus schoenobaenus,MA,Oued Sous,Sous-Massa-Draa,1,30.365845,-9.60265,7,3,2001
+3514740750,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2021
+2662163833,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2019
+3566565568,Acrocephalus schoenobaenus,EH,Morocco,Western Sahara,1,27.164206,-13.194169,20,3,2017
+2045919380,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,3,2017
+2049229853,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2017
+575940916,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,3,2007
+2675987382,Acrocephalus schoenobaenus,MA,"(29.9886,-9.6657)",Sous-Massa-Draa,2,29.988615,-9.665656,12,4,2019
+2658797286,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,3,2007
+2771262200,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,8,31.212925,-3.9884,736,4,2007
+3590229353,Acrocephalus schoenobaenus,MA,Oued Massa-- Champs d'Imallalen,Sous-Massa-Draa,1,29.998526,-9.649563,8,3,2021
+2795733595,Acrocephalus schoenobaenus,ES,Arroyo del Infierno,Ceuta,2,35.892666,-5.344787,31,5,2010
+2136443994,Acrocephalus schoenobaenus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,3,33.987755,-6.797646,8,3,2018
+2776920616,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2017
+2661011901,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,3,2007
+1784934086,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2015
+3283796401,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2015
+1785071343,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,4,2015
+3681584139,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2008
+2715503353,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2198396302,Acrocephalus schoenobaenus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,10,2018
+2738176892,Acrocephalus schoenobaenus,MA,Oued Massa (incluedroute El Kharije),Sous-Massa-Draa,9,30.031122,-9.644047,7,3,2007
+1396346939,Acrocephalus schoenobaenus,MA,Tamri,Sous-Massa-Draa,1,30.7052,-9.8417,8,4,2007
+2661025922,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,3,2019
+818679844,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2012
+2716986589,Acrocephalus schoenobaenus,MA,Barrage Aoulouz,Sous-Massa-Draa,4,30.686493,-8.150697,754,3,2016
+2739578057,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,4,2019
+3599601230,Acrocephalus schoenobaenus,MA,Marais d'el-Hotba,Doukkala-Abda,7,32.916702,-8.815498,0,2,2021
+1785074484,Acrocephalus schoenobaenus,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,6,30.038885,-9.666038,88,4,2015
+2184941259,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2018
+3286688541,Acrocephalus schoenobaenus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,3,2008
+1168977716,Acrocephalus schoenobaenus,MA,MA-trajet Essaouira-Tamri- Oued,Marrakech-Tensift-Al Haouz,2,31.089308,-9.667374,155,4,2014
+1718046641,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,2,2016
+2730443732,Acrocephalus schoenobaenus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2019
+2659215299,Acrocephalus schoenobaenus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,11,30.64619,-9.884273,16,3,2007
+1721424344,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,3,2016
+2658683427,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,5,2008
+1788112507,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,2,2009
+2049427891,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,3,2017
+3588635764,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,2,2021
+2687911433,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3583511990,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1203369792,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+3262135083,Acrocephalus schoenobaenus,MA,Oasis de Fint,Sous-Massa-Draa,1,30.82305,-6.947608,1161,4,2013
+2144687918,Acrocephalus schoenobaenus,MA,"Unnamed Road, Tétouan, Tanger-Tétouan-Al Hoceïma, MA (35,604, -5,332)",Tanger-Tétouan,1,35.604244,-5.332035,7,4,2018
+1788806080,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2009
+577074248,Acrocephalus schoenobaenus,MA,Barrage al-Mansoor Ed-Dahbi,Sous-Massa-Draa,10,30.924906,-6.875381,1112,3,2011
+3206207545,Acrocephalus schoenobaenus,MA,"Tamri, Souss-Massa, MA (30.628, -9.868)",Sous-Massa-Draa,1,30.627853,-9.868313,64,3,2014
+2672939169,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,4,2019
+2764828802,Acrocephalus schoenobaenus,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,1,29.922,-9.623,14,9,2013
+2197761779,Acrocephalus schoenobaenus,EH,Dait Um Saad wetland north of Layoune,Western Sahara,2,27.164402,-13.193803,27,3,2011
+2750299802,Acrocephalus schoenobaenus,MA,Oued Draa,Guelmim-Es Smara,10,28.539686,-11.031013,10,3,2007
+946929538,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2013
+1369213464,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,5,2015
+3284525498,Acrocephalus schoenobaenus,MA,Oued Massa between bridges two and three of Massa village,Sous-Massa-Draa,1,29.998209,-9.658463,9,3,2014
+2765888563,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2019
+3135530924,Acrocephalus schoenobaenus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,6,31.486546,-9.769808,9,2,2020
+2670129632,Acrocephalus schoenobaenus,MA,agadir,Sous-Massa-Draa,1,30.419777,-9.606588,10,3,2019
+1791996861,Acrocephalus schoenobaenus,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2011
+2667527523,Acrocephalus schoenobaenus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,11,30.64619,-9.884273,16,3,2007
+2737853639,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,3,2019
+3221735018,Acrocephalus schoenobaenus,MA,"Oued Souss below Barrage, Aoulouz, Souss-Massa, MA (30.695, -8.155)",Sous-Massa-Draa,1,30.694633,-8.154898,697,2,2020
+2718635639,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,4,31.093885,-4.051035,696,3,2019
+2149731471,Acrocephalus schoenobaenus,MA,Wadi,Sous-Massa-Draa,1,30.93874,-7.209286,1256,3,2018
+2143470374,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2018
+2737201610,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2186558479,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2014
+2135238626,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,11,33.54445,-7.761624,14,2,2018
+3197194479,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2010
+1735665662,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2016
+2771825410,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,3,2016
+2748191188,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2097106569,Acrocephalus schoenobaenus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+3292810360,Acrocephalus schoenobaenus,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,3,2012
+2787441888,Acrocephalus schoenobaenus,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,3,31.26397,-4.271297,755,4,2014
+2189410530,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,3,2016
+2130587255,Acrocephalus schoenobaenus,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,2,29.98752,-9.651463,10,3,2018
+3570409804,Acrocephalus schoenobaenus,EH,Morocco,Western Sahara,1,27.164206,-13.194169,20,3,2017
+1735941448,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,3,30.918804,-6.835792,1093,4,2016
+2226511388,Acrocephalus schoenobaenus,MA,Guelmim,Guelmim-Es Smara,1,28.620993,-10.826339,219,2,2012
+3208803884,Acrocephalus schoenobaenus,MA,MA-Mohammedia (Remnat Marsh),Grand Casablanca,1,33.667343,-7.44665,8,4,2019
+2185138990,Acrocephalus schoenobaenus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2011
+2657954568,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,3,2019
+2741392731,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,3,2019
+2088143948,Acrocephalus schoenobaenus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+3291866316,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,9,35.152462,-6.102734,13,3,2009
+2108884162,Acrocephalus schoenobaenus,MA,bridge across Oued Massa along main road,Sous-Massa-Draa,1,29.88885,-9.591785,33,3,2002
+3272449526,Acrocephalus schoenobaenus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2007
+1410571871,Acrocephalus schoenobaenus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+1167624707,Acrocephalus schoenobaenus,MA,MA-Tissint- Oued,Guelmim-Es Smara,2,29.90368,-7.314217,544,4,2014
+2771712945,Acrocephalus schoenobaenus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,5,31.093885,-4.051035,696,3,2019
+3625903375,Acrocephalus schoenobaenus,EH,Morocco,Western Sahara,1,27.164206,-13.194169,20,3,2017
+2747318715,Acrocephalus schoenobaenus,MA,"Unknown Location - (31,086, -4,042)",Meknès-Tafilalet,10,31.086264,-4.042019,682,3,2019
+3300731546,Acrocephalus schoenobaenus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,9,2020
+2053978763,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2017
+2667538593,Acrocephalus schoenobaenus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2019
+2737471378,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2019
+2064108869,Acrocephalus schoenobaenus,MA,"Hotel Ibis Budget, Agadir",Sous-Massa-Draa,1,30.40584,-9.534169,68,3,2017
+2184409388,Acrocephalus schoenobaenus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,9,2018
+1617239967,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2010
+3193763265,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2015
+1761276028,Acrocephalus schoenobaenus,MA,Aoufous-Puente al sur,Meknès-Tafilalet,1,31.669065,-4.19225,872,4,2016
+1617130519,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2010
+1620244911,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2019
+1620244769,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2018
+1618160119,Acrocephalus schoenobaenus,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,5,2001
+1618051192,Acrocephalus schoenobaenus,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2001
+2543170557,Acrocephalus schoenobaenus,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2015
+1618033344,Acrocephalus schoenobaenus,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,4,2000
+1617149425,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2010
+2839464958,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.871652,-8.869193,10,8,2010
+1744732816,Acrocephalus schoenobaenus,MA,Oued Ziz--au nord d'Erfoud,Meknès-Tafilalet,1,31.495537,-4.191659,825,3,2016
+2832254657,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,30,32.92174,-8.808632,0,2,2012
+2749696596,Acrocephalus schoenobaenus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2019
+2712348596,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2008
+3824324304,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,10,35.152012,-6.097353,12,4,2022
+2840016909,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,15,32.875762,-8.851547,40,2,2011
+1617967486,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2000
+1615174438,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2015
+1354829745,Acrocephalus schoenobaenus,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2015
+1620259534,Acrocephalus schoenobaenus,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2019
+3226605620,Acrocephalus schoenobaenus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2020
+2835549098,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.914391,-8.817129,0,9,2012
+2836494535,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.1679,-6.1077,9,4,2016
+2839624451,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.1679,-6.1077,9,4,2016
+3198347517,Acrocephalus schoenobaenus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,5,35.152462,-6.102734,13,3,2009
+2838607024,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,1,35.157129,-6.104063,5,9,2013
+2840214455,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,3,32.917782,-8.812923,0,3,2013
+2832927470,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,2,35.162231,-6.107798,3,2,2017
+2832370432,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.919313,-8.808911,8,3,2013
+2840922365,Acrocephalus schoenobaenus,MA,Morocco - Marais de El Otba,,1,32.9196,-8.8089,4,2,2014
+2832351432,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.923114,-8.805199,0,3,2013
+3719128776,Acrocephalus schoenobaenus,MA,Morocco - Marais de El Otba,,7,32.916665,-8.815698,0,2,2021
+2839007310,Acrocephalus schoenobaenus,MA,Morocco - Laouamra,,1,35.157129,-6.104063,5,9,2013
+2838361123,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.871652,-8.869193,10,9,2012
+2190630432,Acrocephalus schoenobaenus,MA,Oued Beht--Lalla Regraga,Rabat-Salé-Zemmour-Zaer,2,33.833954,-5.926146,145,9,2018
+3773193369,Acrocephalus schoenobaenus,MA,,Doukkala - Abda,1,32.915641,-8.815743,0,2,2021
+2035805741,Acrocephalus schoenobaenus,MA,Lagune de Sidi Bou Sedra,Rabat-Salé-Zemmour-Zaer,1,34.023167,-6.806194,7,3,2017
+2836094481,Acrocephalus schoenobaenus,MA,Morocco - Larache,,1,35.163892,-6.107796,8,3,2016
+2838474108,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.871652,-8.869193,10,9,2012
+1167606576,Acrocephalus schoenobaenus,MA,MA-Atmoudi,Guelmim-Es Smara,1,29.24219,-9.18102,890,4,2014
+2832176948,Acrocephalus schoenobaenus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.945483,-8.794117,0,9,2010

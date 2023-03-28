@@ -76,10 +76,6 @@ def get_species_list(region_name):
     return species_list
 
 
-
-
-
-
 # Set the chunk size to 100,000 lines
 chunk_size = 10000
 
@@ -100,10 +96,10 @@ dtype = {
 unique_species = 0
 rows_processed = 0
 elevation_counts = {}
-min_elevation = int()
+min_elevation = 9000
 max_elevation = int()
 year_counts = {} 
-min_year = int()
+min_year = 3000
 max_year = int()
 month_counts = {}
 

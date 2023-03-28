@@ -1,0 +1,1388 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2118595510,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,16,35.914482,-5.362167,14,1,2018
+2091984848,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,11,2017
+3296626579,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2012
+2731182281,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+2088910003,Ichthyaetus melanocephalus,MA,"Doukkala-Abda, MA (32.997, -8.731)",Doukkala-Abda,2,32.99735,-8.730656,8,10,2017
+1724768606,Ichthyaetus melanocephalus,MA,Plage des Contrabandiers,Rabat-Salé-Zemmour-Zaer,1,33.922337,-6.964329,7,3,2016
+2107813551,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2017
+1724783623,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,13,33.892357,-7.004562,12,3,2016
+3208015567,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,3,30.627277,-9.886665,9,10,2020
+3825181731,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,7,30.363976,-9.592992,13,4,2016
+2838757719,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.859074,-6.281202,10,4,2012
+2836268707,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,1,32.9363,-8.7933,0,5,2016
+3202962291,Ichthyaetus melanocephalus,MA,Tamri lagune,Sous-Massa-Draa,1,30.7051,-9.8451,10,11,2011
+2118966256,Ichthyaetus melanocephalus,ES,"6 Carretera de Benítez, Ceuta, Ceuta, ES (35,899, -5,343)",Ceuta,17,35.89928,-5.342978,11,3,2018
+2053026501,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+2662239553,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,1,2019
+2771636142,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,9,2019
+3537585658,Ichthyaetus melanocephalus,ES,Costa sur--Area general,Ceuta,5,35.87947,-5.328621,24,2,2021
+3633575095,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,5,35.91514,-5.362894,6,2,2021
+2719933598,Ichthyaetus melanocephalus,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,11,2004
+3660174362,Ichthyaetus melanocephalus,ES,"33 Carretera Benzu, Ceuta, ES (35,901, -5,345)",Ceuta,4,35.90148,-5.34521,7,11,2021
+2725959503,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,2,2011
+3650469917,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2013
+1723985392,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2016
+3190942204,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,10,2020
+2654582213,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,2,2019
+3197203784,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,7,35.898037,-5.341559,16,11,2020
+2718175726,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,4,2007
+2742566193,Ichthyaetus melanocephalus,MA,Oued Tahaddart (Mharhar) & lagoon,Tanger-Tétouan,1,35.58508,-5.985589,0,3,2007
+3638543097,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+3507026690,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,3,35.91514,-5.362894,6,2,2021
+3557176791,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,4,32.781796,-8.973387,7,3,2019
+1721244255,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2016
+3576724704,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+3297196322,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2726653536,Ichthyaetus melanocephalus,MA,"Agadir Province (30.3966, -9.5066)",Sous-Massa-Draa,1,30.3966,-9.5066,65,2,2016
+3695077154,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,60,34.029755,-6.828594,8,12,2021
+1179128032,Ichthyaetus melanocephalus,MA,"Oued Massa delta, Sous-Massa National Park",Sous-Massa-Draa,20,30.079716,-9.669514,10,1,2014
+2785078151,Ichthyaetus melanocephalus,MA,"Agadir Province (30.4114, -9.6213)",Sous-Massa-Draa,1,30.4114,-9.6213,0,9,2019
+2658248568,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,2,2019
+1761302140,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+1777609217,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,1,34.02601,-6.814597,10,12,2016
+3291751869,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,5,35.9023,-5.346128,16,11,2020
+2720744305,Ichthyaetus melanocephalus,MA,Casablanca - El Hank,Grand Casablanca,5,33.6139,-7.650566,5,2,2014
+3194167630,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,8,35.898037,-5.341559,16,10,2020
+2037193320,Ichthyaetus melanocephalus,MA,Route de la Plage Mercala,Tanger-Tétouan,20,35.79085,-5.814171,7,2,2017
+2138002783,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2018
+2667893412,Ichthyaetus melanocephalus,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,1,33.664238,-7.450829,13,4,2019
+2034180645,Ichthyaetus melanocephalus,MA,Corniche du Quartier de l'Océan,Rabat-Salé-Zemmour-Zaer,1,34.02711,-6.848892,12,1,2017
+2752258338,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,1,2019
+2797445643,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+2130116755,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,901, -5,345)",Ceuta,13,35.901436,-5.345211,8,2,2018
+2801156713,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,11,2019
+3552904099,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3684939986,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,5,32.916702,-8.815498,0,12,2013
+3509929859,Ichthyaetus melanocephalus,ES,Desembocadura del arroyo del Infierno,Ceuta,1,35.89716,-5.339467,0,2,2021
+2097615021,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,9,2017
+3615143889,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,60,30.36236,-9.586773,10,1,2021
+3586688863,Ichthyaetus melanocephalus,MA,Plage d'Assilah | شاطئ أصيلة,Tanger-Tétouan,19,35.473946,-6.027833,9,12,2021
+2730645549,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2007
+2163783395,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+2798040057,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,185,35.91375,-5.360241,1,3,2018
+2788474535,Ichthyaetus melanocephalus,ES,Benzú,Ceuta,1,35.915916,-5.372888,13,10,2009
+2796071436,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,12,2019
+3504304759,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,15,35.898037,-5.341559,16,1,2021
+3299024374,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,12,2020
+3680278340,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,11,2021
+2783499649,Ichthyaetus melanocephalus,MA,MA-Agadir-Océan Atlantique Pelagic,Sous-Massa-Draa,1,30.422785,-9.618474,3,9,2019
+2205610835,Ichthyaetus melanocephalus,MA,Plage Sidi el-Abed,Rabat-Salé-Zemmour-Zaer,1,33.90196,-6.99899,12,8,2018
+3299965063,Ichthyaetus melanocephalus,MA,"Mar abierto en ferry Algeciras-Tánger, tramo marroquí",Tanger-Tétouan,1,35.86407,-5.733569,0,12,2008
+3589031645,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,12,35.878376,-5.337942,0,2,2021
+2799963788,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,14,35.894264,-5.336159,11,1,2013
+3298243017,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,4,2019
+2799755767,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,18,35.894264,-5.336159,11,3,2013
+1716243916,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2016
+3656301178,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,1,2021
+3694336595,Ichthyaetus melanocephalus,MA,Côte Oualidia et dunes littorales,Doukkala-Abda,2,32.73224,-9.048571,7,1,2021
+2030995057,Ichthyaetus melanocephalus,MA,Corniche du Quartier de l'Océan,Rabat-Salé-Zemmour-Zaer,1,34.02711,-6.848892,12,1,2017
+2724881659,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,1,2012
+3654490038,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+3605739776,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2021
+3586197806,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,1,34.029755,-6.828594,8,12,2021
+3193543481,Ichthyaetus melanocephalus,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,3,2014
+3296210086,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,4,35.9023,-5.346128,16,10,2020
+2227546259,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,11,2018
+2681440733,Ichthyaetus melanocephalus,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,1,33.664238,-7.450829,13,4,2019
+2775111157,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2661085738,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+3669505233,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+3664584977,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,2,2021
+2231031723,Ichthyaetus melanocephalus,ES,"N-362, Ceuta, Ceuta, ES (35,915, -5,369)",Ceuta,1,35.915455,-5.368665,64,12,2018
+2109002480,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2017
+2217982028,Ichthyaetus melanocephalus,MA,Anza,Sous-Massa-Draa,5,30.437138,-9.647958,11,4,2011
+1378568548,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,7,2015
+2754268663,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,7,2019
+3522249229,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,4,2021
+3293340610,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,12,30.711512,-9.855123,9,11,2020
+2216160272,Ichthyaetus melanocephalus,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.015)",Rabat-Salé-Zemmour-Zaer,1,33.8889,-7.014571,12,9,2018
+3694340556,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,11,2021
+3606397491,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,10,2021
+3584975812,Ichthyaetus melanocephalus,ES,"1 Carretera del Tarajal, Ceuta, Ceuta, ES (35,875, -5,341)",Ceuta,1,35.875477,-5.341199,1,11,2021
+3575595075,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2021
+3199574481,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,12,2020
+2768483232,Ichthyaetus melanocephalus,MA,"80000, Agadir MA-Souss-Massa-Drâa (30.3627,-9.5757)",Sous-Massa-Draa,1,30.362673,-9.575707,8,9,2019
+3522428033,Ichthyaetus melanocephalus,ES,Acantilados de Aguadú,Melilla,14,35.315456,-2.945325,9,3,2021
+2744199374,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2108807818,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,12,32.736244,-9.039345,4,3,2002
+3693305584,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,10,2021
+2060423146,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,4,2017
+1389971261,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2001
+2108808102,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,8,30.070282,-9.662819,21,3,2002
+2730701470,Ichthyaetus melanocephalus,MA,Rabat,Rabat-Salé-Zemmour-Zaer,2,34.02726,-6.827149,7,4,2019
+2231085611,Ichthyaetus melanocephalus,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,15,33.015667,-8.710884,9,12,2018
+2750957770,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,18,34.02601,-6.814597,10,2,2019
+2231072362,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,7,32.997078,-8.73114,7,12,2018
+3208761978,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,10,2020
+2667581466,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2099050981,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,9,2017
+2221076320,Ichthyaetus melanocephalus,MA,Oued Souss upper,Sous-Massa-Draa,1,30.349657,-9.570812,15,11,2018
+588213877,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,1,2009
+3274382514,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,100,35.965782,-5.609035,0,11,2020
+3510787046,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,2,35.91514,-5.362894,6,1,2021
+2715845434,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,13,33.892357,-7.004562,12,3,2016
+1355034321,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2015
+2103579042,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2017
+2688790785,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2017
+2751087621,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,5,2019
+3610130437,Ichthyaetus melanocephalus,MA,Sidi Brahim,Doukkala-Abda,1,32.89937,-8.836402,2,1,2014
+2801085224,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2018
+941743064,Ichthyaetus melanocephalus,MA,MA-Souss-Massa-Draa - 30.5728x-9.7457 - 25 déc. 2012 08:40,Sous-Massa-Draa,1,30.572756,-9.745717,11,12,2012
+3158817159,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,7,30.346031,-9.568678,8,3,2020
+3652815049,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,1,2009
+3568842612,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+3667978382,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,10,2021
+3216264682,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,4,35.898037,-5.341559,16,12,2020
+3152234116,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,2,2020
+3624100229,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,10,35.948143,-5.617258,0,3,2021
+3196923735,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,10,30.627277,-9.886665,9,3,2001
+3538500470,Ichthyaetus melanocephalus,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2736999299,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+3576977816,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2020
+2719758838,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2019
+2780430446,Ichthyaetus melanocephalus,MA,Cap Spartel,Tanger-Tétouan,2,35.78974,-5.923905,78,12,2019
+3295346514,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,12,2020
+1167619347,Ichthyaetus melanocephalus,MA,MA-Essaouira- port,Marrakech-Tensift-Al Haouz,2,31.509233,-9.774942,18,4,2014
+1785040408,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,4,2015
+2682915064,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2727147477,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,5,2001
+3570083896,Ichthyaetus melanocephalus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,10,30.918804,-6.835792,1093,12,2008
+3567922595,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,7,2010
+3573774463,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,600,33.88976,-7.013904,12,12,2021
+3593695857,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,5,35.91514,-5.362894,6,2,2021
+3574407294,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+2661431847,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2019
+2135889455,Ichthyaetus melanocephalus,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,10,30.28438,-9.580526,24,3,2018
+2757255795,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2019
+3589114407,Ichthyaetus melanocephalus,ES,Helipuerto de Ceuta,Ceuta,2,35.892204,-5.306611,4,2,2021
+2133401375,Ichthyaetus melanocephalus,MA,Casablanca,Grand Casablanca,1,33.59812,-7.613912,22,2,2018
+2233488136,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,4,2011
+3693512019,Ichthyaetus melanocephalus,MA,"La Corniche, Témara, Rabat-Salé-Kénitra, MA (33.93, -6.958)",Rabat-Salé-Zemmour-Zaer,2,33.929607,-6.958456,11,10,2021
+2719187449,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,2,32.916702,-8.815498,0,10,2019
+3613052314,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,12,32.916702,-8.815498,0,10,2013
+3294755405,Ichthyaetus melanocephalus,MA,Oualidia area,Doukkala-Abda,1,32.779537,-8.971735,35,4,2009
+1716213687,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2016
+1782323696,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+2175191523,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2014
+2121248991,Ichthyaetus melanocephalus,MA,Embouchure du Oued Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.029373,-6.831318,6,1,2018
+3204919468,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,10,2020
+1201612923,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,12,2014
+2127260631,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,13,35.90014,-5.344322,12,2,2018
+3585931526,Ichthyaetus melanocephalus,EH,Morocco,Western Sahara,4,27.164206,-13.194169,20,3,2017
+2742025620,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,27,34.02601,-6.814597,10,2,2019
+2768382243,Ichthyaetus melanocephalus,ES,Playa del Desnarigado,Ceuta,1,35.895134,-5.28275,2,10,2008
+2747347817,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,9,34.013096,-6.813711,11,4,2019
+2167628088,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3575514246,Ichthyaetus melanocephalus,MA,Casablanca - El Hank,Grand Casablanca,4,33.6139,-7.650566,5,8,2021
+2206376072,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2018
+2670141333,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2019
+1719382454,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,3,2016
+2715377412,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,5,35.91375,-5.360241,1,3,2009
+2792827893,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,1,35.894264,-5.336159,11,10,2014
+3641745333,Ichthyaetus melanocephalus,MA,Casablanca - El Hank,Grand Casablanca,1,33.6139,-7.650566,5,9,2021
+2700914260,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,9,2019
+2104858429,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2018
+2043884822,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2017
+3649229159,Ichthyaetus melanocephalus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,4,33.555717,-7.739337,8,10,2021
+3576134945,Ichthyaetus melanocephalus,MA,Smir Lagune | واد سمير,Tanger-Tétouan,6,35.717155,-5.33949,7,10,2021
+2717813689,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,4,2012
+3681638773,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,20,33.892357,-7.004562,12,10,2021
+2135997484,Ichthyaetus melanocephalus,ES,"Muelle Alfau, Ceuta, Ceuta, ES (35,894, -5,301)",Ceuta,13,35.893677,-5.300957,15,2,2018
+2121453979,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,12,2017
+3693712087,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2021
+2210043524,Ichthyaetus melanocephalus,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.015)",Rabat-Salé-Zemmour-Zaer,1,33.8889,-7.014571,12,9,2018
+2800925254,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,2,2016
+2133124836,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2018
+2786215252,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,9, -5,345)",Ceuta,4,35.899864,-5.344556,18,11,2019
+2767803633,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,11,2019
+2660250866,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,3,2019
+3547568686,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,190,33.892357,-7.004562,12,12,2021
+2723476941,Ichthyaetus melanocephalus,MA,Tangier-Tarifa Ferry (Morocco),Tanger-Tétouan,1,35.871246,-5.698128,0,9,2019
+2099225348,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,10,2017
+3189048580,Ichthyaetus melanocephalus,MA,"Rue Al Mouhat, Anza, Souss-Massa, MA (30,438, -9,648)",Sous-Massa-Draa,1,30.438171,-9.648066,10,10,2020
+2738818302,Ichthyaetus melanocephalus,ES,Melilla,Melilla,28,35.283035,-2.946255,28,1,2019
+2036098191,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,23,34.02601,-6.814597,10,2,2017
+3575817451,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,7,2021
+2791902562,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,7,2019
+2085651404,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2017
+2725187830,Ichthyaetus melanocephalus,MA,"Imi Ouaddar, Souss Massa, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585386,-9.758192,11,3,2019
+2123146558,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2018
+1734928201,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2664423182,Ichthyaetus melanocephalus,MA,Asilah Medina,Tanger-Tétouan,1,35.46495,-6.041686,12,2,2019
+2659001482,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,27,34.02601,-6.814597,10,2,2019
+3181553848,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,6,35.965782,-5.609035,0,9,2020
+2707818773,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2019
+2717941758,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,12,2015
+2140658019,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,5,34.02601,-6.814597,10,2,2018
+2118666434,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,3,30.387526,-9.873276,0,11,2002
+2732074980,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,6,34.013096,-6.813711,11,4,2019
+3559767110,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,8,34.029755,-6.828594,8,12,2021
+2109761627,Ichthyaetus melanocephalus,ES,"(35,899, -5,343)",Ceuta,7,35.89921,-5.342872,11,1,2018
+2667640677,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,18,34.02601,-6.814597,10,2,2019
+3662697729,Ichthyaetus melanocephalus,MA,Asillah BEACH Cafe Daya,Tanger-Tétouan,1,35.463783,-6.042183,7,12,2021
+3542394549,Ichthyaetus melanocephalus,MA,Casablanca - El Hank,Grand Casablanca,1,33.6139,-7.650566,5,9,2021
+2690302047,Ichthyaetus melanocephalus,MA,Port d'Asilah,Tanger-Tétouan,2,35.46962,-6.035614,8,8,2019
+3605744577,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3204826887,Ichthyaetus melanocephalus,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,4,2016
+2770929705,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,8,2019
+3174251595,Ichthyaetus melanocephalus,MA,Agadir--Behind Tikida beach,Sous-Massa-Draa,1,30.38354,-9.593894,18,3,2001
+2657257783,Ichthyaetus melanocephalus,MA,"Tangier-Tétouan-Al Hoceima, MA (35,601, -5,265)",Tanger-Tétouan,6,35.600685,-5.264931,7,2,2019
+2233914856,Ichthyaetus melanocephalus,MA,PN Lagune de Mar Chica,L'Oriental,1,35.143166,-2.780504,5,12,2018
+1716571473,Ichthyaetus melanocephalus,MA,"30.3396x-9.8004 - Feb 17, 2016, 11:10 AM",Sous-Massa-Draa,1,30.33958,-9.800423,0,2,2016
+2661861948,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,12,34.855213,-6.270397,8,3,2019
+3131989859,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2020
+3663916341,Ichthyaetus melanocephalus,MA,Plage d'Assilah | شاطئ أصيلة,Tanger-Tétouan,19,35.473946,-6.027833,9,12,2021
+3632279246,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+3540656979,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,30,32.997078,-8.73114,7,1,2013
+2757837717,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2019
+1370838103,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2661014012,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2007
+2034020020,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,2,2017
+3206280125,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,1,2013
+2207570508,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,1,2015
+3557792462,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,2,2021
+2800338225,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,7,2018
+2216987039,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,13,35.900146,-5.344205,11,12,2018
+3597751209,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,18,35.878376,-5.337942,0,3,2021
+3456687883,Ichthyaetus melanocephalus,MA,,,1,30.316779,-9.862404,0,2,2018
+3140318878,Ichthyaetus melanocephalus,MA,"N16, Tangier-Tétouan-Al Hoceima, MA (35,876, -5,456)",Tanger-Tétouan,23,35.875603,-5.455964,232,1,2020
+3616799556,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,2,2021
+2048281075,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,3,35.90671,-5.348191,30,2,2017
+3673721996,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,60,30.36236,-9.586773,10,3,2021
+1760738239,Ichthyaetus melanocephalus,MA,Sidi Moussa - Oualidia marshes,Doukkala-Abda,2,32.925087,-8.803439,0,1,2005
+2714239279,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2016
+3543972437,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,96,33.54445,-7.761624,14,1,2021
+3511024881,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2042140497,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,2,2017
+2791313542,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,9,2017
+1194055474,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2000
+2128133745,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,1,2018
+3607063550,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,1,34.03392,-6.839424,10,9,2021
+3637346923,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+2102737750,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,14,33.54445,-7.761624,14,11,2017
+2791184821,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,30,30.185549,-9.627369,90,11,2008
+2659722493,Ichthyaetus melanocephalus,ES,"2 Barriada Postigo, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,6,35.899773,-5.343872,10,2,2019
+3216825504,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,14,32.997078,-8.73114,7,8,2019
+2210690669,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,18,32.997078,-8.73114,7,10,2018
+2216577346,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,11,2018
+3148306609,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,30,31.486546,-9.769808,9,3,2020
+3222807034,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,2,2020
+3694534815,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,11,2012
+2040188731,Ichthyaetus melanocephalus,MA,"Atlantic Ocean off Agadir, Morocco",Sous-Massa-Draa,1,30.419283,-9.597697,33,2,2017
+2118968779,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,3,2018
+2658294250,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,39,34.02601,-6.814597,10,2,2019
+2142711397,Ichthyaetus melanocephalus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,3,2018
+2097704644,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2017
+3219090584,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,2,2020
+2201015236,Ichthyaetus melanocephalus,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.014)",Rabat-Salé-Zemmour-Zaer,1,33.88896,-7.014481,12,9,2018
+3648964158,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,5,35.91514,-5.362894,6,2,2021
+2800583663,Ichthyaetus melanocephalus,ES,Playa de la Ribera,Ceuta,1,35.88705,-5.316519,0,1,2009
+1735170156,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+3575653253,Ichthyaetus melanocephalus,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+3541260937,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,3,30.387526,-9.873276,0,11,2003
+2029928243,Ichthyaetus melanocephalus,MA,Station de Pompage El Mansour,Rabat-Salé-Zemmour-Zaer,1,33.987495,-6.888441,15,1,2017
+3569135266,Ichthyaetus melanocephalus,MA,Asillah - South Cliffs,Tanger-Tétouan,1,35.451286,-6.0513,22,12,2021
+2207496329,Ichthyaetus melanocephalus,MA,Banc de Tangier (sorties pélagiques),Tanger-Tétouan,6,35.923325,-5.704093,0,9,2011
+2789749313,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,2,2017
+3548826178,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,3,2021
+3184016924,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,7,2020
+2442775676,Ichthyaetus melanocephalus,MA,Temara,,1,33.981659,-6.896152,18,3,2010
+3282421684,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,6,35.965782,-5.609035,0,9,2020
+1792489360,Ichthyaetus melanocephalus,MA,Oued Souss,Sous-Massa-Draa,53,30.359535,-9.593768,10,1,2004
+2231085383,Ichthyaetus melanocephalus,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,15,33.015667,-8.710884,9,12,2018
+3661104343,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,45,33.54445,-7.761624,14,11,2021
+2222256325,Ichthyaetus melanocephalus,MA,Oued el Maleh,Tanger-Tétouan,1,35.637997,-5.280119,6,12,2015
+2228880268,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,10,31.486546,-9.769808,9,11,2018
+3725147626,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,5,30.363988,-9.596786,10,4,2019
+3715054973,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,50,30.362461,-9.57644,9,3,2015
+3144398377,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2020
+1717660127,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,4,31.50961,-9.773447,12,2,2016
+1791391702,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2006
+2747907409,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,4,32.997078,-8.73114,7,9,2019
+3508884130,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,2,35.878376,-5.337942,0,2,2021
+3724999721,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.361086,-9.585285,8,4,2016
+2836525596,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,32.996786,-8.731069,6,8,2016
+3714978911,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362501,-9.577829,9,3,2015
+1791782043,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2013
+2038043834,Ichthyaetus melanocephalus,MA,Corniche du Quartier de l'Océan,Rabat-Salé-Zemmour-Zaer,1,34.02711,-6.848892,12,2,2017
+2785859626,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,1,2009
+1168980225,Ichthyaetus melanocephalus,MA,MA-Essaouira- port,Marrakech-Tensift-Al Haouz,2,31.509233,-9.774942,18,4,2014
+1202499519,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2011
+2677252198,Ichthyaetus melanocephalus,MA,Agadir Harbour,Sous-Massa-Draa,15,30.420317,-9.634689,0,3,2007
+2736378088,Ichthyaetus melanocephalus,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,59, -5,261)",Tanger-Tétouan,3,35.590137,-5.260545,7,2,2019
+3598445281,Ichthyaetus melanocephalus,ES,Helipuerto de Ceuta,Ceuta,1,35.892204,-5.306611,4,2,2021
+1167606712,Ichthyaetus melanocephalus,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+2683794089,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2019
+3149769338,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2020
+2743654614,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,1,2019
+2832464820,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,15,33.017264,-8.712158,8,2,2014
+2712558046,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2442932228,Ichthyaetus melanocephalus,MA,Moulay Bousselham / Marokko,,1,34.879311,-6.28933,57,9,2015
+2442909875,Ichthyaetus melanocephalus,MA,Strand und Küste von Agadir mit Hotelanlagen,,1,30.399752,-9.600377,12,1,2017
+2211422322,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,10,2018
+2114833394,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,2,2018
+2839883351,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,3,35.193503,-6.136243,9,1,2014
+2840251540,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,4,32.989948,-8.733302,10,12,2017
+3725466307,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,30,30.361172,-9.585684,9,11,2018
+2833177946,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,32.997254,-8.730283,10,9,2017
+2838664485,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,4,34.874379,-6.300659,0,11,2011
+3724796700,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,4,30.359244,-9.577214,12,2,2016
+2150693993,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,12,2012
+2122775731,Ichthyaetus melanocephalus,MA,"Salines de Oualidia, MA (32.783, -8.973)",Doukkala-Abda,3,32.78251,-8.973179,9,12,2017
+3627809672,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,14,35.90671,-5.348191,30,11,2021
+3571196617,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,47,33.892357,-7.004562,12,10,2021
+2442824004,Ichthyaetus melanocephalus,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,12,2016
+3534141827,Ichthyaetus melanocephalus,MA,Sidi Karam - salt pans,Doukkala-Abda,3,32.714096,-9.061766,9,1,2013
+2138704482,Ichthyaetus melanocephalus,MA,Barrage Oued Hassar,Grand Casablanca,1,33.56908,-7.426008,107,3,2018
+2204598952,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2018
+2100593123,Ichthyaetus melanocephalus,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,13,32.99642,-8.731345,7,12,2017
+3193565809,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,11,2020
+2774427170,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,3,2007
+2782590818,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,11,2019
+2213387070,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,9,2018
+941717690,Ichthyaetus melanocephalus,MA,MA-Souss-Massa-Draa-Inezgane - 30.3622x-9.5759 - 24 févr. 2013 08:34,Sous-Massa-Draa,20,30.362225,-9.575864,8,2,2013
+2737495902,Ichthyaetus melanocephalus,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,2,2007
+3516257848,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,1,35.90671,-5.348191,30,2,2021
+2655026777,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,1,2019
+2736554650,Ichthyaetus melanocephalus,ES,"2 Barriada Postigo, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,17,35.89958,-5.343732,13,1,2019
+3284754593,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,20,35.898037,-5.341559,16,12,2020
+3135659430,Ichthyaetus melanocephalus,ES,"19 ene. 2020 12:35-35,916, -5,37",Ceuta,1,35.916267,-5.370241,8,1,2020
+3688160486,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,3,32.736244,-9.039345,4,11,2013
+3517652754,Ichthyaetus melanocephalus,MA,Chebanat,Rabat-Salé-Zemmour-Zaer,3,33.98509,-6.889687,22,5,2021
+3632368710,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,3,35.965782,-5.609035,0,9,2021
+2787120773,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,19,35.894264,-5.336159,11,1,2014
+2061351275,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+3607835581,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,2,2021
+3665173484,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,7,33.54445,-7.761624,14,1,2021
+3529287006,Ichthyaetus melanocephalus,ES,Acantilados de Aguadú,Melilla,84,35.315456,-2.945325,9,2,2021
+3657546659,Ichthyaetus melanocephalus,ES,Melilla,Melilla,1,35.283035,-2.946255,28,9,2021
+2782639758,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,11,2019
+3549596244,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,9,2021
+3590199230,Ichthyaetus melanocephalus,ES,Arroyo de Calamocarro,Ceuta,2,35.910793,-5.368713,140,1,2021
+3644514144,Ichthyaetus melanocephalus,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,1,30.43855,-9.649985,11,11,2021
+3141021979,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,13,31.486546,-9.769808,9,2,2020
+2099256766,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,10,2017
+3136478493,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2020
+3205985193,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,11,2020
+1357141185,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,4,2015
+2706938565,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2013
+2677369731,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,6,34.013096,-6.813711,11,4,2019
+2667762545,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2019
+3637511857,Ichthyaetus melanocephalus,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,20,35.203236,-6.133841,7,9,2013
+1205159360,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+2802064929,Ichthyaetus melanocephalus,ES,Playa de Calamocarro,Ceuta,1,35.911804,-5.357037,7,10,2008
+2124469921,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,72,33.54445,-7.761624,14,2,2018
+3213547799,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,12,2008
+2040456732,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,4,34.03392,-6.839424,10,1,2017
+2656840222,Ichthyaetus melanocephalus,MA,Pont Hassan II,Rabat-Salé-Zemmour-Zaer,3,34.02661,-6.819934,11,2,2019
+2670719039,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,1,35.90671,-5.348191,30,3,2019
+2763457133,Ichthyaetus melanocephalus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+2747490813,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+2031860691,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,2,2017
+3579023099,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2675571844,Ichthyaetus melanocephalus,MA,"Imi Ouaddar, Souss Massa, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585386,-9.758192,11,3,2019
+2660791953,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,905, -5,347)",Ceuta,18,35.905483,-5.347156,9,2,2019
+2739868902,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,2,2019
+2040169373,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,40,34.02601,-6.814597,10,1,2017
+2128110373,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,6,33.54445,-7.761624,14,1,2018
+2229042086,Ichthyaetus melanocephalus,MA,Massa River mouth and beach,Sous-Massa-Draa,6,30.076193,-9.674131,9,11,2018
+1346437352,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,21,30.36236,-9.586773,10,1,2015
+2226918421,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,899, -5,343)",Ceuta,2,35.899197,-5.34294,11,12,2018
+2733104059,Ichthyaetus melanocephalus,MA,Tangier-Tarifa Ferry (Morocco),Tanger-Tétouan,5,35.871246,-5.698128,0,2,2018
+1355673561,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+3131791933,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,1,2020
+2802091208,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,10,2019
+2034673091,Ichthyaetus melanocephalus,MA,Magic Park Salé (ماجيك بارك سلا) (ⵎⴰⵊⵉⴽ ⴱⴰⵔⴽ ⵙⵍⴰ),Rabat-Salé-Zemmour-Zaer,20,34.025543,-6.809347,9,3,2017
+3587455190,Ichthyaetus melanocephalus,MA,Côte Oualidia et dunes littorales,Doukkala-Abda,2,32.73224,-9.048571,7,1,2021
+3278906184,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,11,2008
+2696172834,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,7,30.64619,-9.884273,16,4,2014
+967515430,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+3646954188,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2020
+3294062385,Ichthyaetus melanocephalus,MA,"Oued Tensift, Souira Guedima, Marrakech-Safi, MA (32.03, -9.34)",Doukkala-Abda,1,32.030045,-9.340224,11,11,2020
+3653296788,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,100,33.54445,-7.761624,14,12,2021
+3692423452,Ichthyaetus melanocephalus,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,50,35.203236,-6.133841,7,12,2021
+3664167556,Ichthyaetus melanocephalus,MA,"Sidi Abed, MA (33,017, -8,714)",Doukkala-Abda,5,33.01707,-8.714498,8,2,2021
+1721267962,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,1,34.03392,-6.839424,10,3,2016
+2696104908,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,9,2019
+3239060255,Ichthyaetus melanocephalus,MA,Moulay Bousselham Lagoon,Gharb-Chrarda-Beni Hssen,1,34.852352,-6.277679,10,2,2020
+2160760357,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3279263703,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,45,30.36236,-9.586773,10,10,2020
+2169808819,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,5,2018
+2738624826,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,3,2007
+3149564318,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2020
+2749964276,Ichthyaetus melanocephalus,MA,"Unnamed Road, Inezgane, Souss Massa, MA (30,363, −9,576)",Sous-Massa-Draa,2,30.362833,-9.576188,9,3,2019
+3569605412,Ichthyaetus melanocephalus,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2009
+2783543307,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,58,35.91375,-5.360241,1,1,2017
+2151029575,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,8,35.965782,-5.609035,0,3,2017
+2667447588,Ichthyaetus melanocephalus,MA,"Unnamed Road, Inezgane, Souss Massa, MA (30,346, -9,569)",Sous-Massa-Draa,2,30.345942,-9.568555,8,3,2019
+3145869838,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2020
+1201610657,Ichthyaetus melanocephalus,MA,Saltpans south of Sidi Abed,Doukkala-Abda,35,33.015713,-8.710801,8,12,2014
+2754931420,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2019
+2216014443,Ichthyaetus melanocephalus,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,1,28.677202,-11.117936,17,10,2018
+2233474912,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,4,2011
+3655686148,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,14,33.892357,-7.004562,12,9,2021
+2670095323,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2209744095,Ichthyaetus melanocephalus,MA,"N1, Tanger Assilah MA-⁨طنجة تطوان⁩ (35,5704,-5,9912)",Tanger-Tétouan,4,35.570374,-5.99116,9,10,2018
+3571376346,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2000
+3681767197,Ichthyaetus melanocephalus,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,1,33.901142,-7.002331,11,10,2021
+2716874500,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,3,2002
+3539319202,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,3,2021
+2714208022,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,5,2019
+1721420304,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,1,34.02601,-6.814597,10,3,2016
+1399889068,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,8,30.070282,-9.662819,21,11,2015
+3267669713,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2020
+2787064651,Ichthyaetus melanocephalus,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,5,27.161089,-13.185421,22,11,2004
+3228460099,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,16,30.346031,-9.568678,8,2,2020
+2677412021,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,5,2019
+3664979569,Ichthyaetus melanocephalus,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,1,32.99642,-8.731345,7,10,2021
+2657578613,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,18,34.02601,-6.814597,10,2,2019
+3202650595,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,45,30.36236,-9.586773,10,10,2020
+2204261442,Ichthyaetus melanocephalus,MA,"12050, Temara MA-Rabat-Salé-Zemur-Zaer (33,8891,-7,0147)",Rabat-Salé-Zemmour-Zaer,1,33.88907,-7.014654,10,9,2018
+3186294847,Ichthyaetus melanocephalus,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,1,30.43855,-9.649985,11,10,2020
+3270743540,Ichthyaetus melanocephalus,MA,Hassan II Mosque esplanade,Grand Casablanca,1,33.60974,-7.629224,11,1,2019
+2775819232,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+1385853001,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,7,34.02601,-6.814597,10,9,2015
+2151074290,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,7,2012
+3547651430,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,10,2021
+3666240095,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2021
+2088771968,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2017
+2752631317,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+3291711544,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,3,2006
+3539083562,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,2,2021
+2783446328,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3611679457,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,1,2013
+3544422111,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2121503758,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,3,2018
+3591806877,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,1,2021
+3566469378,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,11,2021
+2786519477,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,1,35.894264,-5.336159,11,2,2010
+1369144092,Ichthyaetus melanocephalus,MA,Sidi Moussa,Doukkala-Abda,2,32.996655,-8.730032,7,5,2015
+2798221169,Ichthyaetus melanocephalus,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,6,34.868355,-6.293106,14,2,2019
+3250236928,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2014
+2726319730,Ichthyaetus melanocephalus,ES,Costa Hacho--Area general,Ceuta,20,35.902905,-5.293331,5,3,2012
+3285143308,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,80,33.556343,-7.739297,11,12,2020
+2800481757,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,11,32.997078,-8.73114,7,9,2019
+2186524247,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2016
+3210959094,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,12,2020
+2771127468,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,23,35.91375,-5.360241,1,1,2012
+2132653130,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,3,2018
+2738858627,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,2,2019
+3631798958,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,10,33.88976,-7.013904,12,10,2021
+2701031437,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2011
+2210609318,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,8,32.916702,-8.815498,0,10,2018
+2732661850,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,13,33.892357,-7.004562,12,3,2019
+2662882778,Ichthyaetus melanocephalus,ES,"1 Carretera del Tarajal, Ceuta, Ceuta, ES (35,876, -5,341)",Ceuta,5,35.87573,-5.341127,4,1,2019
+1201599846,Ichthyaetus melanocephalus,MA,Saltpans at Plage Karam Addarf,Doukkala-Abda,6,32.714466,-9.058957,10,12,2014
+2801051486,Ichthyaetus melanocephalus,MA,"15026, Khemisset MA-Rabat-Salé-Zemur-Zaer (34,0057,-5,9150)",Rabat-Salé-Zemmour-Zaer,1,34.00571,-5.914988,122,2,2019
+3624127795,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,45,33.556343,-7.739297,11,1,2021
+2739933764,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,5,33.987755,-6.797646,8,1,2019
+2132213379,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,5,35.900043,-5.344133,11,1,2018
+3268410722,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,12,2008
+2124869101,Ichthyaetus melanocephalus,MA,"Oued Souss, S of Agadir",Sous-Massa-Draa,1,30.364614,-9.584805,8,2,2017
+2107039277,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,10,2017
+3205105870,Ichthyaetus melanocephalus,MA,Oued Alian,Tanger-Tétouan,1,35.828426,-5.640933,82,11,2004
+2756858306,Ichthyaetus melanocephalus,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,587, -5,261)",Tanger-Tétouan,7,35.58748,-5.26053,7,12,2019
+2726654863,Ichthyaetus melanocephalus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+2132166532,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,25,30.36236,-9.586773,10,2,2013
+3292519155,Ichthyaetus melanocephalus,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,4,2007
+3542447443,Ichthyaetus melanocephalus,MA,أكادير -- شاطئ أنزا | Plage d'Anza,Sous-Massa-Draa,10,30.43855,-9.649985,11,11,2021
+2117483834,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2017
+1748507538,Ichthyaetus melanocephalus,MA,Rabat area,Rabat-Salé-Zemmour-Zaer,1,33.972195,-6.849847,75,10,2001
+1716237933,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2016
+3555780285,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,7,2006
+3260274570,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2003
+1723043305,Ichthyaetus melanocephalus,MA,Sousa estuary,Sous-Massa-Draa,3,30.363703,-9.591768,14,3,2016
+3293940503,Ichthyaetus melanocephalus,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,14,33.614166,-7.65144,9,10,2020
+3554581386,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,12,2012
+2797252081,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2019
+1370839410,Ichthyaetus melanocephalus,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+3675914768,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,30,31.486546,-9.769808,9,10,2021
+2793845998,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,17,35.894264,-5.336159,11,4,2016
+3533527040,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,4,2006
+3292902931,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,13,35.898037,-5.341559,16,12,2020
+3573545498,Ichthyaetus melanocephalus,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,15,33.015667,-8.710884,9,12,2018
+2668252291,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+1395926791,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2015
+2800784751,Ichthyaetus melanocephalus,ES,Playa del Desnarigado,Ceuta,1,35.895134,-5.28275,2,10,2008
+3291776215,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,10,35.9023,-5.346128,16,10,2020
+3604123913,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,4,2021
+2099490413,Ichthyaetus melanocephalus,ES,"Ceuta, ES (35,911, -5,368)",Ceuta,1,35.911297,-5.367735,119,12,2017
+2131182545,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,2,35.900204,-5.344332,12,2,2018
+1728247833,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,2,2016
+3275548308,Ichthyaetus melanocephalus,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+2675493277,Ichthyaetus melanocephalus,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,2,35.784985,-5.9203,216,3,2007
+2220880760,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,11,2018
+2156295601,Ichthyaetus melanocephalus,MA,"Near Tetouan, Morocco.",Tanger-Tétouan,3,35.59761,-5.35858,56,3,2018
+2198393619,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,10,2018
+3516398967,Ichthyaetus melanocephalus,ES,Costa sur--Area general,Ceuta,1,35.87947,-5.328621,24,2,2021
+3281761146,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,2,2016
+3644158935,Ichthyaetus melanocephalus,EH,Morocco,Western Sahara,4,27.164206,-13.194169,20,3,2017
+3667575593,Ichthyaetus melanocephalus,MA,Plage d'Assilah | شاطئ أصيلة,Tanger-Tétouan,6,35.473946,-6.027833,9,12,2021
+2206360318,Ichthyaetus melanocephalus,MA,Plage de Sidi Kacem,Tanger-Tétouan,2,35.736584,-5.944247,17,10,2018
+2144612760,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,2,2018
+2132442947,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+2800284872,Ichthyaetus melanocephalus,ES,"Unnamed Road, Tarifa, Andalucía, ES (35,978, -5,583)",Andalucía,1,35.977642,-5.583234,0,9,2017
+3585088903,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,11,2021
+2735788900,Ichthyaetus melanocephalus,ES,"106Z Avenida Martínez Catena, Ceuta, Ceuta, ES (35,88, -5,335)",Ceuta,14,35.879745,-5.33491,2,2,2019
+3142041105,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,3,2020
+2785571439,Ichthyaetus melanocephalus,MA,Port de Tanger Ville,Tanger-Tétouan,1,35.787125,-5.807095,4,11,2019
+2035652923,Ichthyaetus melanocephalus,MA,Quai des Créateurs,Rabat-Salé-Zemmour-Zaer,2,34.03042,-6.828636,8,3,2017
+2792184036,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,2,2019
+2740831551,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,39,34.02601,-6.814597,10,2,2019
+3215303364,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,12,2020
+2128949145,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,2,2018
+3629532333,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2015
+2088917832,Ichthyaetus melanocephalus,MA,"Doukkala-Abda, MA (32.922, -8.809)",Doukkala-Abda,2,32.921616,-8.808676,0,10,2017
+3542766387,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2021
+2712758642,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,11,2004
+1773096609,Ichthyaetus melanocephalus,MA,"Unbekannter Ort - 30,351x-9,569 - 09.11.2016 11:51",Sous-Massa-Draa,9,30.350832,-9.568792,16,11,2016
+2130180563,Ichthyaetus melanocephalus,ES,"Monte Ingenieros, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,5,35.899876,-5.34448,17,1,2018
+2745643426,Ichthyaetus melanocephalus,MA,Pont Hassan II,Rabat-Salé-Zemmour-Zaer,3,34.02661,-6.819934,11,2,2019
+2210257276,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2012
+3649104749,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,11,2021
+1791403155,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,11,30.36236,-9.586773,10,10,2007
+2801810614,Ichthyaetus melanocephalus,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,4,2007
+1786475744,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,4,2015
+3646252703,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,3,35.965782,-5.609035,0,9,2021
+2682861272,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+1183438373,Ichthyaetus melanocephalus,MA,Tamri area,Sous-Massa-Draa,50,30.7089,-9.854,12,2,2013
+2725371627,Ichthyaetus melanocephalus,ES,Costa Hacho--Area general,Ceuta,4,35.902905,-5.293331,5,3,2012
+2717804188,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,12,2015
+2104487572,Ichthyaetus melanocephalus,ES,"(35,899, -5,343)",Ceuta,2,35.89937,-5.34306,11,11,2017
+3201485400,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2015
+2767042300,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,9,2019
+1405102803,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2012
+3294528550,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,12,2020
+3226962561,Ichthyaetus melanocephalus,MA,"MA-Essaouira-Port of Essaouira (31.5094,-9.7750)",Marrakech-Tensift-Al Haouz,1,31.509417,-9.774972,15,2,2020
+3284202459,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,10,2020
+2119854745,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2018
+3580913458,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,290,33.88976,-7.013904,12,12,2021
+3288903309,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,10,2020
+2718992672,Ichthyaetus melanocephalus,ES,Playa de Calamocarro,Ceuta,2,35.911804,-5.357037,7,2,2009
+3534175847,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,10,35.948143,-5.617258,0,3,2021
+2126027501,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,4,35.900345,-5.344367,11,2,2018
+3587203737,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,1,2021
+2659937016,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+3677422606,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,4,2021
+3611019139,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,11,2021
+1717859949,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,2,2016
+2050316747,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2017
+2096913979,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2017
+3588979795,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2021
+2744874747,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,1,2019
+3663049363,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,16,34.029755,-6.828594,8,12,2021
+3135503318,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,38,30.36236,-9.586773,10,2,2020
+2800316708,Ichthyaetus melanocephalus,ES,Playa del Desnarigado,Ceuta,4,35.895134,-5.28275,2,10,2008
+2780114786,Ichthyaetus melanocephalus,MA,Plage des Contrabandiers,Rabat-Salé-Zemmour-Zaer,1,33.922337,-6.964329,7,3,2016
+2776996868,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,33,35.894264,-5.336159,11,2,2014
+2717509767,Ichthyaetus melanocephalus,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2010
+3299432738,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,1,2002
+3681894069,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,4,35.91514,-5.362894,6,2,2021
+1194066231,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2014
+2213343879,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,25,30.711512,-9.855123,9,11,2018
+3208341868,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,12,2020
+2109471293,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,901, -5,34)",Ceuta,2,35.901497,-5.340206,0,10,2017
+938271696,Ichthyaetus melanocephalus,MA,Agadir Souss massa,Sous-Massa-Draa,1,30.2389,-9.61647,70,2,2012
+3215762372,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,2,35.878376,-5.337942,0,12,2020
+2732047378,Ichthyaetus melanocephalus,ES,"15 Carretera de Benítez, Ceuta, Ceuta, ES (35,894, -5,336)",Ceuta,4,35.894028,-5.335837,12,1,2019
+2657112222,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,2,2018
+2144642153,Ichthyaetus melanocephalus,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,10,30.28438,-9.580526,24,3,2018
+2725345431,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,13,33.892357,-7.004562,12,3,2016
+2131940469,Ichthyaetus melanocephalus,MA,Estrecho,Tanger-Tétouan,2,35.93275,-5.501043,0,1,2018
+3545697132,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,11,2021
+2738352887,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,2,2019
+3201925283,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,12,2020
+2718396553,Ichthyaetus melanocephalus,MA,Sidi Wassay,Sous-Massa-Draa,4,30.050697,-9.695046,9,11,2013
+3689997553,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2018
+2717753782,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,2,35.91375,-5.360241,1,3,2013
+3557577077,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3137274417,Ichthyaetus melanocephalus,MA,"Auto selected 35.46693, -6.04023",Tanger-Tétouan,4,35.466927,-6.040229,0,2,2020
+1791257103,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,10,2007
+3248132963,Ichthyaetus melanocephalus,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,5,33.614166,-7.65144,9,9,2020
+3528858444,Ichthyaetus melanocephalus,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,3,2021
+2789135406,Ichthyaetus melanocephalus,MA,"Marais d'el Hotba - Oulad Salem, MA (32.92, -8.809)",Doukkala-Abda,1,32.92024,-8.808724,0,10,2019
+2669192801,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,4,2019
+2136274405,Ichthyaetus melanocephalus,ES,"8-14 Carretera de Benítez, Ceuta, Ceuta, ES (35,897, -5,34)",Ceuta,11,35.89724,-5.339665,0,2,2018
+3204118973,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,15,35.965782,-5.609035,0,10,2020
+2223303926,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,901, -5,345)",Ceuta,5,35.90116,-5.345003,9,12,2018
+2109959269,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2017
+2758915053,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,915, -5,362)",Ceuta,29,35.914795,-5.361528,4,2,2019
+3632464132,Ichthyaetus melanocephalus,MA,Port de Tarfaya,Laâyoune-Boujdour-Sakia el Hamra,1,27.945261,-12.935386,10,9,2021
+3659464842,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2716190488,Ichthyaetus melanocephalus,ES,Costa Hacho--Area general,Ceuta,40,35.902905,-5.293331,5,3,2012
+2044310836,Ichthyaetus melanocephalus,MA,Port de pêche de Salé,Rabat-Salé-Zemmour-Zaer,8,34.041107,-6.833486,12,3,2017
+2226731731,Ichthyaetus melanocephalus,MA,Sidi Wassay,Sous-Massa-Draa,20,30.055443,-9.687832,12,11,2018
+2763623715,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,11,2010
+3512015691,Ichthyaetus melanocephalus,ES,Estación de observación O’Donnell,Ceuta,10,35.881878,-5.329693,48,1,2021
+3648811799,Ichthyaetus melanocephalus,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,1,33.901142,-7.002331,11,10,2021
+1781300278,Ichthyaetus melanocephalus,MA,Tan Tan Plage,Guelmim-Es Smara,1,28.501158,-11.333985,0,12,2007
+2210022991,Ichthyaetus melanocephalus,MA,Tahaddart Mouth,Tanger-Tétouan,1,35.56955,-5.990896,12,12,2015
+2684202251,Ichthyaetus melanocephalus,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,1,33.664238,-7.450829,13,4,2019
+2835197212,Ichthyaetus melanocephalus,MA,Morocco - Mehdya,,1,34.265289,-6.661019,7,2,2020
+2835728016,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.846069,-6.271074,15,10,2015
+3719223503,Ichthyaetus melanocephalus,ES,Spain - Melilla,,35,35.278628,-2.931461,0,1,2021
+3724398008,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362555,-9.577735,9,3,2015
+4057910185,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363008,-9.586853,9,1,2023
+3724382042,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362521,-9.577828,9,3,2015
+3202565955,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,10,2020
+3208110526,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,9,2020
+2693030487,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2014
+2113530303,Ichthyaetus melanocephalus,EH,Laayoune,Western Sahara,10,27.1626,-13.188443,16,2,2012
+3178138831,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,50,30.346031,-9.568678,8,2,2020
+3681330001,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2013
+2749172535,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+2218528183,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,11,2018
+2105588911,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,4,35.965782,-5.609035,0,1,2018
+3691300483,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,50,33.54445,-7.761624,14,12,2021
+3557303635,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2013
+3693322504,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,11,2021
+2726886161,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2019
+3573791834,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2013
+2797071535,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,3,35.878376,-5.337942,0,11,2008
+3620684153,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,15,35.91514,-5.362894,6,2,2021
+2753759487,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,27,33.987755,-6.797646,8,3,2019
+2659425809,Ichthyaetus melanocephalus,MA,"Tangier-Tétouan-Al Hoceima, MA (35,601, -5,265)",Tanger-Tétouan,12,35.600754,-5.265101,6,2,2019
+2131958473,Ichthyaetus melanocephalus,MA,Port de Nador,L'Oriental,2,35.271366,-2.924439,0,2,2018
+3605454704,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,2,2021
+1755402040,Ichthyaetus melanocephalus,MA,Vallée de Kasbat Ayir,Doukkala-Abda,2,32.710217,-9.064321,8,2,2016
+2186733125,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2014
+2682965261,Ichthyaetus melanocephalus,MA,"Imi Ouaddar, Souss Massa, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585386,-9.758192,11,3,2019
+2157968742,Ichthyaetus melanocephalus,MA,Sidi Abed Salines,Doukkala-Abda,2,33.04164,-8.693724,26,4,2007
+3150132154,Ichthyaetus melanocephalus,ES,"89 Carretera Benzú, Ceuta, Ceuta, ES (35,916, -5,373)",Ceuta,2,35.916344,-5.373237,12,2,2020
+2729081234,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2007
+3540600799,Ichthyaetus melanocephalus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,3,33.555717,-7.739337,8,10,2021
+1386256253,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,7,34.02601,-6.814597,10,9,2015
+2103274467,Ichthyaetus melanocephalus,ES,"Calle Alcalde Ricardo Cerni González, Ceuta, Ceuta, ES (35,895, -5,328)",Ceuta,1,35.89492,-5.32812,21,11,2017
+3637513048,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+2799548624,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,25,32.997078,-8.73114,7,10,2019
+3188889970,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,3,2012
+3684088306,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,270,33.892357,-7.004562,12,12,2021
+3670811601,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,2,2021
+3692366504,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,12,2021
+3625470904,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,3,2021
+1723303571,Ichthyaetus melanocephalus,MA,Harhoura estuary,Rabat-Salé-Zemmour-Zaer,12,33.89294,-7.002227,9,3,2016
+1719484409,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2016
+2038342152,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,10,34.02601,-6.814597,10,2,2017
+3141060976,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,2,2020
+1719503291,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2016
+2037250359,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,4,34.02601,-6.814597,10,2,2017
+2223023080,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,2,2016
+2103656095,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,11,2017
+2195838444,Ichthyaetus melanocephalus,MA,"N16, Tanger-Tétouan-Al Hoceïma, MA (35,572, -5,323)",Tanger-Tétouan,4,35.572308,-5.322643,8,9,2018
+3576040314,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,3,32.781796,-8.973387,7,11,2013
+829140938,Ichthyaetus melanocephalus,MA,Agadir - Oued Sous,Sous-Massa-Draa,1,30.269228,-9.612263,74,3,2001
+3210381970,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,18,35.898037,-5.341559,16,12,2020
+3606993192,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,5,35.91514,-5.362894,6,3,2021
+2659414169,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,23,34.013096,-6.813711,11,3,2019
+2800114140,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,3,33.54445,-7.761624,14,12,2019
+3207591411,Ichthyaetus melanocephalus,MA,"Oued Souss (30.3609, -9.5828)",Sous-Massa-Draa,30,30.3609,-9.5828,9,11,2011
+2233533496,Ichthyaetus melanocephalus,MA,"86356, Ait Melloul MA-Souss-Massa-Drâa (30.3636,-9.6042)",Sous-Massa-Draa,3,30.36364,-9.60422,6,1,2014
+2784953803,Ichthyaetus melanocephalus,MA,"Imi Ouaddar, Souss Massa, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585386,-9.758192,11,3,2019
+2677703388,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,11,34.013096,-6.813711,11,4,2019
+2799816131,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,10,2019
+2221087566,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2018
+2193933681,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2018
+2719777816,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,4,2016
+3647143260,Ichthyaetus melanocephalus,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,1,33.901142,-7.002331,11,10,2021
+3680468933,Ichthyaetus melanocephalus,MA,Hassan II Mosque esplanade,Grand Casablanca,1,33.60974,-7.629224,11,11,2021
+2143641109,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,3,2018
+2121291632,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,1,2018
+2147078017,Ichthyaetus melanocephalus,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,59, -5,261)",Tanger-Tétouan,14,35.590137,-5.260545,7,4,2018
+1716566621,Ichthyaetus melanocephalus,MA,"MA-Agadir-Océan Atlantique - 30.4208x-9.6174 - Feb 17, 2016, 10:40 PM",Sous-Massa-Draa,1,30.420803,-9.617426,4,2,2016
+3622177752,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,3,35.878376,-5.337942,0,2,2021
+3508943012,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,1,2021
+3208384229,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2012
+3539064214,Ichthyaetus melanocephalus,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,2,2021
+2786288422,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,5,35.894264,-5.336159,11,2,2009
+3195289991,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,11,2020
+2123454383,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,3,2018
+3294279752,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,20,35.965782,-5.609035,0,10,2020
+3294717797,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,10,2020
+2715187296,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,10,2019
+2697536694,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,3,32.781796,-8.973387,7,9,2019
+2229560822,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2011
+2124843056,Ichthyaetus melanocephalus,MA,Inezgane,Sous-Massa-Draa,25,30.345945,-9.568618,8,2,2017
+3574325323,Ichthyaetus melanocephalus,MA,مرجة الحلوفة | Merja el Halloufa,Gharb-Chrarda-Beni Hssen,3,34.96267,-6.244043,11,12,2021
+3602884111,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,2,2021
+2735391372,Ichthyaetus melanocephalus,MA,Oued Tahaddart (Mharhar) & lagoon,Tanger-Tétouan,1,35.58508,-5.985589,0,3,2007
+2090265046,Ichthyaetus melanocephalus,MA,Port de Tanger Ville,Tanger-Tétouan,5,35.787125,-5.807095,4,10,2017
+2795800921,Ichthyaetus melanocephalus,MA,"Seleccionado automáticamente-29,838, -8,456",Guelmim-Es Smara,5,29.83763,-8.456158,1602,9,2019
+2117093777,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,11,2002
+3688296687,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2751970442,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,45,33.54445,-7.761624,14,2,2019
+3198374048,Ichthyaetus melanocephalus,MA,R301 between El Jadida and Oualadia,Doukkala-Abda,1,32.842567,-8.88786,28,11,2006
+2106400046,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,2,35.900257,-5.344247,10,11,2017
+2793940404,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2019
+3669865260,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,4,2021
+2113452951,Ichthyaetus melanocephalus,MA,"Marais d'el Hotba - Oulad Salem, MA (32.92, -8.809)",Doukkala-Abda,3,32.92024,-8.808724,0,12,2017
+3682979283,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,18,35.878376,-5.337942,0,2,2021
+2106020089,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,4,33.54445,-7.761624,14,10,2017
+2726789201,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,3,31.50961,-9.773447,12,3,2015
+2749384576,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2019
+3165952083,Ichthyaetus melanocephalus,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,4,2003
+1735389411,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+3725177209,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362174,-9.586157,9,10,2018
+3579536809,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,3,35.965782,-5.609035,0,9,2021
+3660728789,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,11,2021
+3218787653,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,2,2020
+3725276949,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363451,-9.597087,7,8,2018
+3724612856,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,1,35.162985,-6.107662,9,3,2016
+3715373415,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.2039,-6.1451,0,12,2016
+3725234511,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,15,35.203568,-6.145656,0,5,2018
+2838432081,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,1,35.047682,-6.204027,21,9,2012
+3715510607,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,2,30.363027,-9.58608,8,2,2017
+3725118585,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,50,30.36258,-9.590863,12,2,2019
+2838372196,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,33.007439,-8.721262,5,10,2013
+2832350732,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.859074,-6.281202,10,4,2012
+2832584147,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,2,32.9968,-8.729,7,12,2015
+3725129309,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362932,-9.587735,11,3,2018
+3715243690,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,12,30.362929,-9.586343,7,1,2016
+3715296354,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,2,30.434169,-9.647769,8,8,2015
+2839835126,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,18,32.997003,-8.731813,6,8,2014
+3729195616,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,32.997686,-8.731927,9,2,2021
+2838508172,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,3,32.996816,-8.730546,7,1,2020
+3581725060,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,5,33.892357,-7.004562,12,10,2021
+1721990563,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2016
+1400159676,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2015
+2839704942,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,4,32.998255,-8.72961,10,11,2015
+2837335082,Ichthyaetus melanocephalus,ES,Spain - Melilla,,28,35.313797,-2.959234,124,1,2019
+2753430535,Ichthyaetus melanocephalus,MA,El Hotba nord,Doukkala-Abda,5,32.925983,-8.802593,0,1,2019
+3202076058,Ichthyaetus melanocephalus,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,12,2017
+2052545874,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2017
+2143938200,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,3,2018
+3675423278,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2021
+2835877349,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,15,32.935109,-8.793569,0,2,2014
+3715706723,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362718,-9.580093,8,4,2018
+3724793935,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362458,-9.576601,9,4,2016
+2833170162,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,40,33.015347,-8.711975,8,11,2018
+2835553921,Ichthyaetus melanocephalus,MA,Morocco - Souss-Massa NP,,1,30.084013,-9.669421,9,10,2015
+1201602193,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,12,2014
+2666122994,Ichthyaetus melanocephalus,MA,Bled Jamaa,Rabat-Salé-Zemmour-Zaer,10,34.07496,-6.79978,35,4,2019
+3140583146,Ichthyaetus melanocephalus,ES,"17 Carretera de la Puntilla, Ceuta, Ceuta, ES (35,894, -5,335)",Ceuta,13,35.89359,-5.334766,10,1,2020
+2728597094,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,1,2019
+3238504140,Ichthyaetus melanocephalus,MA,"N16, Martil, Tangier-Tétouan-Al Hoceima, MA (35,602, -5,303)",Tanger-Tétouan,12,35.60248,-5.303496,11,2,2020
+3715364365,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3626,-9.575522,7,1,2017
+3715946417,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362873,-9.586928,9,2,2019
+2838664691,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,2,35.159189,-6.103532,12,3,2012
+3724767697,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.360878,-9.58786,10,2,2016
+3724924503,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362927,-9.585826,8,3,2017
+2845096026,Ichthyaetus melanocephalus,ES,Spain - Melilla,,4,35.308869,-2.958834,90,11,2019
+3725230333,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362582,-9.578344,9,12,2018
+3541664680,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,120,33.54445,-7.761624,14,1,2021
+2109323117,Ichthyaetus melanocephalus,ES,"1 Avenida Martínez Catena, Ceuta, Ceuta, ES (35,888, -5,318)",Ceuta,33,35.88755,-5.317875,6,1,2018
+3773094557,Ichthyaetus melanocephalus,MA,,Gharb - Chrarda - Béni Hssen,1,34.849312,-6.274498,19,1,2016
+2442807422,Ichthyaetus melanocephalus,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,11,2017
+2722130399,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,12,2019
+1411325705,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,2,2015
+2729371324,Ichthyaetus melanocephalus,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,2,35.784985,-5.9203,216,3,2007
+2836060222,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,12,32.99729,-8.730018,12,12,2013
+2835619110,Ichthyaetus melanocephalus,MA,Morocco - Larache (bas loukkos et salines),,20,35.137316,-6.060615,16,9,2012
+2832540810,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,80,32.996859,-8.730676,7,2,2014
+2135330806,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,901, -5,345)",Ceuta,17,35.900784,-5.34466,10,2,2018
+1726326285,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2016
+1395561119,Ichthyaetus melanocephalus,MA,"Embouchure de l'Oued Souss, Agadir, Maroc - je MA-Souss-Massa-Drâa-Inezgane Ait Melloul-86356 - 30.3628x-9.5866",Sous-Massa-Draa,10,30.362787,-9.586561,7,11,2015
+4034597870,Ichthyaetus melanocephalus,MA,,Souss - Massa - Draâ,1,30.362252,-9.578414,9,12,2022
+2838931784,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.859074,-6.281202,10,4,2012
+3724604577,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,34,30.364448,-9.596431,9,2,2017
+2842394771,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.859074,-6.281202,10,4,2012
+2836111139,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.954214,-8.775923,13,12,2013
+1409907471,Ichthyaetus melanocephalus,MA,Agadir area,Sous-Massa-Draa,20,30.4013,-9.5911,29,3,2015
+3725176261,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,7,30.362358,-9.586143,9,12,2018
+2837289294,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,2,32.996643,-8.729195,8,3,2019
+2836218888,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,9,32.997144,-8.731154,8,10,2016
+2793229827,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,51,35.91375,-5.360241,1,1,2018
+3541525290,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2009
+3997038491,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.36285,-9.587573,12,10,2022
+3723072444,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.995701,-8.728745,7,10,2021
+3724285991,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362948,-9.58563,8,3,2015
+2832982712,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,12,32.999557,-8.729953,9,10,2016
+2841457601,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,4,32.997182,-8.730382,10,9,2014
+3719267683,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,15,35.203568,-6.145656,0,5,2018
+4057270100,Ichthyaetus melanocephalus,MA,Morocco - Moulay Bousselham,,2,34.873798,-6.295859,4,12,2022
+3724494794,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.363395,-9.596099,13,10,2014
+3715600219,Ichthyaetus melanocephalus,MA,Morocco - Lqliaa,,1,30.349208,-9.570051,13,4,2018
+2832463911,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,15,34.869313,-6.2883,0,12,2013
+3715388564,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,100,35.205016,-6.137697,11,2,2017
+2661503995,Ichthyaetus melanocephalus,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+3715935069,Ichthyaetus melanocephalus,MA,Morocco - Lqliaa,,9,30.350832,-9.568792,16,11,2016
+3210438789,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,11,2020
+3544138740,Ichthyaetus melanocephalus,EH,Morocco,Western Sahara,4,27.164206,-13.194169,20,3,2017
+2221297195,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,906, -5,347)",Ceuta,4,35.905632,-5.347213,11,12,2018
+3545963539,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2216179106,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,8,30.070282,-9.662819,21,11,2018
+1791772102,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,3,2013
+3652840546,Ichthyaetus melanocephalus,MA,Casablanca - El Hank,Grand Casablanca,2,33.6139,-7.650566,5,7,2021
+2734577189,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2019
+2723294543,Ichthyaetus melanocephalus,ES,Costa Hacho--Area general,Ceuta,2,35.902905,-5.293331,5,3,2012
+1346247994,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,21,30.36236,-9.586773,10,1,2015
+2800089912,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,1,35.894264,-5.336159,11,3,2015
+3270837470,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,10,2019
+2034227998,Ichthyaetus melanocephalus,MA,Embouchure du Oued Bouregreg,Rabat-Salé-Zemmour-Zaer,8,34.029373,-6.831318,6,1,2017
+2119949612,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2018
+2671608622,Ichthyaetus melanocephalus,ES,"4 Carretera de Benzu, Ceuta, Ceuta, ES (35,899, -5,343)",Ceuta,1,35.89908,-5.342765,10,2,2019
+2801580793,Ichthyaetus melanocephalus,ES,Playa de Calamocarro,Ceuta,50,35.911804,-5.357037,7,2,2012
+3258266210,Ichthyaetus melanocephalus,MA,"N16, Martil, Tangier-Tétouan-Al Hoceima, MA (35,602, -5,303)",Tanger-Tétouan,15,35.60248,-5.303496,11,2,2020
+2229858090,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2011
+3607531340,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,47,33.892357,-7.004562,12,10,2021
+3204788229,Ichthyaetus melanocephalus,MA,Barrage Sidi Chahed,Meknès-Tafilalet,2,34.04804,-5.322833,257,1,2019
+2753593292,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,3,2007
+1760744985,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,1,2001
+3268869880,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,10,35.898037,-5.341559,16,10,2020
+2769979672,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2007
+3548174596,Ichthyaetus melanocephalus,MA,Cap d'El Beddouza,Doukkala-Abda,5,32.541122,-9.284434,23,11,2012
+3580240791,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,12,2021
+3194305096,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2020
+3597678505,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,3,35.91514,-5.362894,6,2,2021
+2661164957,Ichthyaetus melanocephalus,MA,"Tangier-Tétouan-Al Hoceima, MA (35,424, -5,083)",Tanger-Tétouan,69,35.424076,-5.082585,5,2,2019
+3264963968,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,11,2020
+3224765811,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,3,2020
+2704221034,Ichthyaetus melanocephalus,MA,"Imsouane, mer",Sous-Massa-Draa,1,30.84287,-9.819693,21,10,2019
+3519356509,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,8,35.898037,-5.341559,16,1,2021
+2218614420,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,100,30.36236,-9.586773,10,11,2018
+2800696042,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,4,35.878376,-5.337942,0,2,2017
+3550371700,Ichthyaetus melanocephalus,ES,Benzú,Ceuta,1,35.915916,-5.372888,13,1,2010
+2118555659,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,10,35.9023,-5.346128,16,3,2018
+3550257660,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,2,2021
+3627920328,Ichthyaetus melanocephalus,ES,Acantilados de Aguadú,Melilla,8,35.315456,-2.945325,9,1,2021
+2709748250,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,9,30.36236,-9.586773,10,11,2004
+2742473491,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+3215858688,Ichthyaetus melanocephalus,MA,MA-Mohammedia (Remnat Marsh),Grand Casablanca,1,33.667343,-7.44665,8,4,2019
+2133200554,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,2,2018
+2035521317,Ichthyaetus melanocephalus,MA,Kasbah des Oudayas--embouchure du Bouregreg,Rabat-Salé-Zemmour-Zaer,8,34.033302,-6.834993,11,1,2017
+2738817094,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,9,34.013096,-6.813711,11,4,2019
+1411330157,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,5,31.486546,-9.769808,9,2,2015
+2117168809,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,11,2002
+2797200988,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,53,35.91375,-5.360241,1,2,2017
+3195489947,Ichthyaetus melanocephalus,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,4,33.614166,-7.65144,9,9,2020
+2194949734,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,60,30.36236,-9.586773,10,10,2018
+3135853318,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,2,2020
+2719677002,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,2,2018
+3569797529,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3274126575,Ichthyaetus melanocephalus,MA,Ksar seghir,Tanger-Tétouan,1,35.84595,-5.562096,23,10,2015
+2765715257,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,5,2019
+2119039868,Ichthyaetus melanocephalus,ES,"N-352, Ceuta, Ceuta, ES (35,875, -5,342)",Ceuta,4,35.874905,-5.341605,0,3,2018
+1717666179,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,2,2016
+3195156976,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,9,35.898037,-5.341559,16,12,2020
+2781203996,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,9,2019
+1778364331,Ichthyaetus melanocephalus,MA,Saltpans south of Oualidia - Cafe de la Cote Turning,Doukkala-Abda,3,32.712204,-9.063574,7,3,2012
+3214141680,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,11,2020
+1723304826,Ichthyaetus melanocephalus,MA,Harhoura beach,Rabat-Salé-Zemmour-Zaer,1,33.92189,-6.968278,7,3,2016
+3279799476,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,12,2020
+3285599819,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,12,2020
+2111271215,Ichthyaetus melanocephalus,MA,"⁨شارع مولاي الحسن الأول⁩, ⁨Casablanca⁩ ⁨MA⁩-⁨Grand Casablanca⁩ (33.5957,-7.6183)",Grand Casablanca,10,33.59571,-7.618332,22,11,2017
+2674214445,Ichthyaetus melanocephalus,MA,"Imi Ouaddar, Souss Massa, MA (30.585, -9.758)",Sous-Massa-Draa,1,30.585386,-9.758192,11,3,2019
+2796659084,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,2,2016
+3293893731,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,16,30.36236,-9.586773,10,1,2002
+2196956228,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2011
+2727198049,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,11,2019
+2762222646,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,915, -5,362)",Ceuta,2,35.914604,-5.362435,16,3,2019
+2042077991,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,2,2017
+2109751451,Ichthyaetus melanocephalus,ES,"4 Carretera de Benzu, Ceuta, Ceuta, ES (35,899, -5,343)",Ceuta,20,35.89902,-5.34266,10,1,2018
+3137642714,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,14,30.36236,-9.586773,10,2,2020
+2123898967,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,3,30.711512,-9.855123,9,12,2017
+2136931920,Ichthyaetus melanocephalus,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,10,30.28438,-9.580526,24,3,2018
+2750643776,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,34,33.987755,-6.797646,8,3,2019
+3592144079,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,6,34.029755,-6.828594,8,1,2021
+2725531690,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,11,2019
+3541348571,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,2,34.03392,-6.839424,10,10,2021
+2097492954,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,12,2017
+2785478542,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,10,35.894264,-5.336159,11,2,2009
+2168681591,Ichthyaetus melanocephalus,MA,Tangier-Tarifa Ferry (Morocco),Tanger-Tétouan,1,35.871246,-5.698128,0,9,2008
+2119174268,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2018
+3275409409,Ichthyaetus melanocephalus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2002
+2751142739,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,12,34.855213,-6.270397,8,3,2019
+3213781863,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,12,2020
+3153099564,Ichthyaetus melanocephalus,MA,"N16, Tangier-Tétouan-Al Hoceima, MA (35,876, -5,456)",Tanger-Tétouan,4,35.875603,-5.455964,232,3,2020
+2132549287,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,15,34.02601,-6.814597,10,3,2018
+3514326319,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,37,35.898037,-5.341559,16,1,2021
+2666729303,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,27,33.987755,-6.797646,8,3,2019
+1205341357,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2005
+2198983488,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,45,32.736244,-9.039345,4,9,2018
+3296581036,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,15,35.9023,-5.346128,16,11,2020
+3574496489,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,11,2021
+2030791247,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,9,34.03392,-6.839424,10,1,2017
+3582359426,Ichthyaetus melanocephalus,MA,مرجة الحلوفة | Merja el Halloufa,Gharb-Chrarda-Beni Hssen,3,34.96267,-6.244043,11,12,2021
+3510266112,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,15,35.91514,-5.362894,6,2,2021
+3638883879,Ichthyaetus melanocephalus,MA,Plage de Salé,Rabat-Salé-Zemmour-Zaer,2,34.036716,-6.831522,10,12,2021
+2203040099,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,21,35.9023,-5.346128,16,11,2018
+3589555632,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,2,2021
+2797653271,Ichthyaetus melanocephalus,MA,Oued Sous,Sous-Massa-Draa,1,30.363966,-9.592725,12,2,2016
+2731523224,Ichthyaetus melanocephalus,MA,"Cap Spartel, Tanger-Tetouan, MA",Tanger-Tétouan,2,35.784985,-5.9203,216,3,2007
+2152671271,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+3569650797,Ichthyaetus melanocephalus,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+2194405869,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,10,2018
+3660030488,Ichthyaetus melanocephalus,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,50,35.203236,-6.133841,7,12,2021
+3567606232,Ichthyaetus melanocephalus,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,128,33.88976,-7.013904,12,12,2021
+3558943863,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,8,35.898037,-5.341559,16,12,2021
+1357290527,Ichthyaetus melanocephalus,MA,Agadir area,Sous-Massa-Draa,20,30.4013,-9.5911,29,3,2015
+2195640615,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,3,34.02601,-6.814597,10,8,2018
+3677062249,Ichthyaetus melanocephalus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,4,33.555717,-7.739337,8,11,2021
+2769324557,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,3,2019
+1779762132,Ichthyaetus melanocephalus,MA,Oued Laou,Tanger-Tétouan,1,35.428505,-5.0774,9,11,2016
+2658007008,Ichthyaetus melanocephalus,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,6,34.868355,-6.293106,14,2,2019
+2750889451,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,11,34.013096,-6.813711,11,4,2019
+2109102638,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,62,34.02601,-6.814597,10,1,2018
+2112701671,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,901, -5,344)",Ceuta,8,35.900604,-5.34441,8,12,2017
+2736550430,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,3,2019
+2751362000,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,4,2019
+3295342904,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,7,2010
+3557585792,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,11,2021
+2715198387,Ichthyaetus melanocephalus,ES,Playa del Desnarigado,Ceuta,1,35.895134,-5.28275,2,8,2008
+2705240561,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,4,35.898037,-5.341559,16,11,2019
+2192067399,Ichthyaetus melanocephalus,MA,Plage de Sidi Kacem,Tanger-Tétouan,5,35.736584,-5.944247,17,10,2018
+3229223626,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,8,32.916702,-8.815498,0,1,2020
+2128071554,Ichthyaetus melanocephalus,ES,"Carretera de Santa Catalina, Ceuta, Ceuta, ES (35,904, -5,29)",Ceuta,1,35.904175,-5.289693,22,1,2018
+2119954448,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,5,30.387526,-9.873276,0,2,2018
+3559589854,Ichthyaetus melanocephalus,MA,"A1, Bouskoura, Casablanca-Settat, MA (33,493, -7,661)",Grand Casablanca,500,33.493298,-7.661204,125,12,2021
+2147125431,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2018
+3287816653,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,9,2020
+2791202158,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,5,35.878376,-5.337942,0,2,2008
+2209960691,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,7,32.997078,-8.73114,7,12,2018
+3624276081,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,10,32.781796,-8.973387,7,1,2014
+2753350440,Ichthyaetus melanocephalus,MA,Oued Tahaddart (Mharhar) & lagoon,Tanger-Tétouan,1,35.58508,-5.985589,0,3,2007
+3651131415,Ichthyaetus melanocephalus,MA,"Sidi Bouzid, El Jadida",Doukkala-Abda,8,33.24237,-8.545576,8,12,2021
+2134169808,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,1,32.786617,-8.96858,8,4,2007
+2113624528,Ichthyaetus melanocephalus,MA,Plage de Ain Sebaa,Grand Casablanca,3,33.620766,-7.535956,10,11,2017
+3286176368,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,6,30.387526,-9.873276,0,2,2016
+3575435320,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,1,34.03392,-6.839424,10,10,2021
+1409894531,Ichthyaetus melanocephalus,MA,Oued Assif n'Srou,Sous-Massa-Draa,18,30.704597,-9.823925,12,3,2015
+1744718093,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+3225728660,Ichthyaetus melanocephalus,MA,Port Jorf Lasfar,Doukkala-Abda,8,33.131466,-8.623692,0,1,2020
+2207362029,Ichthyaetus melanocephalus,MA,"Boulevard Prince Moulay Abdellah, Skhirat, Rabat-Salé-Kénitra, MA (33.889, -7.014)",Rabat-Salé-Zemmour-Zaer,1,33.88896,-7.014481,12,9,2018
+2677635979,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2738408125,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2661686752,Ichthyaetus melanocephalus,MA,MA—Lake Merzouga,Meknès-Tafilalet,1,31.105577,-4.052028,688,3,2019
+2728213693,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,13,33.54445,-7.761624,14,1,2019
+3204437484,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,3,2006
+3201375498,Ichthyaetus melanocephalus,MA,Oualidia tidal marshes,Doukkala-Abda,15,32.75977,-9.007502,5,11,2012
+1720006269,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,3,2016
+2116816466,Ichthyaetus melanocephalus,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,774, -5,349)",Tanger-Tétouan,1,35.77363,-5.348603,12,2,2018
+1355674739,Ichthyaetus melanocephalus,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+3677634318,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,32,33.54445,-7.761624,14,1,2021
+2673254346,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+3507304086,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,2,2021
+1166220632,Ichthyaetus melanocephalus,MA,MA-Essaouira- port,Marrakech-Tensift-Al Haouz,2,31.509233,-9.774942,18,4,2014
+2736553799,Ichthyaetus melanocephalus,MA,"Grand Casablanca, MA (33.572, -7.429)",Grand Casablanca,2,33.57204,-7.42903,94,1,2019
+2695821644,Ichthyaetus melanocephalus,MA,Tangier-Tarifa Ferry (Morocco),Tanger-Tétouan,1,35.871246,-5.698128,0,9,2019
+3564612950,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,1,35.91514,-5.362894,6,1,2021
+3661133887,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2766188971,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+3547747279,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,2,2021
+3586167839,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,7,32.997078,-8.73114,7,12,2018
+2132392356,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,2,2018
+2716621618,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2114163682,Ichthyaetus melanocephalus,MA,"Salines de Sidi Brahim, MA (32.895, -8.84)",Doukkala-Abda,4,32.89492,-8.840289,2,12,2017
+3578988997,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,32,33.54445,-7.761624,14,12,2021
+2120076245,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,10,31.486546,-9.769808,9,1,2018
+3253480417,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,7,35.898037,-5.341559,16,3,2020
+1717863636,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,4,31.50961,-9.773447,12,2,2016
+2118558331,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,3,35.9023,-5.346128,16,3,2018
+2790541305,Ichthyaetus melanocephalus,ES,Benzú,Ceuta,1,35.915916,-5.372888,13,1,2012
+3202360497,Ichthyaetus melanocephalus,MA,Souss Estuary,Sous-Massa-Draa,2,30.362955,-9.585157,9,3,2014
+2731364254,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2007
+2090898217,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,10,2017
+3271618474,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,12,2020
+1168969066,Ichthyaetus melanocephalus,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+2669718731,Ichthyaetus melanocephalus,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,34,33.987755,-6.797646,8,3,2019
+3286517586,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,5,35.9023,-5.346128,16,12,2020
+831427583,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2012
+3266846735,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,4,35.9023,-5.346128,16,11,2020
+2118835851,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,2,2018
+3555407929,Ichthyaetus melanocephalus,MA,Oualidia tidal marshes,Doukkala-Abda,15,32.75977,-9.007502,5,11,2012
+2137023479,Ichthyaetus melanocephalus,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,10,30.28438,-9.580526,24,3,2018
+3632185964,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,9,35.898037,-5.341559,16,2,2021
+1201603468,Ichthyaetus melanocephalus,MA,Saltpans south of Al Jadida,Doukkala-Abda,40,32.956417,-8.774525,12,12,2014
+1164456762,Ichthyaetus melanocephalus,MA,MA-Secteur de Tamri- Cap Rhir,Sous-Massa-Draa,1,30.628677,-9.880924,25,4,2014
+2779470808,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,8,30.070282,-9.662819,21,2,2017
+2733066419,Ichthyaetus melanocephalus,ES,"2 Barriada Postigo, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,14,35.899834,-5.343963,11,2,2019
+829718055,Ichthyaetus melanocephalus,MA,Agadir,Sous-Massa-Draa,1,30.41476,-9.58823,36,1,2011
+1791259417,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2007
+2128243395,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,7,34.02601,-6.814597,10,1,2018
+2666161327,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,1,2019
+3204621323,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,12,2020
+2135077499,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,185,35.91447,-5.362233,15,2,2018
+3630313948,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,12,2012
+2724223373,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,18,35.91375,-5.360241,1,1,2013
+2730328184,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,23,34.013096,-6.813711,11,3,2019
+3194525388,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,4,35.878376,-5.337942,0,12,2020
+3685658166,Ichthyaetus melanocephalus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,8,33.555717,-7.739337,8,10,2021
+1792316589,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,1,2004
+3196499906,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2020
+3201542580,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,10,2020
+3559408286,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,3,31.50961,-9.773447,12,11,2021
+2122789998,Ichthyaetus melanocephalus,ES,"(35,987, -5,459)",Andalucía,2,35.986683,-5.458501,0,1,2018
+1385677115,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,7,34.02601,-6.814597,10,9,2015
+3581847745,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,5,33.556343,-7.739297,11,12,2021
+3138242915,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,3,2020
+3605164322,Ichthyaetus melanocephalus,MA,Port de Tarfaya,Laâyoune-Boujdour-Sakia el Hamra,1,27.945261,-12.935386,10,9,2021
+3631591287,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2217018736,Ichthyaetus melanocephalus,MA,Plage de Sidi Kacem,Tanger-Tétouan,2,35.736584,-5.944247,17,10,2018
+2088988285,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,7,2017
+2795025436,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,12,2019
+3200012611,Ichthyaetus melanocephalus,MA,"Tamri, Souss-Massa, MA (30.628, -9.868)",Sous-Massa-Draa,15,30.627853,-9.868313,64,3,2014
+2221429163,Ichthyaetus melanocephalus,MA,"Localidad desconocida - (33,015, -8,710)",Doukkala-Abda,15,33.015667,-8.710884,9,12,2018
+2699857966,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,9,2019
+3606349481,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2021
+2692787194,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,4,2018
+3286240586,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,30,30.711512,-9.855123,9,12,2020
+2113504895,Ichthyaetus melanocephalus,MA,Oued Chbika,Guelmim-Es Smara,1,28.290892,-11.531591,0,2,2012
+3134013136,Ichthyaetus melanocephalus,MA,Port de Tanger Ville,Tanger-Tétouan,6,35.787125,-5.807095,4,1,2020
+3532327266,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,2,35.91514,-5.362894,6,1,2021
+2211918593,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,10,2018
+3573475385,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,100,33.54445,-7.761624,14,12,2021
+2793415529,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,12,2014
+2711046571,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,4,2007
+2206435410,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,2,35.965782,-5.609035,0,10,2018
+1717858984,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,5,31.50961,-9.773447,12,2,2016
+2657129834,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,901, -5,345)",Ceuta,9,35.90111,-5.344927,9,1,2019
+2798732431,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,4,35.898037,-5.341559,16,11,2019
+3688393505,Ichthyaetus melanocephalus,MA,Smir Lagune | واد سمير,Tanger-Tétouan,6,35.717155,-5.33949,7,10,2021
+2670957230,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,4,35.9023,-5.346128,16,3,2019
+2777400796,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,1,35.894264,-5.336159,11,12,2012
+2666728983,Ichthyaetus melanocephalus,ES,"1 Carretera del Tarajal, Ceuta, Ceuta, ES (35,876, -5,341)",Ceuta,9,35.87555,-5.34123,2,2,2019
+2761111528,Ichthyaetus melanocephalus,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,1,33.664238,-7.450829,13,4,2019
+3654554021,Ichthyaetus melanocephalus,MA,"41 Boulevard de la Corniche, Casablanca, Casablanca-Settat, MA (33.596, -7.677)",Grand Casablanca,1,33.59625,-7.676607,14,11,2021
+3592740620,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,1,35.90671,-5.348191,30,2,2021
+2777408332,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,9,2019
+3203128711,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,12,2020
+3556611410,Ichthyaetus melanocephalus,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,9,2013
+2055669782,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,2,32.786617,-8.96858,8,4,2017
+3210530997,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,8,35.898037,-5.341559,16,12,2020
+829169648,Ichthyaetus melanocephalus,MA,Agadir - Oued Sous,Sous-Massa-Draa,1,30.269228,-9.612263,74,3,2001
+2126299038,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2018
+1405050528,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,11,2012
+1183449957,Ichthyaetus melanocephalus,MA,Agadir area,Sous-Massa-Draa,1,30.4013,-9.5911,29,3,2013
+2107008041,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,7,34.02601,-6.814597,10,1,2018
+2229585853,Ichthyaetus melanocephalus,MA,Anza,Sous-Massa-Draa,5,30.437138,-9.647958,11,4,2011
+3278743653,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,5,35.898037,-5.341559,16,12,2020
+2657869101,Ichthyaetus melanocephalus,MA,Agadir Harbour,Sous-Massa-Draa,15,30.420317,-9.634689,0,3,2007
+2120172963,Ichthyaetus melanocephalus,MA,Hassan II Mosque esplanade,Grand Casablanca,5,33.60974,-7.629224,11,3,2018
+3183402974,Ichthyaetus melanocephalus,MA,"El Hank, Casablanca, Casablanca-Settat, MA (33,614, -7,651)",Grand Casablanca,31,33.614166,-7.65144,9,9,2020
+1717673811,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,2,2016
+3538973967,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,9,2021
+3214564538,Ichthyaetus melanocephalus,MA,Cap d'El Beddouza,Doukkala-Abda,5,32.541122,-9.284434,23,11,2012
+2219349764,Ichthyaetus melanocephalus,MA,Agadir,Sous-Massa-Draa,1,30.414347,-9.600672,20,2,2000
+3684912667,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,3,35.965782,-5.609035,0,9,2021
+3589166760,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,4,35.898037,-5.341559,16,2,2021
+1735167262,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2016
+2150759243,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,4,2007
+2094293321,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,8,2017
+3285633702,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,12,2020
+941752232,Ichthyaetus melanocephalus,MA,MA-Souss-Massa-Draa-Imi Ouaddar - 30.5882x-9.7559 - 25 déc. 2012 12:30,Sous-Massa-Draa,1,30.58818,-9.755859,58,12,2012
+1717666318,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,5,31.50961,-9.773447,12,2,2016
+2133068879,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,5,30.387526,-9.873276,0,2,2018
+2751259409,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,25,30.36236,-9.586773,10,2,2017
+2672733251,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2019
+2671105105,Ichthyaetus melanocephalus,MA,Agadir Harbour,Sous-Massa-Draa,15,30.420317,-9.634689,0,3,2007
+2117610521,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,5,35.899834,-5.344028,12,2,2018
+2780593631,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,9,30.36236,-9.586773,10,11,2013
+3589019028,Ichthyaetus melanocephalus,MA,"Sidi Abed, MA (33,017, -8,714)",Doukkala-Abda,5,33.01707,-8.714498,8,2,2021
+2661342902,Ichthyaetus melanocephalus,MA,Pont Hassan II,Rabat-Salé-Zemmour-Zaer,2,34.02661,-6.819934,11,1,2019
+2730142958,Ichthyaetus melanocephalus,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,3,2019
+2797693147,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,35,35.91375,-5.360241,1,3,2018
+2209979431,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,7,32.997078,-8.73114,7,12,2018
+2113682382,Ichthyaetus melanocephalus,ES,"4-6 Carretera de Benítez, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,6,35.89967,-5.343857,12,12,2017
+3196428077,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,15,33.556343,-7.739297,11,12,2020
+3147596048,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2020
+2709783329,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,2,2017
+3651037916,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,2,34.03392,-6.839424,10,10,2021
+2049302484,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,2,2017
+2779556614,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,12,2019
+3599911652,Ichthyaetus melanocephalus,ES,Costa Hacho--Acantilados Punta Almina/Desnarigado,Ceuta,1,35.89722,-5.279746,37,2,2021
+2748783212,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2019
+3667075021,Ichthyaetus melanocephalus,ES,Costa norte--Area general,Ceuta,6,35.90671,-5.348191,30,3,2021
+3261836058,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,3,35.898037,-5.341559,16,12,2020
+2042828210,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,13,34.02601,-6.814597,10,2,2017
+2666847100,Ichthyaetus melanocephalus,MA,Magic Park Salé (ماجيك بارك سلا) (ⵎⴰⵊⵉⴽ ⴱⴰⵔⴽ ⵙⵍⴰ),Rabat-Salé-Zemmour-Zaer,3,34.025543,-6.809347,9,4,2019
+1793175935,Ichthyaetus melanocephalus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2012
+2763496372,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2019
+2043242403,Ichthyaetus melanocephalus,MA,Quai des Créateurs,Rabat-Salé-Zemmour-Zaer,23,34.03042,-6.828636,8,3,2017
+3597806315,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,2,2021
+3675497631,Ichthyaetus melanocephalus,MA,Plage d'Assilah | شاطئ أصيلة,Tanger-Tétouan,7,35.473946,-6.027833,9,12,2021
+1411321124,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,5,31.486546,-9.769808,9,2,2015
+2079992034,Ichthyaetus melanocephalus,ES,"Unnamed Road, Tarifa, Andalucía, ES (35,978, -5,583)",Andalucía,1,35.977642,-5.583234,0,9,2017
+2762287069,Ichthyaetus melanocephalus,MA,"Imsouane, mer",Sous-Massa-Draa,2,30.84287,-9.819693,21,10,2019
+3291905093,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2016
+3509640800,Ichthyaetus melanocephalus,ES,costa sur—Chorrillo/Rivera,Ceuta,19,35.886913,-5.319096,2,2,2021
+2143939066,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2018
+2730889713,Ichthyaetus melanocephalus,MA,Tangier-Tarifa Ferry (Morocco),Tanger-Tétouan,1,35.871246,-5.698128,0,2,2019
+2719074546,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,2,2009
+3283566291,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,8,2020
+2671467185,Ichthyaetus melanocephalus,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,3,2019
+1357280674,Ichthyaetus melanocephalus,MA,Oued Assif n'Srou,Sous-Massa-Draa,18,30.704597,-9.823925,12,3,2015
+3193753825,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,12,2020
+2222770847,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,9, -5,344)",Ceuta,12,35.900055,-5.344227,12,12,2018
+3668509870,Ichthyaetus melanocephalus,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,5,33.555717,-7.739337,8,12,2021
+2791158014,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,11,2015
+2718571895,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,17,35.91375,-5.360241,1,2,2013
+2031116914,Ichthyaetus melanocephalus,MA,Kasbah des Oudayas--embouchure du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.033302,-6.834993,11,2,2017
+2206371189,Ichthyaetus melanocephalus,MA,Plage de Sidi Kacem,Tanger-Tétouan,5,35.736584,-5.944247,17,10,2018
+2032057328,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,2,2017
+2224214043,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,30,33.54445,-7.761624,14,12,2018
+3653423927,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,50,33.54445,-7.761624,14,12,2021
+2728030444,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,2,2019
+2230371599,Ichthyaetus melanocephalus,MA,Agadir - Beach north of the Marina,Sous-Massa-Draa,2,30.439674,-9.650419,9,2,2016
+2666223454,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,8,32.997078,-8.73114,7,1,2019
+3205262279,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,11,2020
+3255757199,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2020
+2795157758,Ichthyaetus melanocephalus,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,12,2015
+2671059590,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,1,35.9023,-5.346128,16,3,2019
+2724955986,Ichthyaetus melanocephalus,MA,Plage de Sidi Kacem,Tanger-Tétouan,10,35.736584,-5.944247,17,12,2019
+2119084661,Ichthyaetus melanocephalus,MA,Hassan II Mosque esplanade,Grand Casablanca,5,33.60974,-7.629224,11,3,2018
+2726499283,Ichthyaetus melanocephalus,MA,Plage des Contrabandiers,Rabat-Salé-Zemmour-Zaer,1,33.922337,-6.964329,7,3,2016
+2666164884,Ichthyaetus melanocephalus,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,1,33.664238,-7.450829,13,4,2019
+2138995157,Ichthyaetus melanocephalus,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,3,2018
+3658172445,Ichthyaetus melanocephalus,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,7,33.892357,-7.004562,12,9,2021
+2167201400,Ichthyaetus melanocephalus,MA,Oued Souss area,Sous-Massa-Draa,1,30.345167,-9.570894,13,2,2014
+3224765523,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,2,31.50961,-9.773447,12,3,2020
+3605521929,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2021
+3557763538,Ichthyaetus melanocephalus,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,1,33.901142,-7.002331,11,10,2021
+2044170017,Ichthyaetus melanocephalus,MA,"EcoLodge L'Ile, Ouarzazarte",Sous-Massa-Draa,5,30.904877,-6.765304,1148,2,2017
+3170731313,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,7,2020
+3591794495,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,15,35.898037,-5.341559,16,1,2021
+2082680292,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2017
+1205817552,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,2,2010
+3244490032,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2020
+2800601506,Ichthyaetus melanocephalus,MA,Tanger Med Port,Tanger-Tétouan,1,35.885635,-5.502714,12,12,2019
+2757631152,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,9,34.013096,-6.813711,11,5,2019
+2112322655,Ichthyaetus melanocephalus,ES,"8Z Carretera de Benítez, Ceuta, Ceuta, ES (35,899, -5,343)",Ceuta,6,35.899254,-5.342935,11,12,2017
+2734526329,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2007
+2787717444,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,29,35.91375,-5.360241,1,2,2019
+2689231085,Ichthyaetus melanocephalus,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,4,35.152462,-6.102734,13,11,2016
+2070298421,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+3582967281,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,10,2021
+2700407344,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3521013231,Ichthyaetus melanocephalus,ES,costa norte—Benzú/Punta Blanca/Calamocarro,Ceuta,3,35.91514,-5.362894,6,2,2021
+3655284295,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,1,2013
+3578136766,Ichthyaetus melanocephalus,MA,Plage d'Assilah | شاطئ أصيلة,Tanger-Tétouan,4,35.473946,-6.027833,9,12,2021
+1721277123,Ichthyaetus melanocephalus,MA,Embouchure du Oued Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.029373,-6.831318,6,3,2016
+2188688244,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,9,2018
+3216585844,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,18,35.898037,-5.341559,16,12,2020
+2669224005,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+3629878705,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,14,35.898037,-5.341559,16,1,2021
+3663842158,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2021
+2084831131,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,3,35.91413,-5.362242,20,10,2017
+3209949313,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,2,35.9023,-5.346128,16,12,2020
+2205236254,Ichthyaetus melanocephalus,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,3,31.50961,-9.773447,12,11,2018
+2160719665,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3212712475,Ichthyaetus melanocephalus,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2010
+3291723485,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,5,35.9023,-5.346128,16,12,2020
+2780506687,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,5,2019
+2144742015,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+3596502729,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,4,2021
+1205173148,Ichthyaetus melanocephalus,MA,Agadir--pélagique générale,Sous-Massa-Draa,1,30.387526,-9.873276,0,11,2010
+2207804706,Ichthyaetus melanocephalus,MA,"N1, Tanger Assilah MA-⁨طنجة تطوان⁩ (35,5704,-5,9912)",Tanger-Tétouan,4,35.570374,-5.99116,9,10,2018
+2133968343,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,12,34.02601,-6.814597,10,2,2018
+3540197320,Ichthyaetus melanocephalus,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2021
+2143677520,Ichthyaetus melanocephalus,ES,"(35,914, -5,362)",Ceuta,35,35.913895,-5.362065,21,3,2018
+3284956893,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,15,35.9023,-5.346128,16,11,2020
+3640367791,Ichthyaetus melanocephalus,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3510834537,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,2,2021
+3601788536,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,10,35.948143,-5.617258,0,3,2021
+3668602311,Ichthyaetus melanocephalus,MA,Asillah - South Cliffs,Tanger-Tétouan,1,35.451286,-6.0513,22,10,2021
+2750994885,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,6,35.898037,-5.341559,16,3,2019
+3223150427,Ichthyaetus melanocephalus,ES,"1 Carretera del Tarajal, Ceuta, Ceuta, ES (35,875, -5,341)",Ceuta,5,35.875477,-5.341199,1,2,2020
+3583700474,Ichthyaetus melanocephalus,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,11,2021
+2706594502,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,5,32.916702,-8.815498,0,10,2019
+2702364421,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2019
+2135415061,Ichthyaetus melanocephalus,MA,Plage du Ancien Hopital Marie Feuillet,Rabat-Salé-Zemmour-Zaer,3,34.01963,-6.857314,9,3,2018
+3151871015,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2020
+588056073,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+2144201121,Ichthyaetus melanocephalus,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,3,2018
+3555666303,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2752703404,Ichthyaetus melanocephalus,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,587, -5,261)",Tanger-Tétouan,2,35.58748,-5.26053,7,3,2019
+3195075813,Ichthyaetus melanocephalus,ES,Tarifa--Offshore,Andalucía,25,35.965782,-5.609035,0,11,2020
+2747444765,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2016
+3544360007,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,2,2021
+3651430106,Ichthyaetus melanocephalus,ES,Seleccionado automáticamente,Andalucía,1,35.93271,-5.595104,0,3,2021
+2713953622,Ichthyaetus melanocephalus,ES,Playa de la Ribera,Ceuta,1,35.88705,-5.316519,0,2,2009
+2142233107,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2018
+2662866740,Ichthyaetus melanocephalus,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,5,34.02601,-6.814597,10,1,2019
+3253325144,Ichthyaetus melanocephalus,MA,Agadir--Commercial Port,Sous-Massa-Draa,1,30.422958,-9.643378,0,3,2001
+829146556,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,11,30.36236,-9.586773,10,2,2001
+3591673415,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,8,35.898037,-5.341559,16,3,2021
+2717005809,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,1,2019
+1717047284,Ichthyaetus melanocephalus,MA,Vallée de Kasbat Ayir,Doukkala-Abda,2,32.710217,-9.064321,8,2,2016
+2781743174,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,108,35.91375,-5.360241,1,6,2016
+3294930835,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,10,2020
+2764697155,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,901, -5,345)",Ceuta,2,35.90096,-5.34481,10,11,2019
+3528929694,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,3,2021
+3256777485,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,50,30.346031,-9.568678,8,2,2020
+3724667472,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,100,35.206071,-6.13403,8,2,2017
+3724764842,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,2,30.362386,-9.576637,8,4,2016
+3724996576,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,100,35.206071,-6.13403,8,2,2017
+2840858316,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,10,31.484308,-9.765472,8,11,2012
+1355021207,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,35,30.36236,-9.586773,10,3,2015
+2132231918,Ichthyaetus melanocephalus,ES,Ceuta--Edificio Cariño,Ceuta,10,35.9023,-5.346128,16,3,2018
+2838275571,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,1,32.9363,-8.7933,0,5,2016
+2832673656,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,1,32.9363,-8.7933,0,5,2016
+2839201519,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.983756,-8.741755,18,1,2015
+3715287120,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,8,30.360303,-9.576588,16,3,2016
+2843995477,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,1,35.155703,-6.10525,3,9,2011
+2836383046,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,4,32.997533,-8.730497,7,12,2016
+3905807903,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,4,34.872334,-6.297333,0,2,2022
+2840716468,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,92,32.996713,-8.730754,6,12,2014
+2209478516,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2018
+2127748276,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,15,35.914387,-5.36214,15,2,2018
+2722170872,Ichthyaetus melanocephalus,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,12,2019
+2783136279,Ichthyaetus melanocephalus,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,9,2019
+2731805320,Ichthyaetus melanocephalus,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2007
+2738426691,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,3,2019
+2674564821,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,2,35.898037,-5.341559,16,3,2019
+3724843930,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.361086,-9.585285,8,4,2016
+3724740111,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,15,30.361579,-9.582367,10,3,2016
+2844507451,Ichthyaetus melanocephalus,MA,Morocco - Souss-Massa NP,,1,30.073715,-9.6666,18,3,2017
+3715653853,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363451,-9.597087,7,8,2018
+3715721591,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362718,-9.580093,8,4,2018
+2728872215,Ichthyaetus melanocephalus,MA,River mouth,Sous-Massa-Draa,1,30.080698,-9.669865,11,2,2019
+1721422479,Ichthyaetus melanocephalus,MA,Station de Pompage El Mansour,Rabat-Salé-Zemmour-Zaer,2,33.987495,-6.888441,15,3,2016
+3574090802,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,2,32.916702,-8.815498,0,1,2014
+3509224587,Ichthyaetus melanocephalus,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+3519576902,Ichthyaetus melanocephalus,ES,Costa norte—Trampolín/Benítez,Ceuta,1,35.898037,-5.341559,16,3,2021
+3209460511,Ichthyaetus melanocephalus,MA,Oualidia,Doukkala-Abda,1,32.78786,-8.9675,10,4,2016
+3557281460,Ichthyaetus melanocephalus,ES,Costa sur—Tarajal/Almadraba/Juan XXIII,Ceuta,1,35.878376,-5.337942,0,3,2021
+2658076415,Ichthyaetus melanocephalus,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,22,32.736244,-9.039345,4,1,2019
+2144628210,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+3147908064,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2020
+2442798774,Ichthyaetus melanocephalus,MA,Oued Massa / Marokko,,1,30.063412,-9.66475,13,11,2017
+2835752617,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.163396,-6.10897,9,2,2012
+2841320564,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,1,31.5137,-9.7704,18,1,2015
+3715207054,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,15,30.36269,-9.584341,9,3,2016
+3725051447,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.1997,-6.1476,12,12,2016
+2843494279,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,14,32.997079,-8.73114,7,8,2019
+3724336988,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362936,-9.586382,7,2,2015
+3714954034,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362735,-9.580499,8,3,2015
+3724306134,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.36129,-9.58208,8,3,2015
+3725020405,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.2176,-6.1221,16,12,2016
+2839359636,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,2,34.863045,-6.282262,10,1,2015
+2839397648,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,2,31.510153,-9.769375,6,1,2015
+3724677456,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.2026,-6.1471,0,12,2016
+2839455998,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,1,31.4838,-9.7657,8,12,2015
+2840792553,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,5,35.114433,-6.040742,16,12,2011
+3715346598,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,8,30.364877,-9.597244,11,2,2017
+3724709741,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362951,-9.593238,12,1,2016
+2722846231,Ichthyaetus melanocephalus,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2019
+4058204027,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3625,-9.57653,9,2,2023
+2839300714,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,20,31.484596,-9.768101,9,12,2014
+3723466225,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.983756,-8.741755,18,1,2015
+2835910700,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,32.998513,-8.730582,9,11,2014
+2839653642,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.868547,-6.288524,14,2,2015
+2841121323,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,30,35.156477,-6.104279,3,9,2012
+2840015362,Ichthyaetus melanocephalus,MA,Morocco - Rharb\n,,3,35.108233,-6.125823,28,9,2011
+2835499297,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,6,32.998136,-8.729367,11,2,2014
+2838255079,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,15,35.184863,-6.136606,12,10,2010
+2832326187,Ichthyaetus melanocephalus,MA,Morocco - Larache,,20,35.178901,-6.1013,10,9,2012
+3714871013,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362948,-9.58563,8,3,2015
+4057919539,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,2,30.36298,-9.587779,11,10,2022
+3724658445,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,100,35.205016,-6.137697,11,2,2017
+2832544050,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,32.998235,-8.728398,17,7,2014
+3724556979,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362257,-9.575846,8,4,2016
+3724936357,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,10,35.205373,-6.134777,8,8,2016
+2842101489,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.953512,-8.775486,13,1,2015
+2838887469,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,6,32.93392,-8.794041,0,2,2014
+2840473144,Ichthyaetus melanocephalus,MA,Morocco - Zaër\n,,2,33.952132,-6.931687,4,10,2012
+2832626407,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,3,31.484838,-9.766388,7,10,2014
+3715845622,Ichthyaetus melanocephalus,MA,Morocco - Lqliaa,,1,30.355164,-9.574088,17,3,2019
+3725024303,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363069,-9.577849,9,12,2018
+2835591910,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,4,35.184764,-6.132015,7,8,2010
+2842520044,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,32.997254,-8.730283,10,9,2017
+3724708560,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.3629,-9.5865,7,3,2017
+3728431796,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,5,33.016328,-8.711979,8,2,2021
+2840835344,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,4,32.99922,-8.72818,8,8,2014
+2835635241,Ichthyaetus melanocephalus,MA,Morocco - Larache (bas loukkos et salines),,25,35.137316,-6.060615,16,9,2012
+2836516104,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,32.9966,-8.7288,6,12,2016
+2839978020,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.962,-8.7761,6,1,2017
+3715488585,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362851,-9.583385,9,2,2017
+3724842099,Ichthyaetus melanocephalus,MA,Morocco - Laouamra,,4,35.151213,-6.103305,12,2,2016
+2835643143,Ichthyaetus melanocephalus,MA,Morocco - Sidi Ouassay,,1,30.056911,-9.652863,32,12,2013
+3724671953,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,2,35.19281,-6.136179,6,11,2017
+2841602395,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,1,31.488643,-9.77181,11,2,2014
+3725073447,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.2177,-6.1221,17,12,2016
+2839550224,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,8,32.997803,-8.730029,9,12,2013
+3714875006,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362936,-9.586382,7,2,2015
+2832569669,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.953512,-8.775486,13,1,2015
+2839702828,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,10,33.0153,-8.7104,8,12,2016
+2837175016,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,32.997839,-8.730175,9,11,2018
+3996406308,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.36274,-9.582215,8,2,2019
+3716205768,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,80,30.363569,-9.593541,11,12,2019
+3724386034,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,30,30.363907,-9.584998,10,3,2015
+4057925075,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362919,-9.585745,8,2,2023
+3715013852,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,25,30.362182,-9.591351,9,10,2014
+2840809521,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,3,35.134786,-6.070805,15,10,2011
+3725061161,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,45,30.360776,-9.589333,11,10,2018
+3723276852,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,32.996552,-8.72912,7,12,2021
+2838359640,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.141739,-6.090374,13,2,2012
+3715357269,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362769,-9.582189,8,1,2018
+3724972463,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3626,-9.575522,7,1,2017
+3724491791,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,4,30.362441,-9.576431,9,3,2016
+2835892497,Ichthyaetus melanocephalus,MA,Morocco - Larache (bas loukkos et salines),,20,35.144817,-6.065026,8,3,2013
+2838409930,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,6,35.112063,-6.044347,9,3,2011
+3724690491,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3624,-9.5765,9,1,2017
+3715509489,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,5,35.1925,-6.1372,8,12,2016
+3609841302,Ichthyaetus melanocephalus,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2833569964,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,33.014459,-8.712438,10,12,2018
+2835643043,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,2,31.516499,-9.774803,0,10,2013
+3715934532,Ichthyaetus melanocephalus,MA,Morocco - Souss\n,,52,30.433502,-9.648218,2,1,2019
+3724591393,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362908,-9.585645,8,12,2016
+3724616539,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,13,35.210563,-6.132774,0,2,2017
+3731726187,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.953512,-8.775486,13,1,2015
+2832777027,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,3,31.487864,-9.769578,13,11,2015
+3715053842,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,25,30.363246,-9.597529,6,10,2014
+3724907476,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3627,-9.5812,9,1,2017
+3715211639,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,12,30.436116,-9.647002,11,1,2016
+3724874418,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,30,35.201411,-6.147108,0,1,2017
+2836952380,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,2,33.010269,-8.714169,9,12,2018
+2832461905,Ichthyaetus melanocephalus,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.983756,-8.741755,18,1,2015
+3724398942,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362847,-9.586559,7,2,2015
+2844446351,Ichthyaetus melanocephalus,MA,Morocco - Marais de El Otba,,1,32.934147,-8.794407,0,11,2018
+3725111303,Ichthyaetus melanocephalus,MA,Morocco - Lqliaa,,15,30.346926,-9.570259,11,11,2018
+2839929695,Ichthyaetus melanocephalus,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.170617,-6.105837,24,3,2012
+3715503627,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362877,-9.598603,6,3,2017
+3724358019,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362948,-9.58563,8,3,2015
+2834547371,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,1,32.99707,-8.73114,7,10,2019
+2035846168,Ichthyaetus melanocephalus,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,2,34.03392,-6.839424,10,1,2017
+1157959111,Ichthyaetus melanocephalus,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,2,2014
+2843997234,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,92,32.996713,-8.730754,6,12,2014
+2835670370,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,3,34.8716,-6.2989,5,2,2014
+2841144040,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,20,33.003948,-8.723473,9,9,2015
+2837672499,Ichthyaetus melanocephalus,MA,Morocco - Mehdya,,1,34.264645,-6.66055,13,2,2020
+2844379973,Ichthyaetus melanocephalus,ES,Spain - Melilla - Dique Sur,,2,35.277945,-2.925389,0,3,2019
+3724831165,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.3628,-9.5832,11,12,2017
+2836164716,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,12,32.999557,-8.729953,9,10,2016
+3724407841,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362378,-9.575919,8,3,2016
+3725348556,Ichthyaetus melanocephalus,MA,Morocco - Lqliaa,,1,30.349208,-9.570051,13,4,2018
+2839518244,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,1,35.193134,-6.136193,8,1,2014
+2835695406,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,2,33.016616,-8.712358,9,10,2014
+3715985522,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,37,30.362433,-9.594826,9,1,2019
+2838109896,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,5,32.997722,-8.729825,10,10,2015
+3724507410,Ichthyaetus melanocephalus,MA,Morocco - Larache - salines de Lixus,,5,35.214771,-6.122646,4,9,2015
+2832242399,Ichthyaetus melanocephalus,MA,Morocco - Rharb\n,,20,35.108233,-6.125823,28,9,2011
+3996574640,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363814,-9.592973,12,10,2022
+3826353557,Ichthyaetus melanocephalus,ES,Spain - Ceuta,,2,35.916663,-5.370201,4,2,2022
+3582727476,Ichthyaetus melanocephalus,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,450,33.901142,-7.002331,11,12,2021
+2209181846,Ichthyaetus melanocephalus,ES,"N-354, Ceuta, ES (35,914, -5,362)",Ceuta,6,35.914448,-5.362225,15,12,2018
+2136127477,Ichthyaetus melanocephalus,MA,Hassan II Mosque esplanade,Grand Casablanca,5,33.60974,-7.629224,11,3,2018
+2727720148,Ichthyaetus melanocephalus,ES,"1 Carretera Postigo, Ceuta, Ceuta, ES (35,901, -5,345)",Ceuta,9,35.901207,-5.344915,8,1,2019
+3947125020,Ichthyaetus melanocephalus,MA,,Rabat - Salé - Zemmour - Zaer,1,33.893322,-7.004081,10,10,2022
+3626162800,Ichthyaetus melanocephalus,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,10,2013
+2791335640,Ichthyaetus melanocephalus,ES,Playa Benítez,Ceuta,12,35.894264,-5.336159,11,1,2014
+3570756653,Ichthyaetus melanocephalus,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,18,34.029755,-6.828594,8,12,2021
+3262046242,Ichthyaetus melanocephalus,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,9,2020
+3725049336,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,20,30.367319,-9.600561,8,3,2018
+3724310925,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362936,-9.586382,7,2,2015
+2832711141,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,12,33.016854,-8.715337,6,1,2016
+2832430651,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,2,31.508298,-9.777117,0,4,2014
+3715443550,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,9,30.362842,-9.586023,8,2,2017
+3725010445,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362142,-9.577686,9,1,2017
+2726599528,Ichthyaetus melanocephalus,ES,Punta Blanca,Ceuta,41,35.91375,-5.360241,1,1,2011
+2841009074,Ichthyaetus melanocephalus,MA,Morocco - Nador - La sebkha Bou Areg (lagune de Nador),,1,35.226665,-2.886277,2,12,2018
+3725236468,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.362718,-9.580093,8,4,2018
+2839177719,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,1,31.485593,-9.769939,9,2,2015
+3724276929,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,1,30.363271,-9.589783,10,1,2015
+2843536263,Ichthyaetus melanocephalus,MA,Morocco - Saline de sidi moussa,,2,32.9966,-8.7291,7,12,2017
+3715045958,Ichthyaetus melanocephalus,MA,Morocco - Agadir,,3,30.362936,-9.586382,7,2,2015
+2835554485,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,3,34.8716,-6.2989,5,2,2014
+2832496713,Ichthyaetus melanocephalus,MA,Morocco - Merja Zerga Parque National,,1,34.830696,-6.276841,13,1,2015
+2839325474,Ichthyaetus melanocephalus,MA,Morocco - Essaouira,,4,31.486795,-9.770335,9,12,2014
+3668136181,Ichthyaetus melanocephalus,MA,Plage de Salé,Rabat-Salé-Zemmour-Zaer,10,34.036716,-6.831522,10,11,2013

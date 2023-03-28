@@ -24,11 +24,11 @@ plt.ylabel('Elevation')
 plt.show()
 
 # Input data
-year_count = {2022: 2004, 2018: 34558, 2014: 16685, 2008: 9463, 2013: 10927, 2019: 48803, 2009: 7801, 2007: 6482, 2017: 31549, 2015: 22167, 2016: 18076, 2010: 9258, 2021: 28625, 2012: 10047, 2000: 1446, 2005: 6066, 2020: 9271, 2023: 139, 2004: 3280, 2011: 12532, 2003: 3427, 2002: 2461, 2001: 2369, 2006: 4817}
-x = list(year_count.values())
-y = list(year_count.keys())
+year_count = {2015: 50519, 2010: 12291, 2012: 21978, 2000: 7441, 2002: 5640, 2001: 10003, 2003: 9484, 2004: 9748, 2005: 11272, 2006: 11879, 2009: 11473, 2007: 15651, 2008: 12197, 2016: 89129, 2017: 87510, 2019: 98951, 2018: 102131, 2014: 40287, 2013: 30861, 2011: 15668, 2022: 9774, 2021: 46899, 2023: 1289, 2020: 43019}
+y = list(year_count.values())
+x = list(year_count.keys())
 
-plt.barh(y, x, height=1, color="green")
+plt.barh(x, y, height=1, color="green")
 plt.style.use('seaborn')
 
 # get the axis object
@@ -38,9 +38,8 @@ ax = plt.gca()
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 
-
-plt.xlabel('Count')
-plt.ylabel('Year')
+plt.xlabel('Year')
+plt.ylabel('Count')
 plt.show()
 
 # Input data

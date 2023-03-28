@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3623558569,Ficedula albicollis,ES,Parque forestal,Melilla,1,35.278187,-2.945879,18,4,2021
+3550578226,Ficedula albicollis,ES,Melilla--Parque Forestal Rey Juan Carlos I,Melilla,1,35.277386,-2.947061,18,4,2021
+3730711448,Ficedula albicollis,ES,Spain - Melilla,,1,35.278155,-2.946758,17,4,2021
+2838699570,Ficedula albicollis,MA,Morocco - Région de Merzouga (Erfoud),,1,31.213168,-3.986634,730,4,2013

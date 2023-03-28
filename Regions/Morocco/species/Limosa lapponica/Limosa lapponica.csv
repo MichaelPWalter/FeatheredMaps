@@ -1,0 +1,853 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1677376534,Limosa lapponica,MA,Khnifiss Lagune - Marokko,,1,28.009861,-12.270355,8,1,2013
+1338948510,Limosa lapponica,MA,Moulay Bousselham / Marokko,,1,34.879311,-6.28933,57,9,2015
+2044414658,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,25,28.001081,-12.342865,7,3,2017
+2154077689,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+1789897992,Limosa lapponica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,4,2005
+1931525129,Limosa lapponica,MA,,Marrakech - Tensift - Al Haouz,1,31.516476,-9.767801,8,10,2018
+2840704360,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,6,35.204347,-6.133847,6,9,2011
+3190376419,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,8,2008
+1719381643,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2016
+3615990143,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,7,32.781796,-8.973387,7,10,2021
+3146673977,Limosa lapponica,MA,"80000, Agadir MA-Souss-Massa-Drâa 30.40810, -9.59612",Sous-Massa-Draa,2,30.408102,-9.59612,27,3,2020
+2227547378,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,11,2018
+3565606490,Limosa lapponica,EH,Morocco,Western Sahara,250,27.164206,-13.194169,20,3,2017
+1791388825,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,10,2006
+2783742456,Limosa lapponica,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,4,2002
+938287016,Limosa lapponica,MA,Agadir Souss massa,Sous-Massa-Draa,1,30.2389,-9.61647,70,2,2012
+1794429051,Limosa lapponica,MA,Mouth of Oued Souss,Sous-Massa-Draa,10,30.363514,-9.585015,8,10,2012
+3629815445,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,8,32.997078,-8.73114,7,4,2021
+3213307633,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2020
+2713825853,Limosa lapponica,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2659806485,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,5,34.855213,-6.270397,8,1,2019
+3567543426,Limosa lapponica,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,8,35.203236,-6.133841,7,12,2021
+2776735503,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+3210815364,Limosa lapponica,MA,Al Marsa,Tanger-Tétouan,1,35.90273,-5.447491,15,9,2005
+3158369007,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2003
+2204386692,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,10,2018
+1395559509,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,9,2015
+2672810647,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3284140658,Limosa lapponica,MA,Oualidia tidal marshes,Doukkala-Abda,30,32.75977,-9.007502,5,5,2010
+3583446930,Limosa lapponica,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,4,33.555717,-7.739337,8,12,2021
+2680884086,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2054237408,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3301107240,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,12,2017
+2701314317,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2099252224,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+3278319207,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,12,2020
+1780988301,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,2,2012
+2698366312,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,9,2019
+2726236357,Limosa lapponica,MA,Oued Massa,Sous-Massa-Draa,4,30.008463,-9.652519,11,5,2001
+2141708000,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2101259144,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,9,2017
+1791981790,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2011
+2086841205,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+3210662407,Limosa lapponica,MA,Oualidia tidal marshes,Doukkala-Abda,10,32.75977,-9.007502,5,11,2012
+3216543188,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2002
+2042072672,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2017
+3655819102,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,5,2021
+2703491761,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,13,32.781796,-8.973387,7,9,2019
+2095459817,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,9,2017
+2074046664,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+1194064789,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,45,30.36236,-9.586773,10,3,2014
+2185701707,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,100,28.001081,-12.342865,7,3,2011
+966408085,Limosa lapponica,MA,Sous-Massa National Park,Sous-Massa-Draa,1,30.168875,-9.656982,0,9,2013
+588129426,Limosa lapponica,MA,"Parc National de Souss-Massa, Oued Massa",Sous-Massa-Draa,1,30.064457,-9.662747,11,12,2008
+2662465281,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1164919492,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,15,28.001081,-12.342865,7,4,2014
+2787576358,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,60,28.04759,-12.226908,0,9,2019
+2167988086,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2692904099,Limosa lapponica,MA,Oued Massa,Sous-Massa-Draa,4,30.057463,-9.655754,16,4,2006
+3141147330,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2020
+2800600000,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3546301491,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,3,30.346031,-9.568678,8,10,2021
+2137039936,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2018
+3169511176,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,100,34.855213,-6.270397,8,4,2003
+588080187,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+3647526191,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,25,28.04759,-12.226908,0,1,2020
+3561048805,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,2,33.88976,-7.013904,12,12,2021
+1348205610,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,1,2015
+2234107623,Limosa lapponica,MA,Larache,Tanger-Tétouan,10,35.174797,-6.147581,41,1,2015
+2225689205,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,11,2018
+2124843614,Limosa lapponica,MA,Sidi El Abed,Doukkala-Abda,1,33.044956,-8.689619,13,4,2017
+2778081090,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,9,2019
+3279184887,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,10,2020
+3558301472,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2021
+3619103291,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,165,28.04759,-12.226908,0,9,2021
+1194779214,Limosa lapponica,MA,Côte d'Imsouane,Sous-Massa-Draa,1,30.872467,-9.813366,65,5,2009
+1167613622,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2786370300,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2016
+2219358727,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2000
+588138705,Limosa lapponica,MA,Parc National de Merdja Zerka,Gharb-Chrarda-Beni Hssen,2,34.871284,-6.28418,5,12,2008
+948385423,Limosa lapponica,MA,Loukkos Estuary,Tanger-Tétouan,5,35.195183,-6.125122,7,7,2008
+3566137830,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+2098335406,Limosa lapponica,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,2,33.886974,-7.015988,9,9,2017
+3688617457,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,9,2021
+2165495736,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3589590111,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,1,2021
+2799917986,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2012
+2139576200,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,2,2018
+3537075283,Limosa lapponica,MA,Plage de Tifnit,Sous-Massa-Draa,1,30.201324,-9.641147,12,10,2021
+1167616448,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,15,28.001081,-12.342865,7,4,2014
+2793879595,Limosa lapponica,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+1789061529,Limosa lapponica,MA,Kasbah Perle du Dades,Sous-Massa-Draa,1,31.322363,-6.006032,1499,10,2013
+2228883130,Limosa lapponica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2018
+2144617239,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2018
+3297870795,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,10,2020
+3539714108,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,165,28.04759,-12.226908,0,9,2021
+3278458731,Limosa lapponica,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+2194334961,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3265700287,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,10,32.736244,-9.039345,4,4,2003
+2104399359,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2778463094,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,23,30.070282,-9.662819,21,10,2013
+2753005087,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,12,2011
+2778176142,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,10,2013
+1406200208,Limosa lapponica,MA,sous,Sous-Massa-Draa,1,30.367025,-9.599948,11,6,2006
+2700431640,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2019
+3689975323,Limosa lapponica,MA,Oualidia tidal marshes,Doukkala-Abda,10,32.75977,-9.007502,5,11,2012
+2661134071,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,3,2007
+2167001213,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3203943160,Limosa lapponica,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,2,28.086882,-12.08218,10,11,2011
+3295685534,Limosa lapponica,MA,MA-Agadir (Oued Sous),Sous-Massa-Draa,5,30.366068,-9.591254,11,4,2019
+3947299038,Limosa lapponica,MA,,Tanger - Tétouan,1,35.179551,-6.120934,6,10,2022
+3966504146,Limosa lapponica,MA,,Marrakech - Tensift - Al Haouz,1,31.383773,-9.817893,4,10,2022
+1205140340,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2010
+938255848,Limosa lapponica,MA,"Agadir ,Souss massa",Sous-Massa-Draa,1,30.057209,-9.645996,95,2,2012
+1722078488,Limosa lapponica,MA,mouth of El Chbeika,Guelmim-Es Smara,5,28.2901,-11.5327,0,3,2016
+3565595663,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,9,2021
+3574423706,Limosa lapponica,MA,"Oued Ykkem, Pointe Du Val D'or, MA (33.901, -7.002)",Rabat-Salé-Zemmour-Zaer,4,33.901142,-7.002331,11,10,2021
+3539272316,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2021
+3195162316,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,11,2020
+2139280138,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,4,2018
+3606113663,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,3,2007
+2230479072,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,30,28.001081,-12.342865,7,2,2016
+2798751555,Limosa lapponica,ES,Arroyo de Calamocarro,Ceuta,7,35.910793,-5.368713,140,8,2011
+1385358346,Limosa lapponica,MA,Oued Loukos,Tanger-Tétouan,3,35.2131,-6.1211,0,12,2009
+2764204520,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,2,33.88976,-7.013904,12,9,2019
+1723999407,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2016
+3657977688,Limosa lapponica,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2208078242,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,9,2018
+2787624399,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2014
+3656521956,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,8,2021
+3516382628,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,2,2021
+1355020021,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2015
+2709091172,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,10,2013
+2117226350,Limosa lapponica,MA,Port De Pêche De Mehdia,Gharb-Chrarda-Beni Hssen,10,34.270657,-6.645129,13,1,2018
+3068075790,Limosa lapponica,MA,,Laâyoune - Boujdour - Sakia El Hamra,1,28.030623,-12.240674,12,1,2017
+2096076007,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,3,2002
+2144619944,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+3216179720,Limosa lapponica,MA,Tan-Tan beach,Guelmim-Es Smara,2,28.488111,-11.345098,0,11,2011
+2778694228,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3555208661,Limosa lapponica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2212022121,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,9,2018
+3650690913,Limosa lapponica,MA,Oued Sous,Sous-Massa-Draa,4,30.356562,-9.590331,13,4,2006
+3731936343,Limosa lapponica,MA,Morocco - Lqliaa,,2,30.34668,-9.567255,14,9,2021
+2726131745,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,11,2019
+3723335554,Limosa lapponica,MA,Morocco - Agadir,,2,30.362915,-9.588211,9,11,2021
+2832175680,Limosa lapponica,MA,Morocco - Agadir,,10,30.362502,-9.575952,8,4,2012
+3715739417,Limosa lapponica,MA,Morocco - Agadir,,1,30.363125,-9.589058,9,3,2018
+2832189900,Limosa lapponica,MA,Morocco - Tanger - Tétouan,,20,35.201987,-6.131316,10,12,2010
+3565105256,Limosa lapponica,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,9,2021
+2782003975,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,150,34.855213,-6.270397,8,9,2017
+3585829306,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2135715091,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2017
+2153800663,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+3996738532,Limosa lapponica,MA,Morocco - Agadir,,1,30.363213,-9.590772,8,9,2022
+2845398770,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,6,28.031443,-12.186508,26,10,2019
+2840309292,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,40,28.034789,-12.238255,0,12,2011
+2838068021,Limosa lapponica,MA,Morocco - Oued Sous,,2,30.36293,-9.599219,6,7,2010
+2100101960,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+3156021358,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2020
+3542279408,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,11,2021
+2662822543,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3633422412,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,3,33.88976,-7.013904,12,10,2021
+2698551262,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,9,2019
+2841266352,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,7,35.207582,-6.140785,0,1,2014
+3388984849,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,1,2008
+1807912259,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,11,2017
+2734982166,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2007
+3295033808,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,11,2011
+2835539000,Limosa lapponica,MA,Morocco - Oued Sous,,2,30.363964,-9.601459,6,8,2010
+2832371979,Limosa lapponica,MA,Morocco - Agadir,,25,30.361174,-9.592967,12,7,2013
+3718837574,Limosa lapponica,MA,Morocco - Agadir,,10,30.363986,-9.591349,17,10,2020
+1807911981,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,3,2001
+2832208860,Limosa lapponica,MA,Morocco - Souss - Massa - Draâ,,30,30.365596,-9.601622,6,12,2010
+2113570542,Limosa lapponica,MA,Réserve de Chasse de Zaouiet Bouzarktoune,Marrakech-Tensift-Al Haouz,3,31.646526,-9.659837,21,11,2017
+3576515369,Limosa lapponica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,10,2021
+3282311263,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,3,2006
+2755704063,Limosa lapponica,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,3,28.677202,-11.117936,17,11,2013
+2171846150,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,5,2018
+3264503898,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,1,2000
+2774626769,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,9,2019
+2798125737,Limosa lapponica,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,11,2019
+3220807455,Limosa lapponica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,1,2020
+2187784964,Limosa lapponica,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,9,2018
+2796910858,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2016
+2721338378,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,150,34.855213,-6.270397,8,9,2019
+3605575062,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,9,30.36236,-9.586773,10,3,2021
+2139233860,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2018
+2161773230,Limosa lapponica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+2155429934,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,6,32.997078,-8.73114,7,4,2018
+2693458757,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,9,2013
+1389969880,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2001
+590450960,Limosa lapponica,MA,Oued Massa,Sous-Massa-Draa,2,30.052752,-9.652691,8,3,2011
+1792487793,Limosa lapponica,MA,Oued Souss,Sous-Massa-Draa,20,30.359535,-9.593768,10,1,2004
+2095009257,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,9,2017
+2718249729,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+2767070584,Limosa lapponica,MA,Sidi Wassay,Sous-Massa-Draa,5,30.050697,-9.695046,9,10,2013
+2737250570,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2140670168,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+2179544669,Limosa lapponica,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,5,2018
+2214197029,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,18,35.195835,-6.111832,7,9,2018
+2055552553,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,25,28.001081,-12.342865,7,3,2017
+2233411202,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2011
+2227033018,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2011
+3210315703,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2012
+830780399,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,20,34.855213,-6.270397,8,9,2012
+829190503,Limosa lapponica,MA,Agadir - Oued Sous,Sous-Massa-Draa,3,30.269228,-9.612263,74,3,2001
+967514997,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2217195824,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,10,2018
+2080283668,Limosa lapponica,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,2,33.886974,-7.015988,9,9,2017
+2698537402,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2018
+3215879316,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+3188878062,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,3,32.997078,-8.73114,7,4,2006
+3582821894,Limosa lapponica,EH,Morocco,Western Sahara,250,27.164206,-13.194169,20,3,2017
+2206215734,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2018
+2736653274,Limosa lapponica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,5,2019
+2713295779,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1723042638,Limosa lapponica,MA,Sousa estuary,Sous-Massa-Draa,1,30.363703,-9.591768,14,3,2016
+2713589370,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,9,2011
+2150360968,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+1791455460,Limosa lapponica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,2,31.50961,-9.773447,12,5,2012
+3263239799,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,100,34.855213,-6.270397,8,4,2003
+2800786828,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,15,28.001081,-12.342865,7,11,2004
+3296571210,Limosa lapponica,MA,"Souira Guedima, MA (32.05, -9.341)",Doukkala-Abda,1,32.05034,-9.341456,8,11,2020
+1168963264,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2206652366,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+2779478748,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,11,2013
+2108806924,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,3,2002
+1395163910,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,9,2015
+2070282556,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+1370839376,Limosa lapponica,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2788368856,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,4,2016
+829181554,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,2,2001
+2748249469,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2227126533,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,11,2018
+2797313426,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,2,2017
+2719640682,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,2,2018
+3183038031,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,9,2011
+2711566840,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2019
+3207245781,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,10,2020
+2216738227,Limosa lapponica,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,10,2018
+2661780101,Limosa lapponica,MA,"Agadir, Souss-Massa, MA (30,386, −9,6)",Sous-Massa-Draa,10,30.38572,-9.600348,12,3,2019
+2789758745,Limosa lapponica,MA,"P1018, Chtouka Ait Baha MA-Souss-Massa-Drâa (30.0412,-9.6433)",Sous-Massa-Draa,1,30.041162,-9.643323,15,9,2019
+3209062505,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,4,2006
+2712399130,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,9,2019
+3181246361,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,8,2020
+3620377987,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+3286611391,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,11,2010
+1791781415,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,3,2013
+2204627445,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,6,32.736244,-9.039345,4,9,2018
+3579318329,Limosa lapponica,MA,Plage de Rabat,Rabat-Salé-Zemmour-Zaer,11,34.03392,-6.839424,10,9,2021
+3211130451,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,8,2001
+2130599028,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2018
+2204145205,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2018
+2714307904,Limosa lapponica,MA,Oued Ouma Fatma,Laâyoune-Boujdour-Sakia el Hamra,1,28.20494,-11.781549,0,1,2012
+2724932793,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,11,2004
+1200548139,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,3,2006
+1786469920,Limosa lapponica,MA,Sidi Moussa,Doukkala-Abda,4,32.989086,-8.733644,8,4,2015
+1167606580,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+2797676547,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,11,2004
+1197796776,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,10,30.185549,-9.627369,90,10,2014
+2104042871,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,11,2002
+1723983136,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2016
+3216541643,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,400,34.855213,-6.270397,8,1,2002
+2660640436,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+3179608099,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,7,2020
+2145816304,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2097807671,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+3686017744,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,11,2013
+3568972644,Limosa lapponica,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,10,35.015804,-6.214134,14,9,2013
+3152873142,Limosa lapponica,MA,"80000, Agadir MA-Souss-Massa-Drâa 30.40810, -9.59612",Sous-Massa-Draa,2,30.408102,-9.59612,27,3,2020
+2720306609,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,1,2008
+2219050674,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,10,2018
+3574673620,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,5,32.781796,-8.973387,7,11,2013
+2798788502,Limosa lapponica,MA,"Marais d'el Hotba - Oulad Salem, MA (32.92, -8.809)",Doukkala-Abda,2,32.92024,-8.808724,0,10,2019
+3187212606,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,9,2020
+3215670185,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+1168966191,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+3692042881,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2021
+2209924447,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,3,2011
+2785979008,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,9,2019
+3223710929,Limosa lapponica,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,2,28.677202,-11.117936,17,3,2020
+1406437561,Limosa lapponica,MA,sous,Sous-Massa-Draa,1,30.367025,-9.599948,11,6,2006
+3237018413,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,3,2020
+2175656950,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,5,2018
+3582475475,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,25,30.070282,-9.662819,21,2,2000
+3274056515,Limosa lapponica,MA,Vallée du Souss--général,Sous-Massa-Draa,1,30.388638,-9.333913,51,4,2003
+2717313418,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2013
+2121281109,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,25,34.855213,-6.270397,8,1,2018
+1787895706,Limosa lapponica,MA,Khnifiss NP,Laâyoune-Boujdour-Sakia el Hamra,1,27.995066,-12.369298,7,2,2008
+2700382442,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+3694518523,Limosa lapponica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2040076760,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2017
+2198465147,Limosa lapponica,MA,Khnifiss Lagoon,Laâyoune-Boujdour-Sakia el Hamra,400,28.034882,-12.244416,0,3,2011
+3201878525,Limosa lapponica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,10,2007
+3580239308,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+2687175654,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2711317348,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,9,2019
+3281682982,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+3611526302,Limosa lapponica,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,2,2016
+2213652846,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,15,32.736244,-9.039345,4,10,2018
+2704955856,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2016
+2769278909,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,95,32.997078,-8.73114,7,8,2019
+1791256476,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,10,2007
+3552076102,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,1,2013
+1791494404,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2012
+2763474397,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,9,2019
+3687822259,Limosa lapponica,MA,Khnifiss NP (Khenifiss NP),Laâyoune-Boujdour-Sakia el Hamra,1,27.99507,-12.3693,7,2,2008
+3156097124,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,2,30.346031,-9.568678,8,3,2020
+2704878430,Limosa lapponica,MA,"Unnamed Road, Souss Massa, MA (30,031, -9,644)",Sous-Massa-Draa,1,30.030989,-9.644449,10,9,2019
+2071858175,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,12,33.88976,-7.013904,12,10,2007
+942108842,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,6,2008
+3683329826,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2021
+2708268534,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,11,2004
+3611747945,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,21,30.36236,-9.586773,10,9,2021
+3510930898,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,6,32.781796,-8.973387,7,2,2021
+1751584258,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,3,30.185549,-9.627369,90,11,2001
+3671841481,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,5,2021
+2140957762,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2018
+2156095751,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,5,2018
+2757657376,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,10,2013
+3202508905,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,8,30.711512,-9.855123,9,10,2020
+3285533596,Limosa lapponica,MA,"Site witheld, Atlantic coast",Doukkala-Abda,187,32.7796,-8.970971,37,4,2009
+2154071314,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+829181834,Limosa lapponica,MA,Agadir - Oued Sous,Sous-Massa-Draa,3,30.269228,-9.612263,74,3,2001
+2165389868,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2678318812,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+3570327547,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2016
+2774761467,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2011
+3594510338,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2021
+1782629378,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,3,2006
+3214726218,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,200,28.04759,-12.226908,0,2,2010
+2697801148,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,9,2019
+2659664353,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,9,34.855213,-6.270397,8,1,2019
+1789065278,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2013
+2101785196,Limosa lapponica,MA,"MA-Rabat-Salé-Zemmour-Zaër-Skhirat-Boulevard Prince Moulay Abdellah - 33,887x-7,018",Rabat-Salé-Zemmour-Zaer,6,33.887337,-7.018446,6,9,2017
+3650562020,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2009
+2094573364,Limosa lapponica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,8,34.013096,-6.813711,11,9,2017
+2100733301,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,4,32.736244,-9.039345,4,10,2017
+2155550076,Limosa lapponica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+2838605856,Limosa lapponica,MA,Morocco - Agadir,,5,30.360242,-9.580235,8,4,2012
+2832452374,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,100,28.027288,-12.271442,0,1,2013
+2156791126,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,5,2018
+1410657850,Limosa lapponica,MA,Khnifiss lagoon area (including boat trip),Laâyoune-Boujdour-Sakia el Hamra,100,28.027061,-12.26027,10,3,2011
+2670708304,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2194408140,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,3,33.88976,-7.013904,12,10,2018
+2076484629,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,8,2017
+3672425792,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,1,2021
+943204812,Limosa lapponica,MA,Oued Souss,Sous-Massa-Draa,1,30.36673,-9.59939,9,2,2011
+2153210427,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,5,2005
+1794565760,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+1165971207,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2158388246,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3284905482,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,10,2020
+1723930138,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2016
+2130794006,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2018
+2233909060,Limosa lapponica,MA,Marina de Salé,Rabat-Salé-Zemmour-Zaer,1,34.029755,-6.828594,8,12,2018
+2115165428,Limosa lapponica,MA,Khnifiss NP,Laâyoune-Boujdour-Sakia el Hamra,1,28.028786,-12.240155,15,2,2017
+2781686294,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,9,2019
+3290561159,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2009
+2233533714,Limosa lapponica,MA,"80502, Agadir MA-Souss-Massa-Drâa (30.7097,-9.8558)",Sous-Massa-Draa,2,30.709738,-9.855812,10,1,2014
+2678723173,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2019
+2141670030,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3681640792,Limosa lapponica,MA,Marais du Oued Hachef,Tanger-Tétouan,2,35.559982,-5.977306,12,12,2015
+2719167306,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,4,2012
+2193895490,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2018
+1791458990,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,4,2005
+2790146520,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,11,2013
+3577552280,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,9,2021
+2084023653,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,9,2017
+2777370200,Limosa lapponica,MA,Oued Noun,Sous-Massa-Draa,1,29.139307,-10.40838,10,9,2019
+1707367270,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,11,2004
+1164455266,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+2790091070,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2019
+3253043757,Limosa lapponica,MA,Jetée De Mehdia,Gharb-Chrarda-Beni Hssen,1,34.26241,-6.684754,7,4,2003
+2720031266,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,9,2019
+3648383506,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2020
+2049792357,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2017
+2726123148,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,45,28.04759,-12.226908,0,4,2018
+3244104919,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,10,32.736244,-9.039345,4,4,2003
+2717215689,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,1,2012
+2715611332,Limosa lapponica,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,50,28.677202,-11.117936,17,4,2012
+3531193981,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,7,32.736244,-9.039345,4,2,2021
+2784459186,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,20,32.997078,-8.73114,7,10,2019
+2725432954,Limosa lapponica,MA,"Oued Massa Reserve (30.0707, -9.6822)",Sous-Massa-Draa,1,30.0707,-9.6822,0,9,2019
+3515266747,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+2209968332,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,4,32.997078,-8.73114,7,12,2018
+2669206675,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+2145816145,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+3203736476,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2006
+2752372623,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2018
+3199595486,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,10,2003
+3292463587,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,2,2012
+2793136362,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,21,30.070282,-9.662819,21,9,2013
+3637165507,Limosa lapponica,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,3,33.892357,-7.004562,12,9,2021
+2061480641,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+2835819004,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.362388,-9.602809,6,4,2012
+3729800417,Limosa lapponica,MA,Morocco - Agadir,,10,30.362938,-9.585886,8,5,2021
+3732879340,Limosa lapponica,MA,Morocco - Agadir,,15,30.362926,-9.587745,10,9,2021
+3715724219,Limosa lapponica,MA,Morocco - Agadir,,4,30.361283,-9.584599,10,11,2018
+2832266033,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,30,28.024386,-12.276471,10,4,2011
+3966356235,Limosa lapponica,MA,,Marrakech - Tensift - Al Haouz,1,31.385357,-9.819794,14,10,2022
+2835904163,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,20,27.994401,-12.273531,6,10,2013
+3728528878,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,300,27.986479,-12.299561,10,3,2014
+2840150128,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.0288,-12.2395,21,2,2017
+2835497380,Limosa lapponica,MA,Morocco - Agadir,,6,30.367747,-9.599154,11,1,2013
+3715592443,Limosa lapponica,MA,Morocco - Agadir,,1,30.362922,-9.586515,7,4,2018
+2835789130,Limosa lapponica,MA,Morocco - Larache,,1,35.178901,-6.1013,10,9,2012
+3693050976,Limosa lapponica,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,12,2013
+2835668215,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,15,35.207642,-6.112201,11,10,2012
+2839052514,Limosa lapponica,MA,Morocco - Saline de sidi moussa,,30,32.996498,-8.728756,6,4,2014
+2838662552,Limosa lapponica,MA,Morocco - Agadir,,2,30.365874,-9.596061,11,4,2013
+3715799932,Limosa lapponica,MA,Morocco - Agadir,,10,30.36147,-9.584612,10,8,2018
+2159197331,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2206107159,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,9,2018
+3582119046,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2021
+3826234165,Limosa lapponica,MA,Morocco - Agadir,,3,30.365051,-9.597623,11,5,2022
+3722440912,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,5,28.031872,-12.250627,2,9,2021
+2838406714,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,5,35.211524,-6.132861,7,3,2012
+2096400458,Limosa lapponica,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+3197011081,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2007
+3661141832,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2008
+2832405248,Limosa lapponica,MA,Morocco - Agadir,,3,30.362285,-9.598618,5,11,2013
+2832430309,Limosa lapponica,MA,Morocco - Agadir,,5,30.362725,-9.579662,8,1,2014
+3718563482,Limosa lapponica,MA,Morocco - Agadir,,1,30.364876,-9.598159,14,12,2020
+3715858503,Limosa lapponica,MA,Morocco - Agadir,,12,30.36258,-9.590863,12,2,2019
+3725590791,Limosa lapponica,MA,Morocco - Agadir,,1,30.362499,-9.577584,9,1,2020
+3731248239,Limosa lapponica,MA,Morocco - Arekmane,,1,35.125381,-2.759115,4,10,2021
+3726416574,Limosa lapponica,MA,Morocco - Agadir,,4,30.362396,-9.5962,10,7,2020
+2836104694,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,10,28.028425,-12.239828,16,2,2015
+3214285598,Limosa lapponica,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,2,30.038885,-9.666038,88,4,2006
+2128237192,Limosa lapponica,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,1,34.02601,-6.814597,10,1,2018
+1177938257,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,11,30.36236,-9.586773,10,6,2014
+2836246234,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,7,28.0289,-12.2395,20,2,2016
+2839788253,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,30,28.02761,-12.261195,0,5,2016
+3730525199,Limosa lapponica,MA,Morocco - Agadir,,1,30.367474,-9.599227,10,9,2021
+3722557307,Limosa lapponica,MA,Morocco - Arekmane,,1,35.188622,-2.837173,3,10,2021
+2833220055,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.028765,-12.24053,16,3,2018
+2833120322,Limosa lapponica,MA,Morocco - Agadir,,10,30.362653,-9.596327,10,11,2011
+3161680948,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,6,2020
+922213107,Limosa lapponica,MA,"Cap Rhir, Marokko",,1,30.628164,-9.887695,9,12,2001
+922210117,Limosa lapponica,MA,Khnifiss Lagune - Marokko,,1,28.009861,-12.270355,8,1,2013
+2702505338,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,15,30.070282,-9.662819,21,11,2013
+2832339566,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.366877,-9.599605,10,11,2011
+3455794439,Limosa lapponica,MA,,Guelmim - Es-Semara,1,28.501608,-11.33446,0,2,2011
+2397549721,Limosa lapponica,MA,,Doukkala - Abda,1,32.753693,-9.01866,6,12,2018
+1932335021,Limosa lapponica,MA,,Souss - Massa - Draâ,1,30.068515,-9.665225,23,10,2018
+3722898671,Limosa lapponica,MA,Morocco - Agadir,,1,30.362923,-9.586793,9,11,2021
+2832541940,Limosa lapponica,MA,Morocco - Agadir,,2,30.365874,-9.596061,11,4,2013
+2841305906,Limosa lapponica,MA,Morocco - Souss-Massa NP,,1,30.080847,-9.669914,11,5,2018
+2838664583,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.363819,-9.599391,9,2,2009
+3723072382,Limosa lapponica,MA,Morocco - Agadir,,5,30.363878,-9.586886,7,10,2021
+2833778938,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.033724,-12.237085,2,3,2019
+3387770400,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,1,2008
+2834504534,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.000161,-12.273171,9,9,2019
+3731175175,Limosa lapponica,MA,Morocco - Agadir,,30,30.362989,-9.593752,12,9,2021
+2836696509,Limosa lapponica,MA,Morocco - Laouamra,,6,35.155703,-6.10525,3,9,2011
+3732467517,Limosa lapponica,MA,Morocco - Agadir,,3,30.362139,-9.575933,9,9,2021
+2832221047,Limosa lapponica,MA,Morocco - Oued Sous,,30,30.364333,-9.601107,5,4,2011
+2836740405,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.028834,-12.239594,20,2,2017
+2841483696,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,5,28.029221,-12.238781,19,2,2015
+2837550002,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,3,28.030445,-12.236028,16,3,2019
+3715595286,Limosa lapponica,MA,Morocco - Agadir,,7,30.361433,-9.583246,9,11,2018
+3732810638,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,10,28.029804,-12.27362,0,9,2021
+3005141835,Limosa lapponica,MA,,Oriental,1,35.118473,-2.340647,6,5,2016
+3730859305,Limosa lapponica,MA,Morocco - Agadir,,1,30.363386,-9.5907,10,10,2021
+3717854809,Limosa lapponica,MA,Morocco - Agadir,,6,30.362136,-9.592923,11,8,2020
+2832341496,Limosa lapponica,MA,Morocco - Agadir,,1,30.365321,-9.597795,12,4,2013
+3717445470,Limosa lapponica,MA,Morocco - Agadir,,4,30.362877,-9.589662,7,7,2020
+1203537386,Limosa lapponica,MA,Draa Valley,Sous-Massa-Draa,1,30.668093,-6.381769,919,10,2010
+2790530754,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2017
+2100014404,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+2740447045,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,3,2007
+2772381035,Limosa lapponica,MA,"80000, Agadir MA-Souss-Massa-Drâa (30.3627,-9.5757)",Sous-Massa-Draa,14,30.362673,-9.575707,8,9,2019
+3285054585,Limosa lapponica,MA,Jetée De Mehdia,Gharb-Chrarda-Beni Hssen,1,34.26241,-6.684754,7,4,2003
+2108769387,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,6,35.195835,-6.111832,7,2,2002
+2660462501,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,5,28.001081,-12.342865,7,3,2007
+2694840376,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,7,30.070282,-9.662819,21,10,2013
+2801107238,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2019
+3585763829,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,4,32.997078,-8.73114,7,12,2018
+1355674630,Limosa lapponica,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2133198447,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2018
+2712420983,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,16,30.070282,-9.662819,21,11,2013
+3200473155,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2004
+3690698280,Limosa lapponica,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,8,35.203236,-6.133841,7,12,2021
+1407518910,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,9,2014
+2791943067,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,120,28.001081,-12.342865,7,11,2004
+2161768398,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2094995127,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,9,2017
+2731570364,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2019
+2762757385,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,5,28.001081,-12.342865,7,3,2007
+2737474423,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,5,28.001081,-12.342865,7,3,2007
+2095778104,Limosa lapponica,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,2,33.886974,-7.015988,9,9,2017
+2668966313,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2019
+2092463132,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,150,34.855213,-6.270397,8,9,2017
+3192534051,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,10,2020
+3562077259,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,2,33.88976,-7.013904,12,12,2021
+2727922820,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,9,34.855213,-6.270397,8,1,2019
+2223935801,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,4,32.997078,-8.73114,7,12,2018
+3260582256,Limosa lapponica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,4,33.54445,-7.761624,14,9,2020
+2202616652,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2016
+3188653054,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,1,2000
+3198994740,Limosa lapponica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2020
+2134123099,Limosa lapponica,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+2697746972,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,9,30.070282,-9.662819,21,10,2013
+2102497992,Limosa lapponica,MA,X - Duplicate Oued Souss,Sous-Massa-Draa,2,30.36278,-9.581943,8,2,2017
+2209982028,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,4,32.997078,-8.73114,7,12,2018
+1773095027,Limosa lapponica,MA,"Unbekannter Ort - 30,351x-9,569 - 09.11.2016 11:51",Sous-Massa-Draa,15,30.350832,-9.568792,16,11,2016
+2165392578,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2217947778,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,10,32.736244,-9.039345,4,4,2011
+3213326169,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,11,2020
+2142159193,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2018
+2083560205,Limosa lapponica,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,5,35.195835,-6.111832,7,9,2017
+3255453754,Limosa lapponica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,10,2009
+2083327201,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,7,2017
+966179368,Limosa lapponica,MA,Sous-Massa National Park,Sous-Massa-Draa,1,30.168875,-9.656982,0,9,2013
+3670944958,Limosa lapponica,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,11,34.85138,-6.235814,7,10,2016
+2800831079,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,25,32.997078,-8.73114,7,10,2019
+2796851962,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,9,2019
+2196970898,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,3,2011
+1785063116,Limosa lapponica,MA,Sidi Moussa,Doukkala-Abda,4,32.989086,-8.733644,8,4,2015
+2742776643,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,9,34.855213,-6.270397,8,1,2019
+3199708711,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+1784988004,Limosa lapponica,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,7,2014
+3570134415,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2777224771,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,10,34.855213,-6.270397,8,11,2019
+2747038537,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2726537397,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,3,2016
+2775365307,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,9,2013
+2217988537,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,10,32.736244,-9.039345,4,4,2011
+2155751721,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+2694658520,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2010
+2709559094,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,10,32.781796,-8.973387,7,10,2019
+3273313508,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2003
+2782314566,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,2,2017
+2725606303,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2019
+2099258947,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+2104469147,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2017
+1791458300,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,4,2005
+2192093015,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,1,33.88976,-7.013904,12,10,2018
+1401725000,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2015
+2217566675,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,100,28.001081,-12.342865,7,3,2018
+1722068142,Limosa lapponica,MA,"Merja Zerga (from Moulay Bousselham to S. end of Merja, including road along W. side)",Gharb-Chrarda-Beni Hssen,5,34.8437,-6.2959,9,2,2016
+2754996738,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2049225972,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2017
+3653360660,Limosa lapponica,MA,Daya de Khemis Zemamra,Doukkala-Abda,1,32.629055,-8.780619,125,10,2013
+3214860039,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,12,2020
+2218963081,Limosa lapponica,MA,"Tanger, MA (35,87, -5,52)",Tanger-Tétouan,9,35.87022,-5.520405,54,11,2018
+2217971576,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2011
+2095087446,Limosa lapponica,MA,Ouled Mhamed,Doukkala-Abda,1,32.631138,-8.782539,125,9,2017
+2697377885,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,30,34.855213,-6.270397,8,9,2019
+3662654786,Limosa lapponica,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,10,2021
+3214112765,Limosa lapponica,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,6,33.556343,-7.739297,11,12,2020
+3177910944,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,7,2020
+2699474193,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,9,2019
+2130609694,Limosa lapponica,MA,"34,8479,-6,2958",Gharb-Chrarda-Beni Hssen,1,34.84787,-6.295759,8,4,2018
+2753386484,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,2,33.88976,-7.013904,12,9,2019
+2672231469,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2712079501,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,5,2001
+2154046369,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+1792315730,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,1,2004
+2210406045,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,10,2018
+2225717187,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,30,28.001081,-12.342865,7,4,2017
+2718799390,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,12,2015
+2711049202,Limosa lapponica,MA,"92000, Larache MA-Tanger - Tétouan (35.1793,-6.1193)",Tanger-Tétouan,1,35.17929,-6.119278,12,9,2019
+2146489675,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+3190001461,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,7,2020
+2701125354,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,9,2019
+2102484409,Limosa lapponica,EH,Laâyoune,Western Sahara,2,27.186726,-13.222977,75,2,2017
+3639080939,Limosa lapponica,EH,Morocco,Western Sahara,250,27.164206,-13.194169,20,3,2017
+1369601271,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2015
+2776572700,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2104387941,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2216807680,Limosa lapponica,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,2,33.82877,-7.11999,13,10,2018
+2146962737,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,4,2007
+588079534,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,3,2007
+2147074900,Limosa lapponica,MA,"Unnamed Road, Tanger-Tétouan-Al Hoceïma, MA (35,59, -5,261)",Tanger-Tétouan,1,35.590137,-5.260545,7,4,2018
+2691793547,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,9,34.855213,-6.270397,8,1,2019
+966414388,Limosa lapponica,MA,Sous-Massa National Park,Sous-Massa-Draa,1,30.168875,-9.656982,0,9,2013
+2224729184,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,90,28.04759,-12.226908,0,10,2018
+1787897708,Limosa lapponica,MA,Oued Sous,Sous-Massa-Draa,4,30.356562,-9.590331,13,4,2006
+3215220275,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,100,28.001081,-12.342865,7,3,2018
+3672504864,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,3,2008
+1791391781,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,30,30.36236,-9.586773,10,10,2006
+2703444893,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,20,32.781796,-8.973387,7,10,2019
+2746015875,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,40,28.04759,-12.226908,0,9,2013
+2103155975,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,10,2017
+1405100438,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2012
+2233319434,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2011
+3296154752,Limosa lapponica,MA,Oualidia area,Doukkala-Abda,1,32.779537,-8.971735,35,4,2009
+2738408135,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2044102361,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2017
+3662023079,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,10,2021
+3664605893,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2021
+2160577790,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2784877914,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,12,32.997078,-8.73114,7,9,2019
+829295974,Limosa lapponica,MA,"Oued Souss National Park, nr. Agadir",Sous-Massa-Draa,1,30.36384,-9.600017,7,9,2004
+2712744406,Limosa lapponica,MA,"34,8479,-6,2958",Gharb-Chrarda-Beni Hssen,1,34.84787,-6.295759,8,4,2018
+942103549,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,21,30.36236,-9.586773,10,6,2008
+2049563211,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2017
+2029356151,Limosa lapponica,MA,Skhirat,Rabat-Salé-Zemmour-Zaer,1,33.889633,-7.015758,7,9,2014
+2675783164,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,20,30.36236,-9.586773,10,3,2007
+3626948948,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2021
+2141598094,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2660788967,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3293680161,Limosa lapponica,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+2693320836,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,9,2013
+2095604833,Limosa lapponica,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,4,33.892357,-7.004562,12,9,2017
+2790110132,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,24,30.070282,-9.662819,21,9,2013
+2145519291,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2018
+3207139240,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,27,30.36236,-9.586773,10,4,2003
+2710129956,Limosa lapponica,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,1,33.987755,-6.797646,8,11,2019
+2763511035,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,5,32.997078,-8.73114,7,9,2019
+3172784231,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,8,2020
+2225165743,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+3694291897,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,4,32.781796,-8.973387,7,10,2021
+2698547173,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,9,2019
+2175751786,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,5,2018
+3660657121,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,10,2021
+2729566514,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,12,30.36236,-9.586773,10,2,2019
+2731364066,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,3,2007
+2703150195,Limosa lapponica,MA,Lagune de Oualidia--Lagune du Camping de Oualidia,Doukkala-Abda,1,32.729427,-9.04531,9,10,2019
+2769202725,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,10,32.781796,-8.973387,7,10,2019
+2206619253,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,10,28.001081,-12.342865,7,2,2015
+1791401800,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,100,30.36236,-9.586773,10,10,2007
+2154197025,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,4,34.855213,-6.270397,8,4,2018
+2203924379,Limosa lapponica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,6,34.013096,-6.813711,11,9,2018
+3205310677,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2002
+1205158065,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+1781553606,Limosa lapponica,MA,Desembocadura Oued Draa,Guelmim-Es Smara,1,28.68015,-11.122413,13,12,2012
+3638417238,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,9,2021
+2064528561,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2017
+966422404,Limosa lapponica,MA,Sous-Massa National Park,Sous-Massa-Draa,1,30.168875,-9.656982,0,9,2013
+2130611489,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2008
+3633564932,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2012
+3687409831,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,2,30.346031,-9.568678,8,9,2021
+2215842831,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,30,28.001081,-12.342865,7,4,2017
+2756427818,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,5,2016
+3298880456,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,2,28.04759,-12.226908,0,5,2010
+2740912866,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+3558186340,Limosa lapponica,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,50,35.203236,-6.133841,7,9,2013
+3269721398,Limosa lapponica,MA,Oued Chbika,Guelmim-Es Smara,6,28.290892,-11.531591,0,1,2010
+2671347172,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+2771044268,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,9,2013
+2751836228,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,9,2019
+2048101787,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,2,2017
+3559064350,Limosa lapponica,MA,Sidi Brahim,Doukkala-Abda,1,32.89937,-8.836402,2,4,2021
+2800583834,Limosa lapponica,MA,Oualidia tidal marshes,Doukkala-Abda,2,32.75977,-9.007502,5,4,2007
+2110057884,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,50,34.855213,-6.270397,8,9,2017
+3274448376,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2003
+2154003150,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2653610500,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,6,32.997078,-8.73114,7,1,2019
+3207969021,Limosa lapponica,MA,"Oued Souss (30.3609, -9.5828)",Sous-Massa-Draa,30,30.3609,-9.5828,9,11,2011
+2194361761,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,5,2018
+2725780170,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,45,28.04759,-12.226908,0,4,2018
+2699041019,Limosa lapponica,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,6,33.88976,-7.013904,12,9,2019
+3212996942,Limosa lapponica,MA,Punta Cires,Tanger-Tétouan,5,35.908447,-5.482022,5,9,2005
+2681915063,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2691343577,Limosa lapponica,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,3,2007
+1781527050,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,12,2012
+2787880647,Limosa lapponica,MA,Plage Mehdia,Gharb-Chrarda-Beni Hssen,1,34.25523,-6.679516,14,4,2001
+2708662725,Limosa lapponica,MA,Plage Blanche,Guelmim-Es Smara,4,28.961557,-10.60406,16,9,2019
+3509718936,Limosa lapponica,MA,Salines de Oualidia,Doukkala-Abda,6,32.781796,-8.973387,7,2,2021
+1205175615,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2010
+3271635628,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2002
+2755593548,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2019
+2665473236,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+3289591656,Limosa lapponica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,4,33.54445,-7.761624,14,9,2020
+2181965267,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,12,34.855213,-6.270397,8,6,2018
+3132725334,Limosa lapponica,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,1,32.99642,-8.731345,7,1,2020
+3633010524,Limosa lapponica,MA,"Agadir--Oued Souss, S of city",Sous-Massa-Draa,5,30.36134,-9.59017,10,12,2016
+937919739,Limosa lapponica,MA,Port d'Essaouira,Marrakech-Tensift-Al Haouz,1,31.50961,-9.773447,12,2,2013
+3216545339,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2672520615,Limosa lapponica,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2019
+3283671019,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+2661367220,Limosa lapponica,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,9,34.855213,-6.270397,8,1,2019
+2702092274,Limosa lapponica,MA,Mera zerga,Gharb-Chrarda-Beni Hssen,1,34.844456,-6.27117,11,10,2019
+1168969113,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,15,28.001081,-12.342865,7,4,2014
+1789922205,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2009
+2725157668,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2016
+2782063362,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,20,30.346031,-9.568678,8,9,2019
+3268266440,Limosa lapponica,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2020
+2749706359,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+2793998168,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,5,32.997078,-8.73114,7,10,2019
+3546976953,Limosa lapponica,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,3,30.346031,-9.568678,8,10,2021
+2677361296,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,4,2019
+2103079024,Limosa lapponica,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+2783492722,Limosa lapponica,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,14,30.64619,-9.884273,16,4,2014
+3733153367,Limosa lapponica,MA,Morocco - Agadir,,6,30.362471,-9.577196,7,9,2021
+2836065101,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,8,28.029025,-12.23859,19,1,2016
+3715606708,Limosa lapponica,MA,Morocco - Agadir,,1,30.362922,-9.586515,7,4,2018
+3068089764,Limosa lapponica,MA,,Laâyoune - Boujdour - Sakia El Hamra,1,28.034374,-12.239969,0,12,2016
+3947163633,Limosa lapponica,MA,,Souss - Massa - Draâ,1,30.04568,-9.566773,72,10,2022
+2835809424,Limosa lapponica,MA,Morocco - Agadir,,1,30.362919,-9.586072,8,4,2013
+2838865526,Limosa lapponica,MA,Morocco - Agadir,,1,30.362919,-9.586072,8,4,2013
+2843034313,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.0287,-12.2396,19,3,2017
+2832441154,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,1,35.203962,-6.13521,7,9,2013
+3726614792,Limosa lapponica,MA,Morocco - Agadir,,30,30.362503,-9.586827,11,9,2020
+2840061956,Limosa lapponica,MA,Morocco - Saline de sidi moussa,,1,32.996566,-8.735951,5,12,2016
+3605142462,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2012
+3257694515,Limosa lapponica,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2020
+3641692448,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2004
+2722479747,Limosa lapponica,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+2980978830,Limosa lapponica,MA,,Souss - Massa - Draâ,1,30.348357,-9.575573,12,3,2006
+2204243556,Limosa lapponica,MA,"12050, Temara MA-Rabat-Salé-Zemur-Zaer (33,8891,-7,0147)",Rabat-Salé-Zemmour-Zaer,20,33.88907,-7.014654,10,9,2018
+2175665199,Limosa lapponica,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,5,2018
+3727285855,Limosa lapponica,MA,Morocco - Agadir,,20,30.364572,-9.593575,10,10,2020
+1677375253,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,1,2014
+2835735338,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,10,35.205233,-6.12402,11,11,2012
+3726017888,Limosa lapponica,MA,Morocco - Agadir,,2,30.362512,-9.577754,9,1,2020
+2836105013,Limosa lapponica,MA,Morocco - Agadir,,1,30.362919,-9.586072,8,4,2013
+2842228740,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,9,28.029063,-12.240619,13,2,2018
+3434897671,Limosa lapponica,MA,"Tarfaya S (Morocco, Laâyoune-Boujdour-Sakia el Hamra)",Maroc,1,27.8725,-12.985556,17,2,2018
+3237232081,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2014
+1580145747,Limosa lapponica,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,12,2016
+2835875508,Limosa lapponica,MA,Morocco - Agadir,,1,30.362919,-9.586072,8,4,2013
+2838533572,Limosa lapponica,MA,Morocco - Oued Sous,,25,30.367321,-9.600034,11,11,2011
+2835552335,Limosa lapponica,MA,Morocco - Agadir,,6,30.363026,-9.597931,6,6,2012
+1790195705,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,1,2004
+3827337325,Limosa lapponica,MA,Morocco - Agadir,,10,30.365078,-9.59762,12,5,2022
+3726048674,Limosa lapponica,MA,Morocco - Agadir,,6,30.364062,-9.586587,7,6,2020
+3732402373,Limosa lapponica,MA,Morocco - Arekmane,,1,35.120693,-2.752688,4,10,2021
+2836588031,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.028808,-12.239953,16,1,2017
+3716264854,Limosa lapponica,MA,Morocco - Agadir,,3,30.36305,-9.58895,9,1,2020
+2836124242,Limosa lapponica,MA,Morocco - Agadir,,2,30.361063,-9.590535,14,12,2013
+2832202419,Limosa lapponica,MA,Morocco,,1,30.361693,-9.59115,13,11,2009
+2842763522,Limosa lapponica,MA,Morocco - Agadir,,30,30.362877,-9.596786,8,12,2010
+2832466329,Limosa lapponica,MA,Morocco - Agadir,,1,30.357355,-9.57469,12,1,2014
+2837977975,Limosa lapponica,MA,Morocco - Oued Sous,,14,30.361702,-9.584666,5,4,2011
+2838802458,Limosa lapponica,MA,Morocco - Agadir,,2,30.365874,-9.596061,11,4,2013
+2835699333,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,2,35.205336,-6.134834,9,9,2011
+2838790569,Limosa lapponica,MA,Morocco - Agadir,,1,30.365321,-9.597795,12,4,2013
+2840597946,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.363691,-9.603395,7,4,2009
+2838307891,Limosa lapponica,MA,Morocco - Oued Sous,,2,30.365655,-9.597673,11,1,2011
+2841131645,Limosa lapponica,MA,Morocco - Oued Sous,,10,30.383316,-9.599347,12,12,2011
+2839228953,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,20,28.029789,-12.239669,5,3,2018
+2833112489,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.361692,-9.602279,7,12,2010
+2838187026,Limosa lapponica,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,30,35.184863,-6.136606,12,10,2010
+3722813894,Limosa lapponica,MA,Morocco - Arekmane,,10,35.142813,-2.783438,5,9,2021
+3715667980,Limosa lapponica,MA,Morocco - Agadir,,5,30.359193,-9.576981,15,8,2018
+3725272850,Limosa lapponica,MA,Morocco - Agadir,,1,30.363927,-9.594063,12,6,2018
+3722496286,Limosa lapponica,MA,Morocco - Agadir,,1,30.362963,-9.586951,10,9,2021
+2836941130,Limosa lapponica,MA,Morocco - Agadir,,27,30.363898,-9.596099,10,4,2011
+2845326878,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.028158,-12.242272,15,9,2019
+3825802228,Limosa lapponica,MA,Morocco - Agadir,,10,30.36533,-9.59795,12,5,2022
+2840115805,Limosa lapponica,MA,Morocco - Sidi Ouassay,,1,30.047848,-9.64988,10,10,2016
+2841012083,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,6,28.009922,-12.278137,7,11,2018
+2835458340,Limosa lapponica,MA,Morocco - Agadir,,20,30.362359,-9.59424,10,10,2010
+3725159354,Limosa lapponica,MA,Morocco - Agadir,,1,30.367319,-9.600561,8,3,2018
+3715795506,Limosa lapponica,MA,Morocco - Agadir,,1,30.362922,-9.586515,7,4,2018
+3733031045,Limosa lapponica,MA,Morocco - Arekmane,,1,35.149975,-2.78753,5,10,2021
+2833374735,Limosa lapponica,MA,Morocco - Agadir,,1,30.363041,-9.598718,6,4,2011
+2839591468,Limosa lapponica,MA,Morocco - Oued Sous,,25,30.363767,-9.60072,5,11,2011
+3997461196,Limosa lapponica,MA,Morocco - Agadir,,1,30.362293,-9.576523,8,10,2022
+2835757494,Limosa lapponica,MA,Morocco - Agadir,,1,30.362919,-9.586072,8,4,2013
+2839585052,Limosa lapponica,MA,Morocco - Agadir,,25,30.361174,-9.592967,12,7,2013
+2839149013,Limosa lapponica,MA,Morocco - Agadir,,1,30.365321,-9.597795,12,4,2013
+2840745187,Limosa lapponica,MA,Morocco - Oued Sous,,10,30.377913,-9.603451,10,9,2012
+3728582993,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.032677,-12.272035,2,3,2021
+3727672507,Limosa lapponica,MA,Morocco - Agadir,,4,30.363025,-9.586743,9,2,2021
+3732951135,Limosa lapponica,MA,Morocco - Agadir,,15,30.362936,-9.587733,11,9,2021
+3716119819,Limosa lapponica,MA,Morocco - Agadir,,3,30.361164,-9.575996,10,1,2020
+2835859056,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,100,35.206075,-6.133118,8,9,2013
+2840093281,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,21,28.028912,-12.23989,15,2,2017
+3732770313,Limosa lapponica,MA,Morocco - Arekmane,,2,35.112648,-2.74435,0,10,2021
+2833118425,Limosa lapponica,MA,Morocco - Agadir,,1,30.36547,-9.598274,8,4,2013
+2840980087,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,25,35.203831,-6.135178,7,10,2013
+3719797058,Limosa lapponica,MA,Morocco - Agadir,,3,30.363337,-9.59264,11,4,2021
+3726698772,Limosa lapponica,MA,Morocco - Agadir,,40,30.363246,-9.592722,11,10,2020
+2840473288,Limosa lapponica,MA,Morocco - Agadir,,50,30.362508,-9.598274,4,11,2012
+2835803244,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,1,35.204883,-6.135349,7,9,2013
+1720006630,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2016
+2841540606,Limosa lapponica,MA,Morocco - Agadir,,1,30.36547,-9.598274,8,4,2013
+2841538121,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,6,28.028742,-12.24028,16,2,2019
+3822226364,Limosa lapponica,MA,Morocco - Souss-Massa NP,,1,30.076606,-9.670214,10,3,2014
+3717914388,Limosa lapponica,MA,Morocco - Agadir,,2,30.363247,-9.59361,12,8,2020
+2844114960,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,40,28.028721,-12.240424,17,3,2019
+3823800198,Limosa lapponica,MA,Morocco - Agadir,,10,30.361757,-9.578205,10,4,2022
+3731909863,Limosa lapponica,MA,Morocco - Agadir,,30,30.360228,-9.576107,13,10,2021
+3727814831,Limosa lapponica,MA,Morocco - Agadir,,3,30.362285,-9.587702,11,7,2020
+2839444784,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,30,35.205865,-6.132903,7,12,2013
+3724835900,Limosa lapponica,MA,Morocco - Agadir,,1,30.362861,-9.585835,8,6,2018
+2833390673,Limosa lapponica,MA,Morocco - Souss-Massa NP,,1,30.072801,-9.666202,17,12,2018
+3997229371,Limosa lapponica,MA,Morocco - Mohammedia,,1,33.704613,-7.40269,10,5,2022
+3947084678,Limosa lapponica,MA,,Souss - Massa - Draâ,1,30.051286,-9.564383,69,10,2022
+2724708566,Limosa lapponica,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,50,30.627277,-9.886665,9,5,2001
+2838397867,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,3,35.204792,-6.138038,8,5,2012
+2840029118,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,100,28.02,-12.24,16,12,2016
+2843309346,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,10,28.028902,-12.240067,13,3,2020
+3732224143,Limosa lapponica,MA,Morocco - Agadir,,10,30.3633,-9.590237,13,9,2021
+2843437246,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,2,28.030377,-12.236533,13,1,2014
+3997542202,Limosa lapponica,MA,Morocco - Agadir,,1,30.362893,-9.584554,9,10,2022
+2838434892,Limosa lapponica,MA,Morocco - Agadir,,10,30.362502,-9.575952,8,4,2012
+3729038361,Limosa lapponica,MA,Morocco - Agadir,,8,30.363979,-9.589455,10,12,2020
+2840358606,Limosa lapponica,MA,Morocco - Agadir,,10,30.368247,-9.598345,8,4,2013
+2842555252,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,25,28.030963,-12.244606,2,1,2020
+3723038148,Limosa lapponica,MA,Morocco - Agadir,,1,30.362864,-9.586434,7,8,2021
+2839948079,Limosa lapponica,MA,Morocco - Oued Sous,,30,30.364333,-9.601107,5,4,2011
+3731547808,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,10,28.028425,-12.239828,16,2,2015
+3723692494,Limosa lapponica,MA,Morocco - Agadir,,7,30.363947,-9.594184,12,11,2021
+2832451164,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,10,35.201586,-6.132774,10,9,2013
+2835476875,Limosa lapponica,MA,Morocco - Souss - Massa - Draâ,,1,30.365596,-9.601622,6,12,2010
+2837561070,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,1,35.202498,-6.136723,14,9,2013
+2834760795,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.362388,-9.602809,6,4,2012
+3725283693,Limosa lapponica,MA,Morocco - Agadir,,1,30.363086,-9.585979,8,3,2019
+2836716939,Limosa lapponica,MA,Morocco - Agadir,,1,30.366729,-9.59939,9,2,2011
+3715724110,Limosa lapponica,MA,Morocco - Agadir,,3,30.360776,-9.589333,11,10,2018
+2835615244,Limosa lapponica,MA,Morocco - Agadir,,2,30.357346,-9.574667,12,1,2014
+2838645123,Limosa lapponica,MA,Morocco - Laouamra,,20,35.156477,-6.104279,3,9,2012
+3716234897,Limosa lapponica,MA,Morocco - Agadir,,1,30.362499,-9.577584,9,1,2020
+2832399459,Limosa lapponica,MA,Morocco - Agadir,,1,30.365321,-9.597795,12,4,2013
+2835950123,Limosa lapponica,MA,Morocco - Agadir,,1,30.360951,-9.584941,8,12,2013
+3822793072,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,9,28.029063,-12.240619,13,2,2018
+2837776970,Limosa lapponica,MA,Morocco - Oued Sous,,20,30.365322,-9.603596,5,9,2010
+3729642514,Limosa lapponica,MA,Morocco - Agadir,,8,30.362877,-9.591035,13,1,2021
+2834343627,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,4,35.210703,-6.133246,0,3,2012
+4058071386,Limosa lapponica,MA,Morocco - Agadir,,1,30.363373,-9.59001,11,1,2023
+3729394025,Limosa lapponica,MA,Morocco - Agadir,,1,30.363099,-9.586743,9,1,2021
+3727969012,Limosa lapponica,MA,Morocco - Agadir,,9,30.365757,-9.596322,11,3,2021
+3731773212,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,50,28.035622,-12.240143,0,8,2021
+3826946399,Limosa lapponica,MA,Morocco - Agadir,,1,30.36041,-9.577102,12,4,2022
+2839084501,Limosa lapponica,MA,Morocco - Oued Sous,,6,30.365174,-9.603424,5,1,2013
+3728633879,Limosa lapponica,MA,Morocco - Agadir,,30,30.363913,-9.593438,9,10,2020
+3728075422,Limosa lapponica,MA,Morocco - Agadir,,3,30.36421,-9.592423,13,2,2021
+3732216820,Limosa lapponica,MA,Morocco - Nador - La sebkha Bou Areg (lagune de Nador),,6,35.157881,-2.90542,6,9,2021
+3678934456,Limosa lapponica,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,2,2021
+3296246202,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2018
+2233488173,Limosa lapponica,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,4,32.736244,-9.039345,4,4,2011
+2044406402,Limosa lapponica,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,25,28.001081,-12.342865,7,3,2017
+3947241643,Limosa lapponica,MA,,Souss - Massa - Draâ,1,30.048837,-9.565206,67,10,2022
+2174115694,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,25,30.36236,-9.586773,10,5,2018
+3298047360,Limosa lapponica,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,300,28.04759,-12.226908,0,11,2011
+1410653384,Limosa lapponica,MA,Khnifiss Lac De Naila,Laâyoune-Boujdour-Sakia el Hamra,300,27.993946,-12.272158,12,3,2011
+3651760727,Limosa lapponica,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,4,33.555717,-7.739337,8,12,2021
+3296160718,Limosa lapponica,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2839196296,Limosa lapponica,MA,Morocco - Souss-Massa NP,,1,30.077163,-9.671201,11,3,2014
+2840191258,Limosa lapponica,MA,Morocco - Agadir,,4,30.362851,-9.588429,8,1,2013
+2838606489,Limosa lapponica,MA,Morocco - Larache - salines de Lixus,,5,35.204006,-6.136723,7,4,2013
+3822264388,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,100,28.033473,-12.238283,0,3,2014
+2836101198,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.0288,-12.2395,21,2,2017
+2839540568,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,10,28.028425,-12.239828,16,2,2015
+2840526331,Limosa lapponica,MA,Morocco - Agadir,,10,30.36421,-9.595498,13,12,2011
+2832631714,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,5,28.029221,-12.238781,19,2,2015
+2832530306,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,2,28.030377,-12.236533,13,1,2014
+3715704017,Limosa lapponica,MA,Morocco - Agadir,,7,30.362322,-9.585428,7,9,2018
+2839745193,Limosa lapponica,MA,Morocco - Lagune de Khnifiss,,1,28.028808,-12.239953,16,1,2017
+2841105793,Limosa lapponica,MA,Morocco - Agadir,,10,30.362502,-9.575952,8,4,2012
+3719342041,Limosa lapponica,MA,Morocco - Agadir,,2,30.364572,-9.590142,8,1,2021
+2839214581,Limosa lapponica,MA,Morocco - Agadir,,10,30.362502,-9.575952,8,4,2012
+2832298466,Limosa lapponica,MA,Morocco - Oued Sous,,20,30.364951,-9.60072,7,11,2011
+2840505016,Limosa lapponica,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,10,35.159377,-6.106081,3,3,2011
+2837424333,Limosa lapponica,MA,Morocco - Sidi Ouassay,,1,30.068207,-9.663362,10,11,2018
+2832240065,Limosa lapponica,MA,Morocco - Oued Sous,,1,30.361702,-9.584666,5,4,2011

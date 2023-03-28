@@ -1,0 +1,444 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1617960669,Saxicola rubetra,ES,Parque maritimo del mediterraneo,Ceuta,1,35.88333,-5.31667,0,10,2000
+2665540017,Saxicola rubetra,MA,"N10, Drâa-Tafilalet, MA (31,108, -6,383)",Sous-Massa-Draa,1,31.107916,-6.382625,1304,4,2019
+1615181787,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2015
+1620291411,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2018
+1618051065,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+2776369734,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+3271424448,Saxicola rubetra,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,10,2007
+1615175072,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2013
+1618051013,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+3723395936,Saxicola rubetra,MA,Morocco - Ben Ahmed,,1,33.070762,-7.233588,630,10,2021
+2732407643,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+3183345737,Saxicola rubetra,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2003
+2137634943,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+2137929602,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2017
+3670126166,Saxicola rubetra,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2021
+966324281,Saxicola rubetra,MA,Rabat (general area),Rabat-Salé-Zemmour-Zaer,1,34.014935,-6.832794,42,9,2013
+3557432568,Saxicola rubetra,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+3294416406,Saxicola rubetra,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,4,33.071087,-7.258047,552,9,2007
+1395442399,Saxicola rubetra,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,9,2015
+3290486615,Saxicola rubetra,MA,Tissa,Taza-Al Hoceima-Taounate,1,34.319237,-4.692091,213,10,2003
+3280923941,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2019
+1164457941,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+2201721917,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2018
+1167619219,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2683850866,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2019
+1402841119,Saxicola rubetra,MA,Tisserdmine (Erg Chebbi),Meknès-Tafilalet,10,31.316568,-4.0134,776,5,2015
+3586149796,Saxicola rubetra,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,9,2013
+2691951725,Saxicola rubetra,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354237,-5.960534,1546,4,2017
+1168964701,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2136545306,Saxicola rubetra,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9664,-6.23517,15,5,2013
+3665264753,Saxicola rubetra,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,1,32.99642,-8.731345,7,10,2021
+2685467218,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2194239595,Saxicola rubetra,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2018
+3693034537,Saxicola rubetra,ES,Puerto--explanada muelle de poniente,Ceuta,1,35.897465,-5.328242,0,10,2021
+2103505797,Saxicola rubetra,MA,"Rue Imam Malek, Gueliz MA-Marrakech-Tensift-Al Haouz",Marrakech-Tensift-Al Haouz,1,31.632507,-8.009971,461,11,2017
+2150365507,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+2669477501,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+3678821522,Saxicola rubetra,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,10,2021
+3262877837,Saxicola rubetra,MA,Ziz River,Meknès-Tafilalet,1,31.666826,-4.191356,875,10,2003
+3671063177,Saxicola rubetra,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,2,33.071087,-7.258047,552,9,2021
+1789063423,Saxicola rubetra,MA,Kasbah Perle du Dades,Sous-Massa-Draa,2,31.322363,-6.006032,1499,10,2013
+2049069880,Saxicola rubetra,MA,Décharge de Boumalne,Sous-Massa-Draa,1,31.354237,-5.960534,1546,4,2017
+2165395138,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+3516385301,Saxicola rubetra,ES,Quinto pino,Melilla,1,35.274563,-2.954215,34,4,2021
+2159170757,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2208163473,Saxicola rubetra,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,10,2018
+965783994,Saxicola rubetra,MA,Rabat (general area),Rabat-Salé-Zemmour-Zaer,1,34.014935,-6.832794,42,9,2013
+3213078278,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2012
+3204754493,Saxicola rubetra,MA,Tamri river,Sous-Massa-Draa,3,30.71225,-9.801681,29,10,2003
+2665990121,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2019
+2217465311,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2015
+3215640142,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,9,2019
+2717885199,Saxicola rubetra,MA,Oued Draa--Tansikht,Sous-Massa-Draa,1,30.686808,-6.192155,854,4,2000
+3202539752,Saxicola rubetra,MA,Ziz River,Meknès-Tafilalet,1,31.666826,-4.191356,875,10,2003
+2693859170,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2088146450,Saxicola rubetra,MA,"P7200, Meknès-Tafilalet, MA (33,654, -5,044)",Meknès-Tafilalet,2,33.653877,-5.044236,1474,9,2017
+2790283415,Saxicola rubetra,MA,"P1018, Chtouka Ait Baha MA-Souss-Massa-Drâa (30.0412,-9.6433)",Sous-Massa-Draa,1,30.041162,-9.643323,15,9,2019
+946222176,Saxicola rubetra,MA,31.2900x-4.0921 - 7 apr. 2013 21:48,Meknès-Tafilalet,1,31.29003,-4.092097,748,4,2013
+3207514517,Saxicola rubetra,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,5,31.143082,-3.998165,740,4,2006
+1405046961,Saxicola rubetra,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2012
+2138497452,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+2071268950,Saxicola rubetra,MA,Barrage al-Hassan Addakhil,Meknès-Tafilalet,2,32.010513,-4.458389,1097,5,2017
+2161076102,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+965934623,Saxicola rubetra,MA,Rabat (general area),Rabat-Salé-Zemmour-Zaer,1,34.014935,-6.832794,42,9,2013
+1789067692,Saxicola rubetra,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,10,2013
+2052974100,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2017
+3384142325,Saxicola rubetra,MA,,Chaouia - Ouardigha,1,33.068746,-7.22769,621,9,2021
+3288654530,Saxicola rubetra,MA,Wadi & cultivated area at KM 195,Sous-Massa-Draa,1,30.456512,-7.629846,1788,4,2012
+3176557970,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2005
+3208986630,Saxicola rubetra,MA,Observatorio El Lobo,Tanger-Tétouan,1,35.83164,-5.704121,8,8,2010
+3222126717,Saxicola rubetra,MA,Sidi Ouarzeg,Sous-Massa-Draa,2,29.279099,-10.255183,10,10,2003
+2800525898,Saxicola rubetra,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2015
+2182903621,Saxicola rubetra,MA,N10 desert wash w. of Goulmima,Meknès-Tafilalet,1,31.631817,-4.978448,1006,5,2018
+2666438001,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2154001290,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+1791410122,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2007
+2095153617,Saxicola rubetra,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,9,2017
+3649981012,Saxicola rubetra,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,9,2021
+2714877555,Saxicola rubetra,MA,Goulmima,Meknès-Tafilalet,1,31.711813,-4.954834,1128,4,2001
+2717869105,Saxicola rubetra,MA,Embouchure de l'oued Draa,Guelmim-Es Smara,1,28.677202,-11.117936,17,4,2012
+2696038948,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,4,2014
+2761231584,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2672931975,Saxicola rubetra,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,4,2019
+2170200224,Saxicola rubetra,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,1,31.432106,-4.227419,794,5,2018
+1407503182,Saxicola rubetra,MA,Merja Ouled Sgher,Tanger-Tétouan,1,35.049885,-6.207318,19,9,2014
+2794833065,Saxicola rubetra,MA,Campagnes Tahannaout-Lalla Takerkoust,Marrakech-Tensift-Al Haouz,1,31.360847,-8.03769,861,4,2018
+2160702407,Saxicola rubetra,MA,N10 desert wash w. of Goulmima,Meknès-Tafilalet,1,31.631817,-4.978448,1006,5,2018
+3823406726,Saxicola rubetra,MA,Morocco - Bouguargouh,,1,33.103934,-7.338924,438,5,2022
+2832415621,Saxicola rubetra,MA,Morocco - Gorges du Dades,,1,31.393875,-5.992407,1551,4,2013
+1206635849,Saxicola rubetra,MA,Ouarzazate Lake,Sous-Massa-Draa,1,30.958475,-6.755755,1102,12,2014
+2160769268,Saxicola rubetra,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,1,31.432106,-4.227419,794,5,2018
+3005132832,Saxicola rubetra,MA,,Oriental,1,35.098023,-2.365113,7,4,2016
+2840091877,Saxicola rubetra,MA,Morocco - Boumalne Dades,,1,31.349993,-5.95824,1544,4,2017
+1615705069,Saxicola rubetra,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,4,2019
+3554513655,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2021
+2839640744,Saxicola rubetra,MA,Morocco - Taghjijt,,1,29.0634,-9.4244,561,4,2016
+2100017557,Saxicola rubetra,MA,"N13, Meknes-Tafilalet, MA (31,296, -4,2)",Meknès-Tafilalet,1,31.296051,-4.200306,741,10,2017
+3384056310,Saxicola rubetra,MA,,Chaouia - Ouardigha,1,33.070544,-7.250087,614,9,2021
+2835687995,Saxicola rubetra,MA,Morocco - Souk Lakhmis Dades,,2,31.357668,-5.990624,1577,5,2015
+2839084653,Saxicola rubetra,MA,Morocco - Tagounite,,2,29.84922,-5.487671,587,4,2013
+1620255692,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2019
+2706812160,Saxicola rubetra,MA,Marais d'el-Hotba,Doukkala-Abda,3,32.916702,-8.815498,0,10,2019
+2213184776,Saxicola rubetra,MA,oued a cote de Aguerd,Marrakech-Tensift-Al Haouz,1,31.429901,-9.634517,95,10,2018
+1402861102,Saxicola rubetra,MA,Erfoud,Meknès-Tafilalet,2,31.429995,-4.246066,799,5,2015
+2158387720,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+2187771817,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2018
+2200277399,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,2,31.08315,-3.999495,697,10,2010
+2714027445,Saxicola rubetra,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,4,35.195835,-6.111832,7,9,2019
+3288177825,Saxicola rubetra,MA,Tazenakht Desert Area,Sous-Massa-Draa,2,30.56418,-7.226151,1428,4,2006
+2213345687,Saxicola rubetra,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2018
+2770900317,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+2150830714,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2017
+2715827010,Saxicola rubetra,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,9,2015
+3576968895,Saxicola rubetra,MA,Daya de Khemis Zemamra,Doukkala-Abda,2,32.629055,-8.780619,125,9,2021
+1749626889,Saxicola rubetra,MA,Erfoud (general area),Meknès-Tafilalet,1,31.43215,-4.233341,804,11,2001
+3299529737,Saxicola rubetra,MA,MA-Tagueroumt (Wadi along N12),Meknès-Tafilalet,1,31.263145,-4.459217,780,4,2019
+967512948,Saxicola rubetra,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+1167614943,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2139941950,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+3227217702,Saxicola rubetra,MA,Tamri river,Sous-Massa-Draa,3,30.71225,-9.801681,29,10,2003
+2730412243,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2710760640,Saxicola rubetra,MA,Marais du Oued Hachef,Tanger-Tétouan,1,35.559982,-5.977306,12,9,2019
+2228355446,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,2,28.001081,-12.342865,7,4,2017
+837848465,Saxicola rubetra,MA,Oasis Mharech,Meknès-Tafilalet,1,30.755999,-4.562531,639,3,2011
+2198583061,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+2683134925,Saxicola rubetra,MA,"P1505, Ouarzazate MA-Souss-Massa-Drâa (31.0247,-7.2237)",Sous-Massa-Draa,2,31.024738,-7.223729,1347,4,2019
+595706497,Saxicola rubetra,MA,Agadir to Essaouira,Marrakech-Tensift-Al Haouz,1,31.11174,-9.825897,194,6,2005
+2688121899,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,4,31.28981,-4.091935,747,4,2003
+3689020730,Saxicola rubetra,MA,"Oued Moulouya à Teggour MA (33.172, -3.861)",Fès-Boulemane,1,33.171875,-3.860774,823,4,2014
+2096247609,Saxicola rubetra,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,9,2017
+2124845453,Saxicola rubetra,MA,"Douar Derkaoua, SE of Erfoud",Meknès-Tafilalet,1,31.30766,-4.022371,782,4,2017
+2794079031,Saxicola rubetra,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,12,2017
+1781092073,Saxicola rubetra,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2016
+2152517129,Saxicola rubetra,MA,Jawharat Hotel walk,Doukkala-Abda,1,33.2426,-8.478978,12,4,2018
+2151717787,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,3,2018
+2683297314,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2756691295,Saxicola rubetra,MA,"(31.2628,-4.4541)",Meknès-Tafilalet,1,31.262793,-4.45411,785,4,2019
+1202115153,Saxicola rubetra,MA,Jorf,Meknès-Tafilalet,1,31.479916,-4.386806,811,4,2005
+1762619822,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+1402861143,Saxicola rubetra,MA,Aoufous,Meknès-Tafilalet,1,31.689787,-4.18798,876,5,2015
+3652476819,Saxicola rubetra,MA,Amrika,Tanger-Tétouan,1,35.072998,-4.13337,578,4,2021
+2781182122,Saxicola rubetra,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,10,2016
+2797072066,Saxicola rubetra,ES,Arroyo del Infierno,Ceuta,1,35.892666,-5.344787,31,4,2015
+2673719283,Saxicola rubetra,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,4,2019
+3200431175,Saxicola rubetra,MA,Observatorio de La Venta,Tanger-Tétouan,1,35.87485,-5.457671,205,4,2007
+3652937339,Saxicola rubetra,MA,Zaida,Meknès-Tafilalet,1,32.817207,-4.960807,1457,3,2013
+3196573923,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2019
+2719289303,Saxicola rubetra,MA,Campagnes Tahannaout-Lalla Takerkoust,Marrakech-Tensift-Al Haouz,1,31.360847,-8.03769,861,4,2018
+2752405418,Saxicola rubetra,MA,"(31.2628,-4.4541)",Meknès-Tafilalet,1,31.262793,-4.45411,785,4,2019
+1402845244,Saxicola rubetra,MA,SE Oukaiimeden,Marrakech-Tensift-Al Haouz,1,31.187412,-7.845633,2712,5,2015
+2169332941,Saxicola rubetra,MA,N10 desert wash w. of Goulmima,Meknès-Tafilalet,1,31.631817,-4.978448,1006,5,2018
+3648112280,Saxicola rubetra,MA,Daya de Khemis Zemamra,Doukkala-Abda,1,32.629055,-8.780619,125,10,2013
+3552389413,Saxicola rubetra,MA,Gorges du Ziz,Meknès-Tafilalet,1,32.175045,-4.366765,1223,4,2018
+1167624784,Saxicola rubetra,MA,MA-Tissint- Oued,Guelmim-Es Smara,1,29.90368,-7.314217,544,4,2014
+2723954508,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,3,2019
+1789899791,Saxicola rubetra,MA,R707 / R503,Fès-Boulemane,1,33.45837,-4.858231,1555,4,2005
+3630170966,Saxicola rubetra,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,9,2021
+3278622177,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,3,2013
+2091169284,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,9,2017
+2126835110,Saxicola rubetra,MA,"Morocco, Ait Zineb",Sous-Massa-Draa,1,30.988962,-7.13582,1227,4,2017
+2718004399,Saxicola rubetra,MA,Oued Draa - Draa Valley | Passage,Guelmim-Es Smara,2,28.554478,-11.050788,11,4,2012
+3564247378,Saxicola rubetra,ES,Puerto--explanada muelle de poniente,Ceuta,1,35.897465,-5.328242,0,4,2021
+2158389275,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2198431438,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2014
+2151495910,Saxicola rubetra,MA,Merja Ouled Sgher,Tanger-Tétouan,1,35.049885,-6.207318,19,4,2018
+2083002401,Saxicola rubetra,MA,Ouled Mhamed,Doukkala-Abda,1,32.631138,-8.782539,125,9,2017
+2198585768,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2096086125,Saxicola rubetra,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,9,2017
+2695527848,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+2692954841,Saxicola rubetra,MA,Station d'épuration des eaux de Rissani,Meknès-Tafilalet,2,31.26397,-4.271297,755,4,2014
+1763219612,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2016
+2731706785,Saxicola rubetra,MA,"(31.2628,-4.4541)",Meknès-Tafilalet,1,31.262793,-4.45411,785,4,2019
+2130609894,Saxicola rubetra,MA,"34,8479,-6,2958",Gharb-Chrarda-Beni Hssen,1,34.84787,-6.295759,8,4,2018
+2781878371,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2680648536,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2758560391,Saxicola rubetra,MA,"Aoufous, río",Meknès-Tafilalet,1,31.669416,-4.192797,869,4,2019
+1750225788,Saxicola rubetra,MA,Ouarzazate (general area),Sous-Massa-Draa,1,30.918377,-6.917866,1132,11,2001
+3284082530,Saxicola rubetra,MA,Agadir - area north of the city,Sous-Massa-Draa,1,30.493553,-9.675522,21,9,2014
+2168332954,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+1206385510,Saxicola rubetra,MA,Merzouga,Meknès-Tafilalet,2,31.098557,-4.011864,688,5,2006
+2161770874,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+3279076427,Saxicola rubetra,MA,M'Ifri n'Ighass,Meknès-Tafilalet,1,31.25966,-4.411461,757,4,2013
+2123694108,Saxicola rubetra,MA,Ruta Zagora - Tamegroute - Tagounite - Ouled,Sous-Massa-Draa,1,30.24664,-5.649548,674,4,2006
+1789888776,Saxicola rubetra,MA,Champs de Beni Mimoune,Meknès-Tafilalet,1,31.263906,-4.238521,746,4,2005
+3683813508,Saxicola rubetra,ES,Loma Rubio/Loma Colmenar,Ceuta,3,35.882053,-5.339087,14,4,2021
+2667756699,Saxicola rubetra,MA,"(31.1976,-4.0426)",Meknès-Tafilalet,1,31.19755,-4.042567,720,4,2019
+3283331857,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2006
+1791459569,Saxicola rubetra,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,4,2005
+1793111615,Saxicola rubetra,MA,Merja el Halloufa,Gharb-Chrarda-Beni Hssen,1,34.9664,-6.23517,15,5,2013
+3290097549,Saxicola rubetra,MA,Oued Alian,Tanger-Tétouan,1,35.828426,-5.640933,82,9,2007
+1789902662,Saxicola rubetra,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,10,33.65042,-5.029721,1470,4,2005
+2781369801,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,4,2003
+1165964388,Saxicola rubetra,MA,MA-Tissint- Oued,Guelmim-Es Smara,1,29.90368,-7.314217,544,4,2014
+2749870732,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+3683531256,Saxicola rubetra,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,9,2021
+3202790186,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,5,2006
+2677958166,Saxicola rubetra,MA,"P1505, Ouarzazate MA-Souss-Massa-Drâa (31.0247,-7.2237)",Sous-Massa-Draa,2,31.024738,-7.223729,1347,4,2019
+1168976299,Saxicola rubetra,MA,MA-Tissint- Oued,Guelmim-Es Smara,1,29.90368,-7.314217,544,4,2014
+3644719666,Saxicola rubetra,MA,"Unnamed Road, Souss Massa, MA (30.091, -9.625)",Sous-Massa-Draa,1,30.09149,-9.624845,118,10,2021
+2180979497,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,2,30.031328,-9.644645,8,5,2018
+2771484113,Saxicola rubetra,MA,Barrage Aoulouz,Sous-Massa-Draa,2,30.686493,-8.150697,754,4,2014
+2772905471,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2019
+1402842417,Saxicola rubetra,MA,Erfoud,Meknès-Tafilalet,2,31.429995,-4.246066,799,5,2015
+1770195460,Saxicola rubetra,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2016
+2716054905,Saxicola rubetra,MA,Erg Chebbi--Hassilabied,Meknès-Tafilalet,2,31.143082,-3.998165,740,4,2014
+2155410863,Saxicola rubetra,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,4,2018
+3131997827,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2020
+2784223219,Saxicola rubetra,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,10,2019
+2161740226,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+3687892395,Saxicola rubetra,MA,Derkaoua,Meknès-Tafilalet,1,31.290277,-4.097222,747,4,2006
+2774947089,Saxicola rubetra,MA,Iferane,Meknès-Tafilalet,1,33.594128,-5.087483,1542,8,2019
+1791361429,Saxicola rubetra,MA,"Sale, general area",Rabat-Salé-Zemmour-Zaer,1,34.10379,-6.775737,14,10,2006
+1369236231,Saxicola rubetra,MA,Tizi n'Tairhemt,Meknès-Tafilalet,2,32.62133,-4.532161,1738,5,2015
+3524841526,Saxicola rubetra,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,5,2021
+2685299532,Saxicola rubetra,MA,"P1505, Ouarzazate MA-Souss-Massa-Drâa (31.0247,-7.2237)",Sous-Massa-Draa,2,31.024738,-7.223729,1347,4,2019
+2743041074,Saxicola rubetra,MA,Vallée des Roses--domaine générale,Sous-Massa-Draa,1,31.34626,-6.168351,1518,5,2008
+2090388011,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,10,2017
+2142923802,Saxicola rubetra,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,2,28.04759,-12.226908,0,4,2018
+1764054663,Saxicola rubetra,MA,Iriri River bridge,Sous-Massa-Draa,1,30.97599,-7.100408,1200,4,2008
+2726721514,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2012
+2182726399,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+2741334160,Saxicola rubetra,MA,Vallée d'Ait Mansour,Sous-Massa-Draa,1,29.625727,-8.928364,1638,4,2001
+2729994099,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+2329883559,Saxicola rubetra,MA,Lac Yasmina an den Dünen von Merzouga,,1,31.213116,-3.988741,735,4,2000
+2721756241,Saxicola rubetra,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2018
+2833053523,Saxicola rubetra,MA,Morocco - Boumalne Dades,,1,31.366772,-5.903584,1534,4,2017
+1614402513,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2015
+1614402543,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2015
+2842224609,Saxicola rubetra,MA,Morocco - Boumalne Dades,,1,31.366772,-5.903584,1534,4,2017
+1618051089,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+1614486702,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,5,2010
+1618166306,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1618519294,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2005
+1618166339,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+2798630360,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,4,2001
+2755542598,Saxicola rubetra,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,2,31.230532,-3.97439,736,4,2019
+2690553162,Saxicola rubetra,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,4,2018
+3640617700,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2008
+3606667866,Saxicola rubetra,MA,Marais d'el-Hotba,Doukkala-Abda,2,32.916702,-8.815498,0,10,2013
+1618208080,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2002
+1618051026,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+1618050991,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,4,2000
+1618196923,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1618196858,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1615267636,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,4,2011
+1620291482,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2018
+1618117206,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,10,2001
+1618166528,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1620197188,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2016
+3384046191,Saxicola rubetra,MA,,Chaouia - Ouardigha,1,33.068478,-7.251345,587,9,2021
+3773096602,Saxicola rubetra,MA,,Chaouia - Ouardigha,1,33.101468,-7.33867,441,5,2022
+2692731841,Saxicola rubetra,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,9,2008
+3912180159,Saxicola rubetra,MA,,Chaouia - Ouardigha,1,33.070741,-7.233398,626,9,2022
+2083403671,Saxicola rubetra,MA,"P7200, Meknès-Tafilalet, MA (33,654, -5,044)",Meknès-Tafilalet,2,33.653877,-5.044236,1474,9,2017
+2182936958,Saxicola rubetra,MA,"Oued Ziz, Erfoud",Meknès-Tafilalet,1,31.432106,-4.227419,794,5,2018
+3251118776,Saxicola rubetra,MA,Tissa,Taza-Al Hoceima-Taounate,1,34.319237,-4.692091,213,10,2003
+2790447438,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2012
+3566772030,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2021
+2795927594,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,9,2019
+2676108000,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2665989451,Saxicola rubetra,MA,Erfoud East - Oued Ziz,Meknès-Tafilalet,3,31.431309,-4.227359,792,4,2019
+2150764714,Saxicola rubetra,MA,Décharge de Boumalne,Sous-Massa-Draa,2,31.354313,-5.957429,1546,4,2017
+2702590700,Saxicola rubetra,MA,Lagune de Oualidia--Lagune du Camping de Oualidia,Doukkala-Abda,2,32.729427,-9.04531,9,10,2019
+2094053165,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,9,2017
+1780747887,Saxicola rubetra,MA,Oued Aassif Ounila--Aït Benhaddou,Sous-Massa-Draa,1,31.045864,-7.131483,1272,4,2003
+3199128283,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,3,2018
+3607491415,Saxicola rubetra,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2753478182,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2013
+2092559464,Saxicola rubetra,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,9,2017
+1369209617,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2015
+1770393265,Saxicola rubetra,MA,Merzouga,Meknès-Tafilalet,1,31.086433,-4.007668,694,4,2006
+2225747428,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,2,28.001081,-12.342865,7,4,2017
+3210388192,Saxicola rubetra,MA,Oued Alian,Tanger-Tétouan,1,35.828426,-5.640933,82,9,2006
+2144494479,Saxicola rubetra,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,4,2017
+2767473512,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+1168970555,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2165349447,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+2696798950,Saxicola rubetra,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,4,2018
+1402850234,Saxicola rubetra,MA,Tisserdmine (Erg Chebbi),Meknès-Tafilalet,10,31.316568,-4.0134,776,5,2015
+3552462963,Saxicola rubetra,MA,Tamri,Sous-Massa-Draa,1,30.771185,-9.827003,48,11,2021
+1165952881,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2762715268,Saxicola rubetra,MA,Erfoud East - Oued Ziz,Meknès-Tafilalet,3,31.431309,-4.227359,792,4,2019
+2757442696,Saxicola rubetra,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2018
+2714960003,Saxicola rubetra,MA,Guelmin - Sidi Ifni Route N12,Sous-Massa-Draa,1,29.248587,-10.100557,301,3,2018
+2053426291,Saxicola rubetra,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,1,31.756083,-4.837632,1082,4,2017
+2167994048,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2673544350,Saxicola rubetra,MA,"R113, Drâa-Tafilalet, MA (31.148, -5.209)",Meknès-Tafilalet,1,31.147575,-5.209207,898,5,2019
+2143692926,Saxicola rubetra,MA,"Morocco, Taliouine",Sous-Massa-Draa,1,30.5141,-7.8807,1203,4,2017
+1168967627,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+2131808707,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2018
+2801641292,Saxicola rubetra,ES,Monte Hacho,Ceuta,1,35.89719,-5.290354,161,4,2016
+3564882208,Saxicola rubetra,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2200350654,Saxicola rubetra,MA,Toubkal trail,Marrakech-Tensift-Al Haouz,1,31.08619,-7.9178,2674,10,2010
+2152484398,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3185692098,Saxicola rubetra,MA,Gorges du Todra,Sous-Massa-Draa,1,31.586287,-5.590968,1575,4,2003
+2143788434,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+3567678362,Saxicola rubetra,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,2,30.346031,-9.568678,8,10,2021
+2053259815,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2017
+966410602,Saxicola rubetra,MA,Rabat (general area),Rabat-Salé-Zemmour-Zaer,1,34.014935,-6.832794,42,9,2013
+2709663105,Saxicola rubetra,MA,Oulad Berhil,Sous-Massa-Draa,1,30.637672,-8.465223,499,3,2018
+3652215734,Saxicola rubetra,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2102868772,Saxicola rubetra,MA,Merja Zerga--Péninsule de Douar Rouissia,Gharb-Chrarda-Beni Hssen,1,34.868355,-6.293106,14,9,2017
+2753011788,Saxicola rubetra,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2019
+1791205871,Saxicola rubetra,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,10,2016
+3680514079,Saxicola rubetra,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,9,2021
+2678935493,Saxicola rubetra,MA,Oued Boukila,Guelmim-Es Smara,1,28.919855,-10.154157,214,10,2011
+2720162575,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,6,31.28981,-4.091935,747,4,2001
+1402497272,Saxicola rubetra,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,9,2014
+2160597595,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+2667507784,Saxicola rubetra,MA,"(31.1976,-4.0426)",Meknès-Tafilalet,1,31.19755,-4.042567,720,4,2019
+3601625559,Saxicola rubetra,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,1,34.85138,-6.235814,7,4,2008
+837528788,Saxicola rubetra,MA,"Tizi n' Tamantert, above Imlil, W. High Atlas",Marrakech-Tensift-Al Haouz,1,31.124674,-7.889411,2824,9,2004
+3281078845,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2020
+1167606676,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2014
+2149741424,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+1791467608,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,3,31.212925,-3.9884,736,4,2005
+2780069284,Saxicola rubetra,MA,"Arable Fields, NE Asilah, Tanger-Tétouan-Al Hoceïma, MA (35.482, -5.96)",Tanger-Tétouan,2,35.481686,-5.960339,43,9,2019
+1791459823,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2005
+3184806764,Saxicola rubetra,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,10,2020
+2752412399,Saxicola rubetra,MA,"(31.2628,-4.4541)",Meknès-Tafilalet,1,31.262793,-4.45411,785,4,2019
+1179013843,Saxicola rubetra,MA,Garganta Todra,Sous-Massa-Draa,1,31.585642,-5.589058,1658,3,2013
+1357454541,Saxicola rubetra,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2015
+2700496406,Saxicola rubetra,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2019
+3281122412,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2006
+2744192656,Saxicola rubetra,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,2,28.04759,-12.226908,0,4,2018
+3208435802,Saxicola rubetra,MA,"Unnamed Road, Agadir, Souss Massa, MA (30,373, -9,604)",Sous-Massa-Draa,4,30.373161,-9.604058,12,3,2016
+2694147907,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+1369213579,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,5,2015
+2719445361,Saxicola rubetra,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3270993532,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2020
+2718517653,Saxicola rubetra,MA,"34,8479,-6,2958",Gharb-Chrarda-Beni Hssen,1,34.84787,-6.295759,8,4,2018
+1369595854,Saxicola rubetra,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,5,2015
+1787897819,Saxicola rubetra,MA,Derkaoua,Meknès-Tafilalet,1,31.290277,-4.097222,747,4,2006
+2157955494,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,5,2018
+1787859426,Saxicola rubetra,MA,Zaida,Meknès-Tafilalet,1,32.817207,-4.960807,1457,3,2013
+2183856211,Saxicola rubetra,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,9,2018
+1402861218,Saxicola rubetra,MA,SE Oukaiimeden,Marrakech-Tensift-Al Haouz,1,31.187412,-7.845633,2712,5,2015
+2728679468,Saxicola rubetra,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,2,2019
+2763061535,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,4,2019
+3296042121,Saxicola rubetra,MA,"Unnamed Road, Souss Massa, MA (30,368, -9,6)",Sous-Massa-Draa,2,30.368032,-9.600416,9,3,2016
+1791984923,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,1,31.28981,-4.091935,747,3,2011
+3571267503,Saxicola rubetra,MA,Jardin Exotique De Sidi Bouknadel,Rabat-Salé-Zemmour-Zaer,1,34.095543,-6.767002,25,10,2021
+2718638600,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,4,2001
+2668654870,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2019
+2053274687,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3212688766,Saxicola rubetra,MA,Sidi Ouarzeg,Sous-Massa-Draa,2,29.279099,-10.255183,10,10,2003
+2746001639,Saxicola rubetra,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,4,2019
+1358084310,Saxicola rubetra,MA,Marrakech-Casablanca A7,Chaouia-Ouardigha,5,32.790478,-7.723346,406,4,2015
+2165377793,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2163378180,Saxicola rubetra,MA,Barrage al-Hassan Addakhil,Meknès-Tafilalet,1,32.010513,-4.458389,1097,5,2018
+2085349487,Saxicola rubetra,MA,R404--Maaziz,Rabat-Salé-Zemmour-Zaer,1,33.673058,-6.343703,199,10,2017
+1619513515,Saxicola rubetra,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,5,2009
+1619362691,Saxicola rubetra,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,5,2006
+2750763943,Saxicola rubetra,MA,واد ماسة -- بين سيدي وصواي و أغريمز | Oued Massa--route de Sidi Wassay à Aghorimze,Sous-Massa-Draa,1,30.038885,-9.666038,88,4,2019
+2792862400,Saxicola rubetra,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,4,2015
+2198353036,Saxicola rubetra,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,10,2018
+2157565444,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+2047273702,Saxicola rubetra,MA,Champs de Beni Mimoune,Meknès-Tafilalet,2,31.263906,-4.238521,746,4,2017
+3201106893,Saxicola rubetra,MA,Agadir,Sous-Massa-Draa,2,30.420769,-9.599316,24,10,2003
+3542552141,Saxicola rubetra,MA,"Tamnougalt, MA",Sous-Massa-Draa,1,30.674387,-6.396532,915,4,2017
+1202118882,Saxicola rubetra,MA,Merzouga,Meknès-Tafilalet,1,31.098557,-4.011864,688,5,2005
+2669033373,Saxicola rubetra,MA,"N13, Ait Ayach, Drâa-Tafilalet, MA (32.755, -4.924)",Meknès-Tafilalet,4,32.75482,-4.923709,1475,4,2019
+2043448036,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,4,2017
+2102500578,Saxicola rubetra,MA,"N13, Meknes-Tafilalet, MA (31,296, -4,2)",Meknès-Tafilalet,1,31.296051,-4.200306,741,10,2017
+2682643978,Saxicola rubetra,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,2,31.230532,-3.97439,736,4,2019
+2735732348,Saxicola rubetra,MA,4x4 drive north of Ergg Chevi,Meknès-Tafilalet,2,31.230532,-3.97439,736,4,2019
+3182418400,Saxicola rubetra,MA,Morocco,Marrakech-Tensift-Al Haouz,1,31.697014,-7.283935,796,5,2015
+2149719738,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+3586843316,Saxicola rubetra,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,1,31.756083,-4.837632,1082,4,2013
+1774132430,Saxicola rubetra,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2016
+3661488213,Saxicola rubetra,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,5,2010
+2791756644,Saxicola rubetra,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,9,2019
+2767527942,Saxicola rubetra,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,5,2019
+1402788625,Saxicola rubetra,MA,Aoufous,Meknès-Tafilalet,1,31.689787,-4.18798,876,5,2015
+3545482791,Saxicola rubetra,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,2,30.346031,-9.568678,8,10,2021
+1390522610,Saxicola rubetra,MA,OAT Camp,Meknès-Tafilalet,1,31.1869,-3.9308,718,9,2015
+2781021329,Saxicola rubetra,MA,Auberge Derkaoua,Meknès-Tafilalet,2,31.28981,-4.091935,747,4,2003
+2782116269,Saxicola rubetra,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,1,29.96278,-9.659664,9,8,2019
+1164920781,Saxicola rubetra,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2014
+2141929093,Saxicola rubetra,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,774, -5,349)",Tanger-Tétouan,1,35.77363,-5.348603,12,2,2018
+1788803708,Saxicola rubetra,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2009
+3622131201,Saxicola rubetra,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,2,31.334959,-5.891968,1554,3,2018
+1395087290,Saxicola rubetra,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,9,2015
+3635579428,Saxicola rubetra,MA,"Unnamed Road, Souss Massa, MA (30.091, -9.625)",Sous-Massa-Draa,1,30.09149,-9.624845,118,10,2021
+2743029853,Saxicola rubetra,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2019
+3212282300,Saxicola rubetra,MA,"Khniffis lagoon, Laâyoune-Sakia El Hamra, MA (27,962, -12,314)",Laâyoune-Boujdour-Sakia el Hamra,1,27.962269,-12.31413,8,4,2016
+2125125716,Saxicola rubetra,MA,"Morocco, Boumalne Dades",Sous-Massa-Draa,2,31.3493,-5.9068,1545,4,2017
+2772130415,Saxicola rubetra,MA,"(31.2628,-4.4541)",Meknès-Tafilalet,1,31.262793,-4.45411,785,4,2019
+2120283675,Saxicola rubetra,MA,Belghiada,L'Oriental,3,32.570217,-2.438729,1103,5,2015
+2701052319,Saxicola rubetra,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2019
+2129710834,Saxicola rubetra,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+1618051054,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,9,2000
+1619566178,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2007
+2835637969,Saxicola rubetra,MA,Morocco - Bouskoura,,1,33.492268,-7.598583,141,6,2012
+1618166539,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1618207789,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2002
+1615128505,Saxicola rubetra,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,9,2012
+1618051063,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+1618051088,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,5,2000
+2101577745,Saxicola rubetra,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,9,2017
+2840397114,Saxicola rubetra,MA,Morocco - Khémis zemamra,,1,32.6298,-8.7859,125,9,2017
+2800874544,Saxicola rubetra,ES,Punta Blanca,Ceuta,1,35.91375,-5.360241,1,4,2011
+2832382386,Saxicola rubetra,MA,Morocco - Harhoura,,1,33.948024,-6.930356,22,9,2010
+1620196692,Saxicola rubetra,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,10,2016
+1618207814,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,4,2002
+1618051018,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,4,2000
+2157402299,Saxicola rubetra,MA,Farm fields North of Rabat,Gharb-Chrarda-Beni Hssen,7,34.170864,-6.698923,15,4,2018
+2165875457,Saxicola rubetra,MA,Hike up the wash towards Lanner cliffs and Imider,Sous-Massa-Draa,1,31.369207,-5.82429,1471,4,2018
+1618166511,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1618379184,Saxicola rubetra,ES,Barranco de la ventolera,Ceuta,1,35.88333,-5.31667,0,10,2003
+3732741918,Saxicola rubetra,MA,Morocco - Ain Dorbane,,1,33.068485,-7.251552,587,9,2021
+2835656518,Saxicola rubetra,MA,Morocco - Taghjijt,,1,29.0634,-9.4244,561,4,2016
+2159168891,Saxicola rubetra,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,2,31.507856,-7.989421,594,4,2018
+3996790091,Saxicola rubetra,MA,Morocco - Région de Merzouga (Erfoud),,1,31.141319,-4.022943,695,5,2022
+3904047150,Saxicola rubetra,MA,Morocco - Bni M'Hamed Sijelmassa,,1,31.322353,-4.170966,748,5,2022
+3725268341,Saxicola rubetra,MA,Morocco - Taghazout,,1,30.531684,-9.690942,22,1,2019
+2832559836,Saxicola rubetra,MA,Morocco - Ermila,,1,33.349841,-3.789539,884,4,2015
+3825797836,Saxicola rubetra,MA,Morocco - Bouguargouh,,1,33.099835,-7.339868,437,5,2022
+2836745508,Saxicola rubetra,MA,Morocco - Boumalne Dades,,1,31.349993,-5.95824,1544,4,2017
+3996356903,Saxicola rubetra,MA,Morocco - Ain Dorbane,,1,33.068792,-7.227144,621,9,2022
+3722772282,Saxicola rubetra,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.920856,-6.84239,1093,10,2021
+3722439559,Saxicola rubetra,MA,Morocco - Ain Dorbane,,1,33.068791,-7.227659,621,9,2021
+2839964445,Saxicola rubetra,MA,Morocco - Boumalne Dades,,2,31.3539,-5.9593,1544,4,2017
+3731882577,Saxicola rubetra,MA,Morocco - Ain Dorbane,,2,33.070499,-7.250029,613,9,2021
+2835701209,Saxicola rubetra,MA,Morocco - Harhoura,,1,33.948127,-6.930078,22,9,2012
+3827443268,Saxicola rubetra,MA,Morocco - Taghramt,,1,35.87571,-5.456113,232,5,2022
+2843876945,Saxicola rubetra,MA,Morocco - Khémis zemamra,,1,32.629829,-8.785855,125,9,2017
+2083562323,Saxicola rubetra,MA,Steppe d'Asilah,Tanger-Tétouan,1,35.57608,-5.959396,61,9,2017
+3160958780,Saxicola rubetra,MA,Agadir,Sous-Massa-Draa,2,30.420769,-9.599316,24,10,2003
+2832750649,Saxicola rubetra,MA,Morocco - Taghjijt,,1,29.0634,-9.4244,561,4,2016
+3995257205,Saxicola rubetra,MA,Morocco - Ben Ahmed,,1,33.070764,-7.233395,626,9,2022
+2836047546,Saxicola rubetra,MA,Morocco - Boumalne Dades,,1,31.3511,-5.9583,1543,4,2017
+3722920048,Saxicola rubetra,MA,Morocco - Bouguargouh,,1,33.097072,-7.339303,443,9,2021
+3995618872,Saxicola rubetra,MA,Morocco - Région de Merzouga (Erfoud),,1,31.141529,-4.021211,710,5,2022
+2142232038,Saxicola rubetra,MA,N10--km43 (site de Scotocerca inquieta),Meknès-Tafilalet,1,31.756083,-4.837632,1082,4,2017
+2716489364,Saxicola rubetra,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,2,35.89061,-5.347041,50,10,2019
+837517421,Saxicola rubetra,MA,Timatraouine,Sous-Massa-Draa,1,31.413149,-5.708771,1372,4,2004
+2839202900,Saxicola rubetra,MA,Morocco - Gorges du Dades,,1,31.406378,-6.015916,1642,5,2015
+3723210897,Saxicola rubetra,MA,Morocco - Ain Dorbane,,1,33.068997,-7.22914,614,9,2021
+1618051095,Saxicola rubetra,ES,Isla de isabel ii,Melilla,1,35.18222,-2.42944,28,4,2001
+1615175007,Saxicola rubetra,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,5,2013
+3732829964,Saxicola rubetra,MA,Morocco - Ouarzazate - Barrage Al Mansour Ad-Dahbi,,1,30.920554,-6.843008,1093,10,2021
+2836113781,Saxicola rubetra,MA,Morocco - Boumalne Dades,,2,31.3568,-5.9598,1551,4,2017

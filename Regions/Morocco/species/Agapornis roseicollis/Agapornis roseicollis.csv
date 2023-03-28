@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2838621206,Agapornis roseicollis,MA,Morocco - Annakhil,,1,31.657162,-8.048269,424,10,2013
+3717886916,Agapornis roseicollis,MA,Morocco - El Maarif,,1,33.562979,-7.639761,48,10,2020

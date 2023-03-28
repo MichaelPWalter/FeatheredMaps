@@ -1,0 +1,8 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1782615353,Calidris maritima,MA,Asilah,Tanger-Tétouan,1,35.44007,-6.057222,12,4,2009
+3822040622,Calidris maritima,MA,Morocco - Essaouira,,1,31.514279,-9.772468,11,3,2008
+2714917752,Calidris maritima,MA,Asilah,Tanger-Tétouan,1,35.44007,-6.057222,12,4,2009
+2838761199,Calidris maritima,MA,Morocco - Anfa,,1,33.582189,-7.701759,14,12,2013
+2841020304,Calidris maritima,MA,Morocco - Anfa,,1,33.582019,-7.703648,7,1,2014
+2838058930,Calidris maritima,MA,Morocco - Kenitra - Oued Sebou,,1,34.301748,-6.585453,12,3,2006
+2838657010,Calidris maritima,MA,Morocco - Kenitra - Oued Sebou,,1,34.263317,-6.688271,0,3,2006

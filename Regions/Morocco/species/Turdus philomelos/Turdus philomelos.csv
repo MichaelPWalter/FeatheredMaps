@@ -1,0 +1,738 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1613552848,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2016
+1620782667,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613527818,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,3,2018
+2330994919,Turdus philomelos,MA,Oued Massa Nationalpark,,1,30.091375,-9.665737,19,11,2001
+1613314764,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2003
+1613331636,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2013
+1613314800,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,1,2005
+1620782666,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+3408035132,Turdus philomelos,MA,,Chaouia - Ouardigha,1,33.070035,-7.231346,622,11,2021
+1613517697,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2013
+1613562085,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2016
+1613356297,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2007
+1613331554,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2013
+2795548869,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2013
+3648675230,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2021
+1613531598,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2015
+1620673359,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1613231626,Turdus philomelos,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,3,2002
+1613166233,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2012
+3685052868,Turdus philomelos,MA,"N2, Tanger-Tétouan-Al Hoceïma, MA (34,983, -4,244)",Tanger-Tétouan,2,34.98265,-4.243654,1051,3,2021
+2201358286,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2018
+3206179796,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,2,2007
+1776292366,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2016
+2097469860,Turdus philomelos,MA,Swinia-jardin d'olivier | السوينيا,Chaouia-Ouardigha,5,33.07913,-7.250504,576,12,2017
+2044791246,Turdus philomelos,MA,33.435x-5.219 - Azrou City Park,Meknès-Tafilalet,1,33.435028,-5.219146,1297,3,2017
+2797642502,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,12,2019
+2038659843,Turdus philomelos,MA,Akel el-Kbir (Île du Bou Regreg),Rabat-Salé-Zemmour-Zaer,2,33.964817,-6.776376,61,3,2017
+2707522784,Turdus philomelos,MA,Sidi Mimoun Oliveraie — East سيدي ميمون,Marrakech-Tensift-Al Haouz,1,31.616306,-8.000844,462,11,2019
+1721517048,Turdus philomelos,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,3,2016
+2736371244,Turdus philomelos,MA,Oualjat Bou Khmiss,Rabat-Salé-Zemmour-Zaer,2,33.273766,-6.393217,421,2,2019
+3144734481,Turdus philomelos,MA,Café Argan Taourirt,Sous-Massa-Draa,1,31.145525,-7.416922,1627,2,2020
+2209935990,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+2117199429,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,10,34.24279,-6.672684,7,1,2018
+3646192610,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,15,33.105087,-7.344983,430,12,2021
+3212285116,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,11,2020
+1724751491,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+3220091231,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,4,33.713158,-6.929712,284,3,2020
+3687256750,Turdus philomelos,MA,Jbel Moussa,Tanger-Tétouan,2,35.898125,-5.412033,807,10,2021
+3551545585,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,2,2021
+2114177550,Turdus philomelos,MA,Lagune de Oualidia--Lagune du Camping de Oualidia,Doukkala-Abda,1,32.729427,-9.04531,9,12,2017
+2119148838,Turdus philomelos,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,1,35.238678,-5.178101,401,12,2017
+2046593199,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,1,34.073605,-5.554385,383,2,2017
+1773024283,Turdus philomelos,MA,"Unbekannter Ort - 31,194x-8,058 - 01.11.2016 06:26",Marrakech-Tensift-Al Haouz,1,31.19396,-8.057993,918,11,2016
+3285007414,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2010
+1768549806,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,10,2016
+3298943247,Turdus philomelos,MA,Ourika Valley,Marrakech-Tensift-Al Haouz,1,31.254023,-7.813538,1719,4,2006
+3626930423,Turdus philomelos,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,4,30.585133,-9.529026,425,11,2021
+3656496370,Turdus philomelos,ES,Loma del tío Díaz,Ceuta,1,35.912197,-5.366209,89,11,2021
+1719720933,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+3598211268,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,1,2021
+2116217793,Turdus philomelos,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,2,33.41931,-5.18162,1762,1,2018
+2215512594,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,11,2018
+1780493653,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,12,2016
+3664521966,Turdus philomelos,MA,Marais d'el-Hotba,Doukkala-Abda,15,32.916702,-8.815498,0,11,2013
+3576994074,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2008
+3284202228,Turdus philomelos,MA,Barrage al-Hassan Addakhil,Meknès-Tafilalet,1,32.010513,-4.458389,1097,3,2007
+2770175909,Turdus philomelos,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2008
+1755392646,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,2,2016
+3292110518,Turdus philomelos,MA,Jardin Majorelle,Marrakech-Tensift-Al Haouz,1,31.641361,-8.002698,456,2,2005
+3265725075,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,11,2020
+2713169014,Turdus philomelos,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2016
+3608732131,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,8,33.071087,-7.258047,552,11,2021
+2103415219,Turdus philomelos,MA,"BenAhmed-Lotissement Ennour,petit jardin d'olivier",Chaouia-Ouardigha,1,33.076153,-7.248766,612,1,2018
+2672682624,Turdus philomelos,MA,Bridge N of Ait Iyass,Sous-Massa-Draa,2,29.993298,-9.661251,9,3,2019
+2117110595,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2002
+2795729947,Turdus philomelos,MA,Sidi Kaouki sud,Marrakech-Tensift-Al Haouz,1,31.3401,-9.790168,12,4,2007
+1760751694,Turdus philomelos,MA,Oued Rharg,Doukkala-Abda,1,32.680878,-8.915191,95,1,2005
+2799627812,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2019
+603212805,Turdus philomelos,MA,Barrage Aoulouz,Sous-Massa-Draa,1,30.686493,-8.150697,754,3,2007
+2218421961,Turdus philomelos,MA,Sources de l´Oum er Rabia,Meknès-Tafilalet,1,33.05371,-5.414629,1234,12,2018
+3198443389,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,10,33.56109,-6.871708,415,11,2012
+2218032338,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2018
+3669944164,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2021
+3261666310,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2001
+1183437168,Turdus philomelos,MA,Marrakech to El-Kelaa-M'Gouna,Marrakech-Tensift-Al Haouz,1,31.5528,-7.63,760,2,2012
+1793177053,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,3,2012
+2031329886,Turdus philomelos,MA,"MA-Sus-Masa-Draa - 30,79x-8,39 - 7 feb. 2017 18:37",Sous-Massa-Draa,1,30.789555,-8.39002,971,2,2017
+3199225963,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,12,2020
+2125579190,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,2,2018
+2048097065,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,4,31.507856,-7.989421,594,2,2017
+3570488778,Turdus philomelos,MA,Jardin Exotique De Sidi Bouknadel,Rabat-Salé-Zemmour-Zaer,1,34.095543,-6.767002,25,10,2021
+3563882814,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,2,2016
+1402274681,Turdus philomelos,MA,Lac Bouderoua,Gharb-Chrarda-Beni Hssen,40,34.787796,-5.536895,213,12,2015
+2738054861,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,2,34.073605,-5.554385,383,3,2019
+3512662243,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,1,2021
+1793981081,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,10,2016
+2089754868,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2017
+3545860808,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+1760739995,Turdus philomelos,MA,Sidi Moussa - Oualidia marshes,Doukkala-Abda,1,32.925087,-8.803439,0,1,2005
+2722416482,Turdus philomelos,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+3541672756,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,4,33.07076,-7.232351,632,11,2021
+3274430633,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,12,2008
+3284361737,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,10,2020
+1743288020,Turdus philomelos,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2016
+3540176064,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,12,33.105087,-7.344983,430,12,2021
+2201699301,Turdus philomelos,MA,PN d'el-Hoceima--domaine général,Taza-Al Hoceima-Taounate,1,35.168297,-4.12948,338,1,2015
+3643044836,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,10,2021
+3408174254,Turdus philomelos,MA,,Chaouia - Ouardigha,1,33.079026,-7.25068,577,11,2021
+3507225701,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,2,2021
+2091469358,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,5,33.07076,-7.232351,632,11,2017
+3692360907,Turdus philomelos,MA,Marais d'el-Hotba,Doukkala-Abda,30,32.916702,-8.815498,0,12,2013
+2233105004,Turdus philomelos,MA,Chefchaouen 2,Tanger-Tétouan,1,35.169613,-5.255833,663,12,2018
+3291731895,Turdus philomelos,MA,"El Borj - Jbel Bou Amrane (33.14, -4.291)",Fès-Boulemane,1,33.139565,-4.2905,1321,11,2020
+2774711583,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,4,33.54445,-7.761624,14,11,2019
+3243750943,Turdus philomelos,MA,Oued Beht--Lalla Regraga,Rabat-Salé-Zemmour-Zaer,1,33.833954,-5.926146,145,3,2020
+3230214353,Turdus philomelos,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2020
+3639143319,Turdus philomelos,MA,Asni-Ouirgane road--9 km to Asni,Marrakech-Tensift-Al Haouz,1,31.2022,-8.044,944,11,2013
+2225646031,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,11,2018
+2108801946,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,3,34.00879,-6.847304,26,12,2017
+3609715511,Turdus philomelos,MA,Sidi Yahya,Chaouia-Ouardigha,1,33.826485,-6.903731,129,1,2013
+3506631706,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,2,2021
+3294488189,Turdus philomelos,MA,"Oued Noun (Assaka) (29.0352, -10.2571)",Guelmim-Es Smara,1,29.0352,-10.2571,150,2,2012
+3135999027,Turdus philomelos,MA,"R113, Drâa-Tafilalet, MA (31,14, -5,201)",Meknès-Tafilalet,1,31.1403,-5.201497,895,3,2020
+3285795643,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,12,2020
+3211756635,Turdus philomelos,ES,"10 dic. 2020 8:39-35,882, -5,333",Ceuta,1,35.88229,-5.332539,33,12,2020
+2225943106,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,10,31.507856,-7.989421,594,2,2008
+970623162,Turdus philomelos,MA,Jbel Moussa,Tanger-Tétouan,5,35.898125,-5.412033,807,11,2013
+2124732596,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,4,33.07076,-7.232351,632,2,2018
+1769584461,Turdus philomelos,MA,Straits of Gibraltar (Moroccan side),Tanger-Tétouan,1,35.928814,-5.502562,0,10,2016
+2793980164,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,11,2008
+2105174579,Turdus philomelos,MA,entre Bvd. Mohamed Lyazidi et R401,Rabat-Salé-Zemmour-Zaer,1,34.02187,-6.82045,19,11,2017
+3188488954,Turdus philomelos,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,7,31.201849,-7.859733,2609,11,2008
+3632882811,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,30,33.105087,-7.344983,430,10,2021
+3686327009,Turdus philomelos,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,4,33.555717,-7.739337,8,11,2021
+2038757946,Turdus philomelos,MA,"MA-Sus-Masa-Draa - 30,79x-8,39 - 7 feb. 2017 18:37",Sous-Massa-Draa,1,30.789555,-8.39002,971,2,2017
+3611024662,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,1,2021
+1751023731,Turdus philomelos,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2001
+3732898541,Turdus philomelos,MA,Morocco - Ben Ahmed,,2,33.069971,-7.231357,622,11,2021
+3284114418,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,11,2020
+2201335568,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2018
+2726592245,Turdus philomelos,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,4,31.255966,-7.973832,1151,12,2015
+2033895546,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,4,31.507856,-7.989421,594,2,2017
+2834646177,Turdus philomelos,MA,Morocco - Dar Bouazza,,4,33.543308,-7.764245,12,11,2019
+3825549260,Turdus philomelos,MA,Morocco - Bouguargouh,,8,33.103699,-7.340619,434,3,2022
+2658778145,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,40,34.24279,-6.672684,7,3,2007
+1719722837,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+1778160520,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2016
+1191937575,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2009
+1779771215,Turdus philomelos,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,2,35.129738,-5.089073,1678,11,2016
+2120301822,Turdus philomelos,MA,Bois Omar Ibn Khattab (Fôret Moulay Abdellah),Rabat-Salé-Zemmour-Zaer,2,33.996227,-6.840749,63,12,2017
+1613231922,Turdus philomelos,ES,Huerta ferrer,Ceuta,1,35.88333,-5.31667,0,2,2003
+1613320233,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,2,2001
+1620782725,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613562095,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+2135420424,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,2,34.00879,-6.847304,26,2,2018
+2717633586,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2010
+2707875990,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,1,2017
+2126953780,Turdus philomelos,MA,"(31,2007,-8,0468)",Marrakech-Tensift-Al Haouz,2,31.200731,-8.046803,929,3,2018
+3732192581,Turdus philomelos,MA,Morocco - Ain Dorbane,,4,33.075707,-7.245111,634,11,2021
+1620673406,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1620782706,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613514421,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613356291,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2008
+2100549613,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,10,2017
+2687682716,Turdus philomelos,MA,Aéroport International Marrakech-Ménara,Marrakech-Tensift-Al Haouz,1,31.613142,-8.036199,459,1,2017
+2095683550,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2017
+3532026178,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,2,2016
+3214271213,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,12,2020
+2225156900,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,7,34.013096,-6.813711,11,11,2018
+1779097788,Turdus philomelos,MA,Rte P2030 below Oukaimeden,Marrakech-Tensift-Al Haouz,2,31.28053,-7.805883,1376,12,2016
+1723299684,Turdus philomelos,MA,Barrage,Chaouia-Ouardigha,1,33.733006,-6.9668,159,3,2016
+3292302294,Turdus philomelos,MA,Aït Arbi,Sous-Massa-Draa,2,31.453117,-5.968199,1619,2,2005
+2047870135,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,2,33.04657,-3.981377,868,3,2017
+2711530148,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,31,33.071087,-7.258047,552,12,2019
+3578566165,Turdus philomelos,MA,"24272, El Jadida MA-Doukkala-Abda Marais d’El Hotba (32,9151,-8,8177)",Doukkala-Abda,2,32.915115,-8.817723,0,1,2014
+2125442375,Turdus philomelos,MA,"BenAhmed-Lotissement Ennour,petit jardin d'olivier",Chaouia-Ouardigha,4,33.076153,-7.248766,612,2,2018
+2111878008,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2017
+3650264796,Turdus philomelos,MA,Sidi Brahim,Doukkala-Abda,2,32.89937,-8.836402,2,11,2013
+3292898655,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,10,2020
+2124831842,Turdus philomelos,MA,"Oued Massa Estuary (Sidi Rbat), S of Agadir",Sous-Massa-Draa,1,30.05712,-9.654693,16,2,2017
+1778256444,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,12,2016
+2124846713,Turdus philomelos,MA,Zaers,Rabat-Salé-Zemmour-Zaer,15,33.709595,-6.925794,282,2,2017
+2709475908,Turdus philomelos,MA,Ben Ahmed-Quartier Raja_ حي الرجاء ابن احمد,Chaouia-Ouardigha,2,33.080048,-7.237995,613,11,2019
+3135736161,Turdus philomelos,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,027, -5,479)",Tanger-Tétouan,5,35.02715,-5.478885,192,2,2020
+3296293053,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+3634398152,Turdus philomelos,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2020
+3665283140,Turdus philomelos,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,1,33.555717,-7.739337,8,12,2021
+3514789198,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,4,33.04657,-3.981377,868,2,2021
+3240668723,Turdus philomelos,MA,"Taounza , Azilal, Tadla Azilal, 70052 (32.092, -6.597)",Tadla-Azilal,5,32.091743,-6.597165,662,2,2020
+1719724993,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+2708438499,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2008
+3185774608,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,4,2016
+3295805309,Turdus philomelos,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2012
+1787662221,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,10,2012
+3660957875,Turdus philomelos,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,2,2021
+2224633624,Turdus philomelos,MA,Swinia-jardin d'olivier | السوينيا,Chaouia-Ouardigha,1,33.07913,-7.250504,576,12,2018
+2136760608,Turdus philomelos,MA,Domaine Malika,Marrakech-Tensift-Al Haouz,3,31.193075,-8.051793,941,3,2018
+3567437672,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,30,33.071087,-7.258047,552,12,2021
+3549295900,Turdus philomelos,MA,Parc National de Tazekka,Taza-Al Hoceima-Taounate,1,34.07908,-4.120763,1470,10,2021
+2708801735,Turdus philomelos,EH,Oasis Lamseyed,Western Sahara,4,27.04231,-13.094491,60,1,2012
+3585844572,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,12,2021
+3209339137,Turdus philomelos,MA,"Unnamed Road, Agadir, Souss Massa, MA (30,373, -9,604)",Sous-Massa-Draa,2,30.373161,-9.604058,12,3,2016
+3133694968,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,2,2020
+3555389225,Turdus philomelos,MA,Lac Aoua,Meknès-Tafilalet,1,33.65515,-5.04249,1470,3,2013
+2800054230,Turdus philomelos,MA,"N10, Drâa-Tafilalet, MA (31,257, -6,074)",Sous-Massa-Draa,1,31.257381,-6.074427,1446,11,2019
+1719715007,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+1397694677,Turdus philomelos,MA,Fôret Urbaine de Ibn Sina/Fôret Hilton (غابة نزهة ابن سينا),Rabat-Salé-Zemmour-Zaer,1,33.986443,-6.842294,67,11,2015
+2131266848,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,1,2018
+3624486393,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+2725753100,Turdus philomelos,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,3,2016
+2656597830,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2019
+3677824765,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2021
+2100584047,Turdus philomelos,MA,"Salines de Sidi Brahim, MA (32.895, -8.84)",Doukkala-Abda,1,32.89492,-8.840289,2,12,2017
+1768162749,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,2,33.071087,-7.258047,552,10,2016
+3591603654,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,3,2021
+3613944375,Turdus philomelos,MA,"Sidi Boutayeb, oued Moulouya MA (33.01, -4.037)",Fès-Boulemane,1,33.009758,-4.036688,879,2,2021
+2714914680,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2019
+3220469203,Turdus philomelos,MA,"8. ožu 2020. 11:54-34,252, -5,341",Fès-Boulemane,1,34.251633,-5.341418,90,3,2020
+3552927178,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,11,2021
+2043443446,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,4,31.507856,-7.989421,594,2,2017
+2711156976,Turdus philomelos,MA,El-Baggara | دوار البكارة,Chaouia-Ouardigha,12,33.08043,-7.271849,528,12,2019
+3554932624,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,2,33.105087,-7.344983,430,10,2021
+1767853664,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,2,34.24279,-6.672684,7,10,2016
+2785342559,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3299487136,Turdus philomelos,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,10,2020
+1346239958,Turdus philomelos,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,11,31.255966,-7.973832,1151,1,2015
+3694393247,Turdus philomelos,MA,"Oued Beht, R402, Rabat-Salé-Kénitra, MA (33.824, -5.928)",Rabat-Salé-Zemmour-Zaer,2,33.82405,-5.927917,146,11,2021
+3216013271,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,11,2017
+1721623278,Turdus philomelos,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,3,2016
+2220871803,Turdus philomelos,MA,PN Talassemtane--domaine générale,Tanger-Tétouan,1,35.129738,-5.089073,1678,1,2015
+3576055143,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,10,2021
+2751738800,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2019
+3576279437,Turdus philomelos,MA,Guelmim,Guelmim-Es Smara,1,28.988146,-10.058536,308,2,2008
+2710874263,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3212209186,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,11,2020
+2790810816,Turdus philomelos,MA,"N10, Drâa-Tafilalet, MA (31,257, -6,074)",Sous-Massa-Draa,1,31.257381,-6.074427,1446,11,2019
+2700126576,Turdus philomelos,MA,Vallée des Oiseaux (Tagdilt Track)--ancienne piste,Sous-Massa-Draa,1,31.328703,-5.922575,1551,3,2010
+2124482683,Turdus philomelos,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,6,33.556343,-7.739297,11,2,2018
+970542537,Turdus philomelos,MA,Jbel Moussa,Tanger-Tétouan,5,35.898125,-5.412033,807,11,2013
+2226418370,Turdus philomelos,MA,Chefchaouen 2,Tanger-Tétouan,1,35.169613,-5.255833,663,12,2018
+2157977989,Turdus philomelos,MA,Sidi Kaouki,Marrakech-Tensift-Al Haouz,1,31.354956,-9.795985,11,4,2007
+3538636917,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,12,33.105087,-7.344983,430,12,2021
+2201642601,Turdus philomelos,MA,PN Béni Snassen,L'Oriental,2,34.81067,-2.404504,794,1,2015
+3550386776,Turdus philomelos,MA,Punta Cires,Tanger-Tétouan,4,35.908447,-5.482022,5,10,2013
+2046663376,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,4,33.04657,-3.981377,868,3,2017
+2781712739,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,10,2019
+1790193199,Turdus philomelos,MA,Tinedjad,Meknès-Tafilalet,1,31.513435,-5.022984,998,1,2004
+3529358121,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,3,2021
+2033775511,Turdus philomelos,MA,ECWP Missour,Fès-Boulemane,1,33.006805,-4.097437,948,1,2017
+3266963641,Turdus philomelos,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2055916646,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2017
+3143081708,Turdus philomelos,MA,"Unnamed Road, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,1,33.555717,-7.739337,8,3,2020
+3686709098,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,5,34.013096,-6.813711,11,10,2021
+3657070829,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,4,2008
+3637418747,Turdus philomelos,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+2773948988,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,2,34.073605,-5.554385,383,12,2013
+1183449968,Turdus philomelos,MA,Agadir to Marrakech,Marrakech-Tensift-Al Haouz,3,31.40785,-8.739954,501,2,2012
+2654815751,Turdus philomelos,MA,"Grand Casablanca, MA (33.572, -7.429)",Grand Casablanca,1,33.57204,-7.42903,94,1,2019
+3198434164,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,11,2020
+2038776912,Turdus philomelos,MA,"MA-Sus-Masa-Draa - 30,79x-8,39 - 7 feb. 2017 18:37",Sous-Massa-Draa,1,30.789555,-8.39002,971,2,2017
+1194212647,Turdus philomelos,MA,PN Talassemtane--Gorges de Farda,Tanger-Tétouan,1,35.238678,-5.178101,401,10,2014
+1721160979,Turdus philomelos,MA,March 12 H3 Run,Rabat-Salé-Zemmour-Zaer,5,34.02234,-6.699552,128,3,2016
+2041435090,Turdus philomelos,MA,Open land north side Sidi Wassay,Sous-Massa-Draa,3,30.059013,-9.681436,37,2,2017
+3580316604,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2021
+3634553105,Turdus philomelos,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,3,2009
+3209826910,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2009
+1780158168,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,12,2016
+2739628753,Turdus philomelos,MA,"N13, Drâa-Tafilalet, MA (32,314, -4,546)",Meknès-Tafilalet,3,32.31377,-4.546411,1364,2,2019
+3687221216,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,4,34.00879,-6.847304,26,12,2021
+2753141662,Turdus philomelos,MA,Agadir - Hotel Anezi,Sous-Massa-Draa,1,30.416676,-9.600913,28,10,2011
+3274256231,Turdus philomelos,MA,Jemis Zemamra,Doukkala-Abda,1,32.62867,-8.788971,126,4,2012
+3134073355,Turdus philomelos,MA,Oulad Abdoune-plantation farm of Khouribga | مشتل خريبكة,Chaouia-Ouardigha,1,32.854877,-6.904097,773,1,2020
+3249785627,Turdus philomelos,MA,"Taounza , Azilal, Tadla Azilal, 70052 (32.092, -6.597)",Tadla-Azilal,5,32.091743,-6.597165,662,2,2020
+1755513379,Turdus philomelos,MA,route à Douar Dehar Nsour,Meknès-Tafilalet,2,34.0667,-5.454565,795,1,2016
+3580889953,Turdus philomelos,MA,Fôret Urbaine de Ibn Sina/Fôret Hilton (غابة نزهة ابن سينا),Rabat-Salé-Zemmour-Zaer,1,33.986443,-6.842294,67,12,2021
+3661705078,Turdus philomelos,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2008
+2089110853,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2017
+2037883841,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,3,2017
+2704350452,Turdus philomelos,MA,Plage de Tifnit,Sous-Massa-Draa,1,30.201324,-9.641147,12,4,2002
+2784567301,Turdus philomelos,MA,Tizi-n-Test,Sous-Massa-Draa,1,30.86567,-8.37816,2170,2,2017
+3605752794,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,22,33.105087,-7.344983,430,3,2021
+3673207774,Turdus philomelos,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,12,2021
+2227624614,Turdus philomelos,MA,Sources de l´Oum er Rabia,Meknès-Tafilalet,1,33.05371,-5.414629,1234,12,2018
+2797542749,Turdus philomelos,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+2779650965,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2110808462,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,2,2018
+3544582474,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+3572712276,Turdus philomelos,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,3,33.555717,-7.739337,8,11,2021
+3248216021,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,3,2020
+2042752572,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,4,31.507856,-7.989421,594,2,2017
+3650700659,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+3290908697,Turdus philomelos,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2008
+2792324547,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,12,2019
+2119304491,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2017
+2790345538,Turdus philomelos,MA,Tizi n'Tichka,Marrakech-Tensift-Al Haouz,1,31.36109,-7.390087,1590,3,2010
+3586008689,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,12,2021
+3559816330,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,10,2021
+2097152656,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,7,34.013096,-6.813711,11,12,2017
+2710342856,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,12,2019
+1795194262,Turdus philomelos,MA,route between Kourkouda and Tazenakht,Sous-Massa-Draa,1,30.49873,-7.312802,1497,2,2002
+3290934665,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2019
+3227848393,Turdus philomelos,ES,Arroyo de Calamocarro,Ceuta,1,35.910793,-5.368713,140,2,2020
+3223538282,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,2,33.071087,-7.258047,552,3,2020
+2216642872,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2018
+2128235119,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,1,2018
+2674735027,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,40,34.24279,-6.672684,7,3,2007
+3230213988,Turdus philomelos,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,027, -5,479)",Tanger-Tétouan,5,35.02715,-5.478885,192,2,2020
+2736209242,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,1,34.073605,-5.554385,383,2,2019
+3221194765,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,4,33.54445,-7.761624,14,1,2020
+3672537823,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,3,34.24279,-6.672684,7,2,2000
+1791493878,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2012
+2102398511,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,9,33.07076,-7.232351,632,11,2017
+3196836086,Turdus philomelos,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,1,33.556343,-7.739297,11,12,2020
+2227305195,Turdus philomelos,MA,"Sidi Moussa Ben Ali, MA (33.517, -7.347)",Chaouia-Ouardigha,1,33.51723,-7.347281,118,11,2018
+3653267418,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,3,2021
+3214163241,Turdus philomelos,MA,Tan-Tan Radar station.,Guelmim-Es Smara,1,28.4663,-11.2376,68,11,2011
+2093771606,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,19,34.013096,-6.813711,11,11,2017
+3563875644,Turdus philomelos,MA,Sidi Brahim,Doukkala-Abda,1,32.89937,-8.836402,2,1,2014
+2209928619,Turdus philomelos,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,3,2011
+3291483437,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,11,2020
+2096000383,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,3,34.00879,-6.847304,26,12,2017
+3576631104,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,10,33.56109,-6.871708,415,11,2012
+3287619759,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,12,2020
+3214120080,Turdus philomelos,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,4,30.711512,-9.855123,9,3,2012
+2137228921,Turdus philomelos,MA,Bois Omar Ibn Khattab (Fôret Moulay Abdellah),Rabat-Salé-Zemmour-Zaer,1,33.996227,-6.840749,63,3,2018
+2662616541,Turdus philomelos,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,3,2019
+2108231164,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2017
+1721519333,Turdus philomelos,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,3,2016
+2661764222,Turdus philomelos,MA,"P2220, Marrakech-Safi, MA (31,228, -9,544)",Marrakech-Tensift-Al Haouz,1,31.227695,-9.543734,624,3,2019
+3141396196,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,2,2020
+3586816622,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2021
+3634248839,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,8,33.07076,-7.232351,632,11,2021
+2097486045,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,12,2017
+1787857349,Turdus philomelos,MA,X - Duplicate = Lac (Dayet Aoua),Meknès-Tafilalet,1,33.655155,-5.042494,1470,3,2013
+3572491819,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,11,2021
+3582700019,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+2104175863,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,23,34.013096,-6.813711,11,11,2017
+3236730688,Turdus philomelos,MA,Gorges du Dadès,Sous-Massa-Draa,1,31.509192,-5.940685,1664,11,2008
+2133528136,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,4,34.013096,-6.813711,11,1,2018
+2721393323,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+3551543466,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,5,33.07076,-7.232351,632,11,2021
+2726320873,Turdus philomelos,MA,Vallee du Paradis (Paradise Valley),Sous-Massa-Draa,1,30.585133,-9.529026,425,11,2019
+2224728763,Turdus philomelos,MA,Palmeraie de Massa,Sous-Massa-Draa,1,29.964365,-9.659308,13,11,2018
+3509836598,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,1,2021
+3546422931,Turdus philomelos,ES,Sierra Bullones--Renegado/Anyera/Aranguren/mirador de Benzú,Ceuta,1,35.90542,-5.372675,221,11,2021
+2718558375,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2198959675,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,3,2014
+3826486175,Turdus philomelos,MA,Morocco - Bouguargouh,,7,33.10077,-7.342099,440,2,2022
+1620782631,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613356192,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2009
+1613530378,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,1,2014
+1613556951,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1620744455,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2018
+2836456156,Turdus philomelos,MA,Morocco - Lacs du moyen Atlas,,4,33.49003,-5.071775,1697,11,2017
+2845549238,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.553272,-7.743268,12,11,2019
+1613562068,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2016
+1620705836,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1620744477,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2018
+1613218157,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2011
+1620744434,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,11,2017
+1613264972,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613556926,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613562099,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1620705835,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1613556923,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613530325,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,1,2013
+1613556946,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613320244,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2001
+1613562076,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2017
+2115563502,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,1,2018
+2834786151,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.557426,-7.735758,17,11,2019
+1354717669,Turdus philomelos,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+3577924107,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2021
+3632429219,Turdus philomelos,MA,Bouarfa - Piste de Belghiada,L'Oriental,1,32.521397,-2.021396,1106,11,2013
+3624197026,Turdus philomelos,MA,Bosquet à 50 km au sud de Beni Mathar,L'Oriental,3,33.608955,-1.962602,1088,11,2013
+2117507564,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,22,34.013096,-6.813711,11,12,2017
+970387089,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,4,34.24279,-6.672684,7,11,2013
+3656831671,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+2215557006,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2018
+2197865896,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2018
+3572870481,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,15,34.013096,-6.813711,11,11,2021
+3664408120,Turdus philomelos,MA,Canyon Lamjalil,Fès-Boulemane,1,32.93156,-3.985917,982,1,2021
+2832339632,Turdus philomelos,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.240376,-6.672306,7,3,2012
+3966629843,Turdus philomelos,MA,,Chaouia - Ouardigha,1,33.07026,-7.231451,624,11,2022
+1613331603,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613331609,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2013
+1613530410,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2013
+1613264930,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613218100,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2011
+1613331630,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613314745,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2005
+1613556913,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1620782648,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613224255,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2010
+1613530393,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,3,2015
+1613517650,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2012
+1613562060,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613478682,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2011
+1613530316,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2013
+1613556936,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613447041,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,1,2011
+1613264909,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,10,2014
+1613527830,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,3,2018
+1613517694,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2012
+1613331598,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2013
+1613556965,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613569378,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2018
+1620705840,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1613356201,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2004
+1613356254,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2006
+2543723205,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,11,2018
+1620782685,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1620782692,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1620744416,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,11,2017
+1613171414,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2011
+1613171382,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2011
+1613356280,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2004
+1613556962,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+3985732972,Turdus philomelos,MA,,Chaouia - Ouardigha,1,33.069716,-7.236053,630,11,2022
+2331177593,Turdus philomelos,MA,Tamanar / Marokko,,1,31.004686,-9.673462,326,3,2001
+3826576235,Turdus philomelos,MA,Morocco - Bouguargouh,,12,33.114373,-7.334508,471,3,2022
+2800306198,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,10,2019
+2116980412,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,15,33.713158,-6.929712,284,3,2002
+2834990106,Turdus philomelos,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.243913,-6.670017,16,1,2014
+2836291799,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.544613,-7.761068,15,1,2018
+2848554884,Turdus philomelos,MA,"Province de Boulemane, Fès-Meknès",,1,33.0099,-4.0965,943,3,2020
+3996355403,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.069655,-7.232766,619,10,2022
+1613447095,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2010
+3747218473,Turdus philomelos,MA,,Marrakech - Tensift - Al Haouz,1,31.201761,-7.867808,2691,3,2012
+3641181612,Turdus philomelos,MA,Vallée d'Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.201849,-7.859733,2609,2,2000
+3415923710,Turdus philomelos,MA,,Marrakech - Tensift - Al Haouz,1,31.449426,-9.603358,197,11,2021
+2837229235,Turdus philomelos,MA,Morocco - Dayat Aoua,,1,33.508499,-5.010081,1806,11,2018
+2049032245,Turdus philomelos,MA,Moulouya,Fès-Boulemane,1,32.993332,-4.045243,884,3,2017
+2790624677,Turdus philomelos,MA,Oasis de Tiout,Sous-Massa-Draa,1,30.388166,-8.699703,443,12,2015
+1779052340,Turdus philomelos,MA,Sedjaa de Tafrate--affluent du oued Moulouya,L'Oriental,1,34.245518,-3.058267,490,12,2016
+3626118787,Turdus philomelos,MA,Fôret de Sidi Bettache (Fôret de Zaër),Rabat-Salé-Zemmour-Zaer,1,33.56109,-6.871708,415,2,2016
+1720623466,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+2794388149,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,1,31.507856,-7.989421,594,3,2016
+1395440237,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,11,2015
+2761611232,Turdus philomelos,MA,Ourika Valley,Marrakech-Tensift-Al Haouz,1,31.343454,-7.751294,996,4,2006
+2209934959,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2011
+2046698023,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,3,2017
+3226811595,Turdus philomelos,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,1,2020
+2110991406,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,11,2017
+2110552739,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,25,34.013096,-6.813711,11,12,2017
+1794749896,Turdus philomelos,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,2,31.239517,-7.664165,1364,2,2015
+2782839883,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,1,2012
+2797240402,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2019
+2223388325,Turdus philomelos,MA,Oued Bouregreg--Essehoul,Rabat-Salé-Zemmour-Zaer,1,33.94439,-6.588557,66,12,2018
+2093706538,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2017
+3561799573,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2021
+2211973417,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,12,2018
+2038338980,Turdus philomelos,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,1,34.02601,-6.814597,10,2,2017
+3268130343,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2011
+2794670775,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,2,2018
+3659987838,Turdus philomelos,MA,Marais du Oued Hachef,Tanger-Tétouan,2,35.559982,-5.977306,12,10,2013
+2210618656,Turdus philomelos,MA,Marais d'el-Hotba,Doukkala-Abda,2,32.916702,-8.815498,0,10,2018
+1370840517,Turdus philomelos,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2015
+2097489047,Turdus philomelos,MA,BenAhmed-Swinia,Chaouia-Ouardigha,11,33.080296,-7.24661,583,12,2017
+3517115173,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,24,33.105087,-7.344983,430,2,2021
+3141302388,Turdus philomelos,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,045, -5,353)",Tanger-Tétouan,1,35.045467,-5.353153,197,2,2020
+2731620672,Turdus philomelos,MA,"N13, Drâa-Tafilalet, MA (32,314, -4,546)",Meknès-Tafilalet,3,32.31377,-4.546411,1364,2,2019
+3138244584,Turdus philomelos,MA,Beni Zrantel | بني زرنتل,Chaouia-Ouardigha,1,32.77532,-6.249208,723,3,2020
+3208887502,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,11,2020
+3517881675,Turdus philomelos,MA,Kasbah Africa,Marrakech-Tensift-Al Haouz,1,31.1658,-8.048327,1022,1,2021
+2034109165,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2017
+2137037740,Turdus philomelos,MA,Ijjoukak,Marrakech-Tensift-Al Haouz,3,30.984493,-8.22811,1272,2,2018
+3522233217,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,1,2021
+3205312041,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,12,2008
+3212811717,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2020
+3687757009,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+3298869898,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2008
+3633058939,Turdus philomelos,ES,Ayº. de las Bombas,Ceuta,1,35.886765,-5.373022,127,11,2021
+3508045365,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,3,33.052967,-3.959731,860,2,2021
+845216345,Turdus philomelos,MA,Palmeraie de Sidi Flah,Sous-Massa-Draa,2,31.015396,-6.501542,1186,3,2006
+1180389936,Turdus philomelos,MA,Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.210026,-7.855418,2641,3,2013
+2035040362,Turdus philomelos,MA,Oued Moulouya--Sidi Boutayeb,Fès-Boulemane,1,32.99347,-4.052118,891,1,2017
+3554107870,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,6,33.07076,-7.232351,632,11,2021
+3211248515,Turdus philomelos,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2001
+2102818921,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,25,34.013096,-6.813711,11,11,2017
+2675782459,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,2,34.073605,-5.554385,383,3,2019
+2042999379,Turdus philomelos,MA,Open land north side Sidi Wassay,Sous-Massa-Draa,3,30.059013,-9.681436,37,2,2017
+1191937559,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,2,2009
+3272770738,Turdus philomelos,MA,PN Ifrane--domaine général,Meknès-Tafilalet,1,33.560863,-5.199182,1533,3,2008
+1721163387,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+3685609141,Turdus philomelos,ES,Loma del tío Díaz,Ceuta,1,35.912197,-5.366209,89,11,2021
+1394988234,Turdus philomelos,MA,Bois Omar Ibn Khattab (Fôret Moulay Abdellah),Rabat-Salé-Zemmour-Zaer,1,33.996227,-6.840749,63,11,2015
+2107729782,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,15,34.013096,-6.813711,11,11,2017
+3555235544,Turdus philomelos,MA,Auto selecionado,Doukkala-Abda,1,32.533848,-8.373106,205,12,2021
+3642905246,Turdus philomelos,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,11,2021
+1792492082,Turdus philomelos,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,10,30.031328,-9.644645,8,1,2004
+2201184945,Turdus philomelos,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,2,31.255966,-7.973832,1151,3,2011
+1400159728,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2015
+2052633541,Turdus philomelos,MA,Palmeraie d'Igrane,Meknès-Tafilalet,1,31.140299,-4.021103,708,3,2017
+1717496284,Turdus philomelos,MA,Site Archéologique de Volubilis,Meknès-Tafilalet,8,34.073605,-5.554385,383,1,2016
+1787853904,Turdus philomelos,MA,Sidi Yahya,Chaouia-Ouardigha,1,33.826485,-6.903731,129,1,2013
+1205818262,Turdus philomelos,MA,valley below Oukaïmeden,Marrakech-Tensift-Al Haouz,1,31.241133,-7.808833,1892,3,2010
+1716431953,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,2,2016
+1786470746,Turdus philomelos,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+2103646770,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2017
+2109291936,Turdus philomelos,MA,Auberge Casa Linda,Tanger-Tétouan,3,35.158028,-5.25567,698,10,2017
+2185430253,Turdus philomelos,MA,Beni-Snassen 2,L'Oriental,1,34.817028,-2.304479,642,12,2014
+3538470862,Turdus philomelos,MA,Marais d'el-Hotba,Doukkala-Abda,1,32.916702,-8.815498,0,1,2014
+3298586181,Turdus philomelos,MA,Tizi n' Test Pass,Sous-Massa-Draa,1,30.856693,-8.376239,1742,2,2016
+2708649881,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2019
+3214220460,Turdus philomelos,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,12,2004
+2128095022,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,1,2018
+2033751407,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,5,33.04657,-3.981377,868,1,2017
+2093412008,Turdus philomelos,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2017
+3158351299,Turdus philomelos,MA,Bouchbel | بوشبل,Meknès-Tafilalet,1,33.335075,-5.573671,851,3,2020
+2703811418,Turdus philomelos,MA,BenAhmed-terrain de sport,Chaouia-Ouardigha,1,33.075546,-7.243359,636,11,2019
+3606694499,Turdus philomelos,MA,"RP1001, Agadir MA-Souss-Massa-Drâa 30.59931, -9.49683",Sous-Massa-Draa,1,30.599306,-9.496834,637,11,2021
+2092317791,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2017
+2035054960,Turdus philomelos,MA,ECWP Missour,Fès-Boulemane,2,33.006805,-4.097437,948,1,2017
+845076129,Turdus philomelos,MA,Route touristique des Cèdres | الطريق السياحية للمحمية الطبيعية للأرز,Meknès-Tafilalet,1,33.41931,-5.18162,1762,4,2002
+2784736448,Turdus philomelos,MA,"Azrou, Fès-Meknès, MA (33,435, -5,216)",Meknès-Tafilalet,1,33.43502,-5.215761,1311,3,2019
+2139593240,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,2,2018
+2144933791,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,3,2018
+1355907469,Turdus philomelos,MA,MA--Sous-Massa-Draa--Tiznit--Jardin 3 Mars,Sous-Massa-Draa,1,29.694298,-9.724692,244,3,2015
+3609227481,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,12,2021
+3240103763,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,2,33.713158,-6.929712,284,3,2020
+2047962667,Turdus philomelos,MA,Marrakech: Route d'Ouarzazate,Marrakech-Tensift-Al Haouz,1,31.625795,-7.916765,476,2,2017
+3604230633,Turdus philomelos,ES,Melilla,Melilla,1,35.283035,-2.946255,28,1,2021
+1724830319,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,1,31.507856,-7.989421,594,3,2016
+2659927070,Turdus philomelos,MA,Oualjat Bou Khmiss,Rabat-Salé-Zemmour-Zaer,2,33.273766,-6.393217,421,2,2019
+2695739773,Turdus philomelos,MA,Chefchaouen 2,Tanger-Tétouan,1,35.169613,-5.255833,663,12,2018
+2108799280,Turdus philomelos,MA,Moulay-Bousselham Camping Site,Gharb-Chrarda-Beni Hssen,3,34.875065,-6.286141,6,2,2002
+2697278637,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+3291501314,Turdus philomelos,MA,Canyon Lamjalil,Fès-Boulemane,1,32.93156,-3.985917,982,10,2020
+2775425383,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2106274761,Turdus philomelos,MA,Bois Omar Ibn Khattab (Fôret Moulay Abdellah),Rabat-Salé-Zemmour-Zaer,1,33.996227,-6.840749,63,11,2017
+2210341655,Turdus philomelos,MA,PN d'el-Hoceima--domaine général,Taza-Al Hoceima-Taounate,1,35.168297,-4.12948,338,1,2015
+2726966359,Turdus philomelos,MA,R203--champs semi-désertiques entre Marrakesh et Tahnaout,Marrakech-Tensift-Al Haouz,1,31.507856,-7.989421,594,3,2016
+3184382341,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,10,2020
+3216440816,Turdus philomelos,MA,"Oued Sous, 7 km W of Taroudannt",Sous-Massa-Draa,2,30.437746,-8.984692,159,1,2002
+1787903357,Turdus philomelos,MA,Guelmim,Guelmim-Es Smara,1,28.988146,-10.058536,308,2,2008
+3204347821,Turdus philomelos,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,11,2020
+2110758004,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,1,33.071087,-7.258047,552,11,2017
+1721521577,Turdus philomelos,MA,Lac Zerouka,Meknès-Tafilalet,1,33.544254,-5.095575,1616,3,2016
+845077620,Turdus philomelos,MA,Marrakech,Marrakech-Tensift-Al Haouz,1,31.633268,-8.007443,467,2,2001
+3285740618,Turdus philomelos,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,1,2009
+3211986681,Turdus philomelos,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2008
+2123258931,Turdus philomelos,MA,"(35,283, -5,49)",Tanger-Tétouan,3,35.282852,-5.489518,1142,1,2018
+3667193334,Turdus philomelos,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,1,34.02601,-6.814597,10,11,2021
+2119823729,Turdus philomelos,MA,Ijjoukak,Marrakech-Tensift-Al Haouz,3,30.984493,-8.22811,1272,2,2018
+3621282190,Turdus philomelos,EH,Oasis Lemseyed,Western Sahara,2,27.042557,-13.094582,59,1,2010
+1790245737,Turdus philomelos,MA,"45006, Ouarzazate MA-Souss-Massa-Drâa (30,9282,-6,8585)",Sous-Massa-Draa,2,30.928186,-6.858497,1103,1,2004
+970671218,Turdus philomelos,MA,Azrou region,Meknès-Tafilalet,2,33.441574,-5.223038,1275,11,2013
+3544010997,Turdus philomelos,ES,"Arroyo del Infierno--Embalse/Azud ""acceso parcialmente restringido""",Ceuta,1,35.89061,-5.347041,50,1,2021
+1402541772,Turdus philomelos,MA,Lac Bouderoua,Gharb-Chrarda-Beni Hssen,30,34.787796,-5.536895,213,12,2015
+2771836540,Turdus philomelos,MA,Gorges du Todra,Sous-Massa-Draa,2,31.586287,-5.590968,1575,2,2017
+3625979375,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,10,2021
+3634287108,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,4,33.07076,-7.232351,632,10,2021
+2030282770,Turdus philomelos,MA,Site archéologique de Lixus,Tanger-Tétouan,2,35.200455,-6.108988,59,1,2017
+3686117266,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,10,2021
+3210226292,Turdus philomelos,MA,Remparts de Taroudant,Sous-Massa-Draa,1,30.468142,-8.872082,223,3,2008
+3200197477,Turdus philomelos,MA,Zone d'épuration de Missour,Fès-Boulemane,1,33.04657,-3.981377,868,10,2017
+2231581423,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,12,2018
+3564634190,Turdus philomelos,ES,Tarifa--Offshore,Andalucía,1,35.965782,-5.609035,0,3,2021
+2184925820,Turdus philomelos,MA,Reculées de l'oued ez-Zahar,Laâyoune-Boujdour-Sakia el Hamra,1,27.963717,-11.946955,144,2,2018
+3206361577,Turdus philomelos,MA,Aoulouz,Sous-Massa-Draa,1,30.6922,-8.1587,693,3,2006
+2197382933,Turdus philomelos,MA,Beni-Snassen 3,L'Oriental,1,34.833057,-2.34983,455,1,2015
+1356119057,Turdus philomelos,MA,MA--Marrakech-Tensift-Al Haouz--Ourika,Marrakech-Tensift-Al Haouz,1,31.3069,-7.736894,1034,3,2015
+2222179686,Turdus philomelos,MA,Chaabat el-Gherga,Rabat-Salé-Zemmour-Zaer,7,33.75134,-6.932411,227,12,2018
+2053823497,Turdus philomelos,MA,Talasantane,Tanger-Tétouan,2,35.17521,-5.258652,905,3,2017
+2723609596,Turdus philomelos,MA,Vallée de l'Ourika,Marrakech-Tensift-Al Haouz,1,31.239517,-7.664165,1364,3,2013
+1774132518,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,8,33.07076,-7.232351,632,11,2016
+3645468618,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,3,33.07076,-7.232351,632,11,2021
+2111539336,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,1,33.105087,-7.344983,430,12,2017
+3512987558,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,1,35.881878,-5.329693,48,1,2021
+1346430821,Turdus philomelos,MA,Vallée d'Asni,Marrakech-Tensift-Al Haouz,11,31.255966,-7.973832,1151,1,2015
+2216353389,Turdus philomelos,MA,Hotel Le Meridien N'Fis,Marrakech-Tensift-Al Haouz,1,31.619802,-8.007069,463,11,2018
+3574130462,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,11,2021
+1405014990,Turdus philomelos,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2012
+3644309129,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2021
+2116383020,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,1,2018
+3282744157,Turdus philomelos,MA,"R707, Fez-Meknès, MA (33.48, -5.023)",Meknès-Tafilalet,1,33.48005,-5.023485,1847,11,2020
+3569779892,Turdus philomelos,MA,De Bouarfa à Figuig,L'Oriental,2,32.341522,-1.690004,1208,11,2013
+1715317526,Turdus philomelos,MA,سد الحيمر | El-Haiemer Dam,Chaouia-Ouardigha,20,33.105087,-7.344983,430,2,2016
+2798713489,Turdus philomelos,ES,"33 Carretera Benzu, Ceuta, ES (35,901, -5,345)",Ceuta,1,35.90148,-5.34521,7,10,2019
+1613562077,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613320260,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2001
+1613556975,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613552840,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2016
+3587836017,Turdus philomelos,ES,Estación de observación O’Donnell,Ceuta,2,35.881878,-5.329693,48,1,2021
+2728791144,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,40,34.24279,-6.672684,7,3,2007
+3669524818,Turdus philomelos,MA,Jbel Moussa,Tanger-Tétouan,2,35.898125,-5.412033,807,10,2021
+1393116261,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,3,34.00879,-6.847304,26,10,2015
+3258565815,Turdus philomelos,MA,Oued Massa area,Sous-Massa-Draa,2,29.993118,-9.661185,7,2,2011
+2124840244,Turdus philomelos,MA,Marrakech,Marrakech-Tensift-Al Haouz,2,31.62815,-8.001463,456,2,2017
+3694451316,Turdus philomelos,MA,Ain Beni Mathar,L'Oriental,1,34.1816,-2.071598,923,11,2013
+3229180142,Turdus philomelos,MA,"P21, Drâa-Tafilalet, MA (32,096, -4,371)",Meknès-Tafilalet,1,32.096203,-4.370556,1161,2,2020
+2715331633,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2008
+1780820746,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,2,34.00879,-6.847304,26,12,2016
+2790347965,Turdus philomelos,MA,Lac Aguelmame Sidi Ali,Meknès-Tafilalet,1,33.075,-4.994767,2081,12,2019
+2135813018,Turdus philomelos,MA,"N13, Drâa-Tafilalet, MA (32,313, -4,546)",Meknès-Tafilalet,1,32.313183,-4.545674,1364,2,2018
+3683535766,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,2,33.07076,-7.232351,632,11,2021
+2129277408,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,2,2018
+3268207959,Turdus philomelos,MA,Fort Bou Jerif,Guelmim-Es Smara,2,29.082088,-10.331371,85,10,2011
+1713561421,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,2,2016
+3587621764,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,10,33.071087,-7.258047,552,1,2021
+2092835114,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,4,33.07076,-7.232351,632,11,2017
+3296178015,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,12,2012
+3550173446,Turdus philomelos,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,2,33.555717,-7.739337,8,12,2021
+1411078896,Turdus philomelos,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,3,2011
+3647969351,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2021
+3615398360,Turdus philomelos,MA,Jardin d'Essais Botanique | حديقة التجارب النباتية بالرباط,Rabat-Salé-Zemmour-Zaer,1,34.00879,-6.847304,26,12,2021
+2701715236,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+2047954393,Turdus philomelos,MA,Marrakech: Hotel Kenzi Farah,Marrakech-Tensift-Al Haouz,1,31.622307,-8.006158,472,2,2017
+3212809144,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2008
+3575849634,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,32,33.071087,-7.258047,552,11,2021
+2117057138,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,2,2018
+3651844489,Turdus philomelos,MA,"Missour / Igli (33.053, -3.96)",Fès-Boulemane,1,33.052967,-3.959731,860,10,2021
+2783999774,Turdus philomelos,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,12,2015
+2104476287,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2017
+1771153921,Turdus philomelos,MA,BenAhmed Forest Parc | غابة ابن احمد,Chaouia-Ouardigha,1,33.07076,-7.232351,632,11,2016
+2096031560,Turdus philomelos,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,30,33.65042,-5.029721,1470,2,2002
+3244674970,Turdus philomelos,MA,Oued Ziz--Tillicht,Meknès-Tafilalet,2,32.316784,-4.54816,1359,2,2020
+1725214256,Turdus philomelos,MA,Tahnaout,Marrakech-Tensift-Al Haouz,1,31.476181,-7.883965,627,3,2016
+3214127160,Turdus philomelos,MA,Plage d'Akhfenir,Laâyoune-Boujdour-Sakia el Hamra,1,28.086882,-12.08218,10,11,2011
+2121448289,Turdus philomelos,MA,PN Ifran--Cèdre Gouraud,Meknès-Tafilalet,1,33.427013,-5.155838,1678,12,2014
+2736021172,Turdus philomelos,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,2,29.96278,-9.659664,9,3,2019
+1395905999,Turdus philomelos,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,11,2015
+1782546255,Turdus philomelos,EH,Oasis Lemseyed,Western Sahara,2,27.042557,-13.094582,59,1,2010
+3147468076,Turdus philomelos,MA,"N13, Tangier-Tétouan-Al Hoceima, MA (35,027, -5,479)",Tanger-Tétouan,5,35.02715,-5.478885,192,2,2020
+3456887371,Turdus philomelos,MA,,Chaouia - Ouardigha,1,33.078361,-7.250068,577,12,2021
+3997470115,Turdus philomelos,MA,Morocco - Ben Ahmed,,3,33.06902,-7.232122,614,11,2022
+1613190042,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2012
+1613556939,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613478680,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2011
+1613562075,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2016
+2717582392,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,3,33.071087,-7.258047,552,11,2019
+1613303169,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,3,2013
+1613356337,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,2,2007
+1613331588,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613563168,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613563126,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613331557,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2013
+1613331620,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,11,2013
+1613331601,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2014
+1613556970,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1620782682,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613530282,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,12,2012
+1613530341,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,1,2013
+1613447059,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2010
+1620744544,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2018
+1613331580,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2013
+1620744426,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613224271,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2009
+1613231880,Turdus philomelos,ES,Huerta ferrer,Ceuta,1,35.88333,-5.31667,0,2,2003
+1613478725,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,10,2011
+1620782665,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+3732072410,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.070284,-7.231768,625,11,2021
+2845322551,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.544716,-7.75966,12,12,2019
+2832162828,Turdus philomelos,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,30,34.242581,-6.672736,7,12,2010
+3731874515,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.069721,-7.231571,619,11,2021
+3733166545,Turdus philomelos,MA,Morocco - Bouguargouh,,12,33.101333,-7.341642,439,12,2021
+1785064181,Turdus philomelos,MA,Sidi Moussa,Doukkala-Abda,1,32.989086,-8.733644,8,4,2015
+1720856443,Turdus philomelos,MA,March 12 H3 Run,Rabat-Salé-Zemmour-Zaer,5,34.02234,-6.699552,128,3,2016
+3723889511,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.069523,-7.237115,625,10,2021
+3995670199,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.069775,-7.231529,620,11,2022
+1208876464,Turdus philomelos,MA,"Ifrane, Middle Atlas",Fès-Meknès,1,33.539611,-5.20975,1596,3,2010
+1620705837,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1620782695,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2015
+1613320216,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2000
+1613562038,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+2125775076,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,1,2018
+1613562046,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613530329,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,2,2013
+1613296921,Turdus philomelos,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,2,2004
+1620673403,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2015
+1613331563,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2013
+1613320201,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2001
+1613320266,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,11,2001
+1613556945,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613556990,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613224222,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,10,2009
+1620744446,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,10,2017
+1613356146,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2009
+1411077208,Turdus philomelos,MA,R403 francolin site,Chaouia-Ouardigha,1,33.710526,-6.925705,285,3,2011
+1613556942,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2016
+1613356250,Turdus philomelos,ES,Arroyo del infierno,Ceuta,1,35.88333,-5.31667,0,4,2009
+1613569391,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2018
+1613267514,Turdus philomelos,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,2,2006
+1613331596,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2013
+2136511889,Turdus philomelos,MA,Station de traitement d'eau usé de BenAhmed | محطة معالجة المياه العادمة بابن أحمد,Chaouia-Ouardigha,2,33.071087,-7.258047,552,2,2018
+2841174623,Turdus philomelos,MA,Morocco - Dar Bouazza,,3,33.54356,-7.762519,15,1,2020
+3823884036,Turdus philomelos,MA,Morocco - Bouguargouh,,4,33.104281,-7.34117,433,4,2022
+2842809064,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.557426,-7.735758,17,11,2019
+3723183636,Turdus philomelos,MA,Morocco - Bouguargouh,,10,33.114934,-7.333945,475,12,2021
+2845525477,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.542824,-7.765133,17,12,2019
+3997163154,Turdus philomelos,MA,Morocco - Ben Ahmed,,3,33.070116,-7.231464,623,11,2022
+2833132202,Turdus philomelos,MA,Morocco - Lacs du moyen Atlas,,4,33.49003,-5.071775,1697,11,2017
+2839943856,Turdus philomelos,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,3,34.234617,-6.687024,16,1,2011
+3995131351,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.070023,-7.233614,626,10,2022
+2835379305,Turdus philomelos,MA,Morocco - Kénitra - Lac Sidi Bourhaba PN,,1,34.239834,-6.672907,8,2,2012
+2842861184,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.543344,-7.764716,13,10,2017
+2843364509,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.546045,-7.760038,12,2,2017
+2836498138,Turdus philomelos,MA,Morocco - Dar Bouazza,,6,33.55613,-7.739482,10,2,2018
+2841893159,Turdus philomelos,MA,Morocco - Dar Bouazza,,2,33.544649,-7.761354,14,2,2017
+2842588813,Turdus philomelos,MA,Morocco - Dar Bouazza,,2,33.556103,-7.743989,31,11,2019
+3997252326,Turdus philomelos,MA,Morocco - Ben Ahmed,,7,33.070026,-7.232473,622,11,2022
+2834572416,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.542824,-7.765133,17,12,2019
+3723695901,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.072031,-7.237444,636,12,2021
+1613171368,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2011
+1613264839,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,11,2014
+1613531638,Turdus philomelos,ES,Punta blanca,Ceuta,1,35.88333,-5.31667,0,3,2016
+1613530367,Turdus philomelos,ES,Arroyo calamocarro,Ceuta,1,35.88333,-5.31667,0,1,2013
+2845424420,Turdus philomelos,MA,Morocco - Dar Bouazza,,4,33.543308,-7.764245,12,11,2019
+2842926443,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.544327,-7.76267,11,12,2019
+2331160250,Turdus philomelos,MA,"Boumalne, Marokko",,1,31.366537,-5.988922,1530,3,2001
+3731268777,Turdus philomelos,MA,Morocco - Ain Dorbane,,1,33.078986,-7.250662,577,11,2021
+2836006112,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.5426,-7.767,11,12,2016
+3723576590,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.07077,-7.231736,632,1,2022
+2843641321,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.557426,-7.735758,17,11,2019
+2842498286,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.543479,-7.762734,12,12,2017
+2832804284,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.544456,-7.762156,11,2,2017
+2843090550,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.54514,-7.760752,15,1,2020
+2832834485,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.546045,-7.760038,12,2,2017
+2798264554,Turdus philomelos,MA,Réserve Royale de Chasse,Chaouia-Ouardigha,1,33.713158,-6.929712,284,3,2016
+3297534908,Turdus philomelos,MA,"Taounza , Azilal, Tadla Azilal, 70052 (32.092, -6.597)",Tadla-Azilal,5,32.091743,-6.597165,662,2,2020
+4057814398,Turdus philomelos,MA,Morocco - Ben Ahmed,,1,33.070782,-7.234286,635,1,2023
+2835369778,Turdus philomelos,MA,Morocco - Gharb - Chrarda - Béni Hssen,,20,34.239054,-6.676941,12,12,2010
+3997385823,Turdus philomelos,MA,Morocco - Ben Ahmed,,3,33.070206,-7.231636,623,11,2022
+3822699172,Turdus philomelos,MA,Morocco - Bouguargouh,,25,33.114934,-7.334289,472,2,2022
+2841777959,Turdus philomelos,MA,Morocco - Ben Smim,,1,33.427406,-5.148983,1723,2,2019
+2840261293,Turdus philomelos,MA,Morocco - Mehdya,,1,34.252569,-6.66672,9,1,2014
+2845504538,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.553272,-7.743268,12,11,2019
+2832722280,Turdus philomelos,MA,Morocco - Ifrane,,1,33.533763,-5.113702,1621,1,2016
+2843489140,Turdus philomelos,MA,Morocco - Dar Bouazza,,2,33.556103,-7.743989,31,11,2019
+2728071795,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,1,2019
+2714503817,Turdus philomelos,MA,"15026, Khemisset MA-Rabat-Salé-Zemur-Zaer (34,0057,-5,9150)",Rabat-Salé-Zemmour-Zaer,1,34.00571,-5.914988,122,2,2019
+1201940453,Turdus philomelos,EH,Oasis Lemseyed,Western Sahara,2,27.042557,-13.094582,59,1,2010
+3298993560,Turdus philomelos,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,3,2009
+2199317189,Turdus philomelos,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,2,2015
+3693514077,Turdus philomelos,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,12,2021
+2710531984,Turdus philomelos,MA,"(29,9875,-9,6515)",Sous-Massa-Draa,1,29.98752,-9.651463,10,3,2018
+2790046314,Turdus philomelos,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,4,33.556343,-7.739297,11,11,2019
+938286814,Turdus philomelos,MA,"Agadir ,Souss massa",Sous-Massa-Draa,1,30.057209,-9.645996,95,2,2012
+2042878461,Turdus philomelos,MA,Open land north side Sidi Wassay,Sous-Massa-Draa,3,30.059013,-9.681436,37,2,2017
+2838918399,Turdus philomelos,MA,Morocco - Sidi Ouassay,,3,30.029363,-9.64588,11,3,2014
+1613406549,Turdus philomelos,ES,Monte hacho,Ceuta,1,35.88333,-5.31667,0,10,2007
+1620744486,Turdus philomelos,ES,Lomas de los huesos,Ceuta,1,35.88333,-5.31667,0,12,2018
+1613447072,Turdus philomelos,ES,Cañas de ferrer,Ceuta,1,35.88333,-5.31667,0,3,2010
+2833217654,Turdus philomelos,MA,Morocco - Dar Bouazza,,1,33.543254,-7.765896,9,12,2017
+3723185730,Turdus philomelos,MA,Morocco - Bouguargouh,,5,33.099476,-7.340297,439,12,2021
+2843478574,Turdus philomelos,MA,Morocco - Dar Bouazza,,2,33.544328,-7.76227,11,11,2017

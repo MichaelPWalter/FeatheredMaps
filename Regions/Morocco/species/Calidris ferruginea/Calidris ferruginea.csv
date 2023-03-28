@@ -1,0 +1,743 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3289046057,Calidris ferruginea,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,9,2005
+2199003798,Calidris ferruginea,MA,Ouled Mhamed,Doukkala-Abda,3,32.631138,-8.782539,125,9,2018
+1773095016,Calidris ferruginea,MA,"Unbekannter Ort - 30,351x-9,569 - 09.11.2016 11:51",Sous-Massa-Draa,12,30.350832,-9.568792,16,11,2016
+2705438916,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,10,32.781796,-8.973387,7,10,2019
+2773861892,Calidris ferruginea,MA,"Merjda Khaloufa, Rabat-Salé-Kénitra, MA (34.958, -6.252)",Gharb-Chrarda-Beni Hssen,3,34.957634,-6.251506,13,9,2019
+3542466658,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,15,33.556343,-7.739297,11,9,2021
+2701824141,Calidris ferruginea,MA,PN Souss-Massa--réserve animalière de Roukein,Sous-Massa-Draa,2,30.28438,-9.580526,24,4,2002
+2217960780,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,20,32.736244,-9.039345,4,4,2011
+2832781548,Calidris ferruginea,MA,Morocco - Marais de El Otba,,25,32.9363,-8.7933,0,5,2016
+2204627436,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,50,32.736244,-9.039345,4,9,2018
+2095099182,Calidris ferruginea,MA,Ouled Mhamed,Doukkala-Abda,3,32.631138,-8.782539,125,9,2017
+1203338937,Calidris ferruginea,MA,Morocco--Agadir area,Sous-Massa-Draa,1,30.431446,-9.584223,79,3,2006
+1789940724,Calidris ferruginea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,9,2009
+2116282062,Calidris ferruginea,MA,Oualidia,Doukkala-Abda,10,32.732445,-9.035308,50,4,2017
+2764281754,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,21,33.54445,-7.761624,14,8,2019
+2788410608,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,8,30.070282,-9.662819,21,11,2019
+1168979180,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2014
+2740287489,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2019
+2145913328,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2018
+2740110654,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,10,2011
+2139304411,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,100,32.781796,-8.973387,7,4,2018
+2211624728,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,9,2018
+2785281583,Calidris ferruginea,MA,Lac Aguelmame Sidi Ali,Meknès-Tafilalet,1,33.075,-4.994767,2081,9,2019
+3192010616,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,11,33.54445,-7.761624,14,8,2020
+2755672020,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+1370839382,Calidris ferruginea,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+2675082012,Calidris ferruginea,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,20,33.664238,-7.450829,13,4,2019
+2719171093,Calidris ferruginea,MA,"Oued Massa Reserve (30.0678, -9.6822)",Sous-Massa-Draa,1,30.0678,-9.6822,7,9,2019
+1191779188,Calidris ferruginea,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,10,27.161089,-13.185421,22,1,2010
+1389969897,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2001
+966152650,Calidris ferruginea,MA,Sous-Massa National Park,Sous-Massa-Draa,4,30.168875,-9.656982,0,9,2013
+3257310615,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,2,2020
+3277105269,Calidris ferruginea,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,8,2001
+2088906112,Calidris ferruginea,MA,Ouled Mhamed,Doukkala-Abda,2,32.631138,-8.782539,125,10,2017
+2679729706,Calidris ferruginea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,7,34.861694,-6.277668,10,4,2019
+3185571051,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,8,2020
+2769107301,Calidris ferruginea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,3,29.922,-9.623,14,9,2013
+2788659741,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2019
+1402859907,Calidris ferruginea,MA,Sidi R´bat (Souss Massa),Sous-Massa-Draa,16,30.067562,-9.662948,12,5,2015
+1355674593,Calidris ferruginea,MA,Agadir (general area),Sous-Massa-Draa,1,30.419369,-9.608402,10,3,2015
+1723999356,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,3,2016
+2133434843,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,25,30.36236,-9.586773,10,4,2018
+2796941178,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2007
+2748187194,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,10,28.04759,-12.226908,0,9,2019
+3678828061,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,4,33.556343,-7.739297,11,9,2021
+2791384417,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,11,2004
+2097094472,Calidris ferruginea,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+1721244272,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,3,2016
+2794318126,Calidris ferruginea,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,1,33.892357,-7.004562,12,9,2019
+2096427082,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2014
+2666489541,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,13,30.36236,-9.586773,10,4,2019
+1355035552,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2143334387,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2018
+3660792424,Calidris ferruginea,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,1,33.555717,-7.739337,8,10,2021
+3208994799,Calidris ferruginea,MA,MA-Mohammedia (Remnat Marsh),Grand Casablanca,30,33.667343,-7.44665,8,4,2019
+1391754588,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,3,31.093885,-4.051035,696,4,2012
+3205114941,Calidris ferruginea,MA,Smir Lagune | واد سمير,Tanger-Tétouan,1,35.717155,-5.33949,7,9,2005
+3659870989,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2018
+2198610566,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+2201744060,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2017
+3277795601,Calidris ferruginea,MA,MA-Agadir (Oued Sous),Sous-Massa-Draa,2,30.366068,-9.591254,11,4,2016
+943191060,Calidris ferruginea,MA,Guelmim: Oued Assaka,Guelmim-Es Smara,3,28.970001,-10.228271,180,3,2011
+2154622276,Calidris ferruginea,MA,"(33,5445,-7,7594)",Grand Casablanca,8,33.544533,-7.75944,14,4,2018
+2668910297,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2019
+3579167270,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2018
+3298974675,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,6,2002
+3545274275,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+3641412200,Calidris ferruginea,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+2698486113,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2019
+2760613040,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2151587380,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,4,2018
+2040548575,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2681844216,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+3283930293,Calidris ferruginea,MA,Lac de Sidi Bourhaba,Gharb-Chrarda-Beni Hssen,1,34.242977,-6.672722,7,4,2016
+1207962795,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+2698391552,Calidris ferruginea,MA,"(33,5445,-7,7594)",Grand Casablanca,8,33.544533,-7.75944,14,4,2018
+3565109500,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,9,2021
+3551085857,Calidris ferruginea,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,12,2021
+2760361401,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+2670317727,Calidris ferruginea,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,20,33.664238,-7.450829,13,4,2019
+2769367798,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,18,32.781796,-8.973387,7,9,2019
+2668605131,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+3270769892,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+3568118182,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,11,2013
+2801380679,Calidris ferruginea,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,1,33.892357,-7.004562,12,9,2019
+2796099795,Calidris ferruginea,MA,"P1018, Chtouka Ait Baha MA-Souss-Massa-Drâa (30.0412,-9.6433)",Sous-Massa-Draa,1,30.041162,-9.643323,15,9,2019
+2116299329,Calidris ferruginea,MA,Sidi El Abed,Doukkala-Abda,2,33.044956,-8.689619,13,4,2017
+2707439281,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,9,2019
+1370836883,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2157564846,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2687279563,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2016
+2043906697,Calidris ferruginea,MA,"MA-Rabat-Salé-Zemur-Zaer-Sjirat - 33,858x-7,048 - 15 abr. 2017 14:57",Rabat-Salé-Zemmour-Zaer,6,33.858486,-7.047993,20,4,2017
+2672614442,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2007
+2223938889,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,12,2018
+2786861191,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2116289448,Calidris ferruginea,MA,Sidi El Abed,Doukkala-Abda,1,33.044956,-8.689619,13,4,2017
+3233836359,Calidris ferruginea,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,1,30.346031,-9.568678,8,3,2020
+2164018485,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+2723318923,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2018
+2160586383,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2171834652,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2018
+2755504241,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2019
+2201858421,Calidris ferruginea,MA,PN Lagune de Mar Chica,L'Oriental,1,35.143166,-2.780504,5,1,2015
+3182697494,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,8,30.36236,-9.586773,10,9,2020
+3642271325,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2021
+2752351971,Calidris ferruginea,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,1,33.992977,-6.801205,9,4,2019
+2724814502,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,12,31.093885,-4.051035,696,4,2019
+2745327135,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,3,2007
+1785068691,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2015
+2782568689,Calidris ferruginea,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,1,27.161089,-13.185421,22,11,2004
+2718958805,Calidris ferruginea,MA,Marais d'el-Hotba,Doukkala-Abda,5,32.916702,-8.815498,0,4,2007
+3555155196,Calidris ferruginea,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,1,33.555717,-7.739337,8,10,2021
+3649696553,Calidris ferruginea,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,1,35.203236,-6.133841,7,12,2021
+3216659674,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,6,2002
+3662109261,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2008
+2799952159,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,10,2019
+2681766034,Calidris ferruginea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,1,30.64619,-9.884273,16,4,2018
+2161770322,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+1177939672,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,6,2014
+2663536257,Calidris ferruginea,MA,"Unnamed Road, Inezgane, Souss Massa, MA (30,346, -9,569)",Sous-Massa-Draa,5,30.345942,-9.568555,8,3,2019
+2699950307,Calidris ferruginea,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2019
+2747720840,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,90,32.997078,-8.73114,7,8,2019
+2154611663,Calidris ferruginea,MA,"(29,3875,-10,1701)",Sous-Massa-Draa,7,29.387499,-10.170066,9,3,2018
+2231085643,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,12,2018
+2108807236,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,4,30.070282,-9.662819,21,3,2002
+2153862128,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3193441133,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,8,2008
+2762516710,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,20,34.855213,-6.270397,8,11,2019
+1385359670,Calidris ferruginea,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,3,34.8549,-6.2753,10,12,2009
+3214538492,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2013
+3197357254,Calidris ferruginea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,5,2006
+2671152345,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2019
+1782689042,Calidris ferruginea,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,10,27.161089,-13.185421,22,1,2010
+2756181140,Calidris ferruginea,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,5,33.987755,-6.797646,8,3,2019
+1166125586,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2014
+3005210806,Calidris ferruginea,MA,,Oriental,1,35.11988,-2.334749,6,4,2016
+1723931351,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,3,2016
+3947160647,Calidris ferruginea,MA,,Souss - Massa - Draâ,1,30.04557,-9.566698,73,10,2022
+2679782338,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,4,2019
+2115157852,Calidris ferruginea,EH,Laâyoune,Western Sahara,2,27.186726,-13.222977,75,2,2017
+2838869126,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,100,32.785225,-8.970966,8,8,2014
+2682177431,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2088505967,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,8,2017
+966426549,Calidris ferruginea,MA,Loukkos Estuary,Tanger-Tétouan,7,35.195183,-6.125122,7,7,2008
+3694161725,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,10,2021
+2833541610,Calidris ferruginea,MA,Morocco - Oualidia,,3,32.776951,-8.976419,29,3,2019
+3604548435,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,1,2021
+2695099632,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,100,32.781796,-8.973387,7,8,2019
+3649237776,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,1,2009
+2838642133,Calidris ferruginea,MA,Morocco - Essaouira,,5,31.485415,-9.768584,8,9,2013
+3724810735,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,1,32.892921,-8.84305,11,6,2017
+2127204818,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,11,2002
+3266179025,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,12,2017
+3162747165,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,10,2003
+2242818272,Calidris ferruginea,MA,,Gharb - Chrarda - Béni Hssen,1,34.856861,-6.280647,11,4,2019
+2833144084,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,7,32.780707,-8.977489,9,9,2017
+3727075048,Calidris ferruginea,MA,Morocco - Madagh,,3,35.118454,-2.329518,6,8,2020
+2840696472,Calidris ferruginea,MA,Morocco - Agadir,,1,30.366535,-9.599339,8,2,2014
+2838332448,Calidris ferruginea,MA,Morocco - Rharb\n,,10,35.108233,-6.125823,28,9,2011
+2839067202,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,1,35.203831,-6.135178,7,10,2013
+2179538536,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,5,2018
+2193914245,Calidris ferruginea,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,5,30.346031,-9.568678,8,9,2018
+1791458960,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,40,30.36236,-9.586773,10,4,2005
+2153814165,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+1395561155,Calidris ferruginea,MA,Embouchure Oued Ksob depuis le pont de DiabatMA-Marrakesh-Tensift-El Haouz-Diabat - 31.4845x-9.7657 - 23 juil. 2014 07:26,Marrakech-Tensift-Al Haouz,4,31.484526,-9.765669,8,7,2014
+3666133069,Calidris ferruginea,MA,المرجة الزرقاء (موقع رامسار) -- مناقع دلالحة | Merja Zerga--Marais de Dlalha,Gharb-Chrarda-Beni Hssen,8,34.85138,-6.235814,7,10,2016
+2034982010,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2017
+3656995062,Calidris ferruginea,MA,Daya de Khemis Zemamra,Doukkala-Abda,2,32.629055,-8.780619,125,10,2013
+2161519116,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,5,2018
+2774401201,Calidris ferruginea,MA,Oued Noun,Sous-Massa-Draa,2,29.139307,-10.40838,10,9,2019
+3555852590,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,5,30.070282,-9.662819,21,1,2009
+2788838209,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,4,32.781796,-8.973387,7,10,2019
+2726684193,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2007
+3212281853,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2003
+2157591813,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+2726816378,Calidris ferruginea,MA,Daya de Tnine Gharbia,Doukkala-Abda,30,32.61937,-8.850378,122,4,2009
+2702565411,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2019
+3265393138,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,10,2020
+821548703,Calidris ferruginea,MA,Agadir - Oued Sous,Sous-Massa-Draa,4,30.269228,-9.612263,74,3,2001
+1409906396,Calidris ferruginea,MA,Agadir area,Sous-Massa-Draa,10,30.4013,-9.5911,29,3,2015
+3205514479,Calidris ferruginea,MA,Oualidia,Doukkala-Abda,1,32.78786,-8.9675,10,4,2016
+2140926919,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2018
+2210012786,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,12,2018
+2768463566,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2019
+2719874574,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,50,28.04759,-12.226908,0,4,2018
+2776587403,Calidris ferruginea,MA,Tamri,Sous-Massa-Draa,5,30.696974,-9.834137,11,5,2001
+2702801412,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2019
+3627556975,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,20,32.781796,-8.973387,7,10,2021
+2785033598,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,200,34.855213,-6.270397,8,4,2016
+2198997979,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,50,32.736244,-9.039345,4,9,2018
+2165518165,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+2157385190,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2752914174,Calidris ferruginea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,7,34.861694,-6.277668,10,4,2019
+2712876352,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2018
+3694648578,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,1,32.736244,-9.039345,4,2,2018
+1729922689,Calidris ferruginea,MA,Essouira area,Marrakech-Tensift-Al Haouz,1,31.501532,-9.750795,15,4,2016
+2700814015,Calidris ferruginea,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2019
+2100731143,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,2,32.736244,-9.039345,4,10,2017
+3656093390,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,4,31.486546,-9.769808,9,10,2021
+1402497108,Calidris ferruginea,MA,Ouarzazate (general area),Sous-Massa-Draa,2,30.918377,-6.917866,1132,9,2014
+2757867993,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,5,2016
+3655673094,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,4,2004
+2097825246,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+2661203090,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+2150656439,Calidris ferruginea,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+3551970575,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,21,32.997078,-8.73114,7,10,2021
+3274720469,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,2,2012
+2145815620,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2766790557,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,3,32.997078,-8.73114,7,9,2019
+1791392158,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,10,2006
+3650338346,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,20,30.918804,-6.835792,1093,4,2008
+2711286257,Calidris ferruginea,MA,"(29,3875,-10,1701)",Sous-Massa-Draa,7,29.387499,-10.170066,9,3,2018
+1784987662,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,3,31.486546,-9.769808,9,7,2014
+2773916852,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,9,2013
+3198188621,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,30,30.070282,-9.662819,21,4,2009
+3205809388,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2005
+2774628700,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,9,2019
+3216298152,Calidris ferruginea,MA,Oualidia tidal marshes,Doukkala-Abda,10,32.75977,-9.007502,5,11,2012
+3278562552,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,50,30.36236,-9.586773,10,10,2020
+2749398023,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+1791256312,Calidris ferruginea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,3,35.195835,-6.111832,7,10,2007
+2716045806,Calidris ferruginea,MA,"Souss Massa Entrance, Sidi Binzarne, Souss Massa, MA (30.043, -9.644)",Sous-Massa-Draa,1,30.042852,-9.644431,13,9,2019
+2727016224,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,11,2008
+3635349978,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+3192961784,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,40,30.918804,-6.835792,1093,4,2009
+3269539906,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,10,28.04759,-12.226908,0,11,2011
+2768956848,Calidris ferruginea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,4,2016
+2160706524,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2018
+3216313029,Calidris ferruginea,MA,Lac Aguelmame Sidi Ali,Meknès-Tafilalet,1,33.075,-4.994767,2081,9,2019
+3279300907,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2005
+2150695598,Calidris ferruginea,MA,Sidi Abed Salines,Doukkala-Abda,20,33.04164,-8.693724,26,4,2007
+3140523196,Calidris ferruginea,MA,"80000, Agadir MA-Souss-Massa-Drâa 30.40810, -9.59612",Sous-Massa-Draa,3,30.408102,-9.59612,27,3,2020
+2752427393,Calidris ferruginea,MA,واد ماسة -- الجوابر | Oued Massa-- Mares d'El Jouaber,Sous-Massa-Draa,2,29.922,-9.623,14,9,2013
+2787233424,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2017
+2192100081,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,1,33.82877,-7.11999,13,10,2018
+2751835258,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+1787897721,Calidris ferruginea,MA,Oued Sous,Sous-Massa-Draa,1,30.356562,-9.590331,13,4,2006
+2715358015,Calidris ferruginea,MA,Wadi | Noun River,Sous-Massa-Draa,2,29.093609,-10.334455,62,4,2012
+3246076964,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,3,2020
+3263857580,Calidris ferruginea,MA,Vallée du Souss--général,Sous-Massa-Draa,1,30.388638,-9.333913,51,4,2003
+3572956493,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,4,32.781796,-8.973387,7,3,2019
+2157198916,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+2699310174,Calidris ferruginea,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,1,33.892357,-7.004562,12,9,2019
+2225729172,Calidris ferruginea,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2017
+2685036367,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2019
+2706209847,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,10,32.781796,-8.973387,7,4,2016
+2157946033,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+3245804978,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,8,2020
+2768003390,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2120096573,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,3,2018
+1789922946,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2009
+2726571808,Calidris ferruginea,MA,Oued Chbika,Guelmim-Es Smara,2,28.290892,-11.531591,0,4,2018
+2155763123,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,7,30.918804,-6.835792,1093,4,2018
+3295994424,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,3,32.997078,-8.73114,7,4,2006
+2670601948,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,15,31.093885,-4.051035,696,4,2019
+2147265860,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,4,2018
+2229975587,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,30,32.736244,-9.039345,4,4,2011
+2745707995,Calidris ferruginea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,5,29.96278,-9.659664,9,3,2019
+3203973851,Calidris ferruginea,MA,العرائش -- برك الملح بسافلة اللكوس| Salines du bas Loukkos - Larache,Tanger-Tétouan,4,35.203236,-6.133841,7,4,2007
+2664996644,Calidris ferruginea,MA,Daya de Takaddoum (ضاية التقدم),Rabat-Salé-Zemmour-Zaer,5,33.987755,-6.797646,8,3,2019
+2764539311,Calidris ferruginea,MA,Oued Bou Regreg--Quartier Industriel,Rabat-Salé-Zemmour-Zaer,1,33.992977,-6.801205,9,4,2019
+2788405827,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,4,2019
+2751141481,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2019
+2056238206,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2798335373,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,4,2018
+2718692604,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,200,30.36236,-9.586773,10,5,2001
+1407517424,Calidris ferruginea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,4,35.195835,-6.111832,7,9,2014
+2149390647,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,4,2018
+3201094807,Calidris ferruginea,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,1,35.015804,-6.214134,14,9,2003
+2224730887,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,3,28.04759,-12.226908,0,10,2018
+3235827622,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,2,2020
+3199132391,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2003
+3214625453,Calidris ferruginea,MA,"Marsh area, Road 316, El Jadida",Doukkala-Abda,3,33.13284,-8.593956,57,5,2010
+2741766113,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2007
+1786478628,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2015
+2705370721,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+3272449519,Calidris ferruginea,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,3,2007
+2204395671,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,1,33.82877,-7.11999,13,10,2018
+1396345603,Calidris ferruginea,MA,Oued Sous,Sous-Massa-Draa,2,30.3624,-9.5871,11,4,2007
+3287730691,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,8,33.54445,-7.761624,14,9,2020
+2783228527,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,150,28.04759,-12.226908,0,3,2018
+2225752499,Calidris ferruginea,MA,PN Khnifiss--domaine général,Laâyoune-Boujdour-Sakia el Hamra,1,28.001081,-12.342865,7,4,2017
+3297036119,Calidris ferruginea,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+3251215681,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,4,30.36236,-9.586773,10,10,2020
+3644765688,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,12,2018
+2702570104,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,9,2019
+2775118149,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,12,33.82877,-7.11999,13,4,2019
+2160707917,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3684167765,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,6,33.556343,-7.739297,11,9,2021
+2151500176,Calidris ferruginea,MA,Daya de Khemis Zemamra,Doukkala-Abda,300,32.629055,-8.780619,125,4,2018
+3679230197,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,4,2018
+3284023637,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,13,33.54445,-7.761624,14,9,2020
+2715352285,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2019
+2699831174,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,9,2019
+3184681705,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2020
+2717270844,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,50,28.04759,-12.226908,0,4,2018
+2092924210,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,9,2017
+2117166788,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,11,2002
+3295904488,Calidris ferruginea,MA,Oualidia tidal marshes,Doukkala-Abda,30,32.75977,-9.007502,5,3,2007
+3686844677,Calidris ferruginea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,10,2021
+2139290676,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,23,32.997078,-8.73114,7,4,2018
+1757474181,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,8,34.013096,-6.813711,11,8,2016
+946967185,Calidris ferruginea,MA,MA-Meknès-Tafilalet - 31.0967x-4.0589 - 14 apr. 2013 17:48,Meknès-Tafilalet,20,31.096708,-4.058892,696,4,2013
+1369598576,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,5,2015
+2735653385,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+1369142947,Calidris ferruginea,MA,Sidi Moussa,Doukkala-Abda,4,32.996655,-8.730032,7,5,2015
+3644758631,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,17,33.556343,-7.739297,11,9,2021
+2723200865,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2019
+2774504202,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,9,33.54445,-7.761624,14,10,2019
+3295408003,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2013
+2204628363,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,10,32.736244,-9.039345,4,9,2018
+2222721967,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2018
+2699054597,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,11,2013
+1168094567,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2014
+3279025715,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,6,2002
+2157412930,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2219363282,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,2,2000
+1791388599,Calidris ferruginea,MA,شاطئ القصبة (الصخيرات ) | Plage Kasbah (Rose Marie),Rabat-Salé-Zemmour-Zaer,3,33.88976,-7.013904,12,10,2006
+3581901257,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,6,33.556343,-7.739297,11,9,2021
+2771235205,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,3,32.997078,-8.73114,7,9,2019
+2788949478,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,2,32.997078,-8.73114,7,10,2019
+2701421117,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,2,33.54445,-7.761624,14,9,2019
+2690270119,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2018
+2140210812,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,7,34.013096,-6.813711,11,4,2018
+2663109190,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+2844446314,Calidris ferruginea,MA,Morocco - Oualidia,,1,32.730243,-9.04747,8,10,2018
+2835538897,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.803071,-8.942184,30,2,2011
+2840426067,Calidris ferruginea,MA,Morocco - Essaouira,,4,31.485955,-9.769056,7,9,2013
+2719397531,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,22,32.781796,-8.973387,7,10,2019
+2832315272,Calidris ferruginea,MA,Morocco - Oualidia,,8,32.78345,-8.973513,8,5,2012
+2840710817,Calidris ferruginea,MA,Morocco - Agadir,,20,30.360242,-9.580235,8,4,2012
+2838144960,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,100,32.82462,-8.918762,2,7,2010
+2839022529,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.786395,-8.966222,8,4,2013
+2832391037,Calidris ferruginea,MA,Morocco - Marais de El Otba,,3,32.919944,-8.810005,10,9,2013
+2832466525,Calidris ferruginea,MA,Morocco - Agadir,,8,30.361535,-9.576784,14,3,2014
+2844874547,Calidris ferruginea,MA,Morocco - Oued Sous,,3,30.362388,-9.602809,6,4,2012
+2839850297,Calidris ferruginea,MA,Morocco - Oualidia,,15,32.740328,-9.031716,7,10,2010
+2839974739,Calidris ferruginea,MA,Morocco - Essaouira,,3,31.484751,-9.767106,7,4,2012
+2842581007,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,8,32.780202,-8.974685,11,9,2017
+2839411953,Calidris ferruginea,MA,Morocco - Agadir,,20,30.365192,-9.592458,7,4,2013
+2832242011,Calidris ferruginea,MA,Morocco - Oualidia,,64,32.76402,-9.006858,8,8,2012
+2797396019,Calidris ferruginea,MA,واد اللكوس -- مناقع سافلة حوض اللكوس ( موقع لكسوس) | Marais du Bas Loukkos--domaine général,Tanger-Tétouan,1,35.195835,-6.111832,7,9,2019
+2798592508,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,9,2019
+2838455373,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,12,32.871652,-8.869193,10,10,2011
+2840180517,Calidris ferruginea,MA,Morocco - Oued Sous,,1,30.364951,-9.60072,7,11,2011
+2836659188,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,6,32.783203,-8.971819,10,4,2019
+3615129754,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,90,32.997078,-8.73114,7,4,2021
+2778025745,Calidris ferruginea,MA,Daya de Khemis Zemamra,Doukkala-Abda,9,32.629055,-8.780619,125,8,2019
+3595812873,Calidris ferruginea,EH,Oued Saquiat Al-Hamra--Laayoune,Western Sahara,10,27.161089,-13.185421,22,1,2010
+2096032595,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,2,35.152462,-6.102734,13,2,2002
+2839486602,Calidris ferruginea,MA,Morocco - Agadir,,2,30.364605,-9.599032,8,3,2015
+2839352498,Calidris ferruginea,MA,Morocco - Merja Zerga Parque National,,20,34.861749,-6.28532,10,2,2014
+2832265984,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,4,35.184764,-6.132015,7,8,2010
+2835733951,Calidris ferruginea,MA,Morocco - Marais de El Otba,,2,32.918719,-8.814239,0,8,2013
+2838136994,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.782061,-8.973835,7,4,2010
+2840859016,Calidris ferruginea,MA,Morocco - Agadir,,1,30.366033,-9.598789,11,8,2013
+3291399842,Calidris ferruginea,MA,منتزه سيدي بوغابة | PN Sidi Boughaba,Gharb-Chrarda-Beni Hssen,1,34.24279,-6.672684,7,4,2016
+2838395717,Calidris ferruginea,MA,Morocco - Oualidia,,60,32.780366,-8.977804,8,4,2012
+3715761366,Calidris ferruginea,MA,Morocco - Marais de El Otba,,2,32.9353,-8.7898,9,4,2018
+2818740383,Calidris ferruginea,MA,,Meknès - Tafilalet,1,31.1011,-4.061249,694,2,2020
+2836800393,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,100,32.781645,-8.974341,9,4,2017
+2834139966,Calidris ferruginea,MA,Morocco - Oued Sous,,10,30.363964,-9.601459,6,8,2010
+920909073,Calidris ferruginea,MA,Oued Massa / Marokko,,1,30.063412,-9.66475,13,1,2014
+2839598889,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.782061,-8.973835,7,4,2010
+2832355331,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,1,35.206178,-6.133461,8,9,2011
+2840809959,Calidris ferruginea,MA,Morocco - Laouamra,,10,35.161905,-6.106376,3,5,2012
+2833665013,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,4,32.789425,-8.969254,7,3,2019
+2083322533,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,2,34.855213,-6.270397,8,7,2017
+3892426160,Calidris ferruginea,MA,,Souss - Massa - Draâ,1,30.959753,-6.74232,1093,8,2022
+2840023037,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,7,32.780707,-8.977489,9,9,2017
+2143666391,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2017
+2838569989,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,15,32.822237,-8.931069,0,5,2010
+2835509092,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,15,32.78143,-8.975229,11,9,2013
+2839065864,Calidris ferruginea,MA,Morocco - Agadir,,3,30.366969,-9.595495,11,6,2014
+2838390840,Calidris ferruginea,MA,Morocco - Essaouira,,10,31.496436,-9.76574,16,5,2012
+2838455715,Calidris ferruginea,MA,Morocco - Essaouira,,2,31.492501,-9.767504,14,5,2012
+2832347383,Calidris ferruginea,MA,Morocco - Agadir,,2,30.362508,-9.598274,4,11,2012
+2840288461,Calidris ferruginea,MA,Morocco - Oualidia,,8,32.781357,-8.976002,9,3,2013
+2841518634,Calidris ferruginea,MA,Morocco - Agadir,,20,30.365192,-9.592458,7,4,2013
+2838918850,Calidris ferruginea,MA,Morocco - Agadir,,1,30.366892,-9.59816,11,6,2014
+2838525187,Calidris ferruginea,MA,Morocco - Agadir,,1,30.363026,-9.597931,6,6,2012
+2839264168,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,20,32.977852,-8.755159,7,8,2014
+2839733799,Calidris ferruginea,MA,Morocco - Oued Sous,,3,30.362388,-9.602809,6,4,2012
+2710015964,Calidris ferruginea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,6,30.64619,-9.884273,16,4,2014
+2771357556,Calidris ferruginea,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,20,33.664238,-7.450829,13,4,2019
+3300532196,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,3,2013
+2165180697,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,5,2018
+2172277615,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,5,2018
+3555590873,Calidris ferruginea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,2,30.64619,-9.884273,16,9,2021
+2222721458,Calidris ferruginea,MA,Ouled Mhamed,Doukkala-Abda,3,32.631138,-8.782539,125,10,2018
+3693831244,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2715020050,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,9,2019
+3217667638,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,2,2020
+3669389964,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,8,32.997078,-8.73114,7,9,2021
+2698210961,Calidris ferruginea,MA,Plage Blanche,Guelmim-Es Smara,20,28.961557,-10.60406,16,9,2019
+1791460875,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,20,30.070282,-9.662819,21,4,2005
+1167608075,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+1789062386,Calidris ferruginea,MA,Kasbah Perle du Dades,Sous-Massa-Draa,1,31.322363,-6.006032,1499,10,2013
+2229850385,Calidris ferruginea,MA,بحيرة الواليدية | Lagune d'Oualidia--domaine général,Doukkala-Abda,20,32.736244,-9.039345,4,4,2011
+3666312577,Calidris ferruginea,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,2,32.99642,-8.731345,7,10,2021
+2760869507,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,4,2019
+2761356731,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,3,2007
+2801843352,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2007
+3579699626,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2013
+2165054624,Calidris ferruginea,MA,"Had Gharbia, general area",Tanger-Tétouan,7,35.518326,-5.930815,89,5,2018
+3545113924,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2726654952,Calidris ferruginea,MA,Oued Draa - Draa Valley | Passage,Guelmim-Es Smara,3,28.554478,-11.050788,11,4,2012
+1731144897,Calidris ferruginea,MA,Vallée de Kasbat Ayir,Doukkala-Abda,24,32.710217,-9.064321,8,4,2016
+2729898621,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,3,2018
+2725672489,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,3,2013
+3290552904,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,11,30.070282,-9.662819,21,4,2003
+2175733568,Calidris ferruginea,MA,"Had Gharbia, general area",Tanger-Tétouan,7,35.518326,-5.930815,89,5,2018
+2769798341,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,9,2019
+2731746560,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,12,33.82877,-7.11999,13,4,2019
+3274693942,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,13,33.54445,-7.761624,14,9,2020
+3643079384,Calidris ferruginea,MA,Daya de Khemis Zemamra,Doukkala-Abda,3,32.629055,-8.780619,125,10,2013
+3633247291,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,22,33.556343,-7.739297,11,9,2021
+2148070957,Calidris ferruginea,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+2718346604,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,3,2016
+1197798154,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,2,30.185549,-9.627369,90,10,2014
+3298174346,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,2,30.918804,-6.835792,1093,4,2003
+3634120747,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2009
+2153219060,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,5,30.185549,-9.627369,90,5,2005
+2153835441,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2018
+1369594468,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,5,2015
+2772052517,Calidris ferruginea,MA,El Merdja Salines,Doukkala-Abda,1,32.83036,-8.909845,4,4,2007
+2669390852,Calidris ferruginea,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,20,33.664238,-7.450829,13,4,2019
+2696996784,Calidris ferruginea,MA,PN Souss-Massa--Ifenntar,Sous-Massa-Draa,5,29.96278,-9.659664,9,3,2019
+2097182130,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2017
+3656227860,Calidris ferruginea,MA,Oued Souss--pont d'Inezgane,Sous-Massa-Draa,3,30.346031,-9.568678,8,4,2019
+2666162944,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+3284557310,Calidris ferruginea,MA,Dayat Lagzimir,L'Oriental,1,33.5617,-2.78314,1180,10,2013
+3144372386,Calidris ferruginea,MA,"Lagune de Sidi Moussa, MA (32.996, -8.731)",Doukkala-Abda,4,32.99642,-8.731345,7,1,2020
+2218359867,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,4,2011
+2148300785,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,6,30.918804,-6.835792,1093,4,2018
+1194066204,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2014
+2782990673,Calidris ferruginea,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,1,33.892357,-7.004562,12,9,2019
+1721989318,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2016
+2104359800,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+3200869039,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,10,2020
+2147431845,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,1,30.918804,-6.835792,1093,4,2018
+1409454242,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,10,2014
+2669639742,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,6,32.781796,-8.973387,7,3,2019
+1395577138,Calidris ferruginea,MA,Oued Souss entre embouchure et innezgane - MA-Souss-Massa-Draa-Inezgane - 30.3491x-9.5675 - 22 juil. 2014 08:07,Sous-Massa-Draa,2,30.34907,-9.567516,12,7,2014
+2720888174,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,15,30.36236,-9.586773,10,4,2018
+2741371787,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2130572896,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,150,28.04759,-12.226908,0,3,2018
+2764684457,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,2,31.093885,-4.051035,696,4,2019
+2119093359,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2017
+3208343938,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2003
+2149437462,Calidris ferruginea,MA,المنتزه الوطني تامري | Tamri NP,Sous-Massa-Draa,15,30.64619,-9.884273,16,5,2005
+1763638402,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,1,31.093885,-4.051035,696,4,2008
+3652932570,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,4,2004
+967576495,Calidris ferruginea,MA,"Lukos River, Morocco",Gharb-Chrarda-Beni Hssen,1,34.854576,-6.215461,6,9,2013
+3211847566,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,10,2003
+2669138258,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,12,33.82877,-7.11999,13,4,2019
+3150931009,Calidris ferruginea,MA,"80000, Agadir MA-Souss-Massa-Drâa 30.40810, -9.59612",Sous-Massa-Draa,3,30.408102,-9.59612,27,3,2020
+3296437518,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2006
+3184844092,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,6,30.711512,-9.855123,9,10,2020
+2672101088,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+1357403715,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2015
+2201200607,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2011
+2778005399,Calidris ferruginea,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2019
+3284116681,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,10,30.070282,-9.662819,21,4,2009
+3677016699,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,16,32.781796,-8.973387,7,4,2021
+3544813780,Calidris ferruginea,MA,Oualidia tidal marshes,Doukkala-Abda,10,32.75977,-9.007502,5,11,2012
+2151488057,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,4,2018
+821480462,Calidris ferruginea,MA,"Oued Souss National Park, nr. Agadir",Sous-Massa-Draa,1,30.36384,-9.600017,7,9,2004
+3208296623,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,10,2020
+2216358710,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,11,2018
+2741230396,Calidris ferruginea,MA,Onq ej-Jmel,Rabat-Salé-Zemmour-Zaer,1,33.994354,-6.796317,6,4,2019
+3205730910,Calidris ferruginea,MA,MA-Bouznika (Oued Cherrat),Rabat-Salé-Zemmour-Zaer,10,33.824554,-7.115623,14,4,2019
+579851417,Calidris ferruginea,MA,Essaouira,Marrakech-Tensift-Al Haouz,1,31.511532,-9.771566,12,10,2007
+3602576950,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2008
+2676062988,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+2744981491,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+2798610560,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2007
+2746895167,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,10,2013
+2167199338,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,5,2018
+3679981531,Calidris ferruginea,MA,"Ain Guedid, Casablanca-Settat, MA (33,556, -7,739)",Grand Casablanca,2,33.555717,-7.739337,8,10,2021
+2754183219,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,12,33.82877,-7.11999,13,4,2019
+1791982260,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,6,30.36236,-9.586773,10,4,2011
+2049706690,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,1,33.82877,-7.11999,13,3,2017
+3640165316,Calidris ferruginea,MA,Sidi-Moussa lagoon and saltpans,Doukkala-Abda,1,32.998882,-8.733354,8,2,2014
+3606541631,Calidris ferruginea,MA,"Sidi Abed, MA (33,017, -8,714)",Doukkala-Abda,7,33.01707,-8.714498,8,4,2021
+2780102360,Calidris ferruginea,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2019
+3547188630,Calidris ferruginea,MA,واد ماسة -- حقول أغريمز | Oued Massa--champs d'Aghorimze,Sous-Massa-Draa,1,30.031328,-9.644645,8,10,2021
+2719702097,Calidris ferruginea,MA,Casablanca - El Hank,Grand Casablanca,5,33.6139,-7.650566,5,2,2014
+2684719158,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+2160713853,Calidris ferruginea,MA,"Had Gharbia, general area",Tanger-Tétouan,7,35.518326,-5.930815,89,5,2018
+2773237709,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,3,34.855213,-6.270397,8,9,2017
+2698590929,Calidris ferruginea,MA,"92052, Larache MA-Tanger - Tétouan (35.1564,-6.1028)",Tanger-Tétouan,1,35.156384,-6.102751,9,9,2019
+1726409718,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,15,31.486546,-9.769808,9,4,2016
+3573825914,Calidris ferruginea,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+2673036003,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2019
+1763599803,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,3,30.070282,-9.662819,21,4,2007
+2682490333,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+2697458185,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,6,30.070282,-9.662819,21,9,2019
+2096869557,Calidris ferruginea,MA,La Kasbah,Rabat-Salé-Zemmour-Zaer,1,33.886974,-7.015988,9,9,2017
+821510780,Calidris ferruginea,MA,Agadir - Oued Sous,Sous-Massa-Draa,4,30.269228,-9.612263,74,3,2001
+2049822464,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2017
+2089112268,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,1,33.54445,-7.761624,14,10,2017
+2049903800,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,3,2017
+2198611110,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2667114337,Calidris ferruginea,MA,"Route de Zenata, Mohammedia MA-Grand Casablanca (33.6642,-7.4508)",Grand Casablanca,20,33.664238,-7.450829,13,4,2019
+2056247006,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2017
+2718480878,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,5,2019
+1164456629,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+3583920553,Calidris ferruginea,EH,Morocco,Western Sahara,2,27.164206,-13.194169,20,3,2017
+2154649336,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,7,30.36236,-9.586773,10,3,2018
+2720350015,Calidris ferruginea,MA,Oued Chbika,Guelmim-Es Smara,2,28.290892,-11.531591,0,4,2018
+2159180089,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+3567316319,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,11,2013
+3537250552,Calidris ferruginea,MA,Sidi Brahim,Doukkala-Abda,1,32.89937,-8.836402,2,4,2021
+2746607459,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+3276989403,Calidris ferruginea,MA,MA-Tamri Estuary (Asif n'Srou),Sous-Massa-Draa,10,30.710571,-9.857545,11,4,2016
+3198445313,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2006
+1168967589,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2014
+3276504919,Calidris ferruginea,MA,Jemis Zemamra,Doukkala-Abda,1,32.62867,-8.788971,126,4,2012
+3570013889,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,2,2016
+2124848038,Calidris ferruginea,MA,Khnifiss NP,Laâyoune-Boujdour-Sakia el Hamra,1,28.028786,-12.240155,15,2,2017
+3193163814,Calidris ferruginea,MA,Oualidia area,Doukkala-Abda,1,32.779537,-8.971735,35,4,2009
+2747982229,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2019
+2688934038,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,4,2019
+2746177515,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,13,30.36236,-9.586773,10,4,2019
+2138987821,Calidris ferruginea,MA,Grand Théatre de Rabat (المسرح الكبير للرباط),Rabat-Salé-Zemmour-Zaer,2,34.02601,-6.814597,10,4,2018
+2169782493,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,3,34.013096,-6.813711,11,5,2018
+3265217621,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,14,30.070282,-9.662819,21,3,2001
+1203564013,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,3,2007
+3610298145,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2021
+3209343373,Calidris ferruginea,MA,Merja Zerga,Gharb-Chrarda-Beni Hssen,200,34.87073,-6.252789,11,4,2016
+2198423313,Calidris ferruginea,MA,رأس الغير | Cap Ghir,Sous-Massa-Draa,1,30.627277,-9.886665,9,3,2014
+2790082758,Calidris ferruginea,MA,"Unnamed Road, Sidi Binzarne, Souss Massa, MA (30,054, -9,652)",Sous-Massa-Draa,1,30.053652,-9.651692,15,9,2019
+1167620552,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,1,31.486546,-9.769808,9,4,2014
+2707100204,Calidris ferruginea,MA,مرزوكة -- كتبان عرق شبي | Erg Chebbi--Merzouga,Meknès-Tafilalet,1,31.08315,-3.999495,697,4,2002
+3216679459,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2002
+2769088106,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,6,34.855213,-6.270397,8,4,2019
+1182125784,Calidris ferruginea,MA,Embouchure Oued Ksob depuis le pont de DiabatMA-Marrakesh-Tensift-El Haouz-Diabat - 31.4845x-9.7657 - 23 juil. 2014 07:26,Marrakech-Tensift-Al Haouz,4,31.484526,-9.765669,8,7,2014
+1778364262,Calidris ferruginea,MA,Saltpans south of Oualidia - Cafe de la Cote Turning,Doukkala-Abda,1,32.712204,-9.063574,7,3,2012
+3580422286,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,9,2021
+2769247562,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,2,30.070282,-9.662819,21,9,2013
+2168918754,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2787207929,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,8,32.997078,-8.73114,7,9,2019
+2731971197,Calidris ferruginea,MA,Onq ej-Jmel,Rabat-Salé-Zemmour-Zaer,1,33.994354,-6.796317,6,4,2019
+579848039,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,3,2007
+3656302175,Calidris ferruginea,MA,PN Khnifiss--Lagune de Khnifiss,Laâyoune-Boujdour-Sakia el Hamra,1,28.04759,-12.226908,0,8,2021
+3170863920,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,3,2003
+2678582254,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,14,34.855213,-6.270397,8,4,2019
+2750473898,Calidris ferruginea,MA,Merja Zerga Lagoon,Gharb-Chrarda-Beni Hssen,7,34.861694,-6.277668,10,4,2019
+966424984,Calidris ferruginea,MA,Sous-Massa National Park,Sous-Massa-Draa,4,30.168875,-9.656982,0,9,2013
+2801393171,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2676427783,Calidris ferruginea,MA,Oued Chbika,Guelmim-Es Smara,5,28.290892,-11.531591,0,4,2009
+3174353017,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2003
+2161749452,Calidris ferruginea,MA,Moulay Bousselham,Gharb-Chrarda-Beni Hssen,1,34.873257,-6.289458,7,4,2018
+2782650387,Calidris ferruginea,MA,واد اللكوس -- مناقع دوار عين الشوك | Marais du Bas Loukkos--Marais de Douar Ain Chouk,Tanger-Tétouan,1,35.152462,-6.102734,13,9,2019
+2723891393,Calidris ferruginea,MA,Oued Massa,Sous-Massa-Draa,2,30.008463,-9.652519,11,5,2001
+2788840390,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,9,2019
+1203368402,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,14,30.070282,-9.662819,21,3,2007
+2722073462,Calidris ferruginea,MA,"P1506, Ouarzazate MA-Souss-Massa-Drâa (31.3500,-5.9079)(Efemeral Pool)",Sous-Massa-Draa,1,31.349983,-5.907857,1545,9,2019
+2206913114,Calidris ferruginea,MA,"Tanger, MA (35,87, -5,52)",Tanger-Tétouan,3,35.87022,-5.520405,54,11,2018
+2733163395,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,8,34.855213,-6.270397,8,3,2007
+967514873,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,9,2013
+2728798067,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2007
+3177405004,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,2,30.711512,-9.855123,9,10,2019
+2797885748,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,1,32.997078,-8.73114,7,10,2019
+3280955367,Calidris ferruginea,MA,"Souira Guedima, MA (32.05, -9.341)",Doukkala-Abda,1,32.05034,-9.341456,8,11,2020
+3221241404,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,16,30.36236,-9.586773,10,2,2020
+3650297961,Calidris ferruginea,MA,Oued Sous,Sous-Massa-Draa,1,30.356562,-9.590331,13,4,2006
+2171842694,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+1791774382,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,30,30.918804,-6.835792,1093,3,2013
+2105894507,Calidris ferruginea,MA,Réserve de Chasse de Zaouiet Bouzarktoune,Marrakech-Tensift-Al Haouz,1,31.646526,-9.659837,21,11,2017
+2791334257,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,15,34.855213,-6.270397,8,3,2016
+1763560315,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2007
+1202130030,Calidris ferruginea,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,5,2005
+3610151563,Calidris ferruginea,MA,المرجة البرغة | Merja Bargha,Tanger-Tétouan,30,35.015804,-6.214134,14,9,2013
+2156790540,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,5,2018
+2667950681,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,1,34.013096,-6.813711,11,4,2019
+1410653382,Calidris ferruginea,MA,Khnifiss Lac De Naila,Laâyoune-Boujdour-Sakia el Hamra,2,27.993946,-12.272158,12,3,2011
+3293850908,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,100,34.855213,-6.270397,8,1,2002
+3609265472,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,4,33.556343,-7.739297,11,9,2021
+2136758416,Calidris ferruginea,MA,واد قصب | Oued Ksab,Marrakech-Tensift-Al Haouz,2,31.486546,-9.769808,9,5,2005
+2105796415,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,9,2017
+2150352112,Calidris ferruginea,MA,"Doukkala-Abda, MA (32.997, -8.731)",Doukkala-Abda,12,32.99735,-8.730656,8,4,2018
+2773696666,Calidris ferruginea,MA,"Agadir--Oued Souss, S of city",Sous-Massa-Draa,2,30.36324,-9.58232,8,8,2018
+3299964535,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2019
+3623232717,Calidris ferruginea,MA,La Sultana Oualidia (hotel),Doukkala-Abda,1,32.742657,-9.027438,12,2,2018
+2695028911,Calidris ferruginea,MA,Vallée des Oiseaux (Tagdilt Track),Sous-Massa-Draa,1,31.334959,-5.891968,1554,9,2019
+1402860011,Calidris ferruginea,MA,Sidi R´bat (Souss Massa),Sous-Massa-Draa,16,30.067562,-9.662948,12,5,2015
+1355672380,Calidris ferruginea,MA,منتزة سوس ماسة -- فضاء عام | PN Souss-Massa--domaine générale,Sous-Massa-Draa,1,30.185549,-9.627369,90,3,2015
+2709975856,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,9,2019
+938265852,Calidris ferruginea,MA,Agadir Souss massa,Sous-Massa-Draa,1,30.2389,-9.61647,70,2,2012
+3264236916,Calidris ferruginea,MA,مصب أسيف نصرو | Estuaire du Asif n'Srou,Sous-Massa-Draa,1,30.711512,-9.855123,9,3,2014
+3218896105,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,2,32.781796,-8.973387,7,1,2020
+2717901786,Calidris ferruginea,MA,Salines de Sidi Moussa,Doukkala-Abda,20,32.997078,-8.73114,7,4,2007
+2800632135,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,27,30.36236,-9.586773,10,8,2019
+3580763273,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,10,2021
+3558377137,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,1,30.36236,-9.586773,10,3,2019
+2698979444,Calidris ferruginea,MA,منتزه سوس ماسة -- واد ماسة | PN Sous-Massa--Oued Massa,Sous-Massa-Draa,1,30.070282,-9.662819,21,10,2009
+3689835699,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,9,2021
+3614691327,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,1,32.781796,-8.973387,7,12,2013
+2765738527,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2019
+2769431737,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,3,2007
+1788803498,Calidris ferruginea,MA,Erg Chebbi--nord,Meknès-Tafilalet,1,31.212925,-3.9884,736,5,2009
+3258725580,Calidris ferruginea,MA,ضاية دار بوعزة | Dayat Dar Bouazza,Grand Casablanca,5,33.54445,-7.761624,14,9,2020
+2666836648,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+3633698177,Calidris ferruginea,MA,Oualidia tidal marshes,Doukkala-Abda,1,32.75977,-9.007502,5,4,2016
+2835784466,Calidris ferruginea,MA,Morocco - Agadir,,1,30.366817,-9.5997,10,2,2014
+2835595064,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,16,32.788841,-8.968406,12,8,2012
+2840134223,Calidris ferruginea,MA,Morocco - Oualidia,,1,32.78211,-8.972869,10,9,2012
+2835577373,Calidris ferruginea,MA,Morocco - Agadir,,2,30.3627,-9.5811,8,3,2014
+579848158,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,3,30.36236,-9.586773,10,3,2007
+2839321420,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,70,32.7828,-8.973755,9,9,2014
+3676882173,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,5,30.36236,-9.586773,10,9,2021
+2702620225,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,10,30.36236,-9.586773,10,4,2019
+2839987540,Calidris ferruginea,MA,Morocco - Agadir,,20,30.365192,-9.592458,7,4,2013
+2836219880,Calidris ferruginea,MA,Morocco - Agadir,,2,30.364605,-9.599032,8,3,2015
+2832305483,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.139278,-6.074924,10,10,2011
+3005145815,Calidris ferruginea,MA,,Oriental,1,35.121049,-2.349873,6,4,2016
+2835619111,Calidris ferruginea,MA,Morocco - Laouamra,,25,35.156477,-6.104279,3,9,2012
+2839061949,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,5,32.78244,-8.973513,8,6,2014
+2839123838,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,40,32.807472,-8.93829,19,4,2015
+3716304001,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,1,32.909259,-8.819869,8,2,2020
+2832775311,Calidris ferruginea,MA,Morocco - Essaouira,,1,31.486796,-9.76608,9,12,2013
+2838836094,Calidris ferruginea,MA,Morocco - Agadir,,10,30.374446,-9.595801,11,9,2012
+2832514826,Calidris ferruginea,MA,Morocco - Agadir,,3,30.36252,-9.577825,9,3,2015
+2796267281,Calidris ferruginea,MA,ضاية عوة | Dayet Aoua,Meknès-Tafilalet,1,33.65042,-5.029721,1470,4,2007
+2157951124,Calidris ferruginea,MA,Ouled Salem,Doukkala-Abda,5,32.92425,-8.804402,0,4,2007
+1676777848,Calidris ferruginea,MA,Oued Souss / Marokko,,1,30.362211,-9.589691,13,3,2001
+2839519839,Calidris ferruginea,MA,Morocco - Essaouira,,10,31.487622,-9.76671,8,4,2013
+2840422022,Calidris ferruginea,MA,Morocco - Oued Sous,,3,30.364333,-9.601107,5,4,2011
+2838197000,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.112063,-6.044347,9,4,2011
+2832152930,Calidris ferruginea,MA,Morocco - Oualidia,,10,32.786572,-8.968221,7,4,2010
+2835708120,Calidris ferruginea,MA,Morocco - Marais de El Otba,,60,32.913567,-8.818202,0,8,2014
+2832620904,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.786395,-8.966222,8,4,2013
+2832642774,Calidris ferruginea,MA,Morocco - Agadir,,2,30.364605,-9.599032,8,3,2015
+2832417292,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,1,32.781935,-8.973856,7,11,2013
+3947690355,Calidris ferruginea,MA,,Souss - Massa - Draâ,1,30.362642,-9.590143,9,9,2022
+2832884742,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,20,32.782259,-8.97221,12,10,2016
+2843996552,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,10,32.784964,-8.969964,8,4,2015
+2838683747,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,20,32.919723,-8.813438,10,4,2012
+2839893661,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,13,32.922384,-8.806703,5,4,2012
+2832301292,Calidris ferruginea,MA,Morocco - Laouamra,,21,35.157138,-6.104062,5,9,2013
+2839674903,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,12,32.788641,-8.967247,11,3,2011
+2842864008,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,1,32.783863,-8.973397,8,1,2020
+2835728556,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,50,32.785218,-8.970751,9,5,2013
+2838958310,Calidris ferruginea,MA,Morocco - Marais de El Otba,,1,32.935109,-8.793569,0,2,2014
+2832432496,Calidris ferruginea,MA,Morocco - Agadir,,4,30.3627,-9.5811,8,3,2014
+2842670920,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,5,35.205304,-6.126755,8,5,2010
+3996273921,Calidris ferruginea,MA,Morocco - Mohammedia,,1,33.704708,-7.402744,10,5,2022
+2834239059,Calidris ferruginea,MA,Morocco - Merja Zerga Parque National,,1,34.855212,-6.270397,8,9,2014
+2839836152,Calidris ferruginea,MA,Morocco - Essaouira,,1,31.485863,-9.766431,9,12,2013
+2832286402,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,1,35.204347,-6.133847,6,9,2011
+2835609261,Calidris ferruginea,MA,Morocco - Larache,,5,35.178901,-6.1013,10,9,2012
+2838795448,Calidris ferruginea,MA,Morocco - Oualidia,,3,32.785435,-8.971281,7,3,2013
+2840225666,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.820191,-8.940039,0,4,2012
+2839508068,Calidris ferruginea,MA,Morocco - Laouamra,,3,35.153492,-6.101675,3,7,2014
+2836014321,Calidris ferruginea,MA,Morocco - Agadir,,1,30.366535,-9.599339,8,2,2014
+2838581451,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.786395,-8.966222,8,4,2013
+2839033612,Calidris ferruginea,MA,Morocco - Essaouira,,1,31.484122,-9.765186,8,4,2014
+2835490301,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,7,35.114433,-6.040742,16,5,2012
+2835862424,Calidris ferruginea,MA,Morocco - Merja Zerga Parque National,,1,34.848689,-6.276935,10,2,2014
+2838196193,Calidris ferruginea,MA,Morocco - Oued Sous,,3,30.364333,-9.601107,5,4,2011
+2834046570,Calidris ferruginea,MA,Morocco - Oualidia,,1,32.776968,-8.97643,28,3,2019
+2832305179,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,2,32.953581,-8.775952,12,10,2012
+2838372206,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,2,32.898442,-8.83706,2,9,2013
+2838673993,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,30,32.893139,-8.84378,10,4,2011
+2839707973,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,20,32.804951,-8.945961,14,6,2010
+2832438507,Calidris ferruginea,MA,Morocco - Essaouira,,4,31.486687,-9.766459,9,4,2013
+3273511780,Calidris ferruginea,MA,المرجة الزرقاء | Merja Zerga--domaine général,Gharb-Chrarda-Beni Hssen,1,34.855213,-6.270397,8,4,2003
+2832182029,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,70,32.91873,-8.816037,10,4,2011
+2835761497,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,1,32.952328,-8.774009,12,1,2015
+2835671588,Calidris ferruginea,MA,Morocco - Agadir,,20,30.365192,-9.592458,7,4,2013
+2835816343,Calidris ferruginea,MA,Morocco - Laouamra,,5,35.147986,-6.102905,11,9,2013
+2840426144,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,4,32.78179,-8.973942,7,10,2013
+3947665175,Calidris ferruginea,MA,,Tanger - Tétouan,1,35.185527,-6.100528,15,10,2022
+2832375628,Calidris ferruginea,MA,Morocco - Essaouira,,10,31.487622,-9.76671,8,4,2013
+2841526719,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,15,32.894056,-8.843157,5,5,2014
+2838063999,Calidris ferruginea,MA,Morocco - Oued Sous,,10,30.36293,-9.599219,6,7,2010
+2838125653,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,100,32.781795,-8.973387,7,8,2019
+2839512952,Calidris ferruginea,MA,Morocco - Agadir,,30,30.364359,-9.59085,15,4,2013
+2836396371,Calidris ferruginea,MA,Morocco - Agadir,,20,30.365192,-9.592458,7,4,2013
+2835634819,Calidris ferruginea,MA,Morocco - Laouamra,,10,35.154064,-6.099488,3,4,2012
+2838878528,Calidris ferruginea,MA,Morocco - Agadir,,3,30.363246,-9.597529,6,10,2014
+2832161960,Calidris ferruginea,MA,Morocco - Oualidia,,15,32.787203,-8.968856,8,4,2010
+2840562155,Calidris ferruginea,MA,Morocco - Larache (bas loukkos et salines),,5,35.137316,-6.060615,16,9,2012
+2840471004,Calidris ferruginea,MA,Morocco - Ras El Ma,,31,35.121418,-2.34939,6,5,2018
+2150620284,Calidris ferruginea,MA,مستنقعات بورڭراڭ | Marais du Bouregreg,Rabat-Salé-Zemmour-Zaer,2,34.013096,-6.813711,11,5,2018
+1357289340,Calidris ferruginea,MA,Agadir area,Sous-Massa-Draa,10,30.4013,-9.5911,29,3,2015
+2832187982,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,50,35.112063,-6.044347,9,8,2010
+2833129187,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,8,32.780202,-8.974685,11,9,2017
+2838694474,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.786395,-8.966222,8,4,2013
+2832285886,Calidris ferruginea,MA,Morocco - Larache,,3,35.170296,-6.099987,14,5,2012
+2838091939,Calidris ferruginea,MA,Morocco - Larache - Marais de Larache (ou du bas Loukkos),,1,35.155573,-6.103668,3,9,2010
+2839267848,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,7,32.894399,-8.842642,2,6,2014
+2844876754,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,4,32.788551,-8.971785,8,3,2019
+2837892803,Calidris ferruginea,MA,Morocco - Agadir,,1,30.36259,-9.577766,9,3,2015
+2841913057,Calidris ferruginea,MA,Morocco - Essaouira,,2,31.485479,-9.767275,8,8,2014
+2837773307,Calidris ferruginea,MA,Morocco - Laouamra,,21,35.157138,-6.104062,5,9,2013
+2835552337,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,8,32.92088,-8.809018,0,5,2012
+2840365200,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,30,32.893139,-8.84378,10,4,2011
+2842419059,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,1,32.784171,-8.972882,9,10,2019
+2836035569,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,100,32.785614,-8.97108,7,8,2016
+2832377557,Calidris ferruginea,MA,Morocco - Essaouira,,10,31.487622,-9.76671,8,4,2013
+2839155578,Calidris ferruginea,MA,Morocco - Lagune de Sidi Moussa-Oualidia,,3,32.952027,-8.773543,13,2,2015
+2832359164,Calidris ferruginea,MA,Morocco - Marais de El Otba,,20,32.924796,-8.803666,0,9,2013
+2835418075,Calidris ferruginea,MA,Morocco - Oualidia,,1,32.779269,-8.978802,8,9,2012
+2832364078,Calidris ferruginea,MA,Morocco - Marais de El Otba,,2,32.934605,-8.794255,0,9,2013
+2840024134,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,1,32.781574,-8.9748,9,10,2013
+2832824662,Calidris ferruginea,MA,Morocco - Marais de El Otba,,25,32.9363,-8.7933,0,5,2016
+2838821628,Calidris ferruginea,MA,Morocco - Oualidia,,100,32.782061,-8.973835,7,4,2010
+2838895063,Calidris ferruginea,MA,Morocco - Marais de El Otba,,2,32.91853,-8.813928,0,3,2013
+2838609013,Calidris ferruginea,MA,Morocco - Oued Sous,,1,30.365649,-9.605899,6,6,2012
+2835919519,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,100,32.785182,-8.969908,8,5,2014
+2836498869,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,12,32.784315,-8.971595,8,10,2016
+2832325771,Calidris ferruginea,MA,Morocco - Laouamra,,3,35.156943,-6.104218,3,3,2012
+2836436587,Calidris ferruginea,MA,Morocco - Marais de El Otba,,25,32.9363,-8.7933,0,5,2016
+2835607179,Calidris ferruginea,MA,Morocco - Larache (bas loukkos et salines),,25,35.137316,-6.060615,16,9,2012
+3724904427,Calidris ferruginea,MA,Morocco - Marais de El Otba,,2,32.9353,-8.7898,9,4,2018
+2835664283,Calidris ferruginea,MA,Morocco - Agadir,,3,30.362182,-9.591351,9,10,2014
+2843127615,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,8,35.204006,-6.136723,7,4,2013
+2838635095,Calidris ferruginea,MA,Morocco - Essaouira,,2,31.522032,-9.748978,10,10,2013
+2836813014,Calidris ferruginea,MA,Morocco - Agadir,,94,30.363898,-9.596099,10,4,2011
+2832307914,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,20,35.204792,-6.138038,8,5,2012
+2839684519,Calidris ferruginea,MA,Morocco - Saline de sidi brahim,,20,32.893568,-8.841532,3,4,2015
+2158612730,Calidris ferruginea,MA,واد سوس | Embouchure du Oued Souss,Sous-Massa-Draa,2,30.36236,-9.586773,10,5,2018
+3680779596,Calidris ferruginea,MA,Daya de Ain Guedid | ضاية عين ݣديد,Grand Casablanca,2,33.556343,-7.739297,11,9,2021
+2785408129,Calidris ferruginea,MA,Oued Ikkem,Rabat-Salé-Zemmour-Zaer,1,33.892357,-7.004562,12,9,2019
+2670862865,Calidris ferruginea,MA,واد الشراط | Oued Cherrat,Rabat-Salé-Zemmour-Zaer,12,33.82877,-7.11999,13,4,2019
+3666608099,Calidris ferruginea,MA,تدامريشت -- سد المنصور الدهبي | Barrage El Mansour Eddahbi--tadamreesht -- domaine générale,Sous-Massa-Draa,4,30.918804,-6.835792,1093,4,2008
+2767036392,Calidris ferruginea,MA,Salines de Oualidia,Doukkala-Abda,4,32.781796,-8.973387,7,10,2019
+2744940991,Calidris ferruginea,MA,ضاية صريج | Dayet Srij,Meknès-Tafilalet,6,31.093885,-4.051035,696,4,2019
+2838958491,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,20,32.785146,-8.970122,8,4,2014
+2836017303,Calidris ferruginea,MA,Morocco - Agadir,,3,30.359249,-9.580078,9,6,2014
+2832323162,Calidris ferruginea,MA,Morocco - Essaouira,,3,31.521296,-9.749297,9,10,2013
+2840177449,Calidris ferruginea,MA,Morocco - Oualidia,,20,32.785073,-8.971324,8,9,2011
+2838418664,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,20,32.782259,-8.97221,12,10,2016
+2835591892,Calidris ferruginea,MA,Morocco - Oualidia,,10,32.779912,-8.97885,10,4,2011
+2838690160,Calidris ferruginea,MA,Morocco - Larache - salines de Lixus,,5,35.206075,-6.133118,8,9,2013
+2839608492,Calidris ferruginea,MA,Morocco - Marais de El Otba,,25,32.9363,-8.7933,0,5,2016
+2833286197,Calidris ferruginea,MA,Morocco - Salines de Oualidia,,20,32.789272,-8.969749,7,4,2018
+2832313935,Calidris ferruginea,MA,Morocco - Essaouira,,20,31.486229,-9.769198,8,4,2012
+2841642394,Calidris ferruginea,MA,Morocco - Essaouira,,10,31.487622,-9.76671,8,4,2013
