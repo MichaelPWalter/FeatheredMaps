@@ -1,8 +1,40 @@
 import matplotlib.pyplot as plt
 import math
+import pandas as pd
+import ast
+
+def ask_for_region_name():
+    region_name=input("Region Name:  ")
+    return region_name
+
+def csv_to_dict(csv_file_name):
+
+    df = pd.read_csv(csv_file_name,header=None,index_col=0).T
+
+    elevation_count = ast.literal_eval(df.iloc[0]['elevation_count'])
+    year_count = ast.literal_eval(df.iloc[0]['year_count'])
+    month_count = ast.literal_eval(df.iloc[0]['month_count'])
+    #elevation_count = re.sub(r'(\w+):', r'"\1":', elevation_count)
+    #elevation_count = json.loads(elevation_count)
+    
+    #year_count = df.iloc[0]['year_count']
+    #year_count = re.sub(r'(\w+):', r'"\1":', year_count)
+    #year_count = json.loads(year_count)
+
+    #month_count = df.iloc[0]['month_count']
+    #month_count = re.sub(r'(\w+):', r'"\1":', month_count)
+    #month_count = json.loads(month_count)
+ 
+    return elevation_count,year_count,month_count
+
+
+region_name = ask_for_region_name()
+
+csv_file_name = f"Regions/{region_name}/{region_name}_summary.csv"
+
+elevation_count,year_count,month_count = csv_to_dict(csv_file_name)
 
 # Input data
-elevation_count = {10: 101576, 0: 99792, 130: 6975, 450: 4689, 1000: 574, 40: 3910, 120: 1066, 610: 12780, 240: 355, 50: 2677, 20: 32720, 360: 172, 150: 285, 600: 873, 930: 16, 920: 94, 790: 19, 60: 6353, 400: 5012, 380: 2809, 270: 186, 30: 4014, 210: 332, 910: 3909, 80: 1234, 230: 4556, 1020: 1435, 140: 148, 160: 610, 410: 270, 630: 1597, 250: 253, 180: 775, 370: 2200, 190: 1792, 500: 1193, 620: 65, 870: 83, 170: 562, 330: 202, 980: 90, 520: 167, 200: 262, 670: 154, 540: 431, 420: 502, 320: 1635, 350: 141, 70: 399, 220: 281, 550: 31, 470: 143, 650: 733, 590: 207, 570: 177, 390: 273, 310: 248, 830: 9, 860: 167, 430: 246, 90: 293, 680: 308, 110: 185, 340: 304, 970: 30, 640: 154, 260: 168, 660: 146, 290: 127, 100: 111, 820: 138, 780: 100, 490: 13, 280: 162, 530: 77, 890: 343, 300: 68, 740: 13, 750: 10, 810: 28, 480: 181, 1010: 13, 950: 46, 800: 77, 690: 105, 900: 44, 440: 66, 510: 63, 1180: 12, 560: 129, 580: 130, 940: 22, 880: 33, 1250: 31, 840: 13, 700: 40, 730: 6, 760: 8, 960: 67, 1030: 51, 460: 46, 1040: 15, 990: 22, 770: 7, 710: 1, 1090: 4, 1320: 1, 1340: 13, 1420: 1, 1600: 2, 720: 9, 1280: 1, 1240: 2}
 x = list(elevation_count.values())
 x = [int(round(i/50)*50)+1 for i in x]
 x = [math.log(i) for i in x]
@@ -24,11 +56,10 @@ plt.ylabel('Elevation')
 plt.show()
 
 # Input data
-year_count = {2015: 50519, 2010: 12291, 2012: 21978, 2000: 7441, 2002: 5640, 2001: 10003, 2003: 9484, 2004: 9748, 2005: 11272, 2006: 11879, 2009: 11473, 2007: 15651, 2008: 12197, 2016: 89129, 2017: 87510, 2019: 98951, 2018: 102131, 2014: 40287, 2013: 30861, 2011: 15668, 2022: 9774, 2021: 46899, 2023: 1289, 2020: 43019}
 y = list(year_count.values())
 x = list(year_count.keys())
 
-plt.barh(x, y, height=1, color="green")
+plt.bar(x, y, width=0.8, edgecolor='black', color="green")
 plt.style.use('seaborn')
 
 # get the axis object
@@ -43,11 +74,10 @@ plt.ylabel('Count')
 plt.show()
 
 # Input data
-month_count = {5: 19698, 11: 32111, 8: 29570, 1: 20956, 3: 25535, 7: 47973, 9: 12722, 10: 23245, 6: 43560, 12: 21987, 4: 19632, 2: 21509}
 x = list(month_count.values())
 y = list(month_count.keys())
 
-plt.barh(y, x, height=1, color="green")
+plt.bar(y, x, width=0.8, edgecolor='black', color="green")
 plt.style.use('seaborn')
 
 # get the axis object
