@@ -1,0 +1,8 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1153652461,Chalcostigma stanleyi,EC,Papallacta Pass 10' Cell,Pichincha,1,-0.25,-78.25,3853,10,2005
+1409810176,Chalcostigma stanleyi,EC,Base of summit cone Rucu,Pichincha,1,-0.165158,-78.55813,4313,9,2005
+1409800861,Chalcostigma stanleyi,EC,Base of summit cone Rucu,Pichincha,3,-0.165158,-78.55813,4313,9,2005
+3609679293,Chalcostigma stanleyi,EC,"Descanso llamado Bosque de Polylepis en el sendero a la cumbre del Volcán Imbabura. -Caranqui, Imbabura, EC (0,262, -78,174)",Imbabura,1,0.261963,-78.17431,4295,3,2021
+827666755,Chalcostigma stanleyi,EC,Papallacta--'old house' site,Pichincha,2,-0.266332,-78.2825,3175,11,2012
+2795455814,Chalcostigma stanleyi,EC,"Papallacta Pass (-0.1619, -78.4865)",Pichincha,1,-0.1619,-78.4865,2789,8,2011
+2800827078,Chalcostigma stanleyi,EC,"Papallacta Pass (-0.1619, -78.4865)",Pichincha,1,-0.1619,-78.4865,2789,10,2009

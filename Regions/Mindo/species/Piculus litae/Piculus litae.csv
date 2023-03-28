@@ -1,0 +1,7 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2064000671,Piculus litae,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,4,2017
+3273425458,Piculus litae,EC,Manduriacu Pichincha Province,Pichincha,2,0.215081,-78.900375,502,9,2020
+2801074705,Piculus litae,EC,Nuevo Predio BPM,Pichincha,1,0.157322,-78.91127,614,8,2019
+3282996128,Piculus litae,EC,Manduriacu Pichincha Province,Pichincha,2,0.215081,-78.900375,502,9,2020
+3205282641,Piculus litae,EC,Manduriacu Pichincha Province,Pichincha,2,0.215081,-78.900375,502,9,2020
+2868110026,Piculus litae,EC,,Pichincha,1,0.215897,-78.896138,519,9,2020

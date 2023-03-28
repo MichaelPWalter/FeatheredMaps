@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2982207675,Geothlypis auricularis,EC,"Jardin Botanico, Quito",,1,-0.1865,-78.4849,2773,1,2020
+2445108834,Geothlypis auricularis,EC,,Pichincha,1,-0.186071,-78.484947,2775,10,2019
+2842943721,Geothlypis auricularis,EC,Ecuador - Pichincha,,3,0.002328,-78.677414,1741,1,2020

@@ -11,10 +11,21 @@ with open('temp/0091007-230224095556074.csv', encoding="utf-8", ) as csv_file:
     print(line1)
     print(line2) """
 
-
+""" 
 a = 1356
 b = 1351
 c = 3.9
 
 for i in [a,b,c]:
     print(f"{i} --> {int(round(i/10)*10)}")
+
+ """
+
+import pandas as pd
+
+df = pd.read_csv("Regions\Galápagos\Galápagos_summary.csv",header=None,index_col=0).T
+first_region = df.iloc[0]['month_count']
+print(first_region.dtype)
+
+#dfT = dfT.drop(df.columns[0],axis=1, inplace=True)
+print(df)

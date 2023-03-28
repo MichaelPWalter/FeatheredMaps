@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2331320754,Tyrannus albogularis,EC,"Cabanas Heliconia, Ecuador",,1,0.042247,-79.34433,172,12,2017
+2331321038,Tyrannus albogularis,EC,"Reserva Forestal La Perla, Ecuador",,1,-0.147457,-79.282753,354,12,2017

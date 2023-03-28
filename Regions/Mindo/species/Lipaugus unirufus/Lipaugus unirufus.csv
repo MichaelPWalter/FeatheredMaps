@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1400752773,Lipaugus unirufus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+1400739507,Lipaugus unirufus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+1206190767,Lipaugus unirufus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2007

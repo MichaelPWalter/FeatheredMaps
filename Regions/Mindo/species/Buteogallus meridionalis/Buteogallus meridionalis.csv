@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3266470161,Buteogallus meridionalis,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020
+3211107947,Buteogallus meridionalis,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020
+3293570523,Buteogallus meridionalis,EC,"Bamburé, Reserva privada",Pichincha,1,0.101075,-79.20286,162,9,2020
+3203881228,Buteogallus meridionalis,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020

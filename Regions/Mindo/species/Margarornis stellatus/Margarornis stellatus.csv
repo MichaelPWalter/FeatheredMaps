@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2785115746,Margarornis stellatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,12,2019
+2224825995,Margarornis stellatus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2003
+1763646481,Margarornis stellatus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2003
+3277279045,Margarornis stellatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2020

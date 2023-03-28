@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2038447840,Cnemarchus erythropygius,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,3,2017
+824967406,Cnemarchus erythropygius,EC,"La Merced, Quito, Ecuador",Pichincha,1,-0.295413,-78.40103,2568,7,2003
+1202812896,Cnemarchus erythropygius,EC,"old papallacta road, Ecuador",Pichincha,1,-0.264443,-78.271835,3470,7,2005
+2709569725,Cnemarchus erythropygius,EC,Papallacta Pass,Pichincha,1,-0.27413,-78.51806,3020,2,2016
+1394457320,Cnemarchus erythropygius,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,7,2006

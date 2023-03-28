@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1196860981,Myiophobus pulcher,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,2,2002
+2220821203,Myiophobus pulcher,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2018
+2101234937,Myiophobus pulcher,EC,Upper Tandayapa Valley,Pichincha,1,-0.014162,-78.67891,2126,8,2005
+3182976454,Myiophobus pulcher,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2020
+1371871618,Myiophobus pulcher,EC,Bellavista Cloud Forest Lodge,Pichincha,4,-0.015922,-78.681206,2242,4,2015

@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3689788391,Chaetocercus heliodor,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2009
+1390423224,Chaetocercus heliodor,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,9,2015

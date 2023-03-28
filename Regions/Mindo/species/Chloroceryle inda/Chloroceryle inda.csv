@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1406040656,Chloroceryle inda,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,6,2015
+1766345795,Chloroceryle inda,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,10,2016
+2101083594,Chloroceryle inda,EC,"Nueva Esperanza, Propiedad Francisco",Pichincha,1,0.09182,-79.27709,300,10,2017
+2171678631,Chloroceryle inda,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2018

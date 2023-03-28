@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1202065462,Andigena hypoglauca,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,6,2003
+1202997915,Andigena hypoglauca,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,8,2014

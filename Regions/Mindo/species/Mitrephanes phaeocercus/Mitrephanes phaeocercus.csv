@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2791556617,Mitrephanes phaeocercus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,12,2016
+2243571247,Mitrephanes phaeocercus,EC,"Rio Bogota, Alto Tambo, Esmeraldas",,1,0.11942,-78.6834,1319,10,2003

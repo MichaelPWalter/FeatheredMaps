@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3524267291,Nyctanassa violacea,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,5,2021
+3653228728,Nyctanassa violacea,EC,"Los Aracaris, SN Miguel Bancos EC-Pichincha -0.05421, -78.78001",Pichincha,1,-0.054208,-78.78001,1227,5,2021

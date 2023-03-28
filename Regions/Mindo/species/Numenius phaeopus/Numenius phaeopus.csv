@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2045732502,Numenius phaeopus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2017
+1385000164,Numenius phaeopus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2015
+2036289345,Numenius phaeopus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2017

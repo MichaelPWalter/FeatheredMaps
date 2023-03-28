@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1204045785,Coccyzus americanus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2013
+2095937695,Coccyzus americanus,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2017
+2696269516,Coccyzus americanus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2019
+2110911386,Coccyzus americanus,EC,Hacienda Loma Tika,Imbabura,1,0.267554,-78.253525,2597,4,2017
+2677398251,Coccyzus americanus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2019

@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2737879208,Psarocolius wagleri,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,1,2007
+2053338901,Psarocolius wagleri,EC,Global Big Day - Comuna Unión Carchence - Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.346188,-79.165855,466,5,2017
+2762010676,Psarocolius wagleri,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2015

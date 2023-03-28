@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+575620194,Atlapetes pallidinucha,EC,"Papallacta Pass, Mineral Hot Springs.",Pichincha,1,-0.266359,-78.28714,3108,1,2000
+4054730423,Atlapetes pallidinucha,EC,,Imbabura,1,0.238416,-78.238599,2622,8,2019
+3683997010,Atlapetes pallidinucha,EC,Lower Papallacta road,Pichincha,1,-0.28208,-78.254234,3549,11,2005
+1153836922,Atlapetes pallidinucha,EC,Papallacta Pass 10' Cell,Pichincha,1,-0.25,-78.25,3853,10,2005

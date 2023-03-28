@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2101918856,Piranga flava,EC,Parque El Ejido,Pichincha,1,-0.209298,-78.498474,2792,11,2017
+2724321122,Piranga flava,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2017
+1770233937,Piranga flava,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,10,2016

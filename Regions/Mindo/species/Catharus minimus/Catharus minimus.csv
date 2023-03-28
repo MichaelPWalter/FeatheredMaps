@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+920937934,Catharus minimus,EC,Milpe Bird Sanctuary,,1,0.03276,-78.853394,1153,2,2011
+1190625544,Catharus minimus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010
+1208406685,Catharus minimus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010

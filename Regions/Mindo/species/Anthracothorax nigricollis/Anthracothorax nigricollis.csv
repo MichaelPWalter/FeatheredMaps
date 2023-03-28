@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2988683044,Anthracothorax nigricollis,EC,,Pichincha,1,0.108095,-79.168187,362,11,2020
+4018148776,Anthracothorax nigricollis,EC,,Pichincha,1,0.082067,-79.056137,580,12,2022
+3068016342,Anthracothorax nigricollis,EC,,Pichincha,1,0.108084,-79.168165,362,2,2020
+4011569248,Anthracothorax nigricollis,EC,,Pichincha,1,0.082068,-79.056137,580,12,2022
+3961225331,Anthracothorax nigricollis,EC,,Pichincha,1,0.108095,-79.168186,362,1,2020

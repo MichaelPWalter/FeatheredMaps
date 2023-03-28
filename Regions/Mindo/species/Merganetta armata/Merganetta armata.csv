@@ -1,0 +1,745 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3018123732,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,12,2020
+1756688672,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,2,2015
+3415743549,Merganetta armata,EC,,Pichincha,1,0.124134,-78.629196,1275,11,2021
+2030071138,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,1,2017
+3203870554,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,6,2012
+2069890062,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,3,2017
+3548149970,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,10,2021
+3551363918,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,1,2004
+1407614057,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2010
+2146463892,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,1,2014
+1376644040,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2015
+3283469351,Merganetta armata,EC,Mindo--Santuario de las cascadas,Pichincha,2,-0.074673,-78.76545,1460,11,2020
+3645445868,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+1776550600,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2016
+3209482409,Merganetta armata,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,1,2011
+2726205797,Merganetta armata,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2009
+1733837696,Merganetta armata,EC,Mindo,Pichincha,1,-0.051992,-78.77622,1249,5,2016
+2129692581,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2018
+1201880303,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2014
+2751720970,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2019
+3558245415,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2021
+2222705901,Merganetta armata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2018
+3657279275,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2005
+2100122253,Merganetta armata,EC,Mindo Garden Lodge,Pichincha,4,-0.072955,-78.75455,1351,9,2017
+3615450890,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,4,2021
+2700574662,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,9,2019
+3214739363,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,3,2019
+1726004304,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2016
+3654509204,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2021
+3535348734,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,4,2021
+3621514342,Merganetta armata,EC,"Rio Intag, Imbabura, EC (0.22, -78.623)",Imbabura,5,0.219945,-78.62262,973,9,2021
+2748825920,Merganetta armata,EC,el cinto,Pichincha,1,-0.067906,-78.78101,1370,5,2019
+1199891493,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2014
+2740814597,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,4,2019
+2150644464,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+3533935293,Merganetta armata,EC,"Rio Pachijal, Pichincha, EC (0.075, -78.909)",Pichincha,1,0.074674,-78.90891,675,5,2021
+1782486618,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2016
+1346009651,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,1,2015
+2169348552,Merganetta armata,EC,Reserva Las Tangaras,Pichincha,1,-0.076722,-78.789955,1585,5,2018
+2747689537,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,5,2019
+3525329170,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,6,2021
+1192913269,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,10,2014
+1201825732,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2014
+3515294844,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,2,2021
+3223719937,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,1,2020
+2126160942,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+2698360439,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,10,2019
+2184833559,Merganetta armata,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,1,2005
+3137107978,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2020
+2655492240,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2019
+1403225205,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2015
+3188287200,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2020
+3205374024,Merganetta armata,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,12,2013
+2169326355,Merganetta armata,EC,Sendero Siempre verde-Siempre vida,Imbabura,4,0.342548,-78.420044,2925,5,2018
+3298707312,Merganetta armata,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,11,2013
+2156898208,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+2745706085,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+2665958908,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+3182213087,Merganetta armata,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,8,2002
+1711823538,Merganetta armata,EC,Aguas Termales de Nangulvi,Imbabura,1,0.328233,-78.54684,1349,1,2016
+2178653231,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,2,2004
+2780955057,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,6,2019
+2671953000,Merganetta armata,EC,"(0,124, -78,63)",Pichincha,2,0.123853,-78.629555,1271,4,2019
+2214108888,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2018
+2142020539,Merganetta armata,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,2,2018
+835647173,Merganetta armata,EC,El Refugio,Imbabura,1,0.366709,-78.54684,1922,10,2012
+2229860138,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2017
+3598885940,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2021
+3690321571,Merganetta armata,EC,Maquipucuna Reserve,Pichincha,1,0.125656,-78.63061,1307,11,2019
+2684658991,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2019
+2730756348,Merganetta armata,EC,"Pichincha, EC (0,119, -78,626)",Pichincha,3,0.118716,-78.6258,1337,2,2019
+3151276009,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,3,2020
+3578121212,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,10,2021
+1351648737,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2015
+1792527896,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,10,2004
+2702244466,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2019
+2785375924,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2019
+1397346875,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,10,2015
+3220617112,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+3179325075,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2020
+1376655831,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2015
+2118155468,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+3186217451,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,7,2020
+593665825,Merganetta armata,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2011
+3682093408,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2020
+3543479422,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2021
+2702681340,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+978238432,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2012
+3550004962,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+3283096035,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+2189313385,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,4,0.120898,-78.63837,1310,9,2017
+2073395178,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2017
+3132339655,Merganetta armata,EC,"(0.1242,-78.6294)",Pichincha,2,0.124197,-78.62941,1272,1,2020
+1782561845,Merganetta armata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,2,-0.069394,-78.76362,1311,1,2009
+3531157930,Merganetta armata,EC,"Rio Pachijal, Pichincha, EC (0.075, -78.909)",Pichincha,1,0.074674,-78.90891,675,5,2021
+3677101141,Merganetta armata,EC,Finca La Mercedes,Pichincha,2,-0.31401,-78.93371,879,12,2021
+2423148808,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,6,2016
+3637454854,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+2039123768,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,1,2017
+3675261281,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2021
+2114129791,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2004
+3610105323,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,7,2021
+2034348767,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+2188564646,Merganetta armata,EC,Mindo,Pichincha,1,0.166099,-78.87926,923,8,2018
+2654325447,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2019
+1774679207,Merganetta armata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,11,2016
+2200755549,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,2,-0.299136,-79.0526,732,11,2015
+2758251441,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2019
+3154169319,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,3,2020
+1794531671,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,2,-0.310611,-78.907005,1166,7,2008
+2085981508,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2017
+1786035564,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,10,2014
+2111428606,Merganetta armata,EC,Garceta Sol,Pichincha,2,-0.062871,-78.78141,1258,12,2017
+1195966568,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,2,0.1232,-78.62168,1395,6,2011
+2703835476,Merganetta armata,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+2149848157,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+3191491817,Merganetta armata,EC,Reserva Otongachi,Pichincha,1,-0.320553,-78.95108,887,10,2020
+2671924586,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2019
+2135032459,Merganetta armata,EC,EC-Imbabura-Cotacachi nangulvi termas,Imbabura,2,0.327851,-78.54737,1347,12,2017
+2135635020,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,2,2018
+2781561039,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,8,2019
+1407995291,Merganetta armata,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,8,2012
+2715598506,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,12,2019
+2145274711,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+2679201822,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,12,2000
+3648293452,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,12,2021
+3149169621,Merganetta armata,EC,"Mindo, Pichincha, EC (-0.05, -78.793)",Pichincha,2,-0.050139,-78.79306,1183,4,2020
+2191480895,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,4,-0.062765,-78.77427,1344,7,2018
+2755316938,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,8,2019
+2129941383,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2018
+2683040302,Merganetta armata,EC,Mindo--Santuario de las cascadas,Pichincha,5,-0.074673,-78.76545,1460,5,2019
+3550095897,Merganetta armata,EC,Cerro Campana,Pichincha,2,0.126663,-78.626854,1354,8,2021
+2108098410,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2017
+972754128,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,2,-0.310611,-78.907005,1166,7,2007
+3207759251,Merganetta armata,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,7,2020
+3388998552,Merganetta armata,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020
+3399308361,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,10,2021
+2013721814,Merganetta armata,EC,,Pichincha,1,0.050006,-78.843701,997,3,2019
+2665651794,Merganetta armata,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,1,2019
+1405493208,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2000
+2049752808,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,3,2017
+2702412387,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2019
+2794082110,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,4,0.12491,-78.630226,1276,12,2017
+2707543700,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,8,2019
+2723204978,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2019
+2106412557,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2017
+2465188800,Merganetta armata,EC,,Imbabura,1,0.31685,-78.564863,1298,11,2019
+2771642821,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+3659285649,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2021
+835663669,Merganetta armata,EC,El Refugio,Imbabura,1,0.366709,-78.54684,1922,10,2012
+2163096635,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,4,2018
+3248372205,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,3,2020
+2674431028,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,3,2019
+3645386168,Merganetta armata,EC,Cascadas de Nambillo,Pichincha,1,-0.076102,-78.75463,1490,12,2004
+2100485636,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,6,2017
+973590784,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2007
+3388690764,Merganetta armata,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020
+2202915963,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,6,-0.061568,-78.791115,1207,9,2018
+3520097423,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2021
+3389100868,Merganetta armata,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020
+3389090830,Merganetta armata,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020
+1785940596,Merganetta armata,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2012
+1788909619,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,2,2000
+1345435549,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2015
+1183044734,Merganetta armata,EC,"old Nono road, near Tambo Tanda",Pichincha,1,-0.020667,-78.647285,1904,7,2014
+3637639088,Merganetta armata,EC,Chitoa,Santo Domingo de los Tsáchilas,1,-0.307721,-78.81462,1804,7,2021
+3555336002,Merganetta armata,EC,"Vía sin nombre, Pichincha, EC (0.042, -78.825)",Pichincha,1,0.042245,-78.82527,1215,12,2021
+2751198508,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,1,2019
+3634523733,Merganetta armata,EC,Finca Autosustentable Hélen,Pichincha,1,-0.363227,-78.79545,1476,9,2021
+3634523836,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2021
+2140559729,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+2208461005,Merganetta armata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2018
+1206399567,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2011
+592028546,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,9,2009
+2695216362,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,8,2019
+3580323342,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,11,2021
+2685388032,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,5,2019
+2634058128,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,3,2017
+2159095860,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+3649289000,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+3827338334,Merganetta armata,EC,Ecuador - Pichincha,,1,0.124339,-78.629425,1272,3,2022
+3824020423,Merganetta armata,EC,Ecuador - Pichincha,,2,0.124116,-78.629173,1275,3,2022
+2641595663,Merganetta armata,EC,,Pichincha,1,0.054932,-78.679619,1505,6,2020
+1174357437,Merganetta armata,EC,Mindo--Centro de Educacíon Ambiental(CEA),Pichincha,1,-0.074467,-78.75362,1350,5,2014
+2231829770,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+1178829893,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,6,2014
+3557722251,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+834771131,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2012
+3693448413,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,12,2021
+834760983,Merganetta armata,EC,Rio Alambi area (approaching Tandayapa),Pichincha,1,-0.019913,-78.65035,1941,2,2012
+3517470388,Merganetta armata,EC,"Auto selected -0.03171, -78.64169",Pichincha,2,-0.031709,-78.64169,2013,4,2021
+2043258733,Merganetta armata,EC,Ecollacta,Pichincha,2,0.1171,-78.6409,1322,2,2017
+3642733736,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+1401027475,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2015
+2760330806,Merganetta armata,EC,Maquipucuna,Pichincha,2,0.124259,-78.62949,1271,9,2019
+2128190086,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2018
+2071536912,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,5,2017
+2667555306,Merganetta armata,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,2,2019
+3581194960,Merganetta armata,EC,"Pichincha, EC (-0.055, -78.626)",Pichincha,1,-0.054659,-78.6256,2233,11,2021
+3537060695,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2021
+3623225263,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2021
+2800196835,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+1770979466,Merganetta armata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,11,2016
+1374536542,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2015
+1713692819,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2016
+3554027777,Merganetta armata,EC,"Rio Pachijal, Pichincha, EC (0.075, -78.909)",Pichincha,1,0.074674,-78.90891,675,5,2021
+2130054965,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+2690975496,Merganetta armata,EC,"Cascada de Nambillo, Mindo, Pichincha, EC (-0,077, -78,755)",Pichincha,2,-0.076818,-78.75497,1508,8,2019
+2073285324,Merganetta armata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,4,2017
+2738377327,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2019
+1361711243,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,3,2015
+2114230956,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,2,-0.310611,-78.907005,1166,3,2005
+2669830464,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2009
+3217977334,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2020
+1712452506,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+2722345609,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,12,2019
+3565131684,Merganetta armata,EC,"Vía sin nombre, Pichincha, EC (0.042, -78.825)",Pichincha,1,0.042245,-78.82527,1215,12,2021
+3204066524,Merganetta armata,EC,La Hojarasca Bird Lodge,Santo Domingo de los Tsáchilas,1,-0.266529,-78.79033,2163,12,2020
+3238553479,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2020
+3667492419,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2021
+1201117648,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2013
+2704704470,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2019
+3201986757,Merganetta armata,EC,Restaurante Mama Digna,Pichincha,1,-0.231094,-78.75611,1833,12,2020
+3288201302,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,9,2020
+2227969801,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,6,2015
+3196004012,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2033191285,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,4,-0.065725,-78.769196,1288,1,2017
+3656433701,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,12,2021
+2168228021,Merganetta armata,EC,Maquipucuna--road,Pichincha,2,0.125055,-78.650696,1177,6,2018
+2710405144,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+1199720153,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,8,2005
+1713400981,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+3657728338,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2021
+3226416242,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2020
+1787299454,Merganetta armata,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,12,2016
+3610413779,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2021
+3546440532,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+2080551213,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+3205682256,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2020
+3226170686,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,3,2020
+2137510127,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+3619170226,Merganetta armata,EC,Mirador de Guaycapi,Pichincha,6,0.031714,-78.68125,1494,11,2021
+3625325678,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,8,2021
+2037642479,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,2,2017
+2043430786,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2017
+2692131638,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,5,2019
+2133651886,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+3658021319,Merganetta armata,EC,Reserva Las Tangaras,Pichincha,2,-0.073428,-78.76845,1465,12,2021
+1199363391,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.300063,-79.0535,692,11,2011
+2102360083,Merganetta armata,EC,Cabañas armonía y jardín de orquídeas,Pichincha,1,-0.055027,-78.77655,1254,1,2018
+2758002522,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+2125700165,Merganetta armata,EC,Río Cinto--Vía a Saloya,Pichincha,2,-0.062226,-78.81049,1167,1,2018
+2798243972,Merganetta armata,EC,"Mindo Valley (-0.046, -78.7756)",Pichincha,1,-0.046,-78.7756,1322,4,2006
+2711680668,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+3183411373,Merganetta armata,EC,Rio Chiche Canyon,Pichincha,5,-0.2061,-78.37052,2324,8,2020
+3688037427,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,12,2021
+2135781320,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2018
+3522996747,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2021
+3546796647,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+2708379004,Merganetta armata,EC,Finca La Soledad (Puente Río Intag),Imbabura,1,0.317146,-78.56493,1293,11,2019
+3187415990,Merganetta armata,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2017
+3136962409,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2020
+2772472790,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,8,2019
+2665542074,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,2,2019
+3631200472,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,7,2021
+2701403799,Merganetta armata,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+2698115439,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2019
+2781466366,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2019
+3143868128,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+2789703343,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,11,2019
+3276609154,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2020
+2732797303,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2019
+3226657859,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+2102316853,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2017
+3211028713,Merganetta armata,EC,Angel Paz and Séptimo Paraíso area,Pichincha,1,-0.001083,-78.73126,1807,2,2012
+1770474638,Merganetta armata,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,10,2016
+2140419655,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,3,2018
+3133897855,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2020
+3563795361,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2021
+3204244862,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2677289968,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2019
+2676970732,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2019
+2196750624,Merganetta armata,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,1,-0.246333,-78.809875,1898,11,2009
+835652142,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2012
+591748980,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,8,2005
+3573150191,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,12,2021
+2088731938,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,4,0.120898,-78.63837,1310,9,2017
+2755628882,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,4,2019
+2208599653,Merganetta armata,EC,Río Cinto--Vía a Saloya,Pichincha,4,-0.062226,-78.81049,1167,10,2018
+3298224298,Merganetta armata,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2002
+1411035372,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,4,-0.310611,-78.907005,1166,9,2007
+2143949883,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2018
+1188235892,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2005
+3240538259,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+2143173230,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+2679322158,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2017
+2721465137,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,5,2003
+3631770811,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+2760357355,Merganetta armata,EC,"EC-Pichincha-Quito (0.1237,-78.6294)",Pichincha,2,0.12367,-78.62943,1270,2,2019
+2686078580,Merganetta armata,EC,"(-0,07, -78,763)",Pichincha,1,-0.070441,-78.762566,1309,4,2019
+2068639003,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2017
+3690532130,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2021
+1382178372,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,7,2015
+961526286,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,8,2005
+3664440470,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+2722925868,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,3,0.125067,-78.62796,1309,10,2019
+2196098356,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2018
+593384576,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,10,2011
+975573146,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2013
+2689196060,Merganetta armata,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+3604467709,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2021
+1157108556,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2014
+1777398667,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2016
+1794503243,Merganetta armata,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,1,-0.246333,-78.809875,1898,7,2008
+1744347445,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2016
+2141753411,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2018
+1747289923,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2016
+3537366666,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2021
+2725874368,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2011
+3222374162,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,3,2020
+1402361623,Merganetta armata,EC,Mindo--Via a Las Cascadas,Pichincha,1,-0.061004,-78.77075,1275,12,2015
+2731203254,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,3,2019
+3604625527,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2021
+2037319532,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+2735243486,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,2,2019
+3576598006,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,7,2021
+1759041290,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,8,2016
+3543806571,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2021
+3568942349,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2021
+2700519899,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2019
+2718282462,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,10,2017
+835714077,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,2,-0.306586,-78.86227,1584,11,2012
+3539266802,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2021
+2698995013,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,9,2019
+2121072727,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+2686817317,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2019
+3176754596,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,2,0.1232,-78.62168,1395,7,2020
+3633638380,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,10,2021
+2064101727,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2017
+2797464358,Merganetta armata,EC,Sacha Tamia Lodge and surroundings,Pichincha,1,-0.026559,-78.75939,1719,11,2004
+2101522048,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2017
+3154586788,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,2,2020
+3144055826,Merganetta armata,EC,"Auto selected -0.05166, -78.62972",Pichincha,2,-0.051664,-78.62972,2228,3,2020
+3646779787,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+2765239654,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,3,-0.1014,-78.74411,1681,12,2019
+3658029650,Merganetta armata,EC,Mirador de Guaycapi,Pichincha,6,0.031714,-78.68125,1494,11,2021
+2138132802,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+2690244236,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2019
+3538174849,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,12,2007
+3139933668,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+3581962535,Merganetta armata,EC,Mirador de Guaycapi,Pichincha,6,0.031714,-78.68125,1494,11,2021
+3569650538,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3538185596,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2021
+1200401490,Merganetta armata,EC,"Nabillo, El Refugio",Pichincha,2,-0.178699,-78.71747,1843,12,2014
+2735682781,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2019
+592379421,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,3,0.019655,-78.70693,1906,8,2010
+1379327604,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2015
+3252609494,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2000
+3232134196,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,3,2020
+3647817180,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+2100181864,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2017
+2758975115,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2019
+593530869,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2011
+2789945085,Merganetta armata,EC,Nanegalito--road to Refugio Paz de las Aves,Pichincha,1,0.030906,-78.71834,1707,7,2009
+3642447858,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3194268766,Merganetta armata,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.213096,-78.950676,741,8,2020
+2032465859,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+962900121,Merganetta armata,EC,San Luis quebrada,Imbabura,1,0.375421,-78.46864,1994,7,2013
+3276974153,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+1402407630,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,11,2015
+2682379734,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,1,2012
+1747801704,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2016
+591862059,Merganetta armata,EC,Bosque Experimental Nambillo,Pichincha,1,0.012778,-78.7754,1546,12,2007
+2167214655,Merganetta armata,EC,Intag,Imbabura,2,0.325061,-78.55587,1330,6,2017
+2131920933,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2018
+1346484549,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,1,2015
+3242419829,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2020
+3152033013,Merganetta armata,EC,"Auto selected -0.05166, -78.62972",Pichincha,2,-0.051664,-78.62972,2228,3,2020
+1346263482,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2015
+1399556351,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2008
+1724036122,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,3,2016
+4057844575,Merganetta armata,EC,Ecuador - Pichincha - Mindo Nambillo Cloud Forest Reserve,,1,-0.078158,-78.755035,1469,1,2023
+3133656645,Merganetta armata,EC,Maquipucuna--road,Pichincha,1,0.125055,-78.650696,1177,1,2020
+272018465,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2006
+3692893614,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+1171393659,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,5,2014
+2704240733,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,7,2019
+1776009639,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2016
+2658066008,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,2,2019
+2119765454,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+2765469469,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,10,2019
+2030029809,Merganetta armata,EC,Maquipucuna Reserva y Ecolodge,Pichincha,2,0.124322,-78.62909,1282,1,2017
+3643836530,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+1774124780,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,10,2012
+2664589411,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,4,2019
+1779918749,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+1352096927,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2015
+3183297051,Merganetta armata,EC,Refugio Nasua,Pichincha,1,0.005685,-78.730064,1678,3,2011
+3581232711,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2021
+3200179953,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+2030854785,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,1,2017
+1206063183,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,7,2008
+2716006146,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,6,2002
+2735772822,Merganetta armata,EC,"(0,123, -78,629)",Pichincha,2,0.123087,-78.62887,1268,2,2019
+3229739525,Merganetta armata,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,2,2020
+2215561921,Merganetta armata,EC,Río Cinto--Vía a Saloya,Pichincha,5,-0.062226,-78.81049,1167,10,2018
+1201840158,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2014
+2150968565,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+2046882088,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2017
+3139459522,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2020
+3215723644,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,5,-0.049224,-78.776825,1268,7,2009
+2768200936,Merganetta armata,EC,"(-0,082, -78,734) Finca de Dalia",Pichincha,2,-0.081747,-78.734184,1669,5,2019
+3208986118,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+3017957985,Merganetta armata,EC,,Pichincha,1,0.044779,-78.842902,1015,11,2016
+1205233169,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,6,2009
+1708978138,Merganetta armata,EC,Aguas Termales de Nangulvi,Imbabura,1,0.328233,-78.54684,1349,1,2016
+3656566326,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2021
+3307428101,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,6,2021
+1393477080,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,10,2015
+3238331898,Merganetta armata,EC,Nambillo River & San Lorenzo Ridge,Pichincha,2,-0.082003,-78.74246,1575,5,2020
+2197679725,Merganetta armata,EC,Mindo,Pichincha,2,0.014763,-78.89192,836,7,2018
+2754332103,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2019
+3145961039,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2020
+2101170159,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,9,2004
+2117061313,Merganetta armata,EC,EC-Imbabura-Cotacachi nangulvi termas,Imbabura,2,0.327851,-78.54737,1347,12,2017
+2687197255,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,7,2019
+3513048180,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,4,2021
+3290781080,Merganetta armata,EC,"Via Alóag Santo Domingo, La Unión del Toachi, EC (-0,318, -78,954)",Santo Domingo de los Tsáchilas,1,-0.318387,-78.95405,811,10,2020
+3645854772,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+1200106852,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2014
+2709972748,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2019
+1791811403,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,2,2000
+2832446132,Merganetta armata,EC,Ecuador - Pichincha,,2,-0.184356,-78.798123,2009,10,2013
+2767258946,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2009
+2626598105,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,2,2015
+3456008292,Merganetta armata,EC,,Pichincha,1,0.030287,-78.681899,1542,12,2021
+1702473949,Merganetta armata,EC,,Pichincha,1,-0.076723,-78.789997,1587,12,2015
+3014064253,Merganetta armata,EC,,Pichincha,1,0.030527,-78.68118,1490,12,2020
+1950008978,Merganetta armata,EC,,Pichincha,1,-0.019935,-78.647603,1902,3,2018
+2634312442,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,2,2019
+3018115750,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,12,2020
+3307239358,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,6,2021
+2013700852,Merganetta armata,EC,,Pichincha,1,0.049896,-78.843588,996,3,2019
+3112511691,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,4,2021
+2350412269,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,8,2019
+4021962196,Merganetta armata,EC,,Pichincha,1,0.124219,-78.629182,1277,1,2023
+2423198691,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,9,2019
+2634200371,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,1,2019
+3333178384,Merganetta armata,EC,,Pichincha,1,-0.046296,-78.792499,1167,10,2004
+2641351736,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,5,2019
+3698187077,Merganetta armata,EC,,Pichincha,1,-0.073069,-78.752608,1352,1,2009
+2856810315,Merganetta armata,EC,,Pichincha,1,-0.391245,-78.397285,2747,7,2020
+3210219317,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,12,2020
+2672155343,Merganetta armata,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,3,2019
+3285755800,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2012
+3511927155,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,4,2021
+3145422259,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2020
+3291230054,Merganetta armata,EC,Finca La Mercedes,Pichincha,1,-0.31401,-78.93371,879,12,2020
+2084469126,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+2107764357,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2017
+2111406027,Merganetta armata,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2018
+2669934832,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,3,2019
+2691634922,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2019
+2656262186,Merganetta armata,EC,Maquipucuna Reserve & Ecolodge,Pichincha,2,0.124037,-78.62944,1270,2,2019
+3639731338,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3663325599,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2021
+3585747101,Merganetta armata,EC,"Pichincha, EC (-0.055, -78.626)",Pichincha,1,-0.054659,-78.6256,2233,11,2021
+1406061429,Merganetta armata,EC,"Pita River, Sangolqui",Pichincha,1,-0.328129,-78.42043,2526,8,2001
+3541714215,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,10,2021
+2122711917,Merganetta armata,EC,San Jorge Tandayapa—15 km south,Pichincha,1,-0.02046,-78.647545,1890,3,2018
+2694769129,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,8,2019
+1406538304,Merganetta armata,EC,Road Reserva Yanacocha to Septimo Paraiso,Pichincha,2,0.059094,-78.6965,1799,2,2012
+2115009813,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2018
+2748940029,Merganetta armata,EC,"EC (0,124, -78,629)",Pichincha,2,0.12398,-78.62939,1271,4,2019
+2098045936,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2017
+3523096029,Merganetta armata,EC,"Auto selected -0.03171, -78.64169",Pichincha,2,-0.031709,-78.64169,2013,4,2021
+3630203648,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,8,2021
+2229876776,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2017
+2111317808,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2018
+3229520787,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2020
+2140171626,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2018
+2707747988,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2019
+3542619518,Merganetta armata,EC,"Rio Pachijal, Pichincha, EC (0.075, -78.909)",Pichincha,1,0.074674,-78.90891,675,5,2021
+2228404684,Merganetta armata,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,3,2016
+1366656133,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,5,2015
+3510802181,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,4,2021
+2098758665,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,4,-0.1014,-78.74411,1681,12,2017
+2771188697,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2019
+3292956285,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+2135722540,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2018
+3207706579,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+1764010617,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,5,-0.049224,-78.776825,1268,7,2009
+2114966801,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,6,2005
+2129467125,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+3663941078,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,2,2021
+833521320,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,8,2005
+2135346101,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+1782221579,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2016
+1767067244,Merganetta armata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+2658359614,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,3,2019
+1156846424,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2014
+3138812670,Merganetta armata,EC,"Auto selected -0.05166, -78.62972",Pichincha,2,-0.051664,-78.62972,2228,3,2020
+1711532818,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2016
+2145069673,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+3238557459,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+3561528787,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+3518118011,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,4,2021
+2063911042,Merganetta armata,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,3,2017
+2706055682,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,11,2019
+2186489742,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2018
+2724965092,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,6,2005
+2037777219,Merganetta armata,EC,Ecollacta,Pichincha,2,0.1171,-78.6409,1322,2,2017
+3649488927,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+2142376719,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2018
+2659530584,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2019
+2029332700,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2003
+1194494621,Merganetta armata,EC,Reserva Maquipucuna - Maquipucuna Entrance Bridge,Pichincha,2,0.124783,-78.63171,1262,2,2010
+3204970620,Merganetta armata,EC,Finca La Mercedes,Pichincha,1,-0.31401,-78.93371,879,12,2020
+2753042984,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+3581764518,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,12,2021
+3233722528,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2020
+591867842,Merganetta armata,EC,Bosque Experimental Nambillo,Pichincha,1,0.012778,-78.7754,1546,12,2007
+2741580511,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2019
+3510652444,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,2,2021
+2774940200,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2019
+1410883020,Merganetta armata,EC,"EC-Imbabura-SelvaAlegre - 0,273x-78,546 - 16/05/2016 00:43",Imbabura,1,0.273259,-78.54571,1714,8,2011
+2794510683,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,3,2017
+2190909322,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2018
+2155417472,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+2797081495,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2000
+2029600636,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,1,2017
+1406334932,Merganetta armata,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2005
+2061823876,Merganetta armata,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2017
+2758181768,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2019
+3208690878,Merganetta armata,EC,Reserva Otongachi,Pichincha,1,-0.320553,-78.95108,887,10,2020
+3595139224,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,4,2021
+592033396,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,5,-0.049224,-78.776825,1268,7,2009
+1389156892,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2012
+1361230166,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2015
+2656936182,Merganetta armata,EC,"EC (0,124, -78,63)",Pichincha,2,0.123997,-78.62962,1271,2,2019
+3208291317,Merganetta armata,EC,Maquipucuna--road,Pichincha,2,0.125055,-78.650696,1177,1,2012
+1201706021,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,7,2013
+3646528716,Merganetta armata,EC,BioZone parque las aves,Pichincha,3,-0.073195,-78.76901,1476,7,2021
+3684201632,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2021
+2671346153,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2019
+3232063322,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+3539890152,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,7,2021
+3208461848,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+2082466451,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+3691610268,Merganetta armata,EC,Ingreso a los Cedros,Imbabura,2,0.318833,-78.7552,1393,5,2021
+2099010022,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2017
+2029205068,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,7,2000
+2171672441,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2009
+1709550595,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,1,2016
+3545954272,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3509786073,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,1,2021
+2711878857,Merganetta armata,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,2,-0.03871,-78.76851,1441,11,2019
+2730733307,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2009
+2135676671,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,2,0.1232,-78.62168,1395,1,2018
+2137673462,Merganetta armata,EC,Mirador Oñate,Pichincha,1,-0.064061,-78.77419,1360,3,2018
+2112532625,Merganetta armata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,2,0.1232,-78.62168,1395,11,2017
+2032853043,Merganetta armata,EC,Maquipucuna Reserva y Ecolodge,Pichincha,2,0.124322,-78.62909,1282,1,2017
+3676289227,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+2771775067,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2019
+2079022366,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2017
+1157018195,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2014
+3210175962,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+1202976703,Merganetta armata,EC,El Refugio de Intag Lodge,Imbabura,5,0.37525,-78.47603,1925,8,2014
+3233905315,Merganetta armata,EC,Nambillo River & San Lorenzo Ridge,Pichincha,2,-0.082003,-78.74246,1575,5,2020
+3173833367,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,9,2020
+1794421776,Merganetta armata,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2002
+3511759120,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2021
+2776336819,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2019
+2189312504,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2017
+1782159287,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2000
+3505147006,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,1,2021
+2162050227,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+2225771248,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2018
+3614110366,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,7,2021
+2657540589,Merganetta armata,EC,"EC (0,124, -78,63)",Pichincha,2,0.124146,-78.629524,1271,2,2019
+2718814910,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,10,2019
+3557484763,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+2710560713,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2019
+2094125008,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,9,2017
+3649160014,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,10,2021
+3636697083,Merganetta armata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,7,2004
+3685007537,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,12,2021
+3282766924,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+3282965109,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+3139250360,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2020
+3238733938,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,1,2020
+1708977050,Merganetta armata,EC,Aguas Termales de Nangulvi,Imbabura,2,0.328233,-78.54684,1349,1,2016
+3541120752,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3563581648,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,4,2021
+961368514,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2013
+3624942214,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,12,2021
+3582201849,Merganetta armata,EC,Alambi Reserve,Pichincha,3,0.030789,-78.680565,1488,10,2021
+2231392715,Merganetta armata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2017
+2107192091,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2017
+2752105285,Merganetta armata,EC,"(0,124, -78,629)",Pichincha,3,0.124006,-78.62933,1272,4,2019
+3547951738,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,11,2021
+2138878829,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+2760045684,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,5,2019
+2166530185,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2013
+2036631382,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,2,2017
+2180069412,Merganetta armata,EC,Mindo--Vía al Cinto,Pichincha,6,-0.061568,-78.791115,1207,8,2018
+1761671182,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,9,2016
+2776283402,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,8,2019
+2123451843,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,2,-0.310611,-78.907005,1166,12,2004
+3260710356,Merganetta armata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,11,2008
+2687904641,Merganetta armata,EC,Maquipucuna,Pichincha,2,0.054932,-78.67962,1505,11,2017
+3209264851,Merganetta armata,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+3547545864,Merganetta armata,EC,"Nanegal, Pichincha, EC (0.126, -78.631)",Pichincha,1,0.126057,-78.630585,1322,11,2021
+979590009,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,10,-0.062765,-78.77427,1344,3,2002
+2127517586,Merganetta armata,EC,El Refugio de Intag Lodge,Imbabura,2,0.37525,-78.47603,1925,1,2018
+2752153785,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2019
+1201856240,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,10,2014
+2114970699,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,8,2005
+3570146931,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2021
+2689970105,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+3297497432,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2007
+3623441329,Merganetta armata,EC,Mirador de Guaycapi,Pichincha,6,0.031714,-78.68125,1494,11,2021
+3200110860,Merganetta armata,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,1,-0.246333,-78.809875,1898,1,2003
+1779358208,Merganetta armata,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+3620306171,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2021
+2801527201,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,11,2019
+2787016038,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+591730041,Merganetta armata,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2005
+2114380889,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2016
+952389593,Merganetta armata,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,1,2007
+2693528966,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2019
+1794818162,Merganetta armata,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,1,-0.246333,-78.809875,1898,11,2008
+3581462638,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,11,2021
+3671660925,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+3583826535,Merganetta armata,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,2,-0.246333,-78.809875,1898,11,2021
+2699271664,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2019
+2161064130,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+1762424207,Merganetta armata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+591866286,Merganetta armata,EC,Bosque Experimental Nambillo,Pichincha,1,0.012778,-78.7754,1546,12,2007
+181241801,Merganetta armata,EC,Ecuador: Stream on road to Nono,Pichincha,1,-0.010149,-78.654854,1867,3,2008
+1775366226,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2002
+2691855938,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2019
+1196045634,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,11,2014
+2678788580,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,4,2019
+2218582705,Merganetta armata,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,3,-0.068914,-78.588905,2712,9,2010
+1202392426,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2013
+2101216062,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,3,2005
+3546842751,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,11,2021
+3199710559,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+2724484958,Merganetta armata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,3,0.125067,-78.62796,1309,11,2019
+3253757710,Merganetta armata,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,1,-0.320337,-78.81568,1839,8,2020
+3582882765,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+1360079699,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+3651861356,Merganetta armata,EC,Alambi Reserve,Pichincha,5,0.030789,-78.680565,1488,11,2021
+1372458015,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2015
+3134351710,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2020
+3188097145,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+2750519497,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,7,2019
+2724052218,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,6,2018
+2746934908,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,2,2019
+1193165900,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2014
+3566465217,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+1405255164,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2015
+2739775031,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,3,2019
+1361591989,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+3633330088,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,8,2021
+3537657956,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,12,2007
+3138783670,Merganetta armata,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,2,2020
+3195278162,Merganetta armata,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+3138330746,Merganetta armata,EC,"Auto selected -0.05166, -78.62972",Pichincha,2,-0.051664,-78.62972,2228,3,2020
+3141775069,Merganetta armata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2020
+2233909214,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2018
+2042780780,Merganetta armata,EC,Ecollacta,Pichincha,2,0.1171,-78.6409,1322,2,2017
+3291858300,Merganetta armata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,11,2008
+1777624931,Merganetta armata,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,6,2011
+2723672018,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,6,2018
+3653572115,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,7,2007
+2080175089,Merganetta armata,EC,bellavista cloud forest lodge,Pichincha,2,0.00302,-78.692345,2265,7,2017
+2776520897,Merganetta armata,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2009
+3188294941,Merganetta armata,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2014
+3135074534,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+1201438438,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2014
+2154563134,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+2171674964,Merganetta armata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2009
+2750041094,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,7,2019
+2666488155,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2019
+2657221126,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+2169144011,Merganetta armata,EC,"Santa Rosa- La Florida-Intag Provincia de Imbabura, EC (0.367, -78.482)",Imbabura,2,0.36676,-78.481705,1779,5,2018
+2120320024,Merganetta armata,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,3,2018
+1792108528,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2014
+2096179745,Merganetta armata,EC,"Via a Saloya, SN Miguel Bancos EC-Pichincha (-0.0595,-78.8133)",Pichincha,4,-0.059513,-78.81335,1131,10,2017
+1391468629,Merganetta armata,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,10,2015
+1208063522,Merganetta armata,EC,Reserva Maquipucuna - Maquipucuna Entrance Bridge,Pichincha,2,0.124783,-78.63171,1262,2,2010
+3196702565,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,11,2020
+3236072643,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2020
+1725999056,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,3,2016
+3186514406,Merganetta armata,EC,Río Cinto--Vía a Lloa,Pichincha,1,-0.075652,-78.79953,1233,7,2020
+3142864681,Merganetta armata,EC,"Auto selected -0.05166, -78.62972",Pichincha,2,-0.051664,-78.62972,2228,3,2020
+2655948281,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2019
+3151843939,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+1176858000,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2014
+2141036157,Merganetta armata,EC,La Hesperia,Pichincha,1,-0.353706,-78.84845,1348,7,2005
+3518053671,Merganetta armata,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,4,2021
+3628773629,Merganetta armata,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,8,2021
+3548748830,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2021
+3137069123,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+3610188013,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,4,2021
+3288261378,Merganetta armata,EC,"Via a Chiriboga, EC (-0,231, -78,754)",Pichincha,1,-0.231259,-78.75442,1906,12,2020
+2731036471,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,3,2019
+3196124997,Merganetta armata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,11,2020
+3556737609,Merganetta armata,EC,Maquipucuna Lodge,Pichincha,3,0.124139,-78.62937,1272,10,2021
+2032529859,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,5,0.120898,-78.63837,1310,1,2017
+3253231228,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+1347215747,Merganetta armata,EC,Nangulví,Imbabura,1,0.327796,-78.546646,1353,1,2015
+2597843627,Merganetta armata,EC,,Pichincha,1,0.124909,-78.630222,1276,1,2020
+2013700455,Merganetta armata,EC,,Pichincha,1,0.050151,-78.843628,1002,2,2019
+1390122562,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,8,2005
+2703059201,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2019
+1787601020,Merganetta armata,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,2,2015
+2713721387,Merganetta armata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,8,2019
+3389244387,Merganetta armata,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020
+2221911388,Merganetta armata,EC,Río Cinto--Vía a Saloya,Pichincha,5,-0.062226,-78.81049,1167,10,2018
+2197022487,Merganetta armata,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,10,2018
+3858359541,Merganetta armata,EC,,Pichincha,1,0.123755,-78.629907,1282,5,2022
+4011696217,Merganetta armata,EC,,Pichincha,1,-0.051778,-78.62944,2214,12,2022
+2118580679,Merganetta armata,EC,Ecuador: Stream on road to Nono,Pichincha,1,-0.010149,-78.654854,1867,3,2008
+3180428715,Merganetta armata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,6,2020
+2731557655,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+1227763156,Merganetta armata,EC,,Pichincha,1,0.043859,-78.646231,1773,1,2008
+1409465141,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2003
+3639887968,Merganetta armata,EC,Reserva Las Tangaras,Pichincha,2,-0.073428,-78.76845,1465,12,2021
+3654786019,Merganetta armata,EC,"Reserva ""Sacha Urco""",Pichincha,1,-0.019955,-78.80906,1053,8,2021
+3822693438,Merganetta armata,EC,Ecuador - Pichincha,,3,0.124361,-78.629295,1277,10,2021
+3823101216,Merganetta armata,EC,Ecuador - Pichincha,,3,0.124095,-78.62925,1274,10,2021
+3825502171,Merganetta armata,EC,Ecuador - Pichincha,,1,0.123621,-78.629547,1273,10,2021
+2832437215,Merganetta armata,EC,Ecuador - Pichincha,,2,-0.184356,-78.798123,2009,10,2013
+2840570917,Merganetta armata,EC,Ecuador - Pichincha,,1,0.052979,-78.842268,1191,2,2019
+2838797186,Merganetta armata,EC,Ecuador - Pichincha,,1,-0.184356,-78.798123,2009,10,2013
+2686249497,Merganetta armata,EC,Areas between Quito and Yanacocha,Pichincha,3,-0.102763,-78.54394,3358,7,2010
+3218271345,Merganetta armata,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,2,2020
+3200974984,Merganetta armata,EC,"Restaurante Mi Ranchito Via Alóag Santo Domingo, Pichincha, EC (-0.313, -78.95)",Pichincha,2,-0.312766,-78.9496,837,9,2020
+2133620931,Merganetta armata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2018
+1411598407,Merganetta armata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2011
+3646947625,Merganetta armata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2021

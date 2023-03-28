@@ -1,0 +1,756 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2243889815,Myornis senilis,EC,"Reserva Geobotánico Pululahua, Pichincha",,1,0.0667,-78.5167,2030,2,2012
+1359761809,Myornis senilis,EC,Bellavista Cloud Forest Reserve & Lodge,Pichincha,1,0.003736,-78.69116,2273,2,2015
+1774284141,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+2706687305,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+1370250264,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,5,2015
+3218308234,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+2761675640,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2732917634,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2019
+592543620,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2010
+1777616886,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+2216648925,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,10,2018
+2122443696,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2011
+2224945397,Myornis senilis,EC,Ruta de Humboldt,Pichincha,1,-0.198739,-78.53733,3570,12,2018
+2133316866,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2017
+1190790988,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,6,2004
+277545344,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2010
+3205325741,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,12,2020
+1190863409,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,3,2004
+837134971,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,3,2012
+2110220556,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2008
+2226364819,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2018
+2763195305,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+2690632298,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2019
+2710984823,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3566844867,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,6,2021
+3563377643,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,5,2021
+1190865414,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+1190697005,Myornis senilis,EC,Guarumos Transecto control P02,Pichincha,1,-0.04556,-78.64794,2714,5,2008
+2751464355,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2019
+1190706439,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,5,2004
+3604563182,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,6,2021
+2123512690,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2005
+3654076069,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2021
+3669606973,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2013
+1190960511,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,9,2005
+1190954312,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+2063238035,Myornis senilis,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,6,2017
+3572264059,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+1190702751,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,7,2008
+1190987712,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,3,2002
+3199167019,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+1190898865,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,1,2007
+1346283491,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,1,2015
+3658004609,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+3586316532,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2021
+3645654883,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2021
+1398828652,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,2,0.077382,-78.518135,1925,11,2011
+3592578612,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2021
+1190691352,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,2,2003
+1190898726,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+3216091744,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+1190906694,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,2,2003
+1190986386,Myornis senilis,EC,Comunidad de Alaspungo,Pichincha,1,0.0035,-78.5935,2338,6,2007
+3188971449,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,3,0.022492,-78.50228,3043,10,2020
+2209074068,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,10,2018
+1738752128,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2016
+3573331946,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+3691383590,Myornis senilis,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,9,2021
+1204941162,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2010
+1751633454,Myornis senilis,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,2,2005
+1788881347,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2000
+1190838851,Myornis senilis,EC,Guarumos Transecto control P04,Pichincha,1,-0.0435,-78.64925,2572,12,2007
+1790180541,Myornis senilis,EC,Cóndor Wachana - Planta Rumipamba,Pichincha,3,-0.175352,-78.53057,3312,1,2015
+1794588432,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2002
+1190806839,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,6,2008
+2096657482,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,9,2017
+2793815103,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2019
+594281850,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,6,2011
+2217271200,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,11,2018
+1190919906,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,9,2005
+1205903634,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2002
+1725118617,Myornis senilis,EC,Lower Potreros,Pichincha,2,0.233651,-78.46772,2974,3,2016
+945442394,Myornis senilis,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,6,2012
+3215330205,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,3,2010
+1395587484,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2015
+3693941108,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2003
+1190820203,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,10,2003
+1190802282,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1395584822,Myornis senilis,EC,Via Yanacocha,Pichincha,4,-0.1074,-78.5707,3454,10,2015
+1190849227,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,2,2005
+1190961420,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,11,2004
+3655761568,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,12,2021
+3694832415,Myornis senilis,EC,Ruta de Humboldt,Pichincha,4,-0.20365,-78.5311,3356,12,2021
+2106622015,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,10,2017
+3597486766,Myornis senilis,EC,Bosque Protector Siempre Verde,Imbabura,1,0.372374,-78.42244,2446,4,2021
+3218109525,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2073154782,Myornis senilis,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,6,2017
+1190866992,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,9,2002
+937820025,Myornis senilis,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,12,2011
+3549016774,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+3556700162,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+3653272387,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2021
+3619875324,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3582019637,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,10,2021
+1190948667,Myornis senilis,EC,Guarumos Transecto control P01,Pichincha,1,-0.04692,-78.64769,2699,7,2007
+2084561347,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,10,2017
+2076711926,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2017
+2773732260,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,9,2019
+3207216752,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,7,2008
+1190898829,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,11,2003
+1190923147,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+1787757962,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2011
+1157523583,Myornis senilis,EC,Nono mindo Eco route,Pichincha,1,-0.067271,-78.59259,2621,2,2014
+2786445234,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2001
+1190847389,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,2,2004
+2737865492,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+3539161708,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1766356101,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2002
+1190902484,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,10,2003
+1190978688,Myornis senilis,EC,Guarumos Transecto impacto P07,Pichincha,1,-0.04864,-78.64856,2580,8,2004
+1190872453,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,1,2004
+1725116913,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+2085712055,Myornis senilis,EC,"(-0.108, -78.558)",Pichincha,2,-0.107923,-78.55798,3444,8,2017
+2100882940,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+3572735717,Myornis senilis,EC,MAYU Guajalito Reserva & Lodge,Santo Domingo de los Tsáchilas,1,-0.247991,-78.804924,1873,11,2021
+1190695557,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1350849002,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2015
+1791197621,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+1208341964,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,3,2004
+1190788032,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,3,2003
+2081018685,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+3685820317,Myornis senilis,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,9,2021
+3168223781,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2011
+1793055857,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2013
+1190939052,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,7,2004
+2798768824,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+3177979948,Myornis senilis,EC,"Reserva Geobotanica Pululahua, Quito EC-Pichincha 0.02095, -78.50316",Pichincha,2,0.020948,-78.50316,3058,9,2020
+3564109760,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,5,2021
+1190832764,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,11,2007
+1190801016,Myornis senilis,EC,Guarumos Transecto impacto P10,Pichincha,1,-0.04753,-78.65253,2661,5,2008
+3270088289,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2001
+1190711153,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,3,2004
+3566291887,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2021
+2039698885,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2017
+1190970706,Myornis senilis,EC,Guarumos Transecto control P01,Pichincha,1,-0.04692,-78.64769,2699,10,2006
+1190701315,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,2,2004
+3575146734,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1725105881,Myornis senilis,EC,Ridge above school,Pichincha,2,0.21635,-78.46438,3358,3,2016
+3615412284,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+1208341549,Myornis senilis,EC,Guarumos Transecto impacto P03,Pichincha,1,-0.05083,-78.64372,2666,7,2007
+3293168303,Myornis senilis,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2001
+3667400681,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2000
+1190861562,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,1,2005
+2113445757,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,4,-0.176159,-78.53123,3343,12,2017
+3659419971,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,2,-0.11649,-78.52343,3187,12,2021
+3630886137,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,8,2021
+958330726,Myornis senilis,EC,Bosque Protector Neblina,Imbabura,2,0.3485,-78.44678,2718,6,2013
+3692492256,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1190864112,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+1725118135,Myornis senilis,EC,Ridge above school,Pichincha,3,0.21635,-78.46438,3358,3,2016
+1725105847,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+2761580391,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2017
+1190838276,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,4,2004
+1398758257,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,11,2015
+1190792313,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+3655289375,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,5,0.022492,-78.50228,3043,12,2021
+3572554424,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1190929700,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,5,2004
+1190706956,Myornis senilis,EC,Campanario Transecto control P05,Pichincha,1,-0.03014,-78.66375,2491,11,2007
+937782423,Myornis senilis,EC,Bellavista Cloud Forest Lodge,Pichincha,3,-0.015922,-78.681206,2242,12,2011
+3143669640,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+1404645697,Myornis senilis,EC,"EC-Pichincha-Quito - -0.1761x-78.5294 - Dec 31, 2015, 2:34 PM",Pichincha,1,-0.176086,-78.5294,3300,12,2015
+3194144501,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+1190970735,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,7,2008
+1758431463,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+958333865,Myornis senilis,EC,Bosque Protector Neblina,Imbabura,2,0.3485,-78.44678,2718,6,2013
+3525224929,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2021
+962565467,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2013
+3297421566,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+2183940535,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3548948008,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+1190967512,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,1,2004
+1190916448,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+2226570119,Myornis senilis,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,12,2018
+2721754202,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,9,2019
+1767036690,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2007
+3151809788,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2100989083,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+594168583,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2011
+3268773787,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2007
+1190959963,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+3232001142,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2749373379,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2019
+2669701517,Myornis senilis,EC,"Yanacocha - (-0,112, -78,585)",Pichincha,2,-0.111553,-78.585045,3532,1,2019
+2739576706,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2019
+2102236210,Myornis senilis,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,10,2017
+1190824111,Myornis senilis,EC,Guarumos Transecto control P02,Pichincha,1,-0.04556,-78.64794,2714,1,2008
+1778231694,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,5,2007
+1208337099,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1190926285,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,8,2002
+1774597147,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+2052999295,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,5,2017
+3517480900,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,5,2021
+1190708420,Myornis senilis,EC,Guarumos Transecto control P02,Pichincha,1,-0.04556,-78.64794,2714,5,2005
+1767840062,Myornis senilis,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,10,2016
+1190926735,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,8,2002
+1190897775,Myornis senilis,EC,Guarumos Transecto control P05,Pichincha,1,-0.04347,-78.64967,2606,3,2008
+1190822379,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,2,2008
+3209723260,Myornis senilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2020
+1206188197,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,11,2011
+1206158173,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,8,2010
+1190966426,Myornis senilis,EC,Guarumos Transecto control P03,Pichincha,1,-0.04425,-78.64864,2601,6,2007
+1738500775,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2016
+1190825754,Myornis senilis,EC,Guarumos Transecto control P03,Pichincha,1,-0.04425,-78.64864,2601,3,2005
+1723839177,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2016
+2172291071,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+1190920432,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,8,2003
+1190709784,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,1,2008
+1753815478,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+1190915626,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,12,2002
+3546393661,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2021
+2699699333,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2019
+1398544829,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,2,0.077382,-78.518135,1925,11,2011
+594273932,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,11,2011
+1190691309,Myornis senilis,EC,Comunidad de Alaspungo,Pichincha,1,0.0035,-78.5935,2338,6,2007
+1710756088,Myornis senilis,EC,Parque Metropolitano Chilibulo Huayrapungo,Pichincha,3,-0.242488,-78.55827,3251,1,2016
+961932070,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2011
+1190922704,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,2,2005
+1391120600,Myornis senilis,EC,Bosque Protector Reserva Neblina,Imbabura,2,0.3446,-78.4347,2937,10,2015
+1190642196,Myornis senilis,EC,Guarumos Transecto control P04,Pichincha,1,-0.0435,-78.64925,2572,2,2007
+1190940220,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,2,-0.028,-78.598,2690,9,2003
+1395523855,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2015
+3283767079,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,9,2020
+3642116583,Myornis senilis,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,8,2009
+1190861059,Myornis senilis,EC,"San Luis Transecto impacto, Punto 5",Pichincha,1,-0.018,-78.688,2325,4,2004
+1190908649,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+2712941341,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+1190642326,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,2,-0.03,-78.59,2743,3,2002
+1190693274,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 9",Pichincha,1,-0.03,-78.61,3089,4,2004
+1190884280,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,6,2005
+3647747571,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1767841214,Myornis senilis,EC,Yanacocha entrance road -- 0.107x-78.57,Pichincha,3,-0.106537,-78.57036,3450,10,2016
+3200146394,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+1719630115,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+3585193960,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+951907117,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2013
+1190947384,Myornis senilis,EC,Guarumos Transecto control P02,Pichincha,1,-0.04556,-78.64794,2714,2,2007
+2781054488,Myornis senilis,EC,"Mojanda Approach Upper Curve. San Luis (0.187, -78.292)",Imbabura,1,0.186988,-78.291595,3034,9,2019
+3280234141,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+2115084927,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2005
+3655689484,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2021
+2709180281,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,3,0.022492,-78.50228,3043,2,2013
+1777636316,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+1190973636,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,12,2004
+1190977326,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+1190855474,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+3145513062,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3617602467,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,5,2021
+1190838362,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,7,2004
+3571420666,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2021
+1206614876,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,4,0.040374,-78.50293,2405,5,2007
+1204467063,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2011
+2798247768,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2019
+1190916126,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,9,2007
+2199820598,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,10,2018
+2132799585,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2018
+1190889139,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,3,2005
+1190915675,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,3,2004
+2112047152,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2017
+2047774795,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2017
+3687657700,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,5,2021
+2174124247,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,6,2018
+1190641407,Myornis senilis,EC,Guarumos Transecto impacto P05,Pichincha,1,-0.04844,-78.64581,2581,8,2007
+2074959993,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+1190798001,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,8,2005
+1788796692,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2002
+1190627688,Myornis senilis,EC,Guarumos Transecto control P05,Pichincha,1,-0.04347,-78.64967,2606,3,2005
+1190881954,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,12,2007
+2710314573,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2019
+1791809546,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,2,2000
+3683309047,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,3,-0.279515,-78.69269,2491,11,2021
+2196020556,Myornis senilis,EC,"La Delicia, Provincia de Imbabura, EC (0.347, -78.457)",Imbabura,3,0.34658,-78.456924,2577,7,2018
+1190848890,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,9,2002
+3297470384,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2020
+1190910973,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,6,2003
+2156708072,Myornis senilis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2011
+2113446331,Myornis senilis,EC,Ruta de Humboldt,Pichincha,2,-0.20365,-78.5311,3356,12,2017
+2220586947,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+837096658,Myornis senilis,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,6,2012
+1777641455,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,5,2007
+2114506664,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,11,2017
+1190704420,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,11,2003
+1190936863,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,8,2005
+1190804452,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,3,2002
+3201384598,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+1190920615,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,3,2002
+1190931773,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,2,2005
+1781695560,Myornis senilis,EC,Pululahua Hostal,Pichincha,1,0.033814,-78.48593,2504,12,2016
+1190881902,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+3559618057,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2021
+1190879950,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,8,2003
+3678421491,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2021
+2161461241,Myornis senilis,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,6,2018
+2752138521,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2019
+1712260723,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2016
+3198646088,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+1190973176,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,5,2008
+1208339181,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,6,2004
+972111573,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,4,2010
+1190850625,Myornis senilis,EC,Guarumos Transecto control P03,Pichincha,1,-0.04425,-78.64864,2601,9,2004
+2770399019,Myornis senilis,EC,Reserva Verdecocha,Pichincha,2,-0.09729,-78.60604,2831,12,2019
+2221167461,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+2767439407,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2019
+3665039294,Myornis senilis,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2021
+1190880490,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,3,2004
+2099666384,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,10,2017
+2745700969,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2019
+2115081570,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2005
+2198466520,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,9,2018
+1190911599,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,4,2005
+979837564,Myornis senilis,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2007
+1190982942,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+3574503694,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+2166851922,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3674189254,Myornis senilis,EC,Cóndor Wachana - Planta Rumipamba,Pichincha,3,-0.175352,-78.53057,3312,1,2015
+2738982403,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2014
+1190844070,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,2,2004
+2066627806,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2017
+1190706136,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,7,2007
+3236801901,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2101151412,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2001
+2031507767,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2017
+1738461966,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2016
+1190951611,Myornis senilis,EC,Guarumos Transecto impacto P10,Pichincha,1,-0.04753,-78.65253,2661,5,2007
+2141304615,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2008
+2730735214,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,2,2015
+2043784611,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2017
+1190844114,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,3,2004
+1794585467,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,11,2008
+2209536275,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2018
+3662547517,Myornis senilis,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,8,2009
+3598174914,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2021
+1190957249,Myornis senilis,EC,Guarumos Transecto control P01,Pichincha,1,-0.04692,-78.64769,2699,12,2007
+2153819697,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,2,-0.176159,-78.53123,3343,3,2018
+3183220747,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2020
+2712446530,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2019
+1190623469,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,6,2004
+3695083088,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2021
+2658522448,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2002
+1208411955,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,9,2005
+2703960546,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2019
+2132870959,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2018
+1190917485,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,2,2005
+1725114809,Myornis senilis,EC,Ridge above school,Pichincha,3,0.21635,-78.46438,3358,3,2016
+2213018035,Myornis senilis,EC,Ruta de Humboldt,Pichincha,2,-0.198739,-78.53733,3570,12,2018
+2775041089,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2010
+2662319213,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,1,2019
+2144509542,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,3,-0.176159,-78.53123,3343,3,2018
+1190966453,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,6,2008
+1748235634,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2013
+1723371324,Myornis senilis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,3,2016
+1190981191,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,8,2007
+1791706902,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2008
+2695448174,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2019
+3588903888,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,4,2021
+1346285731,Myornis senilis,EC,Cóndor Wachana - Planta Rumipamba,Pichincha,3,-0.175352,-78.53057,3312,1,2015
+2122565691,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2018
+1190982945,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,2,2008
+3675922146,Myornis senilis,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,7,2021
+3141086804,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+1190948776,Myornis senilis,EC,Guarumos Transecto control P03,Pichincha,1,-0.04425,-78.64864,2601,2,2004
+1190830272,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1190708735,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,8,2004
+1190874337,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,5,2004
+3617130687,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,8,2021
+1190637073,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,1,2005
+2078870433,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+1190940110,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,6,2007
+2220361245,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2009
+3598292682,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,5,2021
+1405450446,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2015
+1190918485,Myornis senilis,EC,Guarumos Transecto impacto P09,Pichincha,1,-0.04892,-78.65133,2622,1,2008
+1190892010,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,1,2004
+2793714577,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,1,2017
+277804255,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2002
+1190871508,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,4,2004
+1190825777,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,3,2002
+2232778267,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,11,2018
+1190960025,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,2,2004
+1190851708,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,6,2004
+1190983085,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,11,2003
+2065338151,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,3,0.022492,-78.50228,3043,5,2017
+1190883486,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,8,2003
+1190808820,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,3,2004
+1190712592,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,2,2008
+1190635186,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,3,2002
+1190954417,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,7,2007
+1190789003,Myornis senilis,EC,Guarumos Transecto control P04,Pichincha,1,-0.0435,-78.64925,2572,2,2008
+3189010369,Myornis senilis,EC,"Reserva Geobotanica Pululahua, Quito EC-Pichincha 0.02095, -78.50316",Pichincha,2,0.020948,-78.50316,3058,9,2020
+1190898643,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,4,2003
+2102546947,Myornis senilis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,10,2017
+2716944622,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2019
+1725119418,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+1190838415,Myornis senilis,EC,Guarumos Transecto impacto P08,Pichincha,1,-0.04933,-78.65,2580,11,2006
+3579737771,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+1190873764,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,6,2004
+1190876273,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,3,2002
+2212740884,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,11,2018
+2796514502,Myornis senilis,EC,Sacha Tamia Lodge and surroundings,Pichincha,1,-0.026559,-78.75939,1719,11,2004
+2121968308,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,4,-0.176159,-78.53123,3343,12,2017
+3597019437,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,1,2021
+3196467505,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2020
+1768617471,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2016
+3600912155,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1190865939,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,6,2007
+2116311633,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2018
+2067051585,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2017
+1190869629,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,10,2003
+1395594026,Myornis senilis,EC,Via Yanacocha,Pichincha,4,-0.1074,-78.5707,3454,10,2015
+2183777772,Myornis senilis,EC,Estación Biológica El Cedral Ecolodge,Pichincha,1,0.114006,-78.57022,2261,6,2018
+1190705039,Myornis senilis,EC,Guarumos Transecto control P04,Pichincha,1,-0.0435,-78.64925,2572,1,2007
+3629757092,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2021
+1405360345,Myornis senilis,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+3577182700,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+1190874696,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,2,2004
+2225687756,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,11,2018
+1190870562,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,2,2005
+1788907788,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,2,2000
+1190851107,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+1190874885,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,11,2007
+2114263395,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2010
+2098697444,Myornis senilis,EC,Comunidad de Alaspungo,Pichincha,3,0.0035,-78.5935,2338,12,2017
+2658800190,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+3295650215,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+3655886228,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+2163371438,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,6,2018
+3568621114,Myornis senilis,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,7,2021
+2691256847,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2019
+1190843960,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,2,2003
+2064771111,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+974369259,Myornis senilis,EC,pululahua crater ca. 2300masl,Pichincha,2,0.098877,-78.53371,1793,12,2013
+1190892825,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,7,2004
+1190704094,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,1,2004
+1190935973,Myornis senilis,EC,Guarumos Transecto impacto P10,Pichincha,1,-0.04753,-78.65253,2661,12,2007
+2779528256,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2019
+2754495561,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2019
+1190979995,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 9",Pichincha,1,-0.03,-78.61,3089,10,2004
+2796461549,Myornis senilis,EC,"Alluriquín Chitoa, EC (-0.308, -78.815)",Santo Domingo de los Tsáchilas,2,-0.307558,-78.814995,1802,10,2019
+3570510438,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2021
+3649864235,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1190968403,Myornis senilis,EC,Guarumos Transecto impacto P05,Pichincha,1,-0.04844,-78.64581,2581,7,2008
+1190816270,Myornis senilis,EC,Guarumos Transecto impacto P03,Pichincha,1,-0.05083,-78.64372,2666,3,2005
+1405461221,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,11,2015
+1190925930,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,6,2003
+1190917918,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,6,2008
+1378608360,Myornis senilis,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2015
+2106027422,Myornis senilis,EC,"Yarinacocha, 3528-3540 m asl",Pichincha,1,-0.113,-78.58445,3517,7,2016
+1712736787,Myornis senilis,EC,Rumiloma Hacienda and water treatment plant up road,Pichincha,1,-0.176366,-78.531235,3352,1,2016
+1770485561,Myornis senilis,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,10,2016
+1208339291,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,9,2003
+2224379541,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,11,2018
+2215013999,Myornis senilis,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,12,2018
+2669098779,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+2112084855,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2018
+2224383531,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,11,2018
+2746022565,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,3,2019
+3204357522,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+1190974930,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+2217261311,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,11,2018
+1190977330,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+2076321958,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,6,2017
+2031827096,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,1,2017
+3664805402,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2013
+1190804572,Myornis senilis,EC,Guarumos Transecto control P02,Pichincha,1,-0.04556,-78.64794,2714,11,2006
+2661231231,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+1190955780,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,7,2004
+1197117583,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2003
+2704548836,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2019
+1208399900,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,9,2002
+1190937366,Myornis senilis,EC,Guarumos Transecto impacto P05,Pichincha,1,-0.04844,-78.64581,2581,4,2004
+2799404495,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,11,2019
+3238455099,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2007
+594219256,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,2,0.077382,-78.518135,1925,11,2011
+1208340719,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,1,2005
+3661658571,Myornis senilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2020
+3209878929,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+1375711318,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2015
+1190804009,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,10,2002
+3598395349,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,6,2021
+2224154108,Myornis senilis,EC,Comunidad de Alaspungo,Pichincha,2,0.0035,-78.5935,2338,12,2018
+1208341155,Myornis senilis,EC,Campanario Transecto control P04,Pichincha,1,-0.03086,-78.66378,2499,3,2005
+3299046461,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+1190913908,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+2777296855,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+1725113513,Myornis senilis,EC,Lower Potreros,Pichincha,2,0.233651,-78.46772,2974,3,2016
+2119867322,Myornis senilis,EC,Ruta de Humboldt,Pichincha,2,-0.198739,-78.53733,3570,12,2017
+1190702705,Myornis senilis,EC,Guarumos Transecto control P01,Pichincha,1,-0.04692,-78.64769,2699,7,2008
+1190827394,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,6,2003
+3146703649,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+974360009,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,12,2013
+2116199290,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2017
+2139503129,Myornis senilis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2004
+3576993335,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2021
+3645180084,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2009
+1365405798,Myornis senilis,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,5,2015
+3185880217,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2005
+2172571927,Myornis senilis,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,6,2018
+2062283356,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2017
+3144299080,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+1190629149,Myornis senilis,EC,Guarumos Transecto control P05,Pichincha,1,-0.04347,-78.64967,2606,5,2007
+3563742811,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2021
+3285834460,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2002
+3275304997,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2018
+2176431001,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3578462104,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,5,0.022492,-78.50228,3043,12,2021
+1711409242,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2016
+2140536165,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,3,-0.176159,-78.53123,3343,3,2018
+1205109558,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2011
+1190635749,Myornis senilis,EC,Guarumos Transecto impacto P10,Pichincha,1,-0.04753,-78.65253,2661,5,2007
+1208399842,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 9",Pichincha,1,-0.03,-78.61,3089,2,2005
+1190864405,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,9,2003
+1208300729,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,6,2003
+1395600872,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2015
+937725322,Myornis senilis,EC,Nono-Tandayapa Road,Pichincha,1,-0.036049,-78.63808,2173,1,2013
+2715924132,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2019
+3536363591,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+1190868356,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,4,2004
+1190703319,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,3,2002
+1752982881,Myornis senilis,EC,mojanda treeline not paramo,Imbabura,1,0.13941,-78.27857,3717,7,2016
+2745060111,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+1190624975,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+1190925499,Myornis senilis,EC,Guarumos Transecto impacto P11,Pichincha,1,-0.0465,-78.65397,2664,6,2004
+592561072,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,4,2010
+1725118426,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+1738874968,Myornis senilis,EC,El Entable,Pichincha,1,0.1527,-78.338,2350,5,2016
+1190864749,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 9",Pichincha,1,-0.03,-78.61,3089,1,2004
+3284045746,Myornis senilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2020
+2799989059,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+1190826097,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,7,2004
+2651967816,Myornis senilis,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,2,-0.09409,-78.556305,3208,8,2002
+3539005940,Myornis senilis,EC,Siempre Verde (correct locality!),Imbabura,1,0.37239,-78.42243,2446,4,2021
+975676888,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2013
+2762954319,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+1399386311,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2015
+1190910407,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 9",Pichincha,1,-0.03,-78.61,3089,3,2004
+1190708295,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,9,2002
+3582382952,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2021
+1190701681,Myornis senilis,EC,Guarumos Transecto impacto P05,Pichincha,1,-0.04844,-78.64581,2581,6,2007
+2151938480,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,3,2018
+1190924646,Myornis senilis,EC,"San Luis Transecto impacto, Punto 1",Pichincha,1,-0.017,-78.687,2278,4,2004
+3294884651,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2017
+1171299194,Myornis senilis,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,7,2005
+1190943559,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,10,2003
+1187475736,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,9,2014
+1190795893,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,4,2003
+3611322154,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+3553968051,Myornis senilis,EC,Water Company Station- Yanacocha Road,Pichincha,2,-0.116975,-78.57089,3546,11,2021
+1190642200,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,2,2007
+594407807,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2011
+1725118676,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+1190704671,Myornis senilis,EC,Guarumos Transecto control P04,Pichincha,1,-0.0435,-78.64925,2572,6,2007
+2221325502,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+1190696133,Myornis senilis,EC,Guarumos Transecto impacto P03,Pichincha,1,-0.05083,-78.64372,2666,1,2005
+2718244234,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,10,2000
+1190626449,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,7,2004
+1175906184,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,1,2012
+3665924241,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2021
+3645809992,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+2065448745,Myornis senilis,EC,Pululahua acces road forest near village,Pichincha,4,0.039439,-78.49425,2483,5,2017
+1208293114,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,12,2007
+3575038023,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+2766591639,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2017
+1190846902,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1189211238,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2014
+3217729431,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3693407793,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+1190983012,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,4,2004
+2745924946,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2019
+2800614541,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2010
+3136885224,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2662452848,Myornis senilis,EC,Yanacocha Reserve,Pichincha,1,-0.126398,-78.58868,3635,2,2019
+1717343098,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+3284516205,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+1725150716,Myornis senilis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2016
+970180078,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2009
+3298353369,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+2031195064,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2017
+1190639875,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,4,2004
+3599125285,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+1190848312,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,5,2008
+1190695636,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,1,-0.025,-78.595,2673,3,2002
+2087700156,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,7,2017
+3554989964,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2021
+1190640707,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,2,2005
+2066289314,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+2029346065,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,11,2011
+1190866859,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,7,2003
+3681489205,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+3635047236,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2089024545,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2017
+3574112035,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+3665546340,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2021
+1208302512,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,10,2004
+2193131997,Myornis senilis,EC,"Yanacocha Road, Pichincha, EC (-0,117, -78,523)",Pichincha,1,-0.116896,-78.52321,3192,8,2018
+3684127199,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,6,2021
+2756608414,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2009
+3136852236,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+3582196705,Myornis senilis,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,9,2021
+1208337120,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,6,2007
+1190806044,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+3655587597,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,11,2021
+1190831365,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,4,2003
+3563021638,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2021
+1208345500,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 6",Pichincha,2,-0.025,-78.595,2673,1,2004
+941324310,Myornis senilis,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2013
+2103566677,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2017
+3289314437,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2019
+1190948121,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,8,2004
+3564735086,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,8,2021
+1751599877,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2015
+2127570162,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2018
+3190530938,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,1,-0.279515,-78.69269,2491,9,2020
+2229113333,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,6,2018
+3650425700,Myornis senilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2021
+2683779294,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2019
+2114266643,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2005
+1785989369,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2012
+1203272147,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,8,2012
+2718786018,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2019
+1190842174,Myornis senilis,EC,Guarumos Transecto impacto P11,Pichincha,1,-0.0465,-78.65397,2664,10,2007
+3563176210,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,3,0.022492,-78.50228,3043,12,2021
+1190916629,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+1725118804,Myornis senilis,EC,"Old dirt road, leads to abandoned potrero.",Pichincha,1,0.242267,-78.45888,3381,3,2016
+958342108,Myornis senilis,EC,Bosque Protector Neblina,Imbabura,2,0.3485,-78.44678,2718,6,2013
+837086065,Myornis senilis,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,6,2012
+1190962896,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,7,2003
+2066763351,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2017
+2726832630,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2000
+1714127057,Myornis senilis,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,2,2016
+3583209927,Myornis senilis,EC,MAYU Guajalito Reserva & Lodge,Santo Domingo de los Tsáchilas,1,-0.247991,-78.804924,1873,11,2021
+1190915122,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2007
+2115010037,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2018
+1404903408,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2015
+1399390693,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2015
+1190623482,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 7",Pichincha,1,-0.024,-78.594,2629,6,2004
+1190848774,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,4,2004
+3519865240,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2021
+2716294412,Myornis senilis,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2019
+3275325587,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2012
+1190971686,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,4,2004
+3236945430,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,7,2005
+1190822916,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,8,2007
+2703894319,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2019
+3667858776,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2021
+3541656692,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2021
+1190844398,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,9,2002
+1791812637,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2000
+1409585181,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,1,2014
+1356647909,Myornis senilis,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,3,2015
+2052876783,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,5,2017
+833440587,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.1119,-78.58481,3526,1,2004
+3232872991,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+972023060,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,4,2010
+3656122292,Myornis senilis,EC,Siempre Verde (correct locality!),Imbabura,1,0.37239,-78.42243,2446,4,2021
+3621888241,Myornis senilis,EC,Yanacocha-Verdecocha road (from 3450m to 1850m),Pichincha,1,-0.099745,-78.574394,3110,10,2021
+1190852679,Myornis senilis,EC,Guarumos Transecto impacto P09,Pichincha,1,-0.04892,-78.65133,2622,10,2007
+1190694055,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,7,2004
+2690753321,Myornis senilis,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,7,2019
+3583981600,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2021
+3685906109,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,5,2021
+2081252842,Myornis senilis,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,6,2017
+1190623450,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,6,2003
+2732540537,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2019
+2711542055,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2019
+1725108045,Myornis senilis,EC,Ridge above school,Pichincha,2,0.21635,-78.46438,3358,3,2016
+1712176024,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,1,2016
+3673953686,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2021
+1190840595,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,4,2004
+1190919413,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,12,2004
+3236930503,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3145853692,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,2,2020
+1190796041,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,8,2003
+1190868139,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,1,-0.029,-78.599,2789,8,2002
+3575454805,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+2095500893,Myornis senilis,EC,"(-0,112, -78,585)",Pichincha,1,-0.111603,-78.585175,3528,11,2017
+1190849642,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,7,2008
+2123393945,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2004
+3571140435,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+2081053667,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+2708686410,Myornis senilis,EC,"(-0.1066,-78.5437)",Pichincha,1,-0.106639,-78.54372,3403,2,2018
+1203401992,Myornis senilis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2014
+965074936,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,8,2013
+2705680095,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+2727925733,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2019
+1190830764,Myornis senilis,EC,Guarumos Transecto impacto P06,Pichincha,1,-0.04781,-78.64708,2589,7,2005
+1190887107,Myornis senilis,EC,Guarumos Transecto impacto P04,Pichincha,1,-0.04933,-78.64436,2633,1,2005
+2229142566,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,11,2018
+1195445112,Myornis senilis,EC,Quebrada del Barrio Wilson - Pifo,Pichincha,1,-0.23097,-78.35282,2536,11,2014
+2166717941,Myornis senilis,EC,Hacienda Rumiloma,Pichincha,1,-0.176159,-78.53123,3343,6,2018
+1190870956,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,9,2003
+1777386912,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+965078479,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,8,2013
+1190921810,Myornis senilis,EC,Campanario Transecto control P03,Pichincha,1,-0.03203,-78.6645,2527,6,2007
+1190968900,Myornis senilis,EC,Campanario Transecto control P01,Pichincha,1,-0.03425,-78.66342,2546,3,2004
+1190855448,Myornis senilis,EC,Campanario Transecto control P02,Pichincha,1,-0.03314,-78.66414,2541,2,2004
+1190847326,Myornis senilis,EC,"Hacienda Verdecocha, Reserva Privada",Pichincha,1,-0.120667,-78.597664,3351,3,2007
+3142363952,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3168606014,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2013
+1208396850,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,9,2003
+1751205046,Myornis senilis,EC,Rumiloma Hacienda and water treatment plant up road,Pichincha,1,-0.176366,-78.531235,3352,7,2016
+1186594300,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2014
+2084827678,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+181649943,Myornis senilis,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2008
+3693683620,Myornis senilis,EC,Yanacocha,Pichincha,1,-0.11134,-78.58511,3528,8,2021
+1398823889,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,2,0.077382,-78.518135,1925,11,2011
+2736888537,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2019
+2034337462,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2017
+3189160266,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,2,2020
+1776515032,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2016
+3693885618,Myornis senilis,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+1190854464,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+1736610485,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2016
+2227235278,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,11,2007
+1719082930,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+3653883976,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2001
+2147877330,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,4,2018
+3215856588,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+1190925933,Myornis senilis,EC,Guarumos Transecto impacto P07,Pichincha,1,-0.04864,-78.64856,2580,3,2007
+1208400932,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 4",Pichincha,1,-0.027,-78.597,2672,10,2003
+2730792064,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2019
+1190857308,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,11,2008
+1391129849,Myornis senilis,EC,Bosque Protector Reserva Neblina,Imbabura,2,0.3446,-78.4347,2937,10,2015
+3656539536,Myornis senilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2021
+1190966186,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+1719355977,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+2033762652,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2017
+833328380,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2000
+3172511904,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2013
+1208303567,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 5",Pichincha,1,-0.026,-78.596,2702,8,2003
+1190787575,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 3",Pichincha,1,-0.028,-78.598,2690,1,2004
+2243851107,Myornis senilis,EC,"Reserva Geobotánico Pululahua, Pichincha",,1,0.0667,-78.5167,2030,3,2010
+2243571685,Myornis senilis,EC,"Reserva Yanacocha, Volcan Pichincha, Pichincha",,1,-0.1114,-78.5845,3525,5,2013
+2788609132,Myornis senilis,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2019
+2726817944,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+955550179,Myornis senilis,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,6,2013
+1395582154,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2015
+1190622900,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 8",Pichincha,1,-0.023,-78.593,2547,6,2004
+2098599163,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2017
+3212285473,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+3193269177,Myornis senilis,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,2,-0.279515,-78.69269,2491,9,2020
+1190892007,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 1",Pichincha,1,-0.03,-78.59,2743,10,2003
+2104175138,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2017
+3582253111,Myornis senilis,EC,San Jorge Ecolodge (Quito),Pichincha,2,-0.11649,-78.52343,3187,11,2021
+1208394103,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 10",Pichincha,1,-0.04,-78.61,3054,4,2004
+1208294500,Myornis senilis,EC,"Hacienda Verdecocha (reserva privada), transecto 02",Pichincha,1,-0.10905,-78.61705,2675,11,2008
+1190869465,Myornis senilis,EC,"Chiquilpe Transecto impacto, Punto 2",Pichincha,2,-0.029,-78.599,2789,10,2003
+2707180152,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2019
+3661992449,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2010
+3275526188,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+3141014198,Myornis senilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3575026309,Myornis senilis,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,5,0.022492,-78.50228,3043,12,2021
+3320910500,Myornis senilis,EC,,Pichincha,1,-0.111739,-78.584856,3530,5,2021
+2243869449,Myornis senilis,EC,"Yanacocha reserve, Pichincha",,1,-0.1667,-78.5834,4211,7,2010
+2243867533,Myornis senilis,EC,"Yanacocha reserve, Pichincha",,1,-0.1667,-78.5834,4211,3,2001
+1175969243,Myornis senilis,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2012

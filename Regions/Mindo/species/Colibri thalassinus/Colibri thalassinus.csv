@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1147139816,Colibri thalassinus,EC,Tandayapa Bird Lodge,,1,-0.0295,-78.743183,1881,9,2003
+921178095,Colibri thalassinus,EC,UTM50_17M_0750_9950,,1,-0.225971,-78.529396,2998,12,2012
+2432426457,Colibri thalassinus,EC,"Paz de las Aves, Pichincha",,1,0.0226,-78.712,1857,8,2019
+2432427496,Colibri thalassinus,EC,"Paz de las Aves, Pichincha",,1,0.0226,-78.712,1857,8,2019
+921270344,Colibri thalassinus,EC,Angel Paz,,1,-0.06506,-78.701591,2012,12,2012

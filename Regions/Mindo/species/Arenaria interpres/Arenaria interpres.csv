@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1771491295,Arenaria interpres,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2016
+1769604329,Arenaria interpres,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2016
+3657478591,Arenaria interpres,EC,Cochapungo,Imbabura,1,0.197609,-78.21516,2658,10,2021
+1208294956,Arenaria interpres,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,11,2009
+3605835691,Arenaria interpres,EC,Cochapungo,Imbabura,1,0.197609,-78.21516,2658,10,2021

@@ -1,0 +1,565 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+4018713614,Megascops ingens,EC,Mindo Cordillera San Lorenzo,,1,-0.0752,-78.7555,1469,12,2022
+4018714612,Megascops ingens,EC,Mindo Cordillera San Lorenzo,,1,-0.0752,-78.7555,1469,12,2022
+2243570832,Megascops ingens,EC,"Mindo, Pichincha",,1,-0.0523,-78.7764,1244,6,2005
+2835513351,Megascops ingens,EC,Ecuador - Pichincha,,1,0.035706,-78.670006,1655,11,2009
+258297952,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,10,2008
+941328107,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2013
+3566658509,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2021
+2797624226,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1405312707,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,4,2005
+2700509203,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2019
+833663349,Megascops ingens,EC,"Septimo Paraiso lodge, Mindo",Pichincha,1,-0.0388,-78.7891,1277,12,2008
+2732104391,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2019
+2759878913,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+1398175774,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+259392396,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,9,2009
+2706312711,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2019
+2191759973,Megascops ingens,EC,Amagusa Preserve,Pichincha,1,0.160718,-78.85385,1300,6,2018
+2687701370,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+3669401617,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+3288586018,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2020
+2711520939,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+3633659215,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+3580034813,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2007
+2065283522,Megascops ingens,EC,Gallo de la Pena Lek,Pichincha,1,-0.015977,-78.74346,1786,4,2017
+2793669325,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2182943854,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2018
+3692467618,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+2779441595,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2690416588,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+258628118,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,11,2008
+2693452872,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+1384354725,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2015
+2792664260,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+1395588865,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2015
+3286612290,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2013
+3682177874,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2021
+1791709777,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2008
+3216840895,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2020
+2202571555,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2018
+1784072000,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2003
+2757614814,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3657251735,Megascops ingens,EC,"Vía Los Bancos, Pichincha, EC (0,036, -78,912)",Pichincha,1,0.036403,-78.911934,1016,12,2021
+3215607382,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,12,2020
+2706932100,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2229923981,Megascops ingens,EC,Santa Rosa Bird Lodge,Pichincha,1,-0.024567,-78.72461,2126,11,2018
+2102396547,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2017
+2726368347,Megascops ingens,EC,"Las Gralarias Reserve (-0.0206, -78.7321)",Pichincha,1,-0.0206,-78.7321,2035,1,2015
+3249526618,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2020
+2767376998,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+1199890323,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+3291155268,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,4,2011
+592247010,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2010
+2778954061,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2682500056,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2019
+3678575090,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2021
+1786247567,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,1,2008
+2703269095,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2019
+3199644365,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2016
+2096294073,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,4,2011
+3641057303,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2021
+2774507238,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+3510820972,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2021
+3550803779,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2021
+2779841107,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2197396856,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2018
+3685833538,Megascops ingens,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,10,2010
+2688614971,Megascops ingens,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,7,2019
+2085367148,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+1206625567,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2012
+833468524,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2004
+1372809405,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,5,2015
+2788495321,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1407927280,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2013
+2776298015,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+3686216599,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2005
+2075284948,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,6,2017
+2796890233,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+3194288571,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2013
+3537841289,Megascops ingens,EC,Tandayapa Valley,Pichincha,1,0.00949,-78.67554,1624,8,2001
+2715018606,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,8,2019
+2193269999,Megascops ingens,EC,Gallo de la Pena Lek,Pichincha,1,-0.015977,-78.74346,1786,4,2017
+1790056029,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2010
+2692178859,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+833799913,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2010
+2176982612,Megascops ingens,EC,Nanegalito,Pichincha,2,0.061915,-78.68155,1583,6,2018
+2683904395,Megascops ingens,EC,Reserva Intillacta,Pichincha,1,0.048201,-78.72037,1807,6,2019
+3530994506,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+2745013531,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2019
+3515805642,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,4,2021
+833590990,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2006
+1784473053,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2015
+3541215391,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2021
+1189121977,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2011
+2691193826,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3208936068,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2019
+592221450,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2010
+2704788007,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2002
+2055978371,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,3,2017
+1189547026,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,9,2014
+258629222,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,11,2008
+2102254553,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2017
+2689868208,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2200643155,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,11,2018
+3283093254,Megascops ingens,EC,"Mindo Loma Bird Lodge, San Miguel de Los Bancos EC-Pichincha -0.01222, -78.74136",Pichincha,1,-0.012217,-78.74136,1812,8,2020
+3542123762,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,6,2021
+975180285,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+2710478665,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2764722538,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1794151668,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2015
+1711858809,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2016
+2801587082,Megascops ingens,EC,"Mindo Valley (-0.046, -78.7756)",Pichincha,1,-0.046,-78.7756,1322,8,2006
+940953140,Megascops ingens,EC,mindo rio bravo ecological reserve,Pichincha,1,-0.035706,-78.75034,1684,12,2010
+593009097,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,3,2011
+2126756803,Megascops ingens,EC,Mashpi Lodge ( 500 To 1400 Msnm By Nestor Paladines,Pichincha,1,0.166091,-78.87911,927,2,2018
+3692554117,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2021
+1775425901,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2015
+3582654436,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+2720342865,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2761922286,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2019
+3288361406,Megascops ingens,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,6,2005
+2220536975,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2018
+3654425050,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+2712216633,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2010
+3580027346,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2007
+1411535497,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2014
+2726310459,Megascops ingens,EC,Milpe Bird Sanctuary,Pichincha,1,0.030357,-78.86646,1155,6,2016
+3173604936,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2013
+1784315034,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,9,2014
+3672010614,Megascops ingens,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,5,2021
+2089453097,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,7,2017
+3650492376,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2021
+2800224550,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2003
+2175756831,Megascops ingens,EC,Nanegalito,Pichincha,2,0.061915,-78.68155,1583,6,2018
+2696828296,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2109604901,Megascops ingens,EC,"(0.3105,-78.8574)",Imbabura,1,0.310488,-78.85744,1214,1,2018
+2785351604,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2789296939,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2212263074,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2018
+1206565394,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2000
+259545935,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2010
+3581793442,Megascops ingens,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,1,2010
+2768982021,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2725622124,Megascops ingens,EC,Trail Above Mindo Garden Lodge,Pichincha,2,-0.07024,-78.75521,1475,9,2012
+3549004385,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2021
+2795542254,Megascops ingens,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,9,2018
+3223905761,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2020
+3296825006,Megascops ingens,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,11,2020
+3216105683,Megascops ingens,EC,"Cerro El Quinde-Mina Cantyvol-UNACEM (Cab. en San Miguel Alto), Imbabura, EC (0.286, -78.545)",Imbabura,1,0.285599,-78.5448,2022,11,2019
+3632652091,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2021
+1151342518,Megascops ingens,EC,Ecuador -- Bella Vista,Pichincha,1,-0.02102,-78.68437,2337,1,2014
+2073824004,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2017
+3626521425,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2021
+1794585550,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2008
+3559259903,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,10,2021
+3685777726,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2013
+3538909228,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+2222324787,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,7,2018
+1737754787,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2016
+3159447566,Megascops ingens,EC,"Mindo, Pichincha, EC",Pichincha,1,-0.00435,-78.72183,1903,3,2020
+1178014923,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2008
+1764391213,Megascops ingens,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,9,2016
+2199825580,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2018
+2063940854,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2800087326,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2019
+1739119145,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2016
+3611665964,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,4,0.019655,-78.70693,1906,1,2021
+1406887353,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2013
+3624675729,Megascops ingens,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,8,2021
+180985738,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,7,2007
+2717393281,Megascops ingens,EC,Mashpi Cloud Forest Reserve,Pichincha,1,0.15074,-78.8716,891,8,2012
+180985745,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,8,2007
+975233527,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2013
+1779867672,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,12,2016
+3574568056,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2021
+2696454678,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2181340522,Megascops ingens,EC,Nanegalito,Pichincha,2,0.061915,-78.68155,1583,6,2018
+2096851048,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2013
+2215369699,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2018
+2206994657,Megascops ingens,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,10,2018
+2071810765,Megascops ingens,EC,Café Verkade,Pichincha,1,0.0189,-78.676,1573,5,2017
+2146408355,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,4,2018
+1206560029,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2000
+1712928412,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2016
+3532084904,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2021
+2795237282,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2019
+1792256571,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2011
+2046506005,Megascops ingens,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,3,0.015986,-78.67585,1612,1,2017
+1206960035,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2011
+2657631884,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2019
+2113877925,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2017
+258656985,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,11,2008
+2180117193,Megascops ingens,EC,Nanegalito,Pichincha,2,0.061915,-78.68155,1583,6,2018
+3651638249,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2021
+3523851183,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2021
+2105801439,Megascops ingens,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,1,2018
+3553994176,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+3644743226,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,6,2021
+978917584,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2013
+1346265868,Megascops ingens,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2015
+258520742,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,1,2009
+2773184746,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3258875021,Megascops ingens,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,10,2020
+2076552590,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+3544368831,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+974695295,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+1789570404,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,3,2011
+3204757401,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2007
+1792529990,Megascops ingens,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,10,2004
+2762846046,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2019
+2698696937,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+1789459723,Megascops ingens,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,3,2011
+1166670528,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2014
+2158822453,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2006
+2704934135,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2010
+3694297827,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,12,2021
+1411062825,Megascops ingens,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,3,2012
+1789311800,Megascops ingens,EC,Séptimo Paraiso,Pichincha,3,-0.030813,-78.764465,1564,3,2011
+1762362012,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2010
+3225797414,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2020
+2749791866,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3147156929,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2020
+2221801960,Megascops ingens,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,8,2008
+3179655226,Megascops ingens,EC,"Mindo, Pichincha, EC (-0.075, -78.763)",Pichincha,1,-0.075399,-78.762794,1474,9,2020
+3599882812,Megascops ingens,EC,Hacienda Puyucunapi casa,Pichincha,1,0.026118,-78.69674,1993,2,2021
+3642987950,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2017
+2114231466,Megascops ingens,EC,Milpe Bird Sanctuary and Milpe road,Pichincha,1,0.041223,-78.88278,1082,3,2005
+1723024481,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2016
+1354023358,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2015
+941311723,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2007
+1775263297,Megascops ingens,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,7,2002
+1199887602,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2179178188,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,2,0.118575,-78.61154,1881,6,2018
+1395437354,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2015
+2701712728,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2712836343,Megascops ingens,EC,"Las Gralarias Reserve (-0.0192, -78.7596)",Pichincha,1,-0.0192,-78.7596,1717,1,2010
+3278996731,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2015
+1180048221,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,7,2014
+2692666459,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+592250926,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2010
+833605267,Megascops ingens,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,8,2005
+2225497708,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2018
+2798206322,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2019
+2695712856,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,5,2019
+2656420367,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2019
+1774548007,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2012
+2663156940,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2019
+3207829910,Megascops ingens,EC,Angel Paz and Séptimo Paraíso area,Pichincha,1,-0.001083,-78.73126,1807,2,2012
+2767110874,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2800540896,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2008
+2750965341,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1186248803,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2014
+940583367,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2013
+1366370485,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2015
+2097362139,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+2790476701,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3275201534,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,12,2020
+833664158,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2007
+2656434896,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2019
+3536699740,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+2704424988,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1205179123,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+1786039193,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+1771306443,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+1794816342,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2008
+3565136978,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2021
+3136650985,Megascops ingens,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,2,2020
+2689435855,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+833866893,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2011
+2058125916,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2017
+3293296574,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2002
+1411752998,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2014
+258297134,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,11,2008
+3584752988,Megascops ingens,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,1,2011
+1387413804,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2015
+1716027772,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,2,2016
+2232417072,Megascops ingens,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,2,2003
+2174176878,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2018
+2721857493,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2019
+1191130784,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+2220495358,Megascops ingens,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,11,2018
+3644388089,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,10,2021
+2232160610,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,3,0.019655,-78.70693,1906,12,2018
+833657960,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+3626107827,Megascops ingens,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,8,2021
+2732627231,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,1,2019
+2692811342,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2106047427,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+966827274,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+3687300643,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+2655631481,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2019
+3691605968,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+2758132236,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,8,2019
+2769728596,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2019
+2749332701,Megascops ingens,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,2,2012
+3287281734,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2009
+980593819,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2013
+833865939,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2011
+1187221291,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2014
+3177586786,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2018
+180985740,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2008
+3556786886,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2021
+3624964431,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2021
+2039101469,Megascops ingens,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2017
+833663716,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2007
+835075250,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2012
+2035308801,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,1,2017
+834606238,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,1,2012
+2229195780,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2010
+2094610210,Megascops ingens,EC,el cinto,Pichincha,1,-0.067906,-78.78101,1370,11,2017
+2717747521,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2014
+592178308,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2010
+3205510344,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2018
+1206581476,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2002
+3214412433,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2020
+2686337994,Megascops ingens,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,7,2010
+3616179039,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+2103421758,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2017
+2795634770,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2007
+1385990096,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,9,2015
+2787085313,Megascops ingens,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2017
+3643706623,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2021
+1207326683,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2012
+3691584292,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+3666208768,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2005
+2191236164,Megascops ingens,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,7,2018
+592056389,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2009
+1206569158,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2001
+1771986428,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2009
+1762376561,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2010
+3686601214,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2021
+1772967731,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2009
+2770690628,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,9,2019
+2231164464,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2018
+2694238854,Megascops ingens,EC,Reserva Intillacta,Pichincha,1,0.048579,-78.718575,1812,6,2019
+2120662690,Megascops ingens,EC,"Reserva Amagusa, Pichincha, EC (Mashpi)",Pichincha,1,0.1598,-78.8534,1302,1,2018
+2838159574,Megascops ingens,EC,Ecuador - Pichincha,,2,0.003948,-78.716698,1940,6,2010
+3218375416,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,2,2020
+2107070998,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2017
+3571333513,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+2055460018,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,4,2017
+2046536829,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,1,2017
+1775662240,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,8,2002
+2842630345,Megascops ingens,EC,Ecuador - Pichincha,,1,-0.018883,-78.693008,2287,8,2009
+2839472983,Megascops ingens,EC,Ecuador - Pichincha,,1,-0.0268,-78.7422,1867,9,2010
+2704688044,Megascops ingens,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2017
+1182281053,Megascops ingens,EC,Loma entre rio nambillo y cinto,Pichincha,1,-0.06958,-78.80107,1179,7,2014
+3212737978,Megascops ingens,EC,Cordillera San Lorenzo,Pichincha,3,-0.076054,-78.76411,1465,11,2020
+180985739,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2008
+2784581508,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+1199981778,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2010
+2158636978,Megascops ingens,EC,Los Cedros-Sendero del Oso,Imbabura,1,0.32708,-78.79096,2006,5,2018
+2065175905,Megascops ingens,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,5,2017
+2233307434,Megascops ingens,EC,Falero property,Pichincha,1,-0.088512,-78.731926,1851,9,2018
+3321209471,Megascops ingens,EC,,Pichincha,1,0.020155,-78.707239,1889,5,2021
+1191149697,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+2208985142,Megascops ingens,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,11,2018
+3616071035,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+2123502163,Megascops ingens,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2005
+835260666,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2012
+3633242683,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+3280875780,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2020
+2195753925,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,10,2018
+2186453064,Megascops ingens,EC,Nanegalito,Pichincha,2,0.061915,-78.68155,1583,6,2018
+3210793716,Megascops ingens,EC,"Cerro El Quinde-Mina Cantyvol-UNACEM (Cab. en San Miguel Alto), Imbabura, EC (0.286, -78.545)",Imbabura,1,0.285599,-78.5448,2022,5,2019
+3552250061,Megascops ingens,EC,"Pachijal Roud - (0.023, -78.774)",Pichincha,1,0.023199,-78.77388,1604,9,2021
+2683956280,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2012
+2772660449,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1190906961,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2010
+3594901637,Megascops ingens,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,1,-0.320337,-78.81568,1839,4,2021
+833662641,Megascops ingens,EC,Ecuador-Paz de las Aves,Pichincha,1,0.062399,-78.68451,1611,2,2007
+1200194861,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+1200194579,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+3216965093,Megascops ingens,EC,Nueva Granada - Finca La Unión,Pichincha,1,0.125013,-78.71121,1491,1,2020
+2160643666,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2018
+833761347,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,5,2009
+2797952451,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2018
+2782753874,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2775741355,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3282897245,Megascops ingens,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,1,-0.320337,-78.81568,1839,12,2020
+3571089143,Megascops ingens,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,8,2012
+3645824253,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+1788792976,Megascops ingens,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,3,2010
+1716521000,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,2,2016
+2761595854,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2010
+2717837532,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,3,2012
+2725471344,Megascops ingens,EC,Las Grallarias Guesthouse,Pichincha,1,-0.0172,-78.7281,2090,1,2010
+2153478579,Megascops ingens,EC,"Refugio Paz de las Aves (Angel Paz), Pichincha, EC",Pichincha,1,0.019655,-78.70693,1906,8,2014
+2766730342,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+1186073209,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+960265766,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,7,2013
+3640206381,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2007
+3663060940,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+1166861799,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2014
+2774693543,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+2141280015,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2008
+2107420130,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+3298342878,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2007
+3613085581,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+2111688135,Megascops ingens,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,12,2017
+1407690762,Megascops ingens,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,6,2005
+2209556227,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2018
+2188262226,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2018
+961674465,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2013
+2129719715,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2018
+2184294395,Megascops ingens,EC,Amagusa Preserve,Pichincha,1,0.160718,-78.85385,1300,6,2018
+2764888058,Megascops ingens,EC,Reserva Río Manduriacu,Imbabura,3,0.31026,-78.85736,1213,12,2019
+2719259627,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2005
+1201837856,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+3632651589,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+1788799697,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,3,2010
+180985744,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,7,2007
+3565937669,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2007
+2106067896,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2017
+966823938,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+3514715663,Megascops ingens,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,4,2021
+3552259183,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,10,2021
+1206557200,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2001
+3663972967,Megascops ingens,EC,Hostería Séptimo Paraíso,Pichincha,3,-0.02916,-78.76105,1652,8,2021
+2774758474,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2019
+2073474166,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2017
+2694579632,Megascops ingens,EC,Reserva Intillacta,Pichincha,1,0.048201,-78.72037,1807,6,2019
+3223842058,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2020
+3580459869,Megascops ingens,EC,"Vía Los Bancos, Pichincha, EC (0,036, -78,912)",Pichincha,1,0.01058,-78.89619,838,12,2021
+2185205015,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,6,2018
+2796836148,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2012
+1400740192,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,4,2006
+2797422980,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2019
+2686799955,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2014
+833765720,Megascops ingens,EC,"Septimo Paraiso lodge, Mindo",Pichincha,2,-0.0388,-78.7891,1277,12,2009
+2214755725,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2014
+962880219,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2005
+3185241962,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2020
+1741486154,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,5,2016
+833493486,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2004
+2703701403,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2007
+3622063053,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+592152236,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2010
+3683538209,Megascops ingens,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,2,-0.062843,-78.76957,1277,8,2021
+2714260005,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,8,2005
+3295542795,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2013
+2198104829,Megascops ingens,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,7,2018
+2140756548,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,4,2018
+2663567578,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2013
+3544056592,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2021
+1401842913,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2014
+2704933020,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2011
+2144997907,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2018
+2785928923,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+1197880268,Megascops ingens,EC,Hacienda Puyucunapi,Pichincha,1,0.026042,-78.69709,1990,11,2014
+961348498,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2013
+2698692135,Megascops ingens,EC,Reserva Intillacta,Pichincha,1,0.048579,-78.718575,1812,6,2019
+2183164205,Megascops ingens,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,7,2018
+3677447961,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2021
+2181658959,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,8,2018
+1190333489,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2013
+3243263989,Megascops ingens,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2020
+2689736663,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2019
+3143227004,Megascops ingens,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2020
+2202332047,Megascops ingens,EC,Falero property,Pichincha,1,-0.088512,-78.731926,1851,9,2018
+2036773359,Megascops ingens,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,3,0.015986,-78.67585,1612,1,2017
+1204760529,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2011
+943864451,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2013
+1775474241,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+2788779522,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2019
+938666668,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2013
+3276128218,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,4,2011
+2799232730,Megascops ingens,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,2,-0.050725,-78.772385,1274,9,2008
+1207166801,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2013
+1737710208,Megascops ingens,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,5,2016
+2201816540,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2018
+1723026818,Megascops ingens,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2016
+3211356753,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2018
+3683648741,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2021
+2708219865,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+592247941,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2010
+3577401737,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+1185123331,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2014
+2173527349,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,5,2018
+2128995523,Megascops ingens,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,1,2018
+2126378289,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2017
+1715515319,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,2,2016
+3548554409,Megascops ingens,EC,Casa del Bosque Yardlist,Pichincha,1,-0.01267,-78.6784,2097,7,2021
+2157399173,Megascops ingens,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,5,2018
+3215685015,Megascops ingens,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,1,-0.320337,-78.81568,1839,12,2020
+1717982723,Megascops ingens,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,2,2016
+2114217788,Megascops ingens,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,12,2004
+1788868118,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2009
+2112430428,Megascops ingens,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,12,2017
+3189916499,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2018
+3590355726,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2021
+3586346057,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2021
+1151345135,Megascops ingens,EC,Ecuador -- Reserva Las Grallarias,Pichincha,2,-0.01054,-78.73083,2061,1,2014
+2707962741,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+3561049063,Megascops ingens,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,12,2021
+2740648653,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,4,2019
+961993841,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2013
+180985918,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,5,2008
+3694268565,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2021
+1784561984,Megascops ingens,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,1,2008
+3207473375,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+2068153103,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2017
+1203106384,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2012
+2776298016,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2767909656,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,5,2019
+3609926586,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,6,2021
+941096792,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2013
+1767839253,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2016
+1395599547,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2015
+2172877396,Megascops ingens,EC,"EC-Pichincha-SN Miguel Bancos (-0.0104,-78.7307)",Pichincha,1,-0.010397,-78.73071,2059,6,2018
+2745856147,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+2682577781,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,5,2019
+3523560449,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2021
+2771534582,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,8,2019
+3538630160,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2004
+2106188567,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2018
+2226783325,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,7,2018
+2107082036,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2017
+2668731939,Megascops ingens,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,4,2012
+1775490624,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+3632734474,Megascops ingens,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+2047514729,Megascops ingens,EC,Gallo de la Pena Lek,Pichincha,1,-0.015977,-78.74346,1786,4,2017
+833874818,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,8,2011
+1186079962,Megascops ingens,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2012
+2224371726,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2017
+1404748404,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2015
+3207647838,Megascops ingens,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,1,-0.320337,-78.81568,1839,12,2020
+1788872077,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,7,2009
+2227648946,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2018
+1394573352,Megascops ingens,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+592249497,Megascops ingens,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2010
+1184193972,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2007
+2076647457,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2231508414,Megascops ingens,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2018
+961138855,Megascops ingens,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,7,2013
+3288755861,Megascops ingens,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,7,2020
+3260030436,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+1189978929,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,9,2014
+2098036794,Megascops ingens,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2017
+3213556783,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2020
+1201852604,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+1186384096,Megascops ingens,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2014
+3565724402,Megascops ingens,EC,Finca Chitoa al Natural,Santo Domingo de los Tsáchilas,3,-0.320337,-78.81568,1839,12,2020
+1784794441,Megascops ingens,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,4,2012
+2832199548,Megascops ingens,EC,Ecuador - Pichincha,,1,-0.034332,-78.743477,1800,3,2010
+2848571697,Megascops ingens,EC,"Distrito Metropolitano de Quito, Pichincha, Parroquia Nanegalito, Nueva Granada, Hacienda Los Yumbos",,1,0.0797,-78.6838,1589,7,2020
+2982203435,Megascops ingens,EC,"Distrito Metropolitano de Quito, Pichincha, Parroquia Nanegalito, Nueva Granada, Hacienda Los Yumbos",,1,0.0797,-78.6838,1589,7,2020
+2848570677,Megascops ingens,EC,"Distrito Metropolitano de Quito, Pichincha, Parroquia Nanegalito, Nueva Granada, Hacienda Los Yumbos",,1,0.0797,-78.6838,1589,7,2020
+1175810596,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2012
+3542200195,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2021
+1189545606,Megascops ingens,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,9,2014
+2792519586,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+3824802733,Megascops ingens,EC,Ecuador - Pichincha,,1,0.021629,-78.676186,1659,3,2011
+2688188179,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2019
+3290997155,Megascops ingens,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2020
+2709831054,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2019
+2834150434,Megascops ingens,EC,Ecuador - Pichincha,,1,0.004623,-78.688202,2187,1,2010
+1771240658,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2011
+2709597856,Megascops ingens,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2019
+2832180295,Megascops ingens,EC,Ecuador - Pichincha,,1,-0.00917,-78.7375,1885,7,2009
+2843997259,Megascops ingens,EC,Ecuador - Pichincha,,1,-0.01,-78.7334,2006,9,2010
+1769481043,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2007
+3168759214,Megascops ingens,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2009
+2243777110,Megascops ingens,EC,"Tandayapa Bird Lodge, Tandayapa Valley, Pichincha",,1,0.01,-78.6776,1702,11,2003
+2838124070,Megascops ingens,EC,Ecuador - Pichincha,,1,0.021629,-78.676186,1659,3,2011

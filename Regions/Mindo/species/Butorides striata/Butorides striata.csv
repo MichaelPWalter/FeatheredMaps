@@ -1,0 +1,898 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3235943653,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,7,2020
+3226237919,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,5,2020
+3660525342,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2833161642,Butorides striata,EC,Ecuador - Pichincha - Mindo Nambillo Cloud Forest Reserve,,1,-0.05034,-78.772101,1269,1,2018
+2110466661,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,2,-0.058923,-78.779655,1238,11,2017
+579788837,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,1,2006
+3593733033,Butorides striata,EC,"Via la Sexta, Pichincha, EC (0,147, -79,268)",Pichincha,1,0.146723,-79.267914,132,6,2021
+3532904243,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,6,2021
+2770465611,Butorides striata,EC,"El Bambu, Mindo EC-Pichincha (-0,0518,-78,7779)",Pichincha,1,-0.051752,-78.77788,1246,9,2019
+3268118454,Butorides striata,EC,"Vía a Mindo, Pichincha, EC (-0.048, -78.774)mindo lago",Pichincha,1,-0.048303,-78.774055,1276,12,2020
+1202320902,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,12,2014
+3018147785,Butorides striata,EC,,Pichincha,1,0.145777,-79.325421,136,12,2020
+2209878239,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2018
+2101005629,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,12,2017
+2204142557,Butorides striata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2018
+2146654003,Butorides striata,EC,"Global Big Day - Comunidad El Cristal (-0.412, -79.136)",Santo Domingo de los Tsáchilas,1,-0.412269,-79.13584,940,5,2018
+2119216369,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+2199922873,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,8,2018
+2720732536,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2110763831,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2018
+2669161871,Butorides striata,EC,Mindo,Pichincha,1,-0.05011,-78.77333,1261,11,2015
+980618426,Butorides striata,EC,"Bua Community, Santo Somingo de los Tsachilas",Santo Domingo de los Tsáchilas,1,-0.1902,-79.17984,476,10,2011
+3153449204,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+3170944988,Butorides striata,EC,"Mina de petreos, Vía Piedra de Vapor - Puerto Quito, EC (0,147, -79,322)",Pichincha,1,0.146865,-79.32219,143,7,2020
+3134245804,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+3179215815,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322139,-79.213936,426,9,2020
+2122162465,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+2126172163,Butorides striata,EC,Hostel Colibri,Pichincha,1,-0.064974,-78.76643,1283,1,2007
+3135177845,Butorides striata,EC,"Vía Piedra de Vapor, Pichincha, EC (0,147, -79,32)",Pichincha,2,0.147383,-79.319916,161,1,2020
+2111353570,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,3,-0.186515,-78.48579,2776,12,2017
+1406104298,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2015
+3550061392,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3136218189,Butorides striata,EC,"Ruta San Bernabé, EC (-0,015, -79,091)",Pichincha,1,-0.015304,-79.09101,552,2,2020
+3138639054,Butorides striata,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2020
+3667235568,Butorides striata,EC,"La Mina De La Piedra Del Vapor, Pichincha, EC (0.147, -79.324)",Pichincha,2,0.1466,-79.3241,157,6,2021
+2218552299,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2018
+3657337169,Butorides striata,EC,Mindo Garden Lodge,Pichincha,1,-0.072955,-78.75455,1351,12,2021
+3615306281,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+2133563068,Butorides striata,EC,"EC-Pichincha-Pedro Vicente M. - 0.1111x-79.1357 - Jan 28, 2018 at 8:35 AM",Pichincha,1,0.111056,-79.135666,408,1,2018
+3188643297,Butorides striata,EC,"Alluriquin, Santo Domingo de los Tsáchilas, EC (-0,269, -79,078)",Santo Domingo de los Tsáchilas,1,-0.269191,-79.07829,587,7,2020
+2042282301,Butorides striata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,2,2017
+2659363035,Butorides striata,EC,"(-0,02, -78,743)",Pichincha,1,-0.019859,-78.74323,1856,2,2019
+2793608644,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2019
+2763451650,Butorides striata,EC,"Vía a Mindo, Pichincha, EC (-0.048, -78.774)mindo lago",Pichincha,1,-0.048303,-78.774055,1276,12,2019
+2039360268,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2017
+2782260024,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2006
+3528655960,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,6,2021
+2233983479,Butorides striata,EC,Mindo,Pichincha,1,-0.05011,-78.77333,1261,11,2015
+3246792280,Butorides striata,EC,"Vía Recinto San Gerardo Bajo, SN Miguel Bancos EC-Pichincha (0.1279,-79.2525)",Pichincha,1,0.12794,-79.252464,231,1,2020
+3241395679,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,7,2020
+3562891991,Butorides striata,EC,"Unnamed Road, Pichincha, EC (0.216, -78.906)",Imbabura,1,0.215825,-78.9063,505,5,2021
+3577373899,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,1,2000
+1745219506,Butorides striata,EC,EC-Pichincha E28 to Rio Silanche,Pichincha,1,0.029333,-78.9014,1051,6,2016
+3683951522,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+3226432495,Butorides striata,EC,"Vía Recinto San Gerardo Bajo, SN Miguel Bancos EC-Pichincha (0.1279,-79.2525)",Pichincha,1,0.12794,-79.252464,231,1,2020
+2144834236,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2006
+2795465233,Butorides striata,EC,reservoir and cielo verde area,Imbabura,2,0.219449,-78.90656,577,10,2019
+2038261093,Butorides striata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,2,2017
+3143626822,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2020
+3678765905,Butorides striata,EC,Cabuyal,Pichincha,2,0.147075,-79.26828,131,10,2021
+3137780289,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+1199694832,Butorides striata,EC,El carmelo,Pichincha,1,-0.043259,-78.805275,1382,12,2014
+3143691283,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,1,-0.055771,-78.76996,1270,2,2020
+3532362241,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2021
+3188706100,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2015
+972170544,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2009
+1409593798,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2015
+2121911507,Butorides striata,EC,Mindo--Mariposario (Butterfly House),Pichincha,1,-0.068616,-78.761826,1318,1,2018
+2747833137,Butorides striata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2017
+3187914878,Butorides striata,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,10,2020
+2144798304,Butorides striata,EC,La Hesperia,Pichincha,1,-0.353706,-78.84845,1348,7,2005
+3543514357,Butorides striata,EC,Finca la Floreana,Santo Domingo de los Tsáchilas,3,-0.352017,-79.27731,325,6,2021
+3225255564,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,2,2020
+3286870089,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,7,2020
+3211994881,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,11,2007
+2794200381,Butorides striata,EC,", EC (0.132, -78.665) Piscina De Tilapia",Pichincha,2,0.132414,-78.665375,1124,12,2019
+3624316786,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3545434729,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,7,2021
+1345435533,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,1,2015
+1754806562,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2016
+1183649469,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2014
+3299599068,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+3292584359,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Pichincha,3,0.21285,-78.91219,527,12,2020
+3291845163,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Pichincha,3,0.21285,-78.91219,527,12,2020
+3535202075,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+3147590876,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+2085130109,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,8,2017
+2219820391,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2018
+3189977072,Butorides striata,EC,"Vía a Mindo, Pichincha, EC (-0.048, -78.774)mindo lago",Pichincha,1,-0.048303,-78.774055,1276,10,2020
+1395580762,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1196871726,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2014
+3647719136,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2677084510,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2013
+2041588815,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2017
+2187374387,Butorides striata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2018
+2115786684,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+579823689,Butorides striata,EC,"zEcuador, Pichincha - Colegio Adventista del Ecuador (CADE)",Santo Domingo de los Tsáchilas,1,-0.344007,-79.232025,384,2,2007
+3593843954,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,5,2021
+2774601119,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2019
+2112948752,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+3568518385,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,10,2021
+1758441385,Butorides striata,EC,Ecuador - Mindo - Yellow House,Pichincha,1,-0.04858,-78.77021,1300,7,2016
+3576671793,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2021
+2781124500,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+2219741377,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+3232009057,Butorides striata,EC,Sacha Urco Lodge,Pichincha,1,-0.019813,-78.808945,1054,1,2020
+1183098187,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+3271277791,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,7,2020
+3207060797,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,11,2020
+1402804457,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+3662054225,Butorides striata,EC,Puerto Quito--Colibríes de Carolina,Pichincha,1,0.118567,-79.2532,126,8,2021
+3685791559,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,8,2021
+1393579850,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+3263268954,Butorides striata,EC,"Via a Cunuco, SN Miguel Bancos EC-Pichincha -0.05251, -78.78151",Pichincha,1,-0.052506,-78.78151,1230,12,2020
+821571218,Butorides striata,EC,Puerto Quito,Pichincha,1,0.123705,-79.23131,159,1,2005
+937803644,Butorides striata,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2011
+3665978829,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,8,2002
+3139825763,Butorides striata,EC,Sacha Urco Lodge,Pichincha,1,-0.019813,-78.808945,1054,1,2020
+2029285576,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2003
+3198882501,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,11,2020
+3581262896,Butorides striata,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,11,2021
+2170890941,Butorides striata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2018
+1347048561,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,1,2015
+3621927129,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+2047729797,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2017
+940589363,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2013
+2143995018,Butorides striata,EC,"Via de observación de aves, cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha (-0.0611,-78.7702)",Pichincha,1,-0.061061,-78.77023,1269,3,2018
+2786142317,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2016
+3614140644,Butorides striata,EC,Mindo--Cabañas Armonía y Jardín de Orquídeas,Pichincha,2,-0.054974,-78.77638,1255,5,2021
+3200208547,Butorides striata,EC,"Vía El Placer, San Antonio del Toachi",Santo Domingo de los Tsáchilas,1,-0.229103,-79.132286,573,9,2019
+3143186446,Butorides striata,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,1,2020
+3226451038,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,3,2020
+3567505972,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,8,2021
+2128894222,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2018
+2678947418,Butorides striata,EC,"Vía al Mariposario, Pichincha, EC (-0,07, -78,762) El Monte Lodge",Pichincha,1,-0.070255,-78.762314,1313,4,2019
+2115054347,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2018
+3691581363,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3176163525,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2020
+2102263197,Butorides striata,EC,"Yellow House, Mindo (-0.051, -78.772)",Pichincha,1,-0.051435,-78.77195,1276,11,2017
+3674926647,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+2678190585,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,4,2019
+2134840521,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2018
+2084433689,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2017
+2231662906,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2018
+2718383956,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2019
+3677870143,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3682545500,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+3691866464,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,12,2021
+3585177271,Butorides striata,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,1,0.147815,-79.325935,129,11,2021
+3261972829,Butorides striata,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+3145214044,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+1765529941,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+1775820086,Butorides striata,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0659x-78.7692,Pichincha,1,-0.065937,-78.76918,1291,11,2016
+3287764851,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2020
+2110710229,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2018
+3256819526,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,3,-0.252486,-79.14583,589,10,2020
+1708896770,Butorides striata,EC,Manduriacu,Pichincha,2,0.215019,-78.91644,474,1,2016
+2779498833,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2019
+3580443293,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3579930154,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+579783350,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2006
+3648467119,Butorides striata,EC,Piedra de Vapor,Pichincha,1,0.146663,-79.323395,147,12,2021
+2714583009,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+3183122037,Butorides striata,EC,Recinto La Ecuador,Santo Domingo de los Tsáchilas,1,-0.25003,-79.06258,691,9,2020
+3275811778,Butorides striata,EC,"Mina de petreos, Vía Piedra de Vapor - Puerto Quito, EC (0,147, -79,322)",Pichincha,1,0.146865,-79.32219,143,7,2020
+3241006864,Butorides striata,EC,"Mindo, Carlota Jaramillo, SN Miguel Bancos EC-Pichincha (-0.0552,-78.7724)",Pichincha,1,-0.055159,-78.77237,1269,2,2020
+3287689980,Butorides striata,EC,"Via a Cunuco, SN Miguel Bancos EC-Pichincha -0.05251, -78.78151",Pichincha,1,-0.052506,-78.78151,1230,12,2020
+3518506500,Butorides striata,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2010
+3650043775,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2021
+3569039947,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,11,2021
+2224341625,Butorides striata,EC,Ruta a la Cascada La Sucia,Pichincha,1,0.001374,-78.906685,936,12,2018
+3988542947,Butorides striata,EC,,Pichincha,1,-0.186365,-78.485529,2775,11,2022
+2653995154,Butorides striata,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,1,2019
+1183090401,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+3149805042,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+3647376838,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,8,2021
+3540894144,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,1,0.08146,-79.05632,595,10,2021
+3225647472,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+3186902983,Butorides striata,EC,"Santo Domingo, Santo Domingo de los Tsáchilas, EC (-0,251, -79,144)",Santo Domingo de los Tsáchilas,1,-0.251077,-79.14404,578,9,2020
+2222694615,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2018
+2790008702,Butorides striata,EC,"Jardin Ecobotanico, Pichincha, EC (-0,051, -78,781)",Pichincha,1,-0.051005,-78.780785,1249,12,2019
+3281874398,Butorides striata,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+1766031102,Butorides striata,EC,"EC-Pichincha-Mindo-- Casa Divina Lodge 0.0668x-78.7689 - Oct 8, 2016, 5:22 PM",Pichincha,2,-0.066768,-78.76885,1316,9,2016
+3281024128,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+1387416108,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2015
+1384979366,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,8,2014
+3286010188,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+1192952469,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2014
+1171088819,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,5,2014
+2695386621,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,5,2015
+3220145511,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+2220052952,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2018
+2038763376,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,3,2017
+3200819912,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2005
+3579071495,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+3185869560,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,10,2020
+2119636407,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,12,2017
+3554937420,Butorides striata,EC,"Eugenio Espejo (Calpaqui), Provincia de Imbabura, EC (0.204, -78.237)",Imbabura,1,0.204146,-78.23659,2660,1,2021
+2699780640,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,9,2012
+3179456348,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2020
+2165361706,Butorides striata,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,6,2018
+3658646132,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2198188134,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+2660867640,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2019
+2122287150,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2018
+1394808604,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+2036840776,Butorides striata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,3,2017
+2657254131,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2019
+3243282614,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+1776995035,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+2111965394,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,2,-0.06509,-78.76884,1285,2,2018
+3651523891,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,6,2021
+1375551318,Butorides striata,EC,Mindo la Roullote,Pichincha,1,-0.057877,-78.7795,1240,6,2015
+1171393591,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2014
+2763597869,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,4,2019
+2786047532,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+1398722315,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2015
+2791724179,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+2186471613,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2018
+2087340738,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2017
+3189186065,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,7,2020
+2092474050,Butorides striata,EC,"Yellow House, Mindo (-0.051, -78.772)",Pichincha,1,-0.051435,-78.77195,1276,11,2017
+2123419714,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+2100494665,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,10,2017
+1401032461,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2015
+3134422919,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,2,2020
+2111246148,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2017
+2101446930,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2017
+3225387237,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,2,2020
+3272832792,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+3173645898,Butorides striata,EC,Urb Mutualista,Santo Domingo de los Tsáchilas,2,-0.25504,-79.15144,575,6,2020
+1390302966,Butorides striata,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,9,2015
+3182256944,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,10,2020
+167354439,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+1400738135,Butorides striata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+3680988440,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+1772054355,Butorides striata,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,11,2016
+3584092985,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3669002361,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,12,2021
+2783570003,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+2193281489,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2018
+2779818895,Butorides striata,EC,"Las Grazarias, Mindo EC-Pichincha (-0.0545,-78.7781)",Pichincha,1,-0.0545,-78.77808,1245,12,2019
+2119731712,Butorides striata,EC,Union de Toachi road route,Santo Domingo de los Tsáchilas,1,-0.31685,-78.95573,802,7,2016
+1190977413,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2014
+3153459799,Butorides striata,EC,Mindo Rio calle,Pichincha,1,-0.02842,-78.80646,1097,3,2020
+3550853503,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+2116175154,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2017
+3217430174,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,1,-0.055771,-78.76996,1270,2,2020
+2117737633,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2017
+2116753168,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+1407713417,Butorides striata,EC,Arasha Tropical Forest Resort and Spa,Pichincha,1,0.084594,-79.09956,411,6,2005
+2177765957,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2018
+3659425532,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,1,0.08146,-79.05632,595,11,2021
+3250744388,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,2,2020
+1409460726,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2003
+3671187397,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+978883120,Butorides striata,EC,Hacienda San Vincente (Mindo),Pichincha,1,-0.053707,-78.772964,1256,9,2012
+1409588869,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2015
+579875422,Butorides striata,EC,Itapoa,Pichincha,1,0.122994,-79.27089,120,1,2008
+2767525614,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,4,2019
+3657803203,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3223058601,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,2,2020
+2790920658,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+2084389027,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2017
+2204922467,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,8,2018
+3260402663,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,9,2020
+2203717244,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+1190623922,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2008
+3203112972,Butorides striata,EC,Recinto La Ecuador,Santo Domingo de los Tsáchilas,1,-0.270172,-79.070145,753,9,2020
+1792987873,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+3578400298,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+2104845065,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+1398217678,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2015
+3617104981,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+579962860,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.09819,-79.1383,418,11,2009
+3555140719,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2021
+3203937749,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,3,-0.252486,-79.14583,589,10,2020
+3609054906,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,9,2021
+2041663058,Butorides striata,EC,"EC-Pichincha-Mindo-- Casa Divina Lodge 0.0668x-78.7689 - Oct 8, 2016, 5:22 PM",Pichincha,1,-0.066768,-78.76885,1316,1,2017
+3242506844,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+1748614509,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2016
+3671927488,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3190451392,Butorides striata,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+3198120150,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2020
+2655839525,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2019
+2742715194,Butorides striata,EC,Mindo,Pichincha,1,-0.05011,-78.77333,1261,11,2015
+198963332,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,1,2009
+1718895211,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,2,2016
+2201128508,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2018
+3222676215,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,2,2020
+2653256061,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,1,2019
+3659933793,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2021
+3210524191,Butorides striata,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+3186436510,Butorides striata,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,5,2008
+2127656265,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2018
+2158403377,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2014
+3655142143,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,11,2021
+1369789044,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,5,2015
+2780930291,Butorides striata,EC,Séptimo Paraíso,Pichincha,2,-0.030223,-78.76405,1539,10,2019
+2713617813,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+2071389286,Butorides striata,EC,"EC-Pichincha - -0.052x-78.772 - May 28, 2017 8:57 PM",Pichincha,1,-0.052016,-78.77191,1267,5,2017
+2103548710,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2018
+3223686232,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+2174559007,Butorides striata,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,6,2018
+2724357506,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+3135478135,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,2,-0.055771,-78.76996,1270,2,2020
+3281597066,Butorides striata,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020
+2128537322,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+3235081737,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,2,2020
+3254710948,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2005
+3539142279,Butorides striata,EC,Hostería D´Carlos Aqua Park,Santo Domingo de los Tsáchilas,1,-0.214962,-79.11688,588,9,2021
+2795480197,Butorides striata,EC,"Los Colibríes, Pichincha, EC (-0.055, -78.778)",Pichincha,1,-0.054823,-78.77837,1242,11,2019
+3149354606,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+3293659100,Butorides striata,EC,"Paraíso de Amigos , Vía Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3140871880,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2020
+3277998245,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+3637152915,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+1767616389,Butorides striata,EC,Casa Divina lodge,Pichincha,1,-0.066003,-78.769295,1293,10,2016
+3292414405,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2020
+1411369552,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2015
+3301307364,Butorides striata,EC,Mindo-- Hacienda La Yaguira Casa Club,Pichincha,1,-0.061429,-78.767654,1288,12,2020
+1765008100,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2016
+2800432533,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,2,-0.058923,-78.779655,1238,12,2019
+1180869336,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,7,2014
+2782222234,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2798757200,Butorides striata,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,7,2000
+2089951788,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2017
+1791670360,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2005
+1788935128,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,8,2014
+955709999,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2013
+3296853342,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,3,0.215744,-78.90205,482,12,2020
+3268048952,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2020
+2188303022,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,9,2018
+1190706499,Butorides striata,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,2,2005
+1776752075,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2016
+3219879356,Butorides striata,EC,"Vía Piedra de Vapor, Pichincha, EC (0,147, -79,32)",Pichincha,2,0.147383,-79.319916,161,1,2020
+2102466864,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2017
+2225010075,Butorides striata,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,11,2018
+2070337726,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,5,2017
+3595150213,Butorides striata,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,2,2021
+3559042705,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3645798835,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2017
+3226834676,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,1,-0.055771,-78.76996,1270,1,2020
+3538278180,Butorides striata,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,2,0.157516,-79.22496,149,10,2021
+2798424974,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2010
+2207972999,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2018
+2788681291,Butorides striata,EC,"Provincia de Imbabura, EC (0.215, -78.91)",Imbabura,1,0.215097,-78.910194,502,12,2019
+962940416,Butorides striata,EC,Santa Marianita,Pichincha,2,0.130697,-78.66666,1171,8,2013
+2106698965,Butorides striata,EC,el cinto,Pichincha,1,-0.067906,-78.78101,1370,11,2017
+579850961,Butorides striata,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,12,2007
+3659152370,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+3650872185,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2123564593,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2018
+3284678572,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,10,2020
+3583739677,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,10,2021
+3264967329,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,10,2020
+3553341083,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2231601363,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2223206656,Butorides striata,EC,"Colegio- Cascada Corazon, Pichincha, EC (-0.048, -78.788)",Pichincha,1,-0.048299,-78.78839,1194,12,2018
+1395013968,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2015
+2191782876,Butorides striata,EC,"Yellow House, Mindo, Ecuador",Pichincha,1,-0.05238,-78.77199,1260,10,2018
+3689054138,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,3,2021
+3264107211,Butorides striata,EC,"Calle Principal de las Acacias, Santo Domingo, Provincia de Santo Domingo de los Tsáchilas, EC (-0,227, -79,183)",Santo Domingo de los Tsáchilas,1,-0.226847,-79.18338,518,6,2020
+2703374478,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0905,-78.8027)",Pichincha,1,-0.090497,-78.80275,1282,11,2019
+1204993831,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,7,2014
+2213260699,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,11,2018
+1400736762,Butorides striata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+3251091218,Butorides striata,EC,Sacha Urco Lodge,Pichincha,1,-0.019813,-78.808945,1054,1,2020
+3653596459,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2087845826,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2017
+3190162618,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,7,2020
+3294564192,Butorides striata,EC,Cabuyal,Pichincha,3,0.146768,-79.272095,136,10,2020
+1195295079,Butorides striata,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2014
+3682525288,Butorides striata,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,10,2021
+3292767062,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+3565219154,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3277576225,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+3295990631,Butorides striata,EC,"Paraíso de Amigos , Vía Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3651176521,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2021
+2204574695,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2018
+3158470506,Butorides striata,EC,"Vía a Chila, San Jacinto.",Santo Domingo de los Tsáchilas,1,-0.236685,-79.26759,403,5,2020
+3583273424,Butorides striata,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,9,2012
+977347267,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2013
+2100033392,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2017
+1767079621,Butorides striata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+2713724893,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+3658300981,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+2086309253,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2017
+2655358987,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2019
+3569118697,Butorides striata,EC,Hostería D'Carlos Aqua Park,Santo Domingo de los Tsáchilas,1,-0.214962,-79.11688,588,8,2021
+821690540,Butorides striata,EC,Santuario Aves Río Silanche,Pichincha,1,0.125522,-79.10224,496,7,2008
+2124724379,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+2180077179,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2016
+3161768539,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,6,2020
+965795475,Butorides striata,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,9,2013
+210740589,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2009
+2723274947,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+3184085387,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,7,2020
+3570744260,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+2755286365,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+3670314919,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,11,2021
+3281431617,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,10,2020
+1394458152,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1777823313,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+1745766366,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2016
+3233743485,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,2,2020
+1783276068,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+3192138882,Butorides striata,EC,Venado_El Ceibo_Esmeraldas,Santo Domingo de los Tsáchilas,1,-0.24604,-79.20825,489,7,2020
+2200074462,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,9,2018
+1190849205,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,7,2004
+3684774206,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+3647767981,Butorides striata,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,11,2018
+2077008359,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,8,2017
+2083966721,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2017
+3251255761,Butorides striata,EC,"Luz de America, Santo Domingo de los Tsáchilas, EC (-0,365, -79,27)",Santo Domingo de los Tsáchilas,1,-0.364895,-79.26971,333,7,2020
+3287181272,Butorides striata,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,1,0.147815,-79.325935,129,12,2020
+3552496113,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,11,2021
+3243889331,Butorides striata,EC,Cunuco,Pichincha,1,-0.048012,-78.78067,1268,6,2020
+2230259734,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2018
+2713193541,Butorides striata,EC,Via a Piedra de Vapor,Pichincha,1,0.14665,-79.32621,129,12,2019
+3226005457,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+2106408664,Butorides striata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2017
+1388413095,Butorides striata,EC,Macquipucana,Pichincha,1,0.053172,-78.68131,1509,8,2007
+1787476614,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1184206839,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+1760796591,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2016
+1393388361,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1789251001,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2005
+2133683741,Butorides striata,EC,"Rio Silanche/Mindo, Ecuador",Pichincha,1,0.086769,-79.085464,591,3,2018
+2128183471,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+1165640169,Butorides striata,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,3,2014
+3219826714,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2020
+2120501870,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,3,-0.186515,-78.48579,2776,12,2017
+1774931548,Butorides striata,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2016
+3650340848,Butorides striata,EC,Piedra de Vapor,Pichincha,1,0.146663,-79.323395,147,12,2021
+3226776666,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+1778202449,Butorides striata,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0656x-78.7691,Pichincha,2,-0.065636,-78.76912,1288,12,2016
+3667260667,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,1,2021
+1768038150,Butorides striata,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0664x-78.7690,Pichincha,2,-0.066404,-78.76905,1301,10,2016
+3659656807,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3210957267,Butorides striata,EC,Barrio el Carmen Juan Eulogio,Santo Domingo de los Tsáchilas,2,-0.229335,-79.19641,496,10,2020
+1770328802,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,10,2016
+2171689494,Butorides striata,EC,"Vía al Mariposario, Pichincha, EC (-0.057, -78.77)",Pichincha,1,-0.057062,-78.76981,1271,6,2018
+2100912524,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+2777624258,Butorides striata,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,12,2019
+3165625108,Butorides striata,EC,"Piedra de Vapor-Puerto Quito, Pichincha, EC (0,147, -79,326)",Pichincha,1,0.146774,-79.32645,122,7,2020
+2133306751,Butorides striata,EC,Mindo--Mariposario (Butterfly House),Pichincha,1,-0.068616,-78.761826,1318,1,2018
+2719618439,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2019
+3263997420,Butorides striata,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+1766068448,Butorides striata,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0664x-78.7690,Pichincha,2,-0.066404,-78.76905,1301,10,2016
+2783399173,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2019
+1397915517,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,11,2015
+1180766629,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2014
+2718908920,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2017
+1389522697,Butorides striata,EC,Cabañas Heliconias,Pichincha,2,0.04216,-79.3564,204,9,2015
+3559727968,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+178637826,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2008
+2688211206,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2018
+1789252318,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,12,2005
+2066747398,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2017
+3212528002,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2005
+3227089728,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2020
+3132955356,Butorides striata,EC,"Ruta Cinto Saloya, Pichincha, EC (-0.055, -78.776)",Pichincha,1,-0.055437,-78.77625,1255,1,2020
+2119219903,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+3626988851,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,1,0.08146,-79.05632,595,10,2021
+2800132928,Butorides striata,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,10,2010
+3220856077,Butorides striata,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,2,2020
+3227333678,Butorides striata,EC,Sacha Urco Lodge,Pichincha,1,-0.019813,-78.808945,1054,1,2020
+3550498320,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,9,2021
+2148475700,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+1745511512,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2016
+3217838569,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,2,2020
+581799492,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03439,-78.87947,1120,11,2011
+3247600904,Butorides striata,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,7,2020
+937531690,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2008
+3294564186,Butorides striata,EC,Cabuyal,Pichincha,3,0.146768,-79.272095,136,10,2020
+3573990619,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2021
+3286530087,Butorides striata,EC,Recinto La Ecuador,Santo Domingo de los Tsáchilas,1,-0.25003,-79.06258,691,10,2020
+3628151403,Butorides striata,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,3,0.147815,-79.325935,129,5,2021
+2185996477,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+1174988234,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2009
+3563207363,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+2664557721,Butorides striata,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,1,2019
+3272109690,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,10,2020
+3632969535,Butorides striata,EC,Bosque Protector Mindo,Pichincha,1,-0.067463,-78.7506,1603,5,2018
+2119468084,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,6,2013
+3612390063,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2021
+2029891538,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+1761569546,Butorides striata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+2734003976,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2019
+2132578509,Butorides striata,EC,"Via de observación de aves, cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha (-0.0611,-78.7702)",Pichincha,1,-0.061061,-78.77023,1269,3,2018
+3221473019,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+2107474731,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,10,2017
+2084488399,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2017
+3629765269,Butorides striata,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,1,0.157516,-79.22496,149,10,2021
+3611059811,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2798998391,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+2754812998,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,4,2019
+3683060735,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,9,2021
+3192573063,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,11,2020
+3513159348,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,1,2021
+2214317743,Butorides striata,EC,"(0.1021,-79.1371) road to Rio Salanche",Pichincha,1,0.102095,-79.137146,424,11,2018
+1777398872,Butorides striata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2016
+2207416956,Butorides striata,EC,"October Big Day, Santo Domingo De Los Tsachilas, Provincia de Santo Domingo de los Tsáchilas, EC (-0,346, -79,165)",Santo Domingo de los Tsáchilas,1,-0.345865,-79.1648,466,10,2018
+2656136188,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2019
+3271723748,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+1395496568,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2015
+3266589453,Butorides striata,EC,De Salamandra A La Carretera,Pichincha,1,0.117715,-79.23404,123,10,2020
+2230991410,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,2,2009
+2724203559,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2008
+2573810581,Butorides striata,EC,,Pichincha,1,-0.062766,-78.768929,1271,12,2019
+3314161083,Butorides striata,EC,,Santo Domingo de los Tsáchilas,1,-0.348454,-79.247705,372,6,2020
+2100331768,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+3181995456,Butorides striata,EC,Piedra de Vapor - Puerto Quito,Pichincha,2,0.146554,-79.3265,124,7,2020
+2718393823,Butorides striata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2018
+2215402207,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2015
+2122322184,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2017
+1898798364,Butorides striata,EC,,Pichincha,1,-0.185756,-78.48508,2774,2,2018
+2597918736,Butorides striata,EC,,Pichincha,1,0.133744,-78.666128,1100,8,2013
+2226649006,Butorides striata,EC,"Unnamed Road, Pichincha, EC (-0.036, -78.795)",Pichincha,1,-0.035963,-78.794785,1146,12,2018
+2782805141,Butorides striata,EC,"La Finca, Casa del Colibri, Puerto Quito, Ecuador",Pichincha,1,0.155666,-79.249596,137,1,2018
+3254439253,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,3,-0.252486,-79.14583,589,10,2020
+936756379,Butorides striata,EC,"El Roulotte, Mindo",Pichincha,2,-0.055483,-78.77008,1271,12,2012
+3415954192,Butorides striata,EC,,Pichincha,1,-0.186752,-78.485796,2775,11,2021
+4011738324,Butorides striata,EC,,Pichincha,1,-0.052725,-78.781448,1228,12,2022
+2780861781,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+2122586509,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,12,2017
+3648056904,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2021
+3592838490,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,3,2021
+2784280616,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+3637573620,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+1192990619,Butorides striata,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,10,2014
+3135299100,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2020
+3154008041,Butorides striata,EC,"148 Avenida Quito, Pichincha, EC (-0.052, -78.776)",Pichincha,1,-0.051981,-78.77619,1249,5,2020
+2710313826,Butorides striata,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,9,2019
+2112006433,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,3,-0.186515,-78.48579,2776,12,2017
+579545410,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,2,2001
+2800364592,Butorides striata,EC,Milpe - Finca privada,Pichincha,1,0.076772,-78.9113,651,10,2009
+3158059862,Butorides striata,EC,Urbanización Las Macadamias,Santo Domingo de los Tsáchilas,1,-0.240632,-79.27066,402,4,2020
+3167721164,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+2735709653,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+3986242739,Butorides striata,EC,,Pichincha,1,-0.186365,-78.485529,2775,11,2022
+4046367188,Butorides striata,EC,,Pichincha,1,-0.046513,-78.765486,1359,8,2022
+3302022878,Butorides striata,EC,,Pichincha,1,0.146815,-79.323066,148,5,2021
+2222709243,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2018
+3673126296,Butorides striata,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,3,0.147815,-79.325935,129,5,2021
+3966456758,Butorides striata,EC,,Santo Domingo de los Tsáchilas,1,-0.366433,-79.270195,334,9,2022
+1978864622,Butorides striata,EC,,Pichincha,1,-0.051305,-78.771873,1277,12,2018
+3518820674,Butorides striata,EC,"Eugenio Espejo (Calpaqui), Provincia de Imbabura, EC (0.204, -78.237)",Imbabura,1,0.204146,-78.23659,2660,1,2021
+2634408089,Butorides striata,EC,,Pichincha,1,0.131742,-78.66764,1135,11,2016
+4014851915,Butorides striata,EC,,Pichincha,1,-0.186383,-78.485364,2775,1,2023
+1932354266,Butorides striata,EC,,Pichincha,1,-0.051457,-78.771631,1278,11,2017
+3985789409,Butorides striata,EC,,Pichincha,1,-0.11207,-78.363855,2345,10,2022
+2184387133,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,7,2018
+2122975218,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+1776932051,Butorides striata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2016
+3195989458,Butorides striata,EC,Cabuyal,Pichincha,3,0.146768,-79.272095,136,10,2020
+1407477605,Butorides striata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,6,2006
+2145419290,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+2725302234,Butorides striata,EC,Orilla del Rio Mindo,Pichincha,1,-0.069228,-78.76195,1316,9,2019
+2792572118,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2015
+3582357841,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+3209864763,Butorides striata,EC,Cabuyal,Pichincha,3,0.146768,-79.272095,136,10,2020
+3626279438,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2021
+2708063165,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+3554794339,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2021
+3271538917,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,1,-0.252486,-79.14583,589,9,2020
+3151692520,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+2189822689,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+3221145331,Butorides striata,EC,"Vía Recinto San Gerardo Bajo, SN Miguel Bancos EC-Pichincha (0.1279,-79.2525)",Pichincha,1,0.12794,-79.252464,231,1,2020
+2773298620,Butorides striata,EC,Represa Hidroeléctrica Manduriaco,Imbabura,1,0.215743,-78.90205,482,10,2019
+2106592511,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2017
+2726987403,Butorides striata,EC,", EC (0.132, -78.665) Piscina De Tilapia",Pichincha,2,0.132414,-78.665375,1124,12,2019
+2157314674,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+3661659366,Butorides striata,EC,"Mindo, Ecuador",Pichincha,1,-0.055465,-78.7705,1269,8,2021
+2035008019,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2017
+3652823768,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3650781760,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3159065115,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,5,2020
+1206155044,Butorides striata,EC,Maquipucuna--road,Pichincha,1,0.125055,-78.650696,1177,8,2010
+3631014837,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,7,2021
+2157606588,Butorides striata,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,5,2018
+3223381064,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+821688583,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2007
+1190843262,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2010
+3539110987,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,6,2021
+167354441,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2008
+2795548816,Butorides striata,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,9,2019
+3197894791,Butorides striata,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+2769836679,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2001
+3683046723,Butorides striata,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,1,0.147815,-79.325935,129,11,2021
+3691709377,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2021
+3634839115,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,8,2021
+3225164944,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,2,-0.055771,-78.76996,1270,2,2020
+3625791291,Butorides striata,EC,"La Mina De La Piedra Del Vapor, Pichincha, EC (0.147, -79.324)",Pichincha,6,0.1466,-79.3241,157,6,2021
+1201727819,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+2719626523,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2017
+3188229237,Butorides striata,EC,Recinto La Ecuador,Santo Domingo de los Tsáchilas,1,-0.25003,-79.06258,691,7,2020
+2738297879,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,1,2019
+2752481910,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2014
+2707140624,Butorides striata,EC,"Calle Sucre, Pichincha, EC (-0.053, -78.775)",Pichincha,1,-0.052674,-78.77456,1253,8,2019
+2221835922,Butorides striata,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,10,2018
+2140493378,Butorides striata,EC,"(0.3051,-79.2201)",Pichincha,3,0.305066,-79.220116,200,3,2018
+2667925755,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,4,2019
+1190866558,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,9,2009
+824440269,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,3,-0.049224,-78.776825,1268,6,2012
+3535437861,Butorides striata,EC,Puerto Quito--Colibríes de Carolina,Pichincha,1,0.118567,-79.2532,126,8,2021
+2140588093,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,3,2018
+3260686261,Butorides striata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2020
+2771010500,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2016
+1190622530,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,1,2009
+2061008764,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,5,2017
+3660768365,Butorides striata,EC,Mindo-- Hacienda La Yaguira Casa Club,Pichincha,1,-0.061429,-78.767654,1288,12,2021
+1394938282,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+2140232846,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,3,2018
+3182647758,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+3687530858,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2142526755,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2018
+3525335788,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,2,-0.367045,-79.270454,329,3,2021
+3135521634,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+3233350254,Butorides striata,EC,"Casa Divina Lodge, SN Miguel Bancos EC-Pichincha -0.06619, -78.76926",Pichincha,1,-0.066189,-78.769264,1296,6,2020
+2775499965,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2017
+3542748703,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1385166397,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,9,2015
+3668892895,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2021
+3254346222,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+1776550804,Butorides striata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2016
+3133693296,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+3134778591,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+1759462193,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2016
+1206194917,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2011
+3543013915,Butorides striata,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,7,2021
+2184369157,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,7,2018
+1794586327,Butorides striata,EC,North of Puerto Quito (location approximate),Pichincha,1,0.196981,-79.26833,237,11,2008
+2725963787,Butorides striata,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2003
+198963309,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2008
+2224483094,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+3572836361,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2010
+2709400662,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+3625086053,Butorides striata,EC,Via el Mariposario,Pichincha,1,-0.063387,-78.76729,1284,12,2010
+2084719109,Butorides striata,EC,Maquipucuna--road,Pichincha,1,0.125055,-78.650696,1177,7,2017
+3667844818,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,10,2021
+3212108394,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,11,2020
+3209463088,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2071325189,Butorides striata,EC,Global Big Day - Comuna Unión Carchence - Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.346188,-79.165855,466,5,2017
+3662695459,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2021
+1779420728,Butorides striata,EC,"EC-Pichincha-Mindo-- Casa Divina Lodge 0.0668x-78.7689 - Oct 8, 2016, 5:22 PM",Pichincha,2,-0.066768,-78.76885,1316,12,2016
+2726319164,Butorides striata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2005
+3258834104,Butorides striata,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,10,2020
+3213214981,Butorides striata,EC,"Vía Calacalí - La Independencia, San Miguel de Los Bancos EC-Pichincha (0.1222,-79.2426)",Pichincha,2,0.122157,-79.24261,89,11,2020
+3178091479,Butorides striata,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.21314,-78.950935,739,8,2020
+3563520484,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+2111580585,Butorides striata,EC,Mindo--Hostería La Roulotte,Pichincha,2,-0.06403,-78.764084,1310,12,2017
+1406107077,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2015
+2129563298,Butorides striata,EC,Mashpi Lodge ( 500 To 1400 Msnm By Nestor Paladines,Pichincha,1,0.166091,-78.87911,927,2,2018
+955898439,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,6,2013
+2130678732,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,2,2018
+1777198858,Butorides striata,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2016
+3150006572,Butorides striata,EC,"EC-Pichincha-SN Miguel Bancos (-0.0558,-78.7700)",Pichincha,1,-0.055771,-78.76996,1270,1,2020
+3147567010,Butorides striata,EC,"Ruta San Bernabé, Pichincha, EC (-0.014, -79.07)",Pichincha,1,-0.013947,-79.07006,601,2,2020
+2034079442,Butorides striata,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2017
+1713514449,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+3639894211,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2021
+1752973571,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2016
+3295591792,Butorides striata,EC,"Paraíso de Amigos , Vía Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3661736819,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+2111632186,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+198963243,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2008
+3227220210,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+3539943488,Butorides striata,EC,Hostería D´Carlos Aqua Park,Santo Domingo de los Tsáchilas,1,-0.214962,-79.11688,588,9,2021
+3253282452,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+2193562943,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,2,-0.058923,-78.779655,1238,8,2018
+1776699639,Butorides striata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2016
+2134866698,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,1,2018
+2794670077,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,11,2019
+1190870313,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2012
+3299112170,Butorides striata,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020
+2097696409,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+2134060809,Butorides striata,EC,Mindo--Mariposario (Butterfly House),Pichincha,1,-0.068616,-78.761826,1318,1,2018
+2231381227,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+2095544974,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2017
+2217420890,Butorides striata,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,11,2018
+2103053903,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2017
+1199363361,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.300063,-79.0535,692,11,2011
+2052069157,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2017
+3158404735,Butorides striata,EC,"Sacchas, Santo Domingo, Provincia de Santo Domingo de los Tsáchilas, EC (-0.234, -79.165)",Santo Domingo de los Tsáchilas,1,-0.233667,-79.16539,531,5,2020
+2103024432,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,11,2017
+956038857,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,6,2013
+3581942923,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2122298027,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2017
+3694922481,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+3213921217,Butorides striata,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,10,2020
+3671281410,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2021
+3626408543,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,2,0.08146,-79.05632,595,8,2021
+3662680880,Butorides striata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,8,2012
+3559831811,Butorides striata,EC,Refugio De Vida Silvestre Isla De Los Monos - Zoo Isla Del Tapir,Santo Domingo de los Tsáchilas,1,-0.120993,-79.26121,371,11,2021
+3693174975,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+821977109,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,12,2012
+3583837740,Butorides striata,EC,Mindo town,Pichincha,1,-0.053372,-78.774284,1253,1,2011
+3641554269,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,10,2021
+3657408116,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1794702229,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2014
+2706258873,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2098689725,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,2,-0.058923,-78.779655,1238,12,2017
+2146906566,Butorides striata,EC,On way to Mindo Forest,Pichincha,1,-0.036478,-78.76365,1500,8,2010
+3219145763,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+2775805113,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+1208401244,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2009
+2177546087,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,8,2018
+1202384463,Butorides striata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+821584811,Butorides striata,EC,Pedro Vicente Maldonado area,Pichincha,1,0.109344,-79.10282,497,6,2006
+2109851234,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2018
+1181956830,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2014
+3583098522,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2021
+3650767061,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,6,2021
+3215551547,Butorides striata,EC,"Valle Hermoso, Santo Domingo",Santo Domingo de los Tsáchilas,1,-0.107676,-79.20406,345,11,2020
+3189546346,Butorides striata,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+1352945567,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+952905391,Butorides striata,EC,Intag,Imbabura,1,0.340574,-78.54675,1638,1,2013
+979351127,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+1196820852,Butorides striata,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,9,2000
+3187974137,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,7,2020
+3170944173,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2020
+3136978751,Butorides striata,EC,"Via a Cunuco, SN Miguel Bancos EC-Pichincha (-0.0525,-78.7813)",Pichincha,1,-0.052465,-78.78133,1231,1,2020
+1206198751,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2014
+2208354787,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,9,2018
+3538909098,Butorides striata,EC,Mindo Airbnb Cabin,Pichincha,1,-0.055725,-78.76974,1272,10,2021
+2769654119,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2017
+3295626737,Butorides striata,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+1197034470,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2014
+2720623414,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2012
+3677169893,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,2,0.08146,-79.05632,595,10,2021
+2725854185,Butorides striata,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,5,2008
+3158625527,Butorides striata,EC,Urbanización Las Macadamias - casa,Santo Domingo de los Tsáchilas,1,-0.240553,-79.270645,402,5,2020
+3260079151,Butorides striata,EC,"Pacto, camino por el Río Chirapi-Cascada Gallo de la Peña",Pichincha,1,0.140279,-78.773125,1110,6,2020
+2726879073,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2018
+2192215299,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,7,2018
+2225750201,Butorides striata,EC,"(0.1021,-79.1371) road to Rio Salanche",Pichincha,1,0.102095,-79.137146,424,11,2018
+178637805,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2008
+2105391458,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,10,2017
+2693802614,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+3597127010,Butorides striata,EC,Barrio el Carmen Juan Eulogio,Santo Domingo de los Tsáchilas,2,-0.229335,-79.19641,496,1,2021
+3140099119,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2020
+2052217891,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,3,2017
+3147762163,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+3212256639,Butorides striata,EC,"Vía Calacalí - La Independencia, San Miguel de Los Bancos EC-Pichincha (0.1222,-79.2426)",Pichincha,2,0.122157,-79.24261,89,11,2020
+2221447657,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,12,2018
+2196603168,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2018
+2109841639,Butorides striata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+3191899906,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+3560352503,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+3534274837,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2021
+2199773527,Butorides striata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2014
+2717572467,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2019
+2714732633,Butorides striata,EC,Via a Piedra de Vapor,Pichincha,1,0.14665,-79.32621,129,12,2019
+2792620593,Butorides striata,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2003
+3543578380,Butorides striata,EC,"9 oct. 2021 15:34--0,186, -78,485",Pichincha,1,-0.186234,-78.48547,2775,10,2021
+2114436598,Butorides striata,EC,Hostel Colibri,Pichincha,1,-0.064974,-78.76643,1283,1,2007
+3678285271,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2021
+2215969009,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,7,2008
+2719662482,Butorides striata,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,10,2017
+2726601654,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2019
+3282486336,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2009
+2186021058,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+3548094221,Butorides striata,EC,Mindo y sus alrededores,Pichincha,2,-0.010051,-78.74541,1753,7,2021
+2128587456,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+3187080541,Butorides striata,EC,"Piedra de Vapor-Puerto Quito, Pichincha, EC (0,147, -79,326)",Pichincha,1,0.146774,-79.32645,122,7,2020
+2084604813,Butorides striata,EC,"Julio Moreno, Santo Domingo de los Colorados, Provincia de Santo Domingo de los Tsáchilas, EC (-0.346, -79.165)",Santo Domingo de los Tsáchilas,1,-0.345852,-79.164795,466,10,2017
+2080550544,Butorides striata,EC,Maquipucuna--road,Pichincha,2,0.125055,-78.650696,1177,7,2017
+3181982954,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,9,2020
+3289521727,Butorides striata,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,11,2020
+955326517,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2013
+1775417641,Butorides striata,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2015
+1751836917,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2016
+1784087285,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3625711444,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2021
+2784656678,Butorides striata,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2019
+3274281425,Butorides striata,EC,"Via a Cunuco, SN Miguel Bancos EC-Pichincha -0.05251, -78.78151",Pichincha,1,-0.052506,-78.78151,1230,12,2020
+939562579,Butorides striata,EC,reserva rio pachijal,Pichincha,1,0.089951,-78.933334,752,12,2011
+3187017459,Butorides striata,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,2,-0.252486,-79.14583,589,6,2020
+3635155872,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+2126527931,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2018
+2123430118,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,7,2004
+3269940015,Butorides striata,EC,Finca la Floreana,Santo Domingo de los Tsáchilas,2,-0.352017,-79.27731,325,5,2020
+581673083,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,12,2011
+3642049546,Butorides striata,EC,Finca la Floreana,Santo Domingo de los Tsáchilas,3,-0.352017,-79.27731,325,6,2021
+2120095792,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2018
+3288804629,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Pichincha,3,0.21285,-78.91219,527,12,2020
+2720038973,Butorides striata,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,5,2008
+1190839292,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2006
+3579277793,Butorides striata,EC,Bosque Protector Tanti,Santo Domingo de los Tsáchilas,1,-0.299747,-79.06194,756,8,2005
+3652119770,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2081756646,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2017
+2056326878,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,2,-0.06509,-78.76884,1285,5,2017
+2200501354,Butorides striata,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,8,2018
+3170614580,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+3689566706,Butorides striata,EC,La Marimba,Pichincha,1,0.267275,-79.25854,147,5,2021
+1204813595,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2014
+2055478964,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,3,2017
+3641594507,Butorides striata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+3670303149,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+3269371964,Butorides striata,EC,"Santo Domingo, Santo Domingo de los Tsáchilas, EC (-0,252, -79,145)",Santo Domingo de los Tsáchilas,1,-0.252128,-79.14459,590,7,2020
+968003151,Butorides striata,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,10,2013
+1769769568,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,10,2016
+1395523900,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+3614925469,Butorides striata,EC,"García Moreno, Imbabura, EC (0.219, -78.906)",Imbabura,1,0.219384,-78.90598,576,5,2021
+3551478025,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,1,0.08146,-79.05632,595,11,2021
+3546978778,Butorides striata,EC,Jardin Botanico Cede Santo Domingo,Santo Domingo de los Tsáchilas,1,-0.2232,-79.18536,508,10,2021
+3203937564,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,10,2020
+2078120781,Butorides striata,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2139185416,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2017
+3213248775,Butorides striata,EC,"Unnamed Road, Pichincha, EC (-0.053, -78.781)jardin eco-botanicomindo",Pichincha,1,-0.052605,-78.78139,1229,11,2020
+3135857165,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,2,2020
+2188063975,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,6,2018
+3235727211,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+2781460169,Butorides striata,EC,Mindo house,Pichincha,1,-0.055079,-78.772385,1268,6,2019
+3562473218,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2021
+3132277806,Butorides striata,EC,Sacha Urco Lodge,Pichincha,2,-0.019813,-78.808945,1054,1,2020
+945443705,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,3,-0.049224,-78.776825,1268,6,2012
+3575263884,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2021
+3509995810,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,2,-0.367045,-79.270454,329,3,2021
+3618643130,Butorides striata,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,1,0.157516,-79.22496,149,10,2021
+3536426883,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2016
+3581879788,Butorides striata,EC,Puerto Quito--Colibríes de Carolina,Pichincha,1,0.118567,-79.2532,126,8,2021
+1182308223,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2014
+3271004445,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,10,2020
+971447058,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2013
+2216218400,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2018
+2063198057,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,6,2017
+3277158041,Butorides striata,EC,Cabuyal,Pichincha,3,0.146768,-79.272095,136,10,2020
+3243022016,Butorides striata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+2748809221,Butorides striata,EC,EC--Rio Silanche Reserve,Pichincha,1,0.144925,-79.141304,408,6,2019
+822849700,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,3,-0.049224,-78.776825,1268,6,2012
+2202175266,Butorides striata,EC,"(0.1021,-79.1371) road to Rio Salanche",Pichincha,1,0.102095,-79.137146,424,11,2018
+2030021956,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+1180853501,Butorides striata,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,7,2014
+2113216959,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017
+3267652848,Butorides striata,EC,Recinto La Ecuador,Santo Domingo de los Tsáchilas,1,-0.270172,-79.070145,753,9,2020
+2697039062,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2015
+3185722710,Butorides striata,EC,Urb Mutualista,Santo Domingo de los Tsáchilas,2,-0.25504,-79.15144,575,6,2020
+2688141151,Butorides striata,EC,Hostería El Carmelo de Mindo,Pichincha,2,-0.058923,-78.779655,1238,5,2019
+3540665379,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,9,2021
+2096483341,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2017
+1190964389,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2012
+3195963898,Butorides striata,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+3535154931,Butorides striata,EC,Mindo East Walking Path,Pichincha,2,-0.055793,-78.76882,1281,10,2021
+2104890003,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,3,-0.186515,-78.48579,2776,12,2017
+2082317007,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2017
+3694776625,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3281350305,Butorides striata,EC,Finca La Floreana,Santo Domingo de los Tsáchilas,1,-0.367045,-79.270454,329,10,2020
+3663515630,Butorides striata,EC,"Quito, Pichincha, EC (-0,186, -78,485)",Pichincha,1,-0.185895,-78.48514,2775,10,2021
+1780298389,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2016
+2755319177,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2019
+2188746604,Butorides striata,EC,Mindo,Pichincha,1,0.166099,-78.87926,923,8,2018
+3527792508,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,8,2021
+2120625654,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2018
+2041131408,Butorides striata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2017
+3205991752,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Pichincha,3,0.21285,-78.91219,527,12,2020
+2664526281,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2019
+1196560305,Butorides striata,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2014
+2205122991,Butorides striata,EC,Arasha Tropical Forest Resort and Spa,Pichincha,1,0.084594,-79.09956,411,10,2005
+2799994247,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+3268095038,Butorides striata,EC,"Vía Las Damas, EC (-0,323, -78,999)",Santo Domingo de los Tsáchilas,1,-0.323282,-78.999,735,7,2020
+3653371256,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,8,2021
+2123470099,Butorides striata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,12,2004
+3280249934,Butorides striata,EC,"Vía a Mindo, Pichincha, EC (-0.048, -78.774)mindo lago",Pichincha,1,-0.048303,-78.774055,1276,9,2020
+3692453865,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,9,2021
+261193470,Butorides striata,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2010
+3888981933,Butorides striata,EC,,Pichincha,1,-0.187163,-78.48593,2773,8,2022
+2220376157,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2018
+3635745431,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2021
+3665912703,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2021
+3643215638,Butorides striata,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,6,2021
+3903455163,Butorides striata,EC,,Pichincha,1,-0.186356,-78.485501,2775,8,2022
+3691720413,Butorides striata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+1165033244,Butorides striata,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2014
+2037314824,Butorides striata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+3013983326,Butorides striata,EC,,Pichincha,1,-0.051061,-78.772425,1274,1,2018
+3259064930,Butorides striata,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.21314,-78.950935,739,10,2020
+3681861326,Butorides striata,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,7,2021
+3556804866,Butorides striata,EC,Sendero Frutti Tour & Birdwatching,Pichincha,2,0.08146,-79.05632,595,9,2021
+3621236701,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,8,2021
+3265144380,Butorides striata,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,5,2008
+3538358975,Butorides striata,EC,La Mina Piedra De Vapor,Pichincha,1,0.14665,-79.323845,152,10,2021
+2233498601,Butorides striata,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,7,2018
+2117105405,Butorides striata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+4057878907,Butorides striata,EC,Ecuador - Pichincha - Mindo Nambillo Cloud Forest Reserve,,1,-0.052496,-78.781479,1230,1,2023
+3275682341,Butorides striata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2020
+2125177792,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2018
+1753645540,Butorides striata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,8,2016
+2124237120,Butorides striata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2017
+2086491077,Butorides striata,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,10,2017
+2125449310,Butorides striata,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+1807353290,Butorides striata,EC,"Reserva Forestal La Perla, Ecuador",,1,-0.147457,-79.282753,354,12,2017
+2839056464,Butorides striata,EC,Ecuador - Pichincha - Mindo Nambillo Cloud Forest Reserve,,1,-0.062168,-78.768811,1264,6,2017
+3263458855,Butorides striata,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+2110810896,Butorides striata,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2017

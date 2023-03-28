@@ -1,0 +1,794 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2243631385,Automolus rubiginosus,EC,"Un Poco del Choco, Pichincha",,1,0.0736,-78.7685,1713,2,2015
+2243555705,Automolus rubiginosus,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,8,2012
+817982067,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2009
+2708932819,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,6,2019
+1208501940,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+1399798257,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2015
+2795941245,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2002
+1196819526,Automolus rubiginosus,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,9,2000
+3641989911,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2021
+3286196084,Automolus rubiginosus,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,9,2020
+3263709079,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,5,2020
+2669058523,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2019
+2768283351,Automolus rubiginosus,EC,"EC (0,124, -78,629)",Pichincha,1,0.12398,-78.62939,1271,4,2019
+2106946920,Automolus rubiginosus,EC,Milpe Lodge,Pichincha,1,0.058057,-78.9097,987,11,2017
+2712735918,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,12,2019
+1713100023,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+1386238883,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,12,2005
+2100317267,Automolus rubiginosus,EC,"(-0.013, -78.808)",Pichincha,1,-0.013465,-78.80807,1071,10,2017
+2778888220,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+2685627919,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,4,2019
+3548039384,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,10,2021
+1750591179,Automolus rubiginosus,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,7,2016
+3543869584,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2021
+1180543170,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2014
+1353747116,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2015
+1184439431,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+2741579120,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2019
+2738605446,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2019
+3267474895,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+3179252591,Automolus rubiginosus,EC,Río Pachijal Road,Pichincha,2,0.074229,-78.90523,791,8,2020
+1747054710,Automolus rubiginosus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,6,2016
+3264617067,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2185295352,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2018
+2718215413,Automolus rubiginosus,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,11,2002
+2687667055,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,8,2019
+1400754038,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+2775470688,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,8,2019
+1380391491,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,3,-0.049224,-78.776825,1268,8,2015
+3201116734,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+1782528590,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,5,0.033327,-78.868454,1110,8,2012
+2131826649,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2018
+3561277772,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.771)",Pichincha,2,-0.069692,-78.77073,1423,9,2021
+1348408201,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2015
+971684453,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+2663933553,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+2699822486,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2019
+2116073321,Automolus rubiginosus,EC,Hosteria Mulaute,Santo Domingo de los Tsáchilas,1,-0.109949,-79.003716,523,4,2011
+1172656704,Automolus rubiginosus,EC,Reserva Santa Lucia - Sendero Principal,Pichincha,1,0.116263,-78.59995,1936,2,2010
+2696848933,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2019
+1363011768,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2015
+2167041412,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2018
+2716199435,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+2164904530,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+941300252,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2009
+2114138574,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2001
+972792709,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2007
+2198137637,Automolus rubiginosus,EC,Casa Divina Lodge Reserve,Pichincha,2,-0.06607,-78.76921,1294,7,2018
+2794102075,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2783308909,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2131130241,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.775)",Pichincha,1,-0.066849,-78.775276,1386,1,2018
+2192622837,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2018
+2793319037,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2019
+2205207502,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2018
+2760576887,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2019
+2760613236,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,6,2019
+2792800850,Automolus rubiginosus,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,9,2019
+2043371587,Automolus rubiginosus,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,2,2017
+2101235478,Automolus rubiginosus,EC,Milpe Bird Sanctuary and Milpe road,Pichincha,1,0.041223,-78.88278,1082,8,2005
+1206115092,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,7,2008
+2036232511,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2017
+198786193,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2008
+2709875727,Automolus rubiginosus,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,12,2019
+2142472610,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,3,2018
+3216483769,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,8,2020
+1395285398,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2015
+3215669836,Automolus rubiginosus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,3,2007
+2724739801,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2001
+2114378046,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2011
+2684182496,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2743134804,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2046921602,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2017
+2154969783,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2013
+3210956435,Automolus rubiginosus,EC,Mindo--Santuario de las cascadas,Pichincha,2,-0.074673,-78.76545,1460,10,2020
+2054540263,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2017
+3550647069,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+1173684505,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+2066041227,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2017
+1173003166,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2013
+3255534066,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+1173936092,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,5,2014
+2061641965,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2017
+3647373435,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+2162005911,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2018
+2761510897,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2019
+2068640548,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2017
+1712666731,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+1200253657,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+3542208303,Automolus rubiginosus,EC,"La Isla Mindo, Pichincha, EC (-0,052, -78,759)",Pichincha,1,-0.051667,-78.75909,1391,1,2021
+1192030451,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2014
+3252537218,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2007
+3163664877,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2020
+2708214697,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+3210744185,Automolus rubiginosus,EC,"Bosque Tanti, Santo Domingo de los Tsáchilas, EC (-0,3, -79,057)",Santo Domingo de los Tsáchilas,1,-0.299827,-79.056564,755,11,2020
+1353036600,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2015
+3658687720,Automolus rubiginosus,EC,Cerro Campana,Pichincha,1,0.126663,-78.626854,1354,8,2021
+3636587957,Automolus rubiginosus,EC,Bosque Protector Tanti,Santo Domingo de los Tsáchilas,1,-0.299747,-79.06194,756,8,2005
+3586565707,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,12,2021
+3210760097,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,7,2020
+2700086258,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2019
+3632372146,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,9,2021
+1405994959,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+2721570504,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,11,2019
+3227586980,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+2067333331,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2017
+1771812271,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2011
+2217423514,Automolus rubiginosus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,11,2018
+2226188007,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+3223760046,Automolus rubiginosus,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,3,2020
+3142044384,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2020
+1732233450,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+2758561133,Automolus rubiginosus,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,5,2019
+2710716821,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2019
+2135734898,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.775)",Pichincha,1,-0.066579,-78.77513,1371,3,2018
+2064504782,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,6,2017
+3606124680,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,4,2021
+3184017903,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2020
+1182831970,Automolus rubiginosus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,8,2014
+3526905121,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2021
+1747732137,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2016
+1726780777,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2016
+2221653989,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,10,2018
+3692032202,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2021
+3280572140,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,8,2020
+2714657244,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+2706990737,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+2079107781,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2017
+1718880178,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+2673983394,Automolus rubiginosus,EC,"Via a Cunuco, San Miguel de Los Bancos EC-Pichincha (-0,0195,-78,8091)",Pichincha,2,-0.019484,-78.8091,1061,3,2019
+3204662094,Automolus rubiginosus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,3,2003
+3605250986,Automolus rubiginosus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,4,2021
+3645114125,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,12,2021
+972512011,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2009
+3298880814,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2008
+2741980577,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2019
+3632667189,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+3650459724,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2021
+2712681094,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+3143024258,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2020
+2038886657,Automolus rubiginosus,EC,Ecollacta,Pichincha,3,0.1171,-78.6409,1322,1,2017
+2754449545,Automolus rubiginosus,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+2768880877,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+2785945512,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+1792217168,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2011
+3245605834,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,3,2020
+3642060264,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+1790311172,Automolus rubiginosus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2008
+3181559254,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,9,2020
+2219347586,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2018
+3553349894,Automolus rubiginosus,EC,"Road to El Cinto, Pichincha, EC",Pichincha,2,-0.06282,-78.79706,1384,1,2021
+2707662883,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,7,2019
+2698064448,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+2127078836,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,3,2018
+3256291539,Automolus rubiginosus,EC,"La Isla Mindo, Pichincha, EC (-0,05, -78,753)",Pichincha,1,-0.050245,-78.75272,1510,5,2020
+1791622460,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,12,2005
+1752611972,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2016
+1770413868,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2016
+2687382521,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2019
+2038909289,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2017
+167033212,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2690623713,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,8,2019
+1360605859,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,4,2015
+1730956662,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+2677735080,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2019
+1737407540,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2016
+2101348360,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,5,2005
+3217264324,Automolus rubiginosus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2020
+3258554016,Automolus rubiginosus,EC,"Auto selected 0.12716, -78.65303",Pichincha,1,0.127164,-78.65303,1202,11,2020
+2775768899,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+1731176074,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+2682990914,Automolus rubiginosus,EC,"(-0.067, -78.773)",Pichincha,1,-0.066806,-78.77328,1376,5,2019
+146923171,Automolus rubiginosus,EC,EC - Milpe,Pichincha,1,0.031586,-78.86158,1136,8,2005
+2753289787,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2019
+2722452829,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2005
+2114831289,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2003
+576743477,Automolus rubiginosus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,11,2010
+3295863227,Automolus rubiginosus,EC,"Ruta Cinto Saloya, Pichincha, EC (-0.06, -78.782)",Pichincha,1,-0.060232,-78.781784,1241,5,2020
+971695804,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+2717940838,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2120155407,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2014
+3659143850,Automolus rubiginosus,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+3652361479,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,11,2021
+1411090227,Automolus rubiginosus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2013
+3284420820,Automolus rubiginosus,EC,CHOIBA Proyecto Regenerativo,Pichincha,1,0.171047,-78.90459,539,10,2020
+1397756432,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,1,2004
+3678154173,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2021
+2754517563,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2019
+2713483685,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2019
+1732230872,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+1354064119,Automolus rubiginosus,EC,Maquipucuna--road,Pichincha,1,0.125055,-78.650696,1177,3,2015
+2101216484,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,11,2005
+3142853447,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2020
+2698573088,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,9,2019
+3137869529,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2020
+2660542258,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2019
+2701781914,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+1359178996,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2015
+2768251597,Automolus rubiginosus,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,12,2019
+2665079229,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2019
+3682005192,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,12,2021
+3150103602,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+3221583310,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2020
+2073307406,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2017
+3660421870,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+3261310916,Automolus rubiginosus,EC,Río Pachijal Road,Pichincha,1,0.074229,-78.90523,791,8,2020
+3519237990,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2021
+1742587274,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2016
+3645811045,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,7,2021
+3510459307,Automolus rubiginosus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,4,2021
+3631786698,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2021
+2772354942,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.776)",Pichincha,2,-0.070185,-78.775505,1423,7,2019
+2703906813,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2019
+1363989800,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2015
+3170182004,Automolus rubiginosus,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,8,2020
+2197381082,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2018
+1374715491,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2015
+1163171099,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2014
+2784685453,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+2754100910,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+943041589,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2013
+972305685,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2007
+3139643841,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+3149192078,Automolus rubiginosus,EC,"Mindo, Carlota Jaramillo, SN Miguel Bancos EC-Pichincha (-0.0551,-78.7723)",Pichincha,1,-0.055121,-78.77232,1268,2,2020
+3225562268,Automolus rubiginosus,EC,"Rio Sardinas, 3-5km bellow",Pichincha,1,0.190409,-78.86343,880,4,2020
+2745828198,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2018
+3655892994,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,1,2011
+2695943395,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,8,2019
+3240718170,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+3645669981,Automolus rubiginosus,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,12,2021
+1794569322,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2002
+2709741774,Automolus rubiginosus,EC,"Milpe General area, Pichincha, EC (0.027, -78.863)",Pichincha,1,0.027176,-78.86259,1168,12,2019
+2697862739,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,9,2019
+1176254512,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2014
+2050479258,Automolus rubiginosus,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,3,2017
+3152819636,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2020
+3632303114,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,7,2021
+2159948629,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,4,2018
+2777272302,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,9,2008
+3678806272,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,6,2021
+2216352169,Automolus rubiginosus,EC,"Pichincha, EC (0,15, -78,601)",Pichincha,2,0.149642,-78.600624,1293,10,2018
+2675111737,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2019
+2221085103,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2018
+817847476,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2006
+2175652473,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2018
+971761240,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+3518652343,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2021
+2217321141,Automolus rubiginosus,EC,"Pichincha, EC (0,15, -78,601)",Pichincha,2,0.149642,-78.600624,1293,10,2018
+2778627341,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2019
+1400734279,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+3601868450,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+2114193009,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,3,2005
+3640568855,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2021
+1349079102,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2015
+2038624939,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+2038838364,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2017
+1166902004,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2014
+2066938810,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2017
+2725310089,Automolus rubiginosus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,2,-0.299136,-79.0526,732,10,2000
+3278141245,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+3616035220,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,7,2021
+2695632345,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2019
+2683383024,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,4,2019
+1355248777,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2015
+576180427,Automolus rubiginosus,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,4,2010
+1746044089,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2016
+2657061399,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+2690639598,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2019
+2677978450,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2019
+2169139636,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2018
+1363798549,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2015
+3291548817,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,11,2020
+3198005098,Automolus rubiginosus,EC,Río Pachijal Road,Pichincha,1,0.074229,-78.90523,791,8,2020
+575695870,Automolus rubiginosus,EC,Quatros Rios,Pichincha,1,0.075531,-78.97522,787,2,2002
+1351713403,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+1767085325,Automolus rubiginosus,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+3653286843,Automolus rubiginosus,EC,"Restaurante los colibrís la Delicia Nanegal Pichincha, EC (0.132, -78.669)",Pichincha,2,0.131767,-78.668976,1152,10,2021
+3638934488,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+2713552901,Automolus rubiginosus,EC,"Milpe General area, Pichincha, EC (0.027, -78.863)",Pichincha,1,0.027176,-78.86259,1168,12,2019
+1200370148,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+3650383884,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2021
+3143096017,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,1,2020
+2219035494,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2018
+3565863627,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,12,2021
+3243436717,Automolus rubiginosus,EC,"Casa Divina Lodge, SN Miguel Bancos EC-Pichincha -0.06638, -78.76933",Pichincha,1,-0.066384,-78.76933,1299,6,2020
+3133296439,Automolus rubiginosus,EC,"Mindo, Pichincha, EC (-0.075, -78.763)",Pichincha,2,-0.075399,-78.762794,1474,1,2020
+2785189029,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2783296655,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+3602381977,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+2226643824,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+2696847283,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2019
+2683912609,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2083415303,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2017
+2179274552,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+3134071206,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+2694997351,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2019
+3292964345,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+1784707688,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2009
+2741196184,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,1,2019
+2192656648,Automolus rubiginosus,EC,"Pichincha, EC (0,15, -78,601)",Pichincha,2,0.149642,-78.600624,1293,10,2018
+2688520209,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+975208405,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2013
+2140735862,Automolus rubiginosus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+1384326294,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2006
+3613810608,Automolus rubiginosus,EC,"Nanegal, Pichincha, EC (0,134, -78,691)",Pichincha,1,0.134127,-78.69107,1255,8,2021
+3176667967,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,8,2002
+3543578868,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+973199417,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2007
+2039058207,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,2,2017
+3566792067,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,7,2021
+3251430237,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2016
+578612492,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2011
+2672115170,Automolus rubiginosus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,4,2019
+2710521073,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+2141116269,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+3622336383,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+2114849138,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,6,2004
+3254661425,Automolus rubiginosus,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,8,2020
+2215013524,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+3207674823,Automolus rubiginosus,EC,Reserva Cascada Tatalá,Pichincha,2,0.092907,-78.941635,805,12,2020
+1404666911,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+2165892352,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+3611032914,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2021
+2186223517,Automolus rubiginosus,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,6,2018
+2795307091,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,6,2016
+2160737580,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2012
+2791556857,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2014
+3244341883,Automolus rubiginosus,EC,Kapari Natural Lodge,Pichincha,2,-0.001202,-78.94196,916,7,2020
+2678136874,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+3682110617,Automolus rubiginosus,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,6,2021
+1204658224,Automolus rubiginosus,EC,EC - Milpe,Pichincha,1,0.031586,-78.86158,1136,8,2005
+3552987756,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2021
+2708885929,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+3207599701,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,1,2010
+2723927320,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2019
+2723617595,Automolus rubiginosus,EC,EC - Milpe,Pichincha,1,0.031586,-78.86158,1136,8,2005
+3613007907,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2007
+3528057118,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2021
+3242372575,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.069, -78.771)",Pichincha,1,-0.069026,-78.77104,1412,5,2020
+2769772116,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2019
+2114143632,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,6,2004
+937722416,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+2084892912,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2017
+1747787523,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2016
+971785287,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+3656095344,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2021
+2047555096,Automolus rubiginosus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2017
+2087395958,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.776)",Pichincha,1,-0.067177,-78.775826,1411,8,2017
+934377121,Automolus rubiginosus,EC,"Milpe Bird Sanctuary, Ecuador",Pichincha,1,0.041557,-78.835205,1074,12,2011
+1396005960,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,2,-0.050725,-78.772385,1274,11,2015
+2222017422,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+1205784477,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,7,2010
+1398120325,Automolus rubiginosus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2001
+3213174514,Automolus rubiginosus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,12,2020
+3181806916,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,6,2020
+2700380740,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+3283285924,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,10,2020
+2719130245,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2019
+1400738210,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+2101171444,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,12,2004
+3531097800,Automolus rubiginosus,EC,"Santa Rosa-Nanegal, Pichincha, EC (0.193, -78.69)",Pichincha,1,0.192961,-78.6896,1125,4,2021
+3517439532,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+3514498798,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2021
+3244391325,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+2039288397,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,2,2017
+3269042251,Automolus rubiginosus,EC,"Casa Divina Lodge, SN Miguel Bancos EC-Pichincha -0.06607, -78.76925",Pichincha,2,-0.066074,-78.76926,1294,6,2020
+3652210261,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,12,2021
+2674483161,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+3297347048,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.771)",Pichincha,2,-0.069692,-78.77073,1423,1,2020
+1351955582,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+3544609205,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2021
+2104921359,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2017
+1757195806,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+2228769013,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+3143901434,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+1775474408,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2016
+2719226358,Automolus rubiginosus,EC,"19 oct. 2019 11:55-0,051, -78,881",Pichincha,1,0.050938,-78.881134,1069,10,2019
+1377266542,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,7,2015
+1751181002,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2016
+2654918088,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2019
+1769845620,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+2172075358,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2018
+3258790226,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+210475692,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+3576240922,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+2706496262,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+3653667359,Automolus rubiginosus,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,1,2021
+210475693,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2738639092,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2019
+2150822355,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2018
+3608707118,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.07601, -78.76406",Pichincha,1,-0.076013,-78.76406,1468,3,2021
+2102061217,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2017
+2776480122,Automolus rubiginosus,EC,el cinto,Pichincha,2,-0.067906,-78.78101,1370,5,2019
+1197899331,Automolus rubiginosus,EC,Reserva Santa Lucia - Sendero Principal,Pichincha,1,0.116263,-78.59995,1936,2,2010
+3538561688,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2021
+1378995561,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2015
+2047288605,Automolus rubiginosus,EC,Mashpi--Entrance road before gate,Pichincha,2,0.160629,-78.84993,1340,4,2017
+3573187957,Automolus rubiginosus,EC,Cerro Campana,Pichincha,1,0.126663,-78.626854,1354,8,2021
+3673589541,Automolus rubiginosus,EC,"Bosque Mashpi Shungo, EC (0,188, -78,912)",Pichincha,3,0.187956,-78.91236,611,5,2021
+2778606426,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+3231397742,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2020
+1768357305,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2016
+1155147375,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+2772146499,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2019
+2800222993,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+3271808399,Automolus rubiginosus,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,12,2020
+2114213315,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2005
+2090597933,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2017
+2114233619,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2005
+3233470082,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2020
+2097318545,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+2697845178,Automolus rubiginosus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,9,2019
+3668809588,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.771)",Pichincha,1,-0.069692,-78.77073,1423,12,2021
+3673876669,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2021
+2765632736,Automolus rubiginosus,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,9,2019
+2669288458,Automolus rubiginosus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,4,2019
+2095781758,Automolus rubiginosus,EC,"(-0.07, -78.776)",Pichincha,2,-0.069829,-78.77602,1403,9,2017
+1177815659,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2014
+3200173355,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,12,2020
+3163928611,Automolus rubiginosus,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,6,2020
+3241503275,Automolus rubiginosus,EC,"La Isla Mindo , Pichincha, EC (-0,053, -78,764)",Pichincha,1,-0.053133,-78.76369,1333,7,2020
+2174531015,Automolus rubiginosus,EC,Casa Divina Lodge Reserve,Pichincha,2,-0.06607,-78.76921,1294,7,2018
+2080002954,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2017
+2783917033,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2019
+1195297612,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+1385209592,Automolus rubiginosus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2006
+2774093723,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2019
+2799273360,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+1206234926,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2008
+3203706843,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,12,2020
+3532395857,Automolus rubiginosus,EC,Cordillera San Lorenzo,Pichincha,1,-0.076054,-78.76411,1465,7,2021
+2726153158,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2019
+2222789564,Automolus rubiginosus,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,12,2018
+2776344931,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+3636290580,Automolus rubiginosus,EC,Mindo,Pichincha,1,-0.067031,-78.76662,1286,7,2006
+1180784639,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2014
+2762218827,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+3544604245,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2021
+1788857148,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+3593445255,Automolus rubiginosus,EC,"Restaurante los colibrís la Delicia Nanegal Pichincha, EC (0.132, -78.669)",Pichincha,1,0.131767,-78.668976,1152,5,2021
+1769851664,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2016
+3238050542,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.063, -78.774)",Pichincha,1,-0.062765,-78.77427,1344,5,2020
+2772867123,Automolus rubiginosus,EC,mindo canopy,Pichincha,1,-0.066194,-78.77234,1382,11,2019
+1774868526,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2016
+2198843921,Automolus rubiginosus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2018
+2150061240,Automolus rubiginosus,EC,ruta san lorenzo (tarabita),Pichincha,1,-0.075963,-78.76485,1482,3,2018
+1750478485,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2016
+3256316777,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+1786817296,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,1,2008
+2718219621,Automolus rubiginosus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2008
+3189276956,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+3663394707,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,7,2021
+3212770938,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+2033272834,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+3018013770,Automolus rubiginosus,EC,,Pichincha,1,-0.065055,-78.797915,1379,1,2021
+3583667840,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+3133568973,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,1,2020
+2186474565,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2018
+3193116738,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+2689623914,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+3605880045,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2021
+3164743612,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+2772914597,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2019
+3580888899,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2021
+1753619309,Automolus rubiginosus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,12,2007
+2171812428,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2018
+2229424142,Automolus rubiginosus,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,2,2018
+1201843548,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2789580064,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2019
+1410608886,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,2,2004
+2780554423,Automolus rubiginosus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,2,2004
+2765125066,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+2102052952,Automolus rubiginosus,EC,"Las Tolas-Ayapi Road Pichincha, EC (0.064, -78.807)",Pichincha,1,0.064116,-78.80717,1641,11,2017
+3645922408,Automolus rubiginosus,EC,"Auto selected 0.03569, -78.87150",Pichincha,1,0.086775,-79.08547,591,5,2021
+2205445226,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2018
+2793851101,Automolus rubiginosus,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,12,2019
+1758023512,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2016
+2754299574,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,5,2019
+2716149247,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,1,2004
+2705348020,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2019
+3282673007,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2011
+2192662972,Automolus rubiginosus,EC,"Pichincha, EC (0,15, -78,601)",Pichincha,2,0.149642,-78.600624,1293,10,2018
+2041027430,Automolus rubiginosus,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,1,2017
+3665084360,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2021
+1728815490,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2016
+2213796819,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2017
+2052289232,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2017
+2030392987,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2017
+2673289561,Automolus rubiginosus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,5,2019
+3552281677,Automolus rubiginosus,EC,"Road to El Cinto, Pichincha, EC",Pichincha,2,-0.06282,-78.79706,1384,1,2021
+2700430383,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+2791817652,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,8,2019
+2764136142,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.776)",Pichincha,2,-0.067177,-78.775826,1411,12,2019
+3694809620,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,3,2003
+1731194435,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+2103334460,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,4,0.071925,-78.982285,778,2,2006
+2079477636,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,7,2017
+2700066085,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+3570159866,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+1201511684,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+3165672176,Automolus rubiginosus,EC,Kapari Natural Lodge,Pichincha,2,-0.001202,-78.94196,916,6,2020
+3512074552,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2021
+2204757987,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.773)",Pichincha,1,-0.061372,-78.77321,1335,11,2018
+2787364377,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.066, -78.773)",Pichincha,1,-0.066288,-78.77306,1385,9,2019
+3673847551,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+3639965668,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+955486740,Automolus rubiginosus,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,11,2002
+3245318590,Automolus rubiginosus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2014
+2059393736,Automolus rubiginosus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2017
+2669862235,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2009
+2725457899,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,9,2008
+2102676547,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,1,2018
+3280659349,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,12,2020
+2660268263,Automolus rubiginosus,EC,Reserva Sacha Urco,Pichincha,2,-0.020336,-78.81066,1071,3,2019
+2741705362,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,7,2019
+2142447121,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,3,2018
+3662920552,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2021
+3689479322,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2021
+2754622412,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2019
+3685523377,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2021
+2123448296,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,11,2004
+3191570703,Automolus rubiginosus,EC,"Bosque Tanti, Santo Domingo de los Tsáchilas, EC (-0,3, -79,057)",Santo Domingo de los Tsáchilas,1,-0.299827,-79.056564,755,11,2020
+2782589612,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+2034008526,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2017
+2081295542,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2017
+2787023955,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2019
+3201451973,Automolus rubiginosus,EC,"Bosque Tanti, Santo Domingo de los Tsáchilas, EC (-0,3, -79,057)",Santo Domingo de los Tsáchilas,1,-0.299827,-79.056564,755,11,2020
+3143300521,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2020
+2196997657,Automolus rubiginosus,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,7,2018
+3663157225,Automolus rubiginosus,EC,Finca Saloya,Pichincha,1,0.004944,-78.817604,1352,1,2021
+2065695217,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2017
+2124783610,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2018
+1353864057,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2015
+1757525362,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+1171573774,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2014
+2753536153,Automolus rubiginosus,EC,Casa Divina Lodge Reserve,Pichincha,1,-0.06607,-78.76921,1294,1,2019
+2697647993,Automolus rubiginosus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,7,2019
+2700457201,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2767076663,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2019
+1769129704,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2016
+3266690162,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2020
+1791881464,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,2,2006
+2714153173,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0.035, -78.871)",Pichincha,1,0.035276,-78.87085,1127,8,2019
+2778814487,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,4,2016
+2759683661,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2116627679,Automolus rubiginosus,EC,"(-0.07, -78.776)mindo canopy adventure",Pichincha,2,-0.069794,-78.776,1403,1,2018
+3652052343,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2021
+1762046818,Automolus rubiginosus,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,9,2016
+2204194839,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2018
+2713824752,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,11,2006
+3586401064,Automolus rubiginosus,EC,"Finca Choibá, Mashpi",Pichincha,1,0.170965,-78.899445,552,12,2021
+3549919208,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2021
+2658059524,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2019
+2680103690,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2019
+2159788231,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+2669679076,Automolus rubiginosus,EC,"(0,124, -78,63)",Pichincha,1,0.123853,-78.629555,1271,4,2019
+2207401375,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2018
+1758645068,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,8,2016
+1376331944,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2015
+2673361257,Automolus rubiginosus,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,2,2019
+2713869170,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2019
+3581739444,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+3582799147,Automolus rubiginosus,EC,Pais Tropical,Pichincha,1,0.17327,-78.93343,543,12,2021
+3596410019,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2021
+2084797666,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2017
+2723408327,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2012
+3275769892,Automolus rubiginosus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,7,2020
+198786442,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2008
+1791817566,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+2709359071,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2019
+3550905045,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+1786045811,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2225102546,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+2692563407,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+2791376388,Automolus rubiginosus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,11,2019
+3598081854,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2021
+2206093642,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2018
+1376156134,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2015
+2770895661,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,8,2019
+2192619658,Automolus rubiginosus,EC,"Pichincha, EC (0,15, -78,601)",Pichincha,2,0.149642,-78.600624,1293,10,2018
+3234243272,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2020
+1371876579,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,4,2015
+1189661050,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2014
+2135134005,Automolus rubiginosus,EC,Mirador Oñate,Pichincha,1,-0.064061,-78.77419,1360,3,2018
+3291028654,Automolus rubiginosus,EC,Río Pachijal Road,Pichincha,2,0.074229,-78.90523,791,8,2020
+3683072482,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2021
+2778950921,Automolus rubiginosus,EC,"Mindo, Pichincha, EC (-0.072, -78.799) Sinto Bajo",Pichincha,2,-0.071861,-78.79888,1225,12,2019
+2035521323,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2017
+2199791650,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2018
+146922665,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3247616219,Automolus rubiginosus,EC,"Casa Divina Lodge, SN Miguel Bancos EC-Pichincha -0.06619, -78.76926",Pichincha,1,-0.066189,-78.769264,1296,6,2020
+2107108030,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2017
+3193226578,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+2768811200,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,8,2019
+1201814442,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2788864355,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2019
+3684344865,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2021
+2790418330,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+2725015482,Automolus rubiginosus,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,8,2002
+2790489025,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3286490392,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2002
+2789688545,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.775)canopy",Pichincha,2,-0.066645,-78.77501,1375,11,2019
+3280533085,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,10,2020
+1789210304,Automolus rubiginosus,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,12,2005
+2085592518,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2017
+210475241,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2009
+2192025735,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2018
+2799858617,Automolus rubiginosus,EC,La Isla Mindo,Pichincha,1,-0.055306,-78.77035,1269,12,2019
+3207067694,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+1205894842,Automolus rubiginosus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+1351477350,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2015
+3184457385,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2020
+1352702747,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+2744935359,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2018
+1360065986,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+1748977643,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,1,2010
+3198354133,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0,052, -78,903)",Pichincha,1,0.051764,-78.90251,1013,8,2020
+3653664863,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,12,2021
+3621891709,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+1181355810,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2014
+2800724957,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2078650371,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2017
+3185118847,Automolus rubiginosus,EC,"Rio Pachijal Road - Pichincha, EC (0,082, -78,912)",Pichincha,2,0.081515,-78.91248,834,7,2020
+3612766120,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2021
+1709164872,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2016
+3299282276,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+2202180385,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.069, -78.774)",Pichincha,2,-0.068631,-78.7744,1410,9,2018
+938463437,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2011
+2798702729,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+1360076020,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+3584299656,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,11,2021
+2752934937,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2019
+3269407283,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,2,-0.071361,-78.797066,1289,6,2020
+3286232018,Automolus rubiginosus,EC,"La Isla Mindo,, EC (-0,05, -78,753)",Pichincha,1,-0.050245,-78.75272,1510,8,2020
+2760832218,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+1364762593,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2015
+2670671563,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,4,2019
+3272253040,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2020
+2122961327,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.068, -78.774)",Pichincha,2,-0.068208,-78.774315,1417,1,2018
+2130655417,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.776)",Pichincha,3,-0.070185,-78.775505,1423,4,2018
+3580109126,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+3138067697,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+3136750745,Automolus rubiginosus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,3,2020
+1706012342,Automolus rubiginosus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2008
+1762433917,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2016
+2745873566,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2019
+3165542381,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+3666712137,Automolus rubiginosus,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+1399169785,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2015
+2733007993,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,4,2019
+3134008773,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2020
+3162837805,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2020
+2145571106,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+1748874761,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3574995520,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+3684287555,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2021
+3239755667,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+3216141238,Automolus rubiginosus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2000
+1189104893,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2014
+2052801051,Automolus rubiginosus,EC,Saloya,Pichincha,1,-0.052829,-78.789635,1252,5,2017
+2781698640,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,8,2019
+2187592605,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+2654088026,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2019
+1358060523,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+2063442600,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+2657942831,Automolus rubiginosus,EC,reserva las tangaras,Pichincha,1,-0.073274,-78.76765,1476,2,2019
+2212533076,Automolus rubiginosus,EC,"Pichincha, EC (-0.067, -78.776)",Pichincha,2,-0.067155,-78.775696,1405,9,2018
+2767948283,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+2744166544,Automolus rubiginosus,EC,"San Jorge Milpe, EC (0,043, -78,885)",Pichincha,1,0.042555,-78.88535,1076,4,2019
+2177679708,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2018
+3680998715,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.07601, -78.76406",Pichincha,1,-0.076013,-78.76406,1468,3,2021
+3203738211,Automolus rubiginosus,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,11,2020
+1201502859,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+1351982432,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+2127713246,Automolus rubiginosus,EC,el cinto,Pichincha,1,-0.067906,-78.78101,1370,12,2017
+167033426,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+2226955117,Automolus rubiginosus,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,12,2018
+2670965967,Automolus rubiginosus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,2,2019
+1381311952,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,8,2015
+2070602385,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+3280539514,Automolus rubiginosus,EC,"La Isla Mindo,, EC (-0,05, -78,753)",Pichincha,1,-0.050245,-78.75272,1510,8,2020
+2148209886,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+2710122883,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,11,2019
+818580987,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,11,2012
+1352759457,Automolus rubiginosus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+2085855211,Automolus rubiginosus,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,8,2017
+3277398858,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2016
+3275581136,Automolus rubiginosus,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,12,2020
+2140881518,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+3229617266,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2020
+2105193780,Automolus rubiginosus,EC,"Milpe 1.159 masl(0.0314,-78.8662)",Pichincha,1,0.031378,-78.86618,1152,1,2018
+2764486620,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2019
+2721050653,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+2711676861,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+1400059163,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2015
+3296479551,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,12,2020
+2708600559,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2019
+3170983625,Automolus rubiginosus,EC,"Rio Pachijal Road - Pichincha, EC (0,082, -78,912)",Pichincha,2,0.081515,-78.91248,834,7,2020
+2723212304,Automolus rubiginosus,EC,"Milpe General area, Pichincha, EC (0.027, -78.863)",Pichincha,1,0.027176,-78.86259,1168,12,2019
+2121514458,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+2793591072,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2019
+3562263143,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,11,2021
+1200266363,Automolus rubiginosus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2014
+1742586382,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2016
+2735376244,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,4,2019
+3164263350,Automolus rubiginosus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2121582666,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2018
+1390701513,Automolus rubiginosus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2015
+3206414882,Automolus rubiginosus,EC,"La Isla Mindo, Pichincha, EC (-0,052, -78,759)",Pichincha,1,-0.051667,-78.75909,1391,12,2020
+3535441545,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2021
+972162718,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2007
+2798675454,Automolus rubiginosus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+2115729318,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.068, -78.774)",Pichincha,2,-0.068446,-78.774284,1415,11,2017
+2766278567,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,8,2019
+2779017932,Automolus rubiginosus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,5,2017
+3660771563,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2021
+3272126455,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.069, -78.772)",Pichincha,1,-0.068654,-78.772064,1400,9,2020
+2118161819,Automolus rubiginosus,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,2,2018
+3137981110,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+1753849318,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2011
+943873301,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2013
+1200819811,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2013
+2763967728,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+1200348778,Automolus rubiginosus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,12,2014
+2797400726,Automolus rubiginosus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+818329442,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,11,2012
+2665182033,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2019
+2687931673,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2019
+3197400663,Automolus rubiginosus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.19713, -78.86882",Pichincha,1,0.197126,-78.86882,840,11,2020
+1174454007,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,5,2014
+2716286940,Automolus rubiginosus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,12,2019
+3231374485,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.771)",Pichincha,2,-0.069692,-78.77073,1423,1,2020
+3578911055,Automolus rubiginosus,EC,Ecuador - Pichincha - Ecuador - Pichincha (-0.0187110897553 - -78.7726593018),Pichincha,1,-0.018711,-78.77266,1634,2,2010
+2162823259,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,4,2018
+3576294148,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.771)",Pichincha,1,-0.06102,-78.770905,1283,9,2021
+2704282127,Automolus rubiginosus,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+2654988123,Automolus rubiginosus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2019
+1731193422,Automolus rubiginosus,EC,Finca Ave Terra,Pichincha,1,-0.02816,-78.82286,1089,4,2016
+3658205371,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+2772983091,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,11,2019
+3681302734,Automolus rubiginosus,EC,"Finca Choibá, Mashpi",Pichincha,1,0.170965,-78.899445,552,12,2021
+3548694301,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,3,-0.077419,-78.76933,1427,7,2021
+3663288088,Automolus rubiginosus,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,1,2021
+1154151609,Automolus rubiginosus,EC,Hosteria Septimo Paraiso Birding Lodge,Pichincha,1,-0.02969,-78.76334,1548,3,2013
+576768976,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+2693883302,Automolus rubiginosus,EC,"Vía a Las Cascadas, Pichincha, EC (-0.068, -78.774)",Pichincha,1,-0.068421,-78.77425,1416,8,2019
+2694197999,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2019
+2685418412,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2019
+3661934708,Automolus rubiginosus,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.06636, -78.77295",Pichincha,2,-0.066363,-78.77295,1384,9,2021
+3157430518,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2020
+1378661004,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2015
+3594703435,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,4,2021
+2243571550,Automolus rubiginosus,EC,"Mindo, Pichincha",,1,-0.0523,-78.7764,1244,2,2003
+4018713615,Automolus rubiginosus,EC,Mindo Cordillera San Lorenzo,,1,-0.0752,-78.7555,1469,12,2022
+1192457534,Automolus rubiginosus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2014
+2133335683,Automolus rubiginosus,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,2,2018
+2243870336,Automolus rubiginosus,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,8,2002
+4018718210,Automolus rubiginosus,EC,"Mindo (near San Carlos), Cantón San Miguel de Los Bancos, Pichincha",,1,-0.0543,-78.7866,1201,1,2023
+2982203567,Automolus rubiginosus,EC,"Mindo, San Miguel de los Bancos, Pichincha",,1,-0.0487,-78.7752,1280,8,2020
+1794577582,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2010
+2719271842,Automolus rubiginosus,EC,"Milpe General area, Pichincha, EC (0.027, -78.863)",Pichincha,1,0.027176,-78.86259,1168,12,2019
+3260961185,Automolus rubiginosus,EC,"San Miguel de los Bancos, Pichincha, EC (0,052, -78,903)",Pichincha,1,0.051764,-78.90251,1013,8,2020
+3686284343,Automolus rubiginosus,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+2684243136,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2019
+3287554718,Automolus rubiginosus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,10,2020
+3199084268,Automolus rubiginosus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+2105840706,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2017
+3135401917,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2020
+2794213674,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2017
+3643010812,Automolus rubiginosus,EC,"PACTO, PICHINCHA, EC (0.172, -78.901)",Pichincha,2,0.172188,-78.90093,560,12,2021
+1364244414,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2015
+1174395569,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+3296031958,Automolus rubiginosus,EC,CHOIBA Proyecto Regenerativo,Pichincha,1,0.171047,-78.90459,539,10,2020
+2227887635,Automolus rubiginosus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+1198636138,Automolus rubiginosus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2014
+2698145143,Automolus rubiginosus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2019
+2038608088,Automolus rubiginosus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,3,2017
+2123501977,Automolus rubiginosus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,6,2005
+3569944655,Automolus rubiginosus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2021
+2243554990,Automolus rubiginosus,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,8,2012
+2243879423,Automolus rubiginosus,EC,"Rio Silanche, Pedro Vicente Maldonado, Pichincha",,1,0.1431,-79.1334,420,7,2001
+2243637797,Automolus rubiginosus,EC,"Finca Cuatro Rios, San Miguel de Los Bancos, Pichincha",,1,0.0742,-78.9817,767,7,2008
+4018715212,Automolus rubiginosus,EC,"Mindo (near San Carlos), Cantón San Miguel de Los Bancos, Pichincha",,1,-0.0543,-78.7866,1201,1,2023
+1181954085,Automolus rubiginosus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2014
+1200269945,Automolus rubiginosus,EC,el cinto,Pichincha,1,-0.067906,-78.78101,1370,12,2014

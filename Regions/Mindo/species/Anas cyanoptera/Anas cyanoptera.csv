@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+4054841897,Anas cyanoptera,EC,,Pichincha,1,-0.186763,-78.485853,2775,3,2023
+2033211176,Anas cyanoptera,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,1,2017
+4054785947,Anas cyanoptera,EC,,Pichincha,1,-0.186763,-78.485853,2775,3,2023

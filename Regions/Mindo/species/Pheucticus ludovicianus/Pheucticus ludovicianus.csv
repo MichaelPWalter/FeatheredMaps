@@ -1,0 +1,558 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2576501012,Pheucticus ludovicianus,EC,,Pichincha,1,-0.015868,-78.682336,2247,1,2020
+3039487639,Pheucticus ludovicianus,EC,,Pichincha,1,0.005807,-78.677298,1763,2,2021
+255956030,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2009
+3223784404,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,1,2020
+3694781024,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,12,2021
+3672644786,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+837618068,Pheucticus ludovicianus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2006
+2206452825,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+2576432780,Pheucticus ludovicianus,EC,,Pichincha,1,-0.015868,-78.682336,2247,1,2020
+2233175548,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2018
+3182179095,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2019
+2036295331,Pheucticus ludovicianus,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,1,2017
+1151340582,Pheucticus ludovicianus,EC,Ecuador -- Bella Vista,Pichincha,1,-0.02102,-78.68437,2337,1,2014
+1790478294,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2016
+2721991615,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+2703162577,Pheucticus ludovicianus,EC,Mindo (general area),Pichincha,1,-0.057463,-78.77537,1243,3,2017
+3223144530,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2020
+2131054876,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2018
+3230066064,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2020
+3579555034,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2202123132,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2015
+1711870838,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2016
+3633735101,Pheucticus ludovicianus,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2010
+2672167149,Pheucticus ludovicianus,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,3,2019
+3629152736,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1160620312,Pheucticus ludovicianus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+3136284228,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+2221338979,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,2,-0.062843,-78.76957,1277,12,2018
+2114904290,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+2107797065,Pheucticus ludovicianus,EC,Mindo--Vía al Cinto,Pichincha,2,-0.061568,-78.791115,1207,1,2018
+2206694716,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2015
+2799363288,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2019
+1773079777,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+3284892200,Pheucticus ludovicianus,EC,Mindo--Biohostal,Pichincha,1,-0.054365,-78.775665,1253,12,2020
+2185004204,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2005
+3140126192,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,3,-0.015922,-78.681206,2242,1,2020
+3140944238,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,3,2020
+595843132,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2007
+3553100127,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2021
+2233799698,Pheucticus ludovicianus,EC,"Alfonso Tobar, 基多 EC-皮钦查省 (-0.1863,-78.3475)",Pichincha,1,-0.186266,-78.34755,2479,1,2018
+3286781784,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2017
+1759926095,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+3649011270,Pheucticus ludovicianus,EC,Balcón Tumpiki,Pichincha,1,-0.006943,-78.72075,1963,11,2021
+3624925490,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2021
+1709890786,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2016
+2035369258,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2017
+1777524552,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,12,2016
+3288566488,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1201377599,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+2662453118,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2019
+1385768584,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2003
+840564104,Pheucticus ludovicianus,EC,Milpe Bird Sanctuary,Pichincha,1,0.028496,-78.85403,1115,11,2012
+1391336212,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+970186082,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2009
+2725432492,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+3559096859,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+2775899746,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2010
+2225591253,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2018
+3139479206,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+1206476517,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+3545638440,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,12,2021
+3558015722,Pheucticus ludovicianus,EC,"Auto selected 0.36654, -78.47604",Imbabura,1,0.366536,-78.47604,1840,12,2021
+1771989100,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+979425582,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+1206478017,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+3203068285,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2020
+938207414,Pheucticus ludovicianus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+2041651624,Pheucticus ludovicianus,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,1,2017
+1794846676,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2008
+3520551661,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,3,0.006405,-78.67705,1747,2,2021
+978304928,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2009
+2037539309,Pheucticus ludovicianus,EC,"EC-Pichincha - -0,016x-78,681 - 5/1/2017 18:54",Pichincha,1,-0.016176,-78.681076,2247,1,2017
+1205366761,Pheucticus ludovicianus,EC,Chaupi Chupa,Pichincha,1,-0.169365,-78.41352,2157,12,2008
+2787229407,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2134069559,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,1,2018
+1409499460,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2003
+2039724809,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2017
+1709176322,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+3218270473,Pheucticus ludovicianus,EC,"Centro de Lenguajeo, Pichincha, EC (0,092, -79,277)",Pichincha,1,0.091597,-79.277145,264,1,2020
+2144024705,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+3606848385,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,2,0.006288,-78.67668,1745,2,2021
+1772917552,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,11,2016
+3670017057,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,3,2015
+1709320956,Pheucticus ludovicianus,EC,Conjunto Alborada,Pichincha,1,-0.114996,-78.50423,2851,1,2016
+1709550989,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+2741162962,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+2123432573,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+3595725025,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,3,2021
+255887110,Pheucticus ludovicianus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2009
+256737459,Pheucticus ludovicianus,EC,"Septimo Paraiso lodge, Mindo",Pichincha,1,-0.0388,-78.7891,1277,12,2009
+2125521781,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+1202501642,Pheucticus ludovicianus,EC,Nanegal - Reserva Santa Lucia Oficina,Pichincha,1,0.133104,-78.6688,1155,2,2010
+3566489527,Pheucticus ludovicianus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,3,2003
+595844602,Pheucticus ludovicianus,EC,"zEcuador, Pichincha - Colegio Adventista del Ecuador (CADE)",Santo Domingo de los Tsáchilas,1,-0.344007,-79.232025,384,2,2007
+3272189577,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+595879283,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2008
+3201539543,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2020
+2096719139,Pheucticus ludovicianus,EC,"E28, Pichincha, EC (-0,016, -78,681)",Pichincha,2,-0.015967,-78.68076,2225,12,2017
+3588939006,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,3,0.006405,-78.67705,1747,2,2021
+839897024,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2012
+1345815110,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,2,0.36457,-78.48199,1868,1,2015
+3690095408,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3662957889,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,2,2021
+2785534887,Pheucticus ludovicianus,EC,"Pichincha Province (-0.0782, -78.7672)",Pichincha,1,-0.0782,-78.7672,1440,3,2017
+838013813,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2011
+3134786923,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,3,-0.06509,-78.76884,1285,2,2020
+3695088508,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3211563920,Pheucticus ludovicianus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2005
+3230463549,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+3643884929,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2021
+2775932530,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2019
+2226880596,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2018
+2456574696,Pheucticus ludovicianus,EC,,Pichincha,1,-0.016097,-78.680978,2238,11,2019
+2115727915,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+256836893,Pheucticus ludovicianus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2008
+3228693659,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+1196580039,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2014
+2118669254,Pheucticus ludovicianus,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,1,2018
+2707716423,Pheucticus ludovicianus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,11,2006
+2114212633,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2005
+3238807089,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2020
+3647309880,Pheucticus ludovicianus,EC,"Comunidad De Santa Teresa Pacto, Pichincha, EC (0.107, -78.792)",Pichincha,1,0.106782,-78.79154,1588,12,2021
+1400102695,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,12,2015
+1208725693,Pheucticus ludovicianus,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2010
+2125458563,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+3541813069,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,3,2021
+1202577454,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2011
+2131524254,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2016
+3217332677,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+1156890549,Pheucticus ludovicianus,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2014
+3242528252,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+3585916756,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3694260334,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+3690641245,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+2054725906,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,4,2017
+2134084661,Pheucticus ludovicianus,EC,"Unknown Location - (-0.05, -78.789)",Pichincha,1,-0.050172,-78.788826,1193,1,2018
+2727944380,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,1,2019
+1768925603,Pheucticus ludovicianus,EC,Casa Divina Lodge,Pichincha,1,-0.066723,-78.769,1313,10,2016
+1190930907,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2013
+1773950947,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,11,2016
+1774164481,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,11,2016
+1782203616,Pheucticus ludovicianus,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2005
+2041317190,Pheucticus ludovicianus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2017
+3542009201,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2016
+1201373470,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+2123438951,Pheucticus ludovicianus,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,1,2005
+2707744605,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+2036412576,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2017
+2795789007,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2019
+3602587167,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,2,0.006288,-78.67668,1745,2,2021
+3247371158,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2020
+1398742287,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2003
+962870645,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2005
+3542773126,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2010
+3611276596,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1777638899,Pheucticus ludovicianus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2016
+1771366593,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+2801849287,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+837553049,Pheucticus ludovicianus,EC,Tandayapa (includes Bellavista),Pichincha,1,0.011186,-78.68295,1983,2,2004
+2663124630,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,2,2011
+2221212177,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,1,2009
+3145010256,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,3,2020
+2141713316,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,3,2018
+1713225500,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,1,2016
+1190985249,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,3,2009
+3140583797,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2020
+3572318284,Pheucticus ludovicianus,EC,Nanegalito,Pichincha,1,0.061915,-78.68155,1583,12,2021
+2708683513,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+840350554,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2012
+2725057606,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2019
+3270728941,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2020
+3656262055,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2021
+3143961206,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+3553341252,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+2773227512,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2019
+255810495,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2009
+1398107940,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2015
+1711122470,Pheucticus ludovicianus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+2210592980,Pheucticus ludovicianus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2018
+2123359598,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+2749790223,Pheucticus ludovicianus,EC,"(0,009, -78,677)",Pichincha,2,0.009226,-78.6771,1716,2,2019
+3614649457,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+2801212838,Pheucticus ludovicianus,EC,Sacha Tamia Lodge and surroundings,Pichincha,1,-0.026559,-78.75939,1719,11,2004
+1385512190,Pheucticus ludovicianus,EC,Milpe--end of the road,Pichincha,2,0.07727,-78.93023,912,11,2005
+3546365745,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,12,2021
+256145556,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,3,-0.049224,-78.776825,1268,2,2010
+1348748342,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2015
+2662123163,Pheucticus ludovicianus,EC,"Vía al mariposario, SN Miguel Bancos EC-Pichincha (-0.0588,-78.7711)",Pichincha,1,-0.0588,-78.771095,1267,2,2019
+3586246262,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2017
+595745532,Pheucticus ludovicianus,EC,Mindo--Las Mariposas,Pichincha,1,-0.045619,-78.77948,1300,1,2006
+1774279511,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+3560014320,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1345604594,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2015
+2791761677,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+2714466316,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+3292901547,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+3268580050,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1777537596,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+1160580179,Pheucticus ludovicianus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+977344443,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2013
+2730131077,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+3231957938,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2020
+3629060636,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+1715082764,Pheucticus ludovicianus,EC,Conjunto Alborada,Pichincha,1,-0.114996,-78.50423,2851,2,2016
+1163821841,Pheucticus ludovicianus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+1776792707,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2016
+596083450,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2010
+596143542,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2010
+937663398,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2011
+3189563485,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2019
+2045209843,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2017
+972244486,Pheucticus ludovicianus,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2010
+3222927349,Pheucticus ludovicianus,EC,"Unnamed Road, Pichincha, EC (-0.017, -78.681)",Pichincha,1,-0.017023,-78.681145,2254,1,2020
+2107376234,Pheucticus ludovicianus,EC,"E28, Pichincha, EC (-0,016, -78,681)",Pichincha,1,-0.016044,-78.68113,2245,11,2017
+2115497906,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2109780240,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+976312384,Pheucticus ludovicianus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2005
+3640788136,Pheucticus ludovicianus,EC,"Embajada De Italia Quito, Pichincha, EC (-0.193, -78.502)",Pichincha,1,-0.193276,-78.50238,2836,2,2021
+3589970867,Pheucticus ludovicianus,EC,Quito--Parque Arqueológico y Ecológico Rumipamba,Pichincha,1,-0.179042,-78.50135,2900,1,2021
+3506265258,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,1,0.006405,-78.67705,1747,2,2021
+2120358822,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2018
+3665472693,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2021
+3204557140,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,12,2020
+3579058197,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1205368509,Pheucticus ludovicianus,EC,Chaupi Chupa,Pichincha,1,-0.169365,-78.41352,2157,12,2008
+2229222173,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+2229471080,Pheucticus ludovicianus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,2,-0.254899,-79.17269,562,12,2018
+3512372069,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2021
+1201380453,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+2121808054,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,3,2018
+3149464752,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,3,2020
+3624530992,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3183460460,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2018
+3283316461,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2020
+2041648250,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2017
+3637744371,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2021
+937698805,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2011
+2766831051,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+2114261766,Pheucticus ludovicianus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+2047508213,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,3,2017
+3157411240,Pheucticus ludovicianus,EC,La Lomita,Pichincha,1,-0.065562,-78.763245,1314,3,2020
+3631229115,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2017
+596064444,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,12,2010
+3218439181,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2020
+1776436085,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2016
+3235669591,Pheucticus ludovicianus,EC,Mindo--Vía a Cunuco,Pichincha,2,-0.051862,-78.783066,1228,2,2020
+3291641292,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2020
+3215359520,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2020
+1707756511,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,12,2005
+3212935631,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+2114382776,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2017
+2122431434,Pheucticus ludovicianus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2018
+3641579669,Pheucticus ludovicianus,EC,"Auto selected 0.36654, -78.47604",Imbabura,1,0.366536,-78.47604,1840,12,2021
+3146538427,Pheucticus ludovicianus,EC,"Centro de Lenguajeo, Pichincha, EC (0,092, -79,277)",Pichincha,1,0.091597,-79.277145,264,1,2020
+1149059558,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2010
+3146361934,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2020
+2202107863,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2015
+3636345895,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,4,2021
+595850526,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2007
+1708641964,Pheucticus ludovicianus,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,1,2016
+2229215237,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+3289129820,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+3551996878,Pheucticus ludovicianus,EC,"Casa Divina Lodge, SN Miguel Bancos EC-Pichincha -0.06624, -78.76932",Pichincha,1,-0.066243,-78.76932,1297,12,2021
+978296399,Pheucticus ludovicianus,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,2,2009
+1788652908,Pheucticus ludovicianus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,11,2007
+3280102786,Pheucticus ludovicianus,EC,"Mindo-barrio Las Bugambillas 66 Avenida Quito, Pichincha, EC (-0.052, -78.774)",Pichincha,1,-0.052161,-78.77406,1256,12,2020
+3293156536,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2020
+2049815847,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,3,2017
+1206241294,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2014
+1184187368,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2007
+1397548247,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,11,2015
+3148098546,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2020
+3581459764,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+3593615203,Pheucticus ludovicianus,EC,Tambo Quinde,Pichincha,1,0.006405,-78.67705,1747,2,2021
+3637062536,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+3622052758,Pheucticus ludovicianus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2021
+3678358572,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2021
+2134478049,Pheucticus ludovicianus,EC,"Alfonso Tobar, 基多 EC-皮钦查省 (-0.1863,-78.3475)",Pichincha,1,-0.186266,-78.34755,2479,1,2018
+2128400427,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2018
+1770681488,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2016
+3665011586,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+1206480944,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+2130898179,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2018
+3146705617,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+3620512853,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+2771766740,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2019
+838012166,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2011
+2136573873,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+3669882694,Pheucticus ludovicianus,EC,"Embajada De Italia Quito, Pichincha, EC (-0.193, -78.502)",Pichincha,1,-0.193276,-78.50238,2836,2,2021
+2153197187,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,3,2018
+2762047092,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2014
+3214170725,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2020
+1782611460,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+2739104822,Pheucticus ludovicianus,EC,"Vía al mariposario, SN Miguel Bancos EC-Pichincha (-0.0588,-78.7711)",Pichincha,1,-0.0588,-78.771095,1267,2,2019
+2710152855,Pheucticus ludovicianus,EC,tandayapa,Pichincha,1,0.007822,-78.6798,1787,2,2016
+1385508082,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2005
+1353052537,Pheucticus ludovicianus,EC,cochapamba sur,Pichincha,1,-0.159294,-78.503174,2972,3,2015
+3505861228,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,1,2021
+3138516965,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,3,2020
+2229271507,Pheucticus ludovicianus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,2,2009
+3222275685,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,2,2020
+3584229003,Pheucticus ludovicianus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,12,2017
+3136008499,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+1777605194,Pheucticus ludovicianus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2016
+3191979950,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1397273963,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2015
+3590379830,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2021
+3209331782,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1789265791,Pheucticus ludovicianus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+2799504111,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,11,2019
+2730438197,Pheucticus ludovicianus,EC,"Ecuador - Vía al mariposario, SN Miguel Bancos EC-Pichincha (-0.0589,-78.7711)",Pichincha,1,-0.058896,-78.77106,1268,2,2019
+2123781303,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2005
+975860501,Pheucticus ludovicianus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2013
+1777532421,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+2029286639,Pheucticus ludovicianus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2003
+1201360795,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+3204930082,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+3293197689,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+256860667,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2008
+596020936,Pheucticus ludovicianus,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,2,2010
+1201271571,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+3556209898,Pheucticus ludovicianus,EC,Mindo-- Hacienda La Yaguira Casa Club,Pichincha,1,-0.061429,-78.767654,1288,12,2021
+975842247,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,12,2013
+2133302417,Pheucticus ludovicianus,EC,"Unknown Location - (-0.05, -78.789)",Pichincha,1,-0.050172,-78.788826,1193,1,2018
+1768614255,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2012
+2783720182,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2019
+2114197721,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+3653940450,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2021
+2031698355,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,1,2017
+2149799442,Pheucticus ludovicianus,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2010
+3203231452,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+3217791343,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+837790095,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+596147300,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2010
+3292541393,Pheucticus ludovicianus,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,2,2016
+3595839350,Pheucticus ludovicianus,EC,"Auto selected 0.08761, -79.03244",Pichincha,1,0.087606,-79.03244,649,2,2021
+2099714217,Pheucticus ludovicianus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,1,2005
+3613590993,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3415687029,Pheucticus ludovicianus,EC,,Pichincha,1,-0.186365,-78.484524,2772,11,2021
+2728758905,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+3039293622,Pheucticus ludovicianus,EC,,Pichincha,1,0.005807,-78.677298,1763,2,2021
+2862355981,Pheucticus ludovicianus,EC,,Pichincha,1,-0.016202,-78.681099,2249,11,2015
+3606280428,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,11,2021
+2210607766,Pheucticus ludovicianus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2018
+2224088061,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,11,2018
+3415983977,Pheucticus ludovicianus,EC,,Pichincha,1,-0.186365,-78.484524,2772,11,2021
+2122227769,Pheucticus ludovicianus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2018
+3415639192,Pheucticus ludovicianus,EC,,Pichincha,1,-0.185496,-78.484921,2775,11,2021
+2114900234,Pheucticus ludovicianus,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,1,2005
+255892670,Pheucticus ludovicianus,EC,Cascada de Peguche,Imbabura,1,0.233287,-78.24686,2757,1,2009
+3549814837,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,2,2021
+2660350228,Pheucticus ludovicianus,EC,"Vía al mariposario, SN Miguel Bancos EC-Pichincha (-0.0588,-78.7711)",Pichincha,1,-0.0588,-78.771095,1267,2,2019
+3149443126,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+3416001167,Pheucticus ludovicianus,EC,,Pichincha,1,-0.186365,-78.484524,2772,11,2021
+2988697040,Pheucticus ludovicianus,EC,,Pichincha,1,-0.254969,-78.526587,2804,11,2020
+3211957517,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2019
+1783209764,Pheucticus ludovicianus,EC,Zoologico Guayllabamba EC-Pichincha - -0.072x-78.357 - 18 dic. 2016 04:17,Pichincha,2,-0.072134,-78.35714,2168,12,2016
+1208333534,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,3,2011
+2634583328,Pheucticus ludovicianus,EC,,Pichincha,1,0.131759,-78.669293,1158,2,2018
+2580095053,Pheucticus ludovicianus,EC,,Pichincha,1,-0.015868,-78.682336,2247,1,2020
+4034599237,Pheucticus ludovicianus,EC,,Pichincha,1,-0.015983,-78.680856,2228,12,2022
+2620019927,Pheucticus ludovicianus,EC,,Pichincha,1,0.126114,-78.653371,1171,11,2014
+2755135179,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2019
+1203036759,Pheucticus ludovicianus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2005
+2053857102,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,4,2017
+3519698431,Pheucticus ludovicianus,EC,"Embajada De Italia Quito, Pichincha, EC (-0.193, -78.502)",Pichincha,1,-0.193276,-78.50238,2836,2,2021
+595849249,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2007
+3586480267,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+3609743178,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,12,2021
+1171802757,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,3,-0.016544,-78.68791,2278,11,2009
+256181989,Pheucticus ludovicianus,EC,Séptimo Paraiso,Pichincha,2,-0.030813,-78.764465,1564,2,2010
+3694893543,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+1197472574,Pheucticus ludovicianus,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,11,2014
+2209897878,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,2,-0.062843,-78.76957,1277,12,2018
+2741006286,Pheucticus ludovicianus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,2,2019
+3649209368,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+3511730343,Pheucticus ludovicianus,EC,"Embajada De Italia Quito, Pichincha, EC (-0.193, -78.502)",Pichincha,1,-0.193276,-78.50238,2836,2,2021
+3288213739,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,11,2013
+3672746567,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2021
+837762733,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+2672611771,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+2736336415,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2019
+3672042993,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,2,-0.052496,-78.782295,1231,12,2021
+3561514841,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3218631791,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,1,2020
+1197762796,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+1749054125,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2015
+598778913,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2011
+3661022959,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2021
+3205772809,Pheucticus ludovicianus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2013
+3621592828,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2015
+2190843754,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2015
+3647065288,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2021
+1207206533,Pheucticus ludovicianus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2013
+2055382918,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,3,2017
+1198106795,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+2656044926,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+3216999546,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+2725446728,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2019
+1708693133,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2016
+3256945323,Pheucticus ludovicianus,EC,Parque Los Algarrobos (Cumbaya),Pichincha,1,-0.207522,-78.42036,2258,3,2020
+3198008052,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,12,2020
+2124040285,Pheucticus ludovicianus,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+1398110910,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2015
+3558818240,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,3,2021
+3690632962,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+3609535456,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2021
+3686563420,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2021
+2770320991,Pheucticus ludovicianus,EC,"Pichincha Province (-0.0758, -78.7673)",Pichincha,1,-0.0758,-78.7673,1479,3,2017
+255981823,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2009
+2717834903,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+1199880603,Pheucticus ludovicianus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,2,-0.03871,-78.76851,1441,12,2014
+2033112044,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2017
+2657512227,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2019
+935794448,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Nanegalito),Pichincha,1,0.021481,-78.70999,1821,1,2013
+1193683950,Pheucticus ludovicianus,EC,Bella Vista Cloud Forest Reserve & Lodge,Pichincha,1,0.003626,-78.690956,2271,2,2005
+1151377355,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2014
+2798901057,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2019
+3672720294,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,1,2021
+1771301939,Pheucticus ludovicianus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+1202085174,Pheucticus ludovicianus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2004
+3663355316,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,2,2021
+2144823306,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2006
+2712440735,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2019
+3546477966,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2021
+2046752807,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2017
+2127374845,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,1,2018
+3685273488,Pheucticus ludovicianus,EC,"La Carolina Park, Quito EC-Pichincha -0.18621, -78.48434",Pichincha,1,-0.186211,-78.484344,2773,11,2021
+3681820173,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2021
+596133940,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2010
+3234350323,Pheucticus ludovicianus,EC,Mindo (general area),Pichincha,1,-0.057463,-78.77537,1243,3,2017
+1201363503,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2014
+3605776865,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2021
+2727071288,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+2232712933,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2018
+2119526259,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,1,2018
+3194254532,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2020
+1769560840,Pheucticus ludovicianus,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0660x-78.7692,Pichincha,1,-0.065988,-78.7692,1292,10,2016
+1198075435,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+1709653967,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2016
+3258994229,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2020
+1358691260,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,4,2015
+1776509222,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2016
+3210180635,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2020
+3202688566,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1397287357,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,11,2015
+3218506150,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,2,2020
+1179760258,Pheucticus ludovicianus,EC,Mindo (Sétimo Paraíso & surroundings),Pichincha,1,-0.031047,-78.762344,1565,1,2003
+3658787790,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.010117,-78.676544,1656,12,2021
+1346278493,Pheucticus ludovicianus,EC,Zoológico de Guayllabamba - Quito,Pichincha,1,-0.071626,-78.35769,2168,1,2015
+2108225587,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,1,2018
+3220623236,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.00283,-78.67529,1675,1,2020
+3214589898,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1160851165,Pheucticus ludovicianus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+596153778,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2010
+3638366899,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,3,2021
+3647661753,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2010
+2040286811,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,3,2017
+3587027756,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+182179385,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+937297769,Pheucticus ludovicianus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2008
+3282188152,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,12,2017
+2224484396,Pheucticus ludovicianus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2015
+2734174039,Pheucticus ludovicianus,EC,"Vía al mariposario, SN Miguel Bancos EC-Pichincha (-0.0588,-78.7711)",Pichincha,1,-0.0588,-78.771095,1267,2,2019
+2128944962,Pheucticus ludovicianus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+2041318993,Pheucticus ludovicianus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2017
+3211604851,Pheucticus ludovicianus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,12,2011
+1712319339,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2016
+1723394019,Pheucticus ludovicianus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2016
+1789249511,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2006
+3236298092,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2020
+979430205,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+3205776586,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+3679376765,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3229554435,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,1,2020
+3197474024,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,12,2020
+1357002807,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,3,2015
+1208402398,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2013
+1778203714,Pheucticus ludovicianus,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0656x-78.7691,Pichincha,1,-0.065636,-78.76912,1288,12,2016
+3191805391,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+2709978370,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,11,2019
+3217090083,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,1,2020
+2112104041,Pheucticus ludovicianus,EC,Garceta Sol,Pichincha,1,-0.062871,-78.78141,1258,12,2017
+3241460615,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+2114912032,Pheucticus ludovicianus,EC,"(-0,016, -78,681)",Pichincha,1,-0.015903,-78.680695,2224,11,2017
+3280692041,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2020
+2712495554,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2019
+2662336971,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+3292726854,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,12,2020
+2128530848,Pheucticus ludovicianus,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,1,2018
+3267166120,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1401026245,Pheucticus ludovicianus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2015
+1200084120,Pheucticus ludovicianus,EC,Rio Mindo Road,Pichincha,2,-0.067291,-78.762535,1316,12,2014
+1713392869,Pheucticus ludovicianus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+2125045310,Pheucticus ludovicianus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,1,2018
+979976661,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+2768041671,Pheucticus ludovicianus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2001
+3141250539,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,2,0.00283,-78.67529,1675,1,2020
+2084077113,Pheucticus ludovicianus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,2,2017
+1790470999,Pheucticus ludovicianus,EC,Los Bancos-Milpe IBA,Pichincha,1,0.07993,-78.886,923,2,2016
+3222923446,Pheucticus ludovicianus,EC,Sachatamila Lodge,Pichincha,2,-0.026569,-78.75955,1718,2,2020
+3645961541,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2021
+3145407973,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,3,-0.015922,-78.681206,2242,1,2020
+3198920679,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2020
+1345435504,Pheucticus ludovicianus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2015
+3234772482,Pheucticus ludovicianus,EC,Mindo--Vía a Cunuco,Pichincha,2,-0.051862,-78.783066,1228,2,2020
+1791516948,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2005
+2121655524,Pheucticus ludovicianus,EC,"Unknown Location - (-0.05, -78.789)",Pichincha,1,-0.050172,-78.788826,1193,1,2018
+2113792544,Pheucticus ludovicianus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+2783481126,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2019
+3588314378,Pheucticus ludovicianus,EC,Jardín Botánico de Quito,Pichincha,1,-0.186553,-78.485725,2775,2,2021
+2714320292,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2013
+1172661053,Pheucticus ludovicianus,EC,Nanegal - Reserva Santa Lucia Oficina,Pichincha,1,0.133104,-78.6688,1155,2,2010
+3144947434,Pheucticus ludovicianus,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,1,2020
+1359766819,Pheucticus ludovicianus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2015
+2151926631,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+2139079262,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,3,2018
+2720516688,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+2778297895,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2019
+3650901035,Pheucticus ludovicianus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3294408258,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2017
+3655409537,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,12,2021
+2657113789,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2019
+3225303316,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,1,2020
+3585098260,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+3681072028,Pheucticus ludovicianus,EC,"Embajada De Italia Quito, Pichincha, EC (-0.193, -78.502)",Pichincha,1,-0.193276,-78.50238,2836,2,2021
+3657716777,Pheucticus ludovicianus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,12,2017
+3677825201,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2021
+2124063733,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2123459169,Pheucticus ludovicianus,EC,"Tanandayapa R, EC-Pichincha (0.0508,-78.6805)",Pichincha,1,0.050812,-78.68055,1478,1,2018
+3202026420,Pheucticus ludovicianus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2007
+2672524079,Pheucticus ludovicianus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,2,2008
+1769735445,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2016
+837756764,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2009
+3269508950,Pheucticus ludovicianus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2019
+1347264196,Pheucticus ludovicianus,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,1,2015
+2231989735,Pheucticus ludovicianus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2018
+1180701445,Pheucticus ludovicianus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2002
+2658582855,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2019
+1710294749,Pheucticus ludovicianus,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2016
+1202576119,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2011
+3747033789,Pheucticus ludovicianus,EC,,Pichincha,1,-0.197847,-78.403732,2284,3,2022
+2029358077,Pheucticus ludovicianus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,11,2011
+1201511547,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+2800375737,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2019
+2028485828,Pheucticus ludovicianus,EC,,Pichincha,1,-0.059147,-78.770019,1259,2,2019
+2781292484,Pheucticus ludovicianus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2019
+1775015930,Pheucticus ludovicianus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2016
+3657355364,Pheucticus ludovicianus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+2139250350,Pheucticus ludovicianus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2018
+2733006944,Pheucticus ludovicianus,EC,Rio Mindo,Pichincha,1,-0.058785,-78.77108,1267,2,2019
+2802873852,Pheucticus ludovicianus,EC,,Pichincha,1,-0.063735,-78.768934,1275,2,2020
+2133453664,Pheucticus ludovicianus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,12,2007
+1776428388,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2016
+3415542329,Pheucticus ludovicianus,EC,,Pichincha,1,-0.185496,-78.484921,2775,11,2021
+3572113680,Pheucticus ludovicianus,EC,Mirador de Guaycapi,Pichincha,1,0.031714,-78.68125,1494,12,2021
+2123461099,Pheucticus ludovicianus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005

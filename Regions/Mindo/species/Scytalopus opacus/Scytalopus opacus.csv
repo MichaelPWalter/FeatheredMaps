@@ -1,0 +1,7 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3200137065,Scytalopus opacus,EC,Area de Protección y Conservación Cerro Blanco,Imbabura,2,0.209989,-78.34595,3209,8,2020
+3215929852,Scytalopus opacus,EC,Area de Protección y Conservación Cerro Blanco,Imbabura,4,0.209989,-78.34595,3209,8,2020
+2704685764,Scytalopus opacus,EC,"El Tablón Sideroad (-0.267, -78.283)",Pichincha,1,-0.267008,-78.282616,3168,11,2019
+2799720669,Scytalopus opacus,EC,"El Tablón Sideroad (-0.267, -78.283)",Pichincha,1,-0.267008,-78.282616,3168,11,2019
+2681143393,Scytalopus opacus,EC,Hacienda Rancho Alto,Pichincha,1,-0.245103,-78.25778,3540,4,2019
+2116165212,Scytalopus opacus,EC,"lago san pablo Road, Eugenio Espejo, Provincia de Imbabura, EC (0.216, -78.237)",Imbabura,1,0.215564,-78.237366,2659,2,2018

@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2227656773,Iridosornis porphyrocephalus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2003
+2712858878,Iridosornis porphyrocephalus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,9,2019
+2795471752,Iridosornis porphyrocephalus,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,12,2019
+2774149572,Iridosornis porphyrocephalus,EC,"Reserva Los Cedros, Zona Alta",Imbabura,1,0.33396,-78.79398,2247,9,2019
+2780772971,Iridosornis porphyrocephalus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,9,2019

@@ -1,0 +1,8 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3643850132,Atlapetes leucopis,EC,Sendero Siempre Verde Zona Media,Imbabura,1,0.365668,-78.412476,3025,5,2021
+3688056138,Atlapetes leucopis,EC,"Bosque Protector Siempre Verde, Mirador. Imbabura, EC (0.366, -78.414)",Imbabura,1,0.365622,-78.41395,2962,5,2021
+3654101273,Atlapetes leucopis,EC,"Plaza Gutierrez (Calvario), Imbabura, EC (0,341, -78,446)",Imbabura,2,0.340519,-78.44554,2381,5,2021
+3625608633,Atlapetes leucopis,EC,Siempre Verde (correct locality!),Imbabura,2,0.37239,-78.42243,2446,4,2021
+3602584778,Atlapetes leucopis,EC,3100masl arriba trail,Imbabura,2,0.362294,-78.412056,3204,4,2021
+3612867828,Atlapetes leucopis,EC,Bosque Protector Siempre Verde,Imbabura,2,0.372374,-78.42244,2446,4,2021
+3182113215,Atlapetes leucopis,EC,Bosque Protector Neblina,Imbabura,1,0.3485,-78.44678,2718,6,2020

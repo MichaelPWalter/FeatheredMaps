@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1718256039,Phalaropus fulicarius,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2016
+1769544639,Phalaropus fulicarius,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2016
+2800706993,Phalaropus fulicarius,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2014

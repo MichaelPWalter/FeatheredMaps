@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1773690610,Pluvialis squatarola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2016
+2077167987,Pluvialis squatarola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2017
+1773719377,Pluvialis squatarola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2016
+1761158065,Pluvialis squatarola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2016

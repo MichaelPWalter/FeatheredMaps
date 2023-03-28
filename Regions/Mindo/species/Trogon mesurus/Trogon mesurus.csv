@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3581539961,Trogon mesurus,EC,Itapoa Project Puerto Quito,Pichincha,2,0.122808,-79.27116,128,11,2021
+3387995025,Trogon mesurus,EC,Tinalandia Lodge,,1,-0.308046,-79.038895,679,12,2004

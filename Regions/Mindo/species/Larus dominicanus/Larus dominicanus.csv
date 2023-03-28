@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2034527491,Larus dominicanus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2017
+2033069209,Larus dominicanus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2017
+2030186186,Larus dominicanus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2017

@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2839662298,Dendrocygna bicolor,EC,Ecuador - Quito,,1,-0.221626,-78.509978,2808,3,2012
+3902075151,Dendrocygna bicolor,EC,,Pichincha,1,-0.071682,-78.359682,2168,5,2022
+3292134355,Dendrocygna bicolor,EC,"Itapoa/ Piedra De VaporPichincha, EC (0.151, -79.325)",Pichincha,1,0.151269,-79.32539,115,10,2020

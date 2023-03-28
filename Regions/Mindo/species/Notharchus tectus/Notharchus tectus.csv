@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2702047819,Notharchus tectus,EC,"Pichincha, EC (0,164, -79,164)",Pichincha,1,0.163616,-79.163925,363,7,2019
+1207024630,Notharchus tectus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,2,2005
+1794378785,Notharchus tectus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2007
+2724107460,Notharchus tectus,EC,"Via a Piedra de Vapor, Pichincha, EC (0.147, -79.326)",Pichincha,2,0.146845,-79.32621,128,12,2019

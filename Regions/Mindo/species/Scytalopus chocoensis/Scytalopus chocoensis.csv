@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2661215578,Scytalopus chocoensis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,3,2019
+3249511544,Scytalopus chocoensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2020
+2719615714,Scytalopus chocoensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2005
+1400753124,Scytalopus chocoensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+2169115363,Scytalopus chocoensis,EC,Los Cedros-Sendero Brasilargo,Imbabura,2,0.316742,-78.78984,1558,5,2018

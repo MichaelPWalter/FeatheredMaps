@@ -1,0 +1,633 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2243602744,Myiornis atricapillus,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,1,2008
+2243868717,Myiornis atricapillus,EC,"Rio Silanche, Pedro Vicente Maldonado, Pichincha",,1,0.1431,-79.1334,420,9,2001
+2898311515,Myiornis atricapillus,EC,,Pichincha,1,0.194077,-78.865014,882,9,2020
+3644388596,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+1205885303,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2001
+2658183657,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3216334367,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,12,2020
+2143064100,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+2114377473,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+272670338,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2005
+2726779788,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+2750931096,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2019
+1764018560,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2009
+2664135852,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,3,2019
+3599620841,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2219120098,Myiornis atricapillus,EC,EC-Pichincha-Rio Silanche Reserve,Pichincha,1,0.144958,-79.14181,406,11,2018
+2767652620,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+973207797,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2007
+3578303911,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+2228677791,Myiornis atricapillus,EC,Rio Silanche entrance road,Pichincha,1,0.144649,-79.14127,410,11,2018
+3678606834,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+2129757730,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+2768734156,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,2,0.10746,-79.166534,377,7,2019
+2071219668,Myiornis atricapillus,EC,La Chacra,Pichincha,1,0.069189,-78.950745,859,4,2017
+2101170501,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2004
+1756524489,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,8,2016
+3205575512,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+1165131104,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+1180503459,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2014
+3293341676,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,12,2020
+2233195185,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+1707154591,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2006
+3661757851,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2774396395,Myiornis atricapillus,EC,"Silanche reserve, Pichincha",Pichincha,1,0.167,-79.25,225,2,2006
+3603699423,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2021
+945737018,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2010
+2123287313,Myiornis atricapillus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2017
+276454544,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2009
+977348628,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2013
+1765522002,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+3294219618,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2020
+3605150370,Myiornis atricapillus,EC,"San José de Mashpi, Pichincha, EC (0.174, -78.902)",Pichincha,1,0.17427,-78.9018,609,1,2021
+2673999978,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+2142003337,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+594021617,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2011
+3579417009,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+2729346697,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2019
+2101171410,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2004
+1783272243,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+3191242853,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+1201376454,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+3288735010,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3536307875,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2021
+1381172203,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2015
+2732345674,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2657446285,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2019
+3606193432,Myiornis atricapillus,EC,"San José de Mashpi, Pichincha, EC (0.174, -78.902)",Pichincha,1,0.17427,-78.9018,609,1,2021
+2170701463,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2018
+2125066684,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+3274408463,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2174567313,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2018
+3134403065,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,2,2020
+3559853974,Myiornis atricapillus,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+2801747439,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.14616,-79.1433,402,8,2012
+3656699361,Myiornis atricapillus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+3227639121,Myiornis atricapillus,EC,"Rio Sardinas, 3-5km bellow",Pichincha,3,0.190409,-78.86343,880,4,2020
+3140223465,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,3,2020
+2228243010,Myiornis atricapillus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,12,2018
+3208563612,Myiornis atricapillus,EC,"Vía a Chiriboga (parte baja), alrededores Guajalito",Santo Domingo de los Tsáchilas,2,-0.249051,-78.78114,1999,10,2020
+959758069,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2013
+1158777995,Myiornis atricapillus,EC,CEA-Mindo,Pichincha,2,-0.074899,-78.75485,1395,3,2014
+2717653773,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2010
+1793925205,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2737337303,Myiornis atricapillus,EC,Rio Silanche Road,Pichincha,1,0.088579,-79.08178,573,12,2001
+833651838,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2008
+3646431579,Myiornis atricapillus,EC,"Bosque Mashpi Shungo, EC (0,188, -78,912)",Pichincha,2,0.187956,-78.91236,611,5,2021
+277555863,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2010
+2125092760,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2004
+3568491571,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2161308569,Myiornis atricapillus,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,6,2018
+1178541185,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2010
+3687020894,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+3685408237,Myiornis atricapillus,EC,Seleccionado automáticamente,Pichincha,1,0.170948,-78.925896,626,1,2021
+3618354725,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2728076683,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+3571432552,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2007
+3197550117,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2020
+2696762127,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,9,2019
+973912723,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2008
+274391144,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2007
+2101157125,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2001
+2756064010,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+2169546664,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2018
+3669078052,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+2714693357,Myiornis atricapillus,EC,Remnant forest patch between PVM and Las Golondrinas (La Celica),Pichincha,1,0.267067,-79.20459,241,2,2001
+3578363056,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+2161617158,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2653342472,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2758946154,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,4,2019
+2679231175,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+2722110307,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2007
+963626384,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,8,2013
+2726279174,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2019
+1786384155,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2010
+952163344,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2009
+1208757999,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+1986526057,Myiornis atricapillus,EC,,Pichincha,1,0.144476,-79.142155,409,12,2018
+3468844029,Myiornis atricapillus,EC,,Pichincha,1,0.178768,-78.931645,606,1,2022
+2988644825,Myiornis atricapillus,EC,,Pichincha,1,0.144916,-79.141299,408,11,2020
+1791634851,Myiornis atricapillus,EC,Mindo Garden Lodge,Pichincha,1,-0.072955,-78.75455,1351,8,2008
+2122523817,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2018
+1410506213,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2007
+3201716990,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,3,0.195715,-78.872116,766,9,2020
+965324310,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2013
+2208759546,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2018
+2777471046,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3468901024,Myiornis atricapillus,EC,,Pichincha,1,0.178768,-78.931645,606,1,2022
+3626737183,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2007
+2709548051,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,5,2003
+2106083400,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2686340846,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+3468791930,Myiornis atricapillus,EC,,Pichincha,1,0.178132,-78.931547,598,1,2022
+3218285260,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+2781140033,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+2122330148,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,1,2018
+2787137842,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2019
+2683540678,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2019
+3177620790,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2020
+2114228583,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2004
+2204733467,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2009
+1409460994,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3387979531,Myiornis atricapillus,EC,Niedrige Landschaften (Lowlands) nähe Arasha,,1,0.100909,-79.096443,530,11,2004
+2193075318,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2018
+2743026290,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+1147200544,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.1122,-78.99017,709,7,2012
+1160683344,Myiornis atricapillus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2014
+2792614949,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+3468897015,Myiornis atricapillus,EC,,Pichincha,1,0.178768,-78.931645,606,1,2022
+961986728,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,5,2012
+2215338688,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,12,2018
+2123383388,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2001
+2796378407,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+1400735597,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,4,0.122652,-78.99485,843,5,2006
+3245104041,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2020
+1793945032,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+3183514369,Myiornis atricapillus,EC,"San Miguel de los Bancos, Pichincha, EC (0,052, -78,903)",Pichincha,1,0.051764,-78.90251,1013,8,2020
+591949479,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2008
+1203222059,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2014
+2772897145,Myiornis atricapillus,EC,"Río Silanche Bird Sanctuary (0.1378, -79.1312)",Pichincha,1,0.1378,-79.1312,370,9,2012
+2670301244,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+2749641325,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,3,2019
+3676728050,Myiornis atricapillus,EC,"Vía a Masphi, Pichincha, EC (0.184, -78.918)",Pichincha,2,0.18402,-78.91761,506,2,2021
+2707536777,Myiornis atricapillus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2019
+3283733523,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2020
+1178590570,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2010
+2216172114,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2018
+2142679791,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+3593283336,Myiornis atricapillus,EC,"Pachijal,Vía Monte Olivo",Pichincha,1,0.1715,-78.94305,557,1,2021
+2784637233,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+2658202617,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+2771006406,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2019
+2221751840,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2018
+2692647593,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,2,0.10746,-79.166534,377,7,2019
+3585131484,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+2172559814,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+1789210051,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2005
+2776967701,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+1794204713,Myiornis atricapillus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2014
+1385208578,Myiornis atricapillus,EC,Milpe--end of the road,Pichincha,2,0.07727,-78.93023,912,3,2006
+3145968508,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+2058539693,Myiornis atricapillus,EC,La Chacra,Pichincha,1,0.069189,-78.950745,859,5,2017
+593740393,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2011
+1165374291,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+3209948110,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2020
+2781252444,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2019
+2186758403,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,3,0.195715,-78.872116,766,9,2018
+3175695043,Myiornis atricapillus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2014
+2675028603,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+1709430600,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+937455497,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2008
+2732660447,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+274391143,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2007
+1371877033,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,4,2015
+3262967321,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+3694993624,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182503,-78.91253,513,10,2021
+2052805005,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,3,0.10746,-79.166534,377,5,2017
+1201358115,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+2114129112,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2004
+2171098450,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2114898886,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2004
+2656418805,Myiornis atricapillus,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,1,2019
+3143596626,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+1411599645,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2012
+2067359250,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,6,2017
+3138341206,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2020
+3541502876,Myiornis atricapillus,EC,Finca Santa Lucia,Pichincha,1,0.185627,-78.92,513,7,2021
+1400752651,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+1789312010,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2011
+2766935522,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+3213801337,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+2741698876,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+1794280632,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2008
+938675797,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+2112248840,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+1206224921,Myiornis atricapillus,EC,Milpe--end of the road,Pichincha,2,0.07727,-78.93023,912,1,2008
+2160336715,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+277299720,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2010
+3694665861,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2021
+2797821132,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2019
+2720731188,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,9,2019
+1395596859,Myiornis atricapillus,EC,Masphi Chocolate Farm,Pichincha,1,0.18754,-78.9104,642,11,2015
+3182211199,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,3,0.195715,-78.872116,766,9,2020
+2131331709,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,9,2004
+3665984776,Myiornis atricapillus,EC,Pedro Vicente de Maldonado,Pichincha,1,0.08036,-79.04103,617,8,2001
+2232896770,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+2720534890,Myiornis atricapillus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,7,2013
+2203777526,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+969217871,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2013
+1162538632,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2014
+3682871662,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2185050961,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+1723388886,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2016
+3282016467,Myiornis atricapillus,EC,"Bamburé, Reserva privada",Pichincha,1,0.101075,-79.20286,162,9,2020
+2760880953,Myiornis atricapillus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+2226516706,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2740230444,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+3671406582,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+3527732623,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2021
+833497252,Myiornis atricapillus,EC,Pedro Vicente Maldonado area,Pichincha,1,0.109344,-79.10282,497,6,2006
+2783960634,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+2719974567,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2009
+1400734204,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,4,2006
+2203717112,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2770491979,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,2,2008
+1155144318,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2014
+2790987125,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2009
+3181013835,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,2,2006
+1377746152,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2015
+1165334767,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+2123433320,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2004
+2724485066,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+3687507110,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2764119572,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2220404753,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+3148283901,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+2205385531,Myiornis atricapillus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,11,2018
+1791552652,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2006
+3644071142,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2007
+2123425716,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,3,2005
+1400754457,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+3180935788,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,3,0.195715,-78.872116,766,9,2020
+2114970724,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,8,2005
+2698444036,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+1196930384,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,5,2004
+835372283,Myiornis atricapillus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2012
+2101220805,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+1400743923,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+3186103012,Myiornis atricapillus,EC,"Pacto, Pichincha, EC (0.161, -78.854)",Pichincha,2,0.161216,-78.85365,1318,10,2020
+3143582836,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2020
+2120578146,Myiornis atricapillus,EC,"(0.166, -78.877)",Pichincha,1,0.166463,-78.87743,950,1,2018
+1197129696,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2003
+2778297627,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+591827780,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2006
+1769563374,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2016
+3644730591,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+936368434,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2008
+3134235291,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,2,2020
+3664347666,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+2220983712,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+181648944,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2008
+2225493644,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,12,2018
+3276702275,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2020
+2771278828,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2019
+2658533025,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2004
+3580777200,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+1748874660,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2773532525,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2019
+2763411078,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+3665197794,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2021
+2114248854,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2004
+3666657791,Myiornis atricapillus,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,2,2021
+1395583381,Myiornis atricapillus,EC,Masphi Chocolate Farm,Pichincha,1,0.18754,-78.9104,642,11,2015
+2781989713,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2106725159,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2017
+1202172692,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2011
+1790186641,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+3634549903,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+1347798207,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2015
+1773906227,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+1748230424,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2013
+1381089437,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+1385226592,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2006
+2776073500,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,8,2006
+2222406870,Myiornis atricapillus,EC,Rio Silanche entrance road,Pichincha,1,0.144649,-79.14127,410,11,2018
+1791753073,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2010
+3167685155,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2093724298,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2017
+2219129973,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2082881351,Myiornis atricapillus,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,6,2017
+1172197025,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+1348395778,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+1767928454,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2015
+3196778943,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,11,2020
+592459019,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+3241770061,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,3,0.182478,-78.9123,514,1,2020
+2714169231,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2018
+2751673283,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+2697406952,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,5,2019
+1176551569,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2014
+1403028551,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2015
+2790289036,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2019
+3688802324,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+3620317232,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,8,2005
+2758597970,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2019
+2793346553,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2010
+2709425999,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+592513283,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2010
+2690777616,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+3586151406,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+1383078641,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2002
+2229846114,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+3608273849,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+2203213196,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2708809347,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2225714424,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+3636604083,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+3274293782,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2020
+3204269435,Myiornis atricapillus,EC,Centro De Rescate James Brown,Esmeraldas,1,-0.016107,-79.37678,239,11,2020
+181649015,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,8,2006
+2228052326,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2018
+2180090455,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2016
+1788866483,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+2116560056,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2018
+966855415,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,1,2011
+2123509649,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2005
+835900463,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,7,2012
+1198251224,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+1768160938,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,10,2016
+2092462755,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+3579953652,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2021
+3687398662,Myiornis atricapillus,EC,"Auto selected 0.14449, -79.14217",Pichincha,1,0.144494,-79.14217,408,10,2021
+1773304687,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2011
+1410617582,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2014
+2752842324,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2231384123,Myiornis atricapillus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,1,2009
+3169607537,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,3,0.195715,-78.872116,766,3,2010
+2790422593,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+1787197652,Myiornis atricapillus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2014
+3536400472,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+3655421797,Myiornis atricapillus,EC,"Auto selected 0.14449, -79.14217",Pichincha,1,0.144494,-79.14217,408,10,2021
+1668810765,Myiornis atricapillus,EC,,Pichincha,1,0.14368,-79.14216,426,3,2017
+2103752462,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2017
+1173299422,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+2766569386,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2019
+2142875536,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2018
+592075862,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2009
+2769239860,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+833475041,Myiornis atricapillus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,10,2004
+941958641,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2012
+1201355101,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+967003190,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,1,2011
+2771819618,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+1201367887,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+2780308996,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+2731885636,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+3671259014,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2007
+1769848306,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2016
+274318687,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,8,2007
+592077217,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2009
+2670905016,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2013
+937746289,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,1,2013
+2721979385,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2800975217,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2001
+2781685691,Myiornis atricapillus,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+3586542652,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+149527399,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2699908639,Myiornis atricapillus,EC,Puerto Quito,Pichincha,2,0.116386,-79.26367,196,7,2019
+1175964936,Myiornis atricapillus,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,2,2012
+833680078,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2008
+3220438865,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+3468810782,Myiornis atricapillus,EC,,Pichincha,1,0.178033,-78.930505,567,1,2022
+3302422239,Myiornis atricapillus,EC,,Pichincha,1,0.144916,-79.141299,408,5,2021
+2992667176,Myiornis atricapillus,EC,,Pichincha,1,0.086346,-79.085598,570,4,2015
+2796821488,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2009
+2030975868,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2017
+2721088112,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,9,2019
+2686514492,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,4,2019
+972026305,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2009
+2784162919,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2019
+2697635616,Myiornis atricapillus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+2797023669,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+3660666704,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2021
+2080615201,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+2723858511,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+3658417709,Myiornis atricapillus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+1729223900,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2016
+2732366770,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+592069678,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.09819,-79.1383,418,11,2009
+833487969,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+2114966858,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2005
+2205560391,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,10,2018
+2218578378,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+3275964514,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,3,0.182478,-78.9123,514,10,2020
+3141837939,Myiornis atricapillus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,2,0.162021,-78.82376,1623,1,2020
+3280027373,Myiornis atricapillus,EC,Silanche Reserve and Suamox,Pichincha,1,0.124923,-79.1537,340,7,2010
+2720357795,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2005
+2764938813,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2010
+3167840879,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2020
+1767194128,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+2800224540,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2019
+1759913767,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+2123395476,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+2664159528,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2019
+2172289876,Myiornis atricapillus,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,6,2018
+3200257295,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2009
+2198951972,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,9,2018
+2212775688,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2008
+1793919281,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2678228924,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2019
+2230946969,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2018
+1376327717,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2015
+2226267132,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+3298704001,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2020
+2161850959,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2018
+2795620027,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2019
+2798393458,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2016
+2706835417,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+1754803850,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2016
+3514340615,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2015
+2682393188,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+2721540827,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+593820417,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2011
+3178286598,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3204459608,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+2765299304,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3562264899,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3586678592,Myiornis atricapillus,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+2682085803,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+1400746116,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+1791815160,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+2114143385,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2004
+1173618006,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2012
+2214505870,Myiornis atricapillus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,11,2018
+2720696634,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+2679143560,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,4,2019
+2690545735,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,8,2019
+1348429600,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2015
+2101138919,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2004
+2094093111,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+2114234257,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,10,2005
+2210097414,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2018
+2763438364,Myiornis atricapillus,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,2,2019
+2720469018,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2019
+3195926865,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+2114132981,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+833972238,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2012
+955503376,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2002
+3624415748,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3263319849,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+2228289493,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+1748707913,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2010
+3138376255,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+2748563368,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+3606729415,Myiornis atricapillus,EC,"vía al Pachijal, Pichincha, EC (0.071, -78.905)",Pichincha,2,0.071375,-78.90489,777,5,2021
+3690181102,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2000
+3578340178,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+2659348159,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+2230025833,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2660459820,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+2690753327,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2019
+2791188641,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2014
+2114199173,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+2101171451,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2005
+3656437754,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2021
+2157323168,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+2215522984,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2010
+3609330495,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2021
+833565938,Myiornis atricapillus,EC,Santuario Aves Río Silanche,Pichincha,1,0.125522,-79.10224,496,1,2005
+1400741158,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+2694931128,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+2697207344,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+1733458203,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2009
+2684684933,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,6,2019
+934556945,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2011
+2101169238,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,7,2004
+3684682633,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2021
+3557289861,Myiornis atricapillus,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+1351979219,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+2701640454,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+3573569183,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2021
+2683439278,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2195029024,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2018
+2762297965,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2010
+3289301348,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2020
+2214294179,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+1156532134,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2014
+2736553408,Myiornis atricapillus,EC,EC-Pichincha- Rio Silanche Bird Sanctuary,Pichincha,1,0.111486,-79.15728,357,1,2019
+2159285322,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2018
+2744392793,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2777555321,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+2675650115,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,4,2019
+941113235,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+3189141176,Myiornis atricapillus,EC,CHOIBA Proyecto Regenerativo,Pichincha,1,0.171047,-78.90459,539,10,2020
+833867681,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2011
+2693846507,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,6,2019
+3174176042,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,9,2019
+1775822646,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2002
+3268113187,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2020
+2082944738,Myiornis atricapillus,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,6,2017
+3648654475,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2722643760,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+3205187305,Myiornis atricapillus,EC,Via a Piedra de Vapor,Pichincha,1,0.14665,-79.32621,129,11,2020
+1351953698,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+3617481763,Myiornis atricapillus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+3215583053,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2011
+2656363238,Myiornis atricapillus,EC,EC-Pichincha- Rio Silanche Bird Sanctuary,Pichincha,1,0.111486,-79.15728,357,1,2019
+963084564,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,2,2002
+2732711876,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+592462705,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+2782957408,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2010
+2723885899,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,3,0.117101,-79.13609,393,8,2005
+2159497130,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2018
+2688000982,Myiornis atricapillus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+3191590368,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+3586765594,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+2719463969,Myiornis atricapillus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2016
+2107798302,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2017
+1398805040,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2015
+3213314893,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,12,2020
+2182502211,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2658094090,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2143159575,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+2778080505,Myiornis atricapillus,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+3627963182,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,10,2021
+2230448434,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2018
+971996108,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2009
+1203097523,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2012
+2125347419,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+277552859,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2002
+2761486442,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2019
+3251771766,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2005
+2049177651,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,3,2017
+1791141246,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2004
+593930317,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2011
+1201363610,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+2782645902,Myiornis atricapillus,EC,Remnant forest patch between PVM and Las Golondrinas (La Celica),Pichincha,1,0.267067,-79.20459,241,7,2001
+2078119907,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,6,2017
+3613909965,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+3580254830,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2063115284,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+3555873712,Myiornis atricapillus,EC,"Auto selected 0.14449, -79.14217",Pichincha,1,0.144494,-79.14217,408,10,2021
+2761383725,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+3136234073,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2020
+1794365475,Myiornis atricapillus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+3582656582,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+2732217140,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2019
+2689618710,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2011
+3179068033,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2015
+836795815,Myiornis atricapillus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2012
+1165337007,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2014
+1787320991,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2015
+3295987704,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+3693950272,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+3688717310,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3525668347,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+2084890017,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+2113752838,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2015
+2795985106,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2019
+2222377093,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,11,2018
+2706318429,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2019
+1791668682,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2005
+1714383106,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,2,2016
+978238702,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2012
+3600773400,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2021
+975278821,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2013
+2168911943,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2018
+2710052972,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,3,0.117101,-79.13609,393,1,2006
+3181840086,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+2720422119,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2004
+1348394925,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+181647841,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2757967048,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2010
+3676357417,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2021
+1347698381,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2015
+2224251638,Myiornis atricapillus,EC,cabanas del rio puerto quito,Pichincha,1,0.123392,-79.27017,132,4,2005
+2655441662,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3142251979,Myiornis atricapillus,EC,Rio Silanche--entrance road,Pichincha,4,0.108158,-79.13607,400,2,2020
+1400742069,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+3634124593,Myiornis atricapillus,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+2198490737,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2018
+3194565880,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2020
+3661868384,Myiornis atricapillus,EC,"Via Guayabillas-La Delicia, Quito EC-Pichincha 0.21126, -78.89451",Pichincha,1,0.211261,-78.89451,703,12,2021
+1794261400,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2007
+2720241614,Myiornis atricapillus,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2016
+2757845687,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+2100149110,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2015
+2225021195,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+2761657392,Myiornis atricapillus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2019
+2072782631,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,4,2017
+2667245675,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2756242636,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,8,2019
+2657252231,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+1173681504,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2007
+3529934171,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2021
+2243869643,Myiornis atricapillus,EC,"Rio Silanche, Pedro Vicente Maldonado, Pichincha",,1,0.1431,-79.1334,420,7,2010
+2243743694,Myiornis atricapillus,EC,"NW of La Celica, Pichincha",,1,0.267,-79.2048,244,2,2001
+972791863,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2007
+836821201,Myiornis atricapillus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2012
+3704478417,Myiornis atricapillus,EC,"Rio Silanche Bird Sanctuary , Puerto Quito, Pichincha",,1,0.1449,-79.1417,407,10,2021
+2243609855,Myiornis atricapillus,EC,"Reserva Mangaloma, Pichincha",,1,0.1228,-78.9942,829,7,2014
+2243642153,Myiornis atricapillus,EC,"Silanche reserve, Pichincha",,1,0.166667,-79.25,224,2,2006
+2243870002,Myiornis atricapillus,EC,"Rio Silanche, Pedro Vicente Maldonado, Pichincha",,1,0.1431,-79.1334,420,7,2010
+2656263232,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,1,2019
+1784705380,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2009
+2222342744,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+1792221974,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2011
+2114139641,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+944811824,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2003
+2714273395,Myiornis atricapillus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2019
+2210783295,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+2151028160,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+2197330261,Myiornis atricapillus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2018
+2779421889,Myiornis atricapillus,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,9,2012
+943871267,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2013
+1409695161,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2006
+3641588957,Myiornis atricapillus,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+2749734532,Myiornis atricapillus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,7,2019
+3648741864,Myiornis atricapillus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+2243643059,Myiornis atricapillus,EC,"Silanche reserve, Pichincha",,1,0.166667,-79.25,224,2,2006
+2243574396,Myiornis atricapillus,EC,"Reserva Mangaloma, Pichincha",,1,0.1228,-78.9942,829,7,2012
+2134358765,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2018
+2114194255,Myiornis atricapillus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004

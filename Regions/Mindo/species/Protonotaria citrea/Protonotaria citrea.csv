@@ -1,0 +1,7 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+274775330,Protonotaria citrea,EC,Quito,Pichincha,1,-0.222633,-78.51696,2824,11,2008
+595519603,Protonotaria citrea,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2001
+1190808644,Protonotaria citrea,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,3,2009
+2835205242,Protonotaria citrea,EC,Ecuador - Quito,,1,-0.222628,-78.517007,2824,11,2008
+2664069277,Protonotaria citrea,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2019
+1793175188,Protonotaria citrea,EC,"Av. 24 de mayo, Quito, Pichincha, EC",Pichincha,1,-0.222548,-78.517044,2824,11,2008

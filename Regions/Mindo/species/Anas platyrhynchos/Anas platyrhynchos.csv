@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3784725317,Anas platyrhynchos,EC,,Pichincha,1,-0.103171,-78.348678,2378,1,2020
+2833328321,Anas platyrhynchos,EC,Ecuador - Pichincha,,1,-0.29825,-78.458335,2452,11,2018
+4006740650,Anas platyrhynchos,EC,,Imbabura,1,0.188739,-78.189217,2679,10,2022
+3824167301,Anas platyrhynchos,EC,Ecuador - Quito,,1,-0.186127,-78.485107,2775,3,2022

@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1149038109,Chaetocercus berlepschi,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3294042220,Chaetocercus berlepschi,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,12,2007
+3215460307,Chaetocercus berlepschi,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,12,2007
+2665166356,Chaetocercus berlepschi,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,3,2019

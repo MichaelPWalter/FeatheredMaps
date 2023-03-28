@@ -1,0 +1,15 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3455554137,Cairina moschata,EC,,Imbabura,1,0.201806,-78.235355,2659,12,2020
+2984535575,Cairina moschata,EC,,Pichincha,1,0.134892,-78.676352,1114,10,2020
+2654271703,Cairina moschata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,3,0.215744,-78.90205,482,1,2019
+1748458202,Cairina moschata,EC,"Pichincha, Rio Cinto, Mindo, EC",Pichincha,1,-0.055677,-78.76144,1410,7,2016
+2760533752,Cairina moschata,EC,Parque Guápulo,Pichincha,1,-0.196777,-78.47306,2609,5,2019
+2611353236,Cairina moschata,EC,,Pichincha,1,-0.196852,-78.472724,2606,11,2019
+3925045591,Cairina moschata,EC,,Pichincha,1,-0.30639,-78.436414,2493,7,2022
+2729766900,Cairina moschata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,3,0.215744,-78.90205,482,1,2019
+3872882736,Cairina moschata,EC,,Pichincha,1,-0.222658,-78.332534,2592,6,2022
+2654149150,Cairina moschata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,3,0.215744,-78.90205,482,1,2019
+2755495089,Cairina moschata,EC,Parque Guápulo,Pichincha,1,-0.196777,-78.47306,2609,5,2019
+2675993604,Cairina moschata,EC,Parque Guápulo,Pichincha,1,-0.196777,-78.47306,2609,5,2019
+3859397979,Cairina moschata,EC,,Pichincha,1,-0.186836,-78.485904,2775,5,2022
+3925060607,Cairina moschata,EC,,Pichincha,1,-0.186356,-78.485501,2775,8,2022

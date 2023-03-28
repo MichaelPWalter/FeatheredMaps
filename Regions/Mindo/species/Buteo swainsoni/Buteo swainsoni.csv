@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1397978033,Buteo swainsoni,EC,"Parque Lineal Sangolquí, Pichincha",Pichincha,1,-0.33,-78.44225,2498,11,2015
+3617099760,Buteo swainsoni,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,8,2021
+2747173996,Buteo swainsoni,EC,"Parque Lineal Sangolquí, Pichincha",Pichincha,1,-0.33,-78.44225,2498,11,2015

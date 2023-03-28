@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3682430780,Tyrannus dominicensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2021
+3655240568,Tyrannus dominicensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2021

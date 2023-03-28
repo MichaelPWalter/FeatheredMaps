@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2799370127,Limnodromus scolopaceus,EC,"San Pablo Lake (0.2167, -78.2)",Imbabura,1,0.2167,-78.2,2868,3,2012
+2799713129,Limnodromus scolopaceus,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,3,2012
+1175955352,Limnodromus scolopaceus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,3,2012
+3034447313,Limnodromus scolopaceus,EC,"Lago San Pablo, Otavalo, Imbabura",,1,0.214,-78.238,2662,3,2012
+3034445319,Limnodromus scolopaceus,EC,"Lago San Pablo, Otavalo, Imbabura",,1,0.214,-78.238,2662,3,2012

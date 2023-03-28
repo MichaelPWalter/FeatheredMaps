@@ -1,0 +1,18 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+4054762623,Claravis mondetoura,EC,,Pichincha,1,0.0326,-78.681026,1471,2,2023
+1392305742,Claravis mondetoura,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+3153648892,Claravis mondetoura,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2020
+2090496476,Claravis mondetoura,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,9,2017
+2213923812,Claravis mondetoura,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+3280826374,Claravis mondetoura,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2020
+2781612618,Claravis mondetoura,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2019
+2782719572,Claravis mondetoura,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2019
+2225684830,Claravis mondetoura,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+2215869593,Claravis mondetoura,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,12,2018
+4046718237,Claravis mondetoura,EC,,Pichincha,1,0.040552,-78.678181,1435,2,2023
+2070156677,Claravis mondetoura,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,7,2017
+2231150089,Claravis mondetoura,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,12,2018
+2104718281,Claravis mondetoura,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,5,0.022492,-78.50228,3043,10,2017
+3265935145,Claravis mondetoura,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2020
+2097655415,Claravis mondetoura,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,10,2017
+3715808303,Claravis mondetoura,EC,Ecuador - Pichincha,,1,-0.352796,-78.849571,1352,12,2018

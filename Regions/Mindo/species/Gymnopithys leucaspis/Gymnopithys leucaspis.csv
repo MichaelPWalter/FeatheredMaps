@@ -1,0 +1,558 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3302003108,Gymnopithys leucaspis,EC,,Pichincha,1,0.068726,-78.903898,863,5,2021
+2243609318,Gymnopithys leucaspis,EC,"Reserva Mangaloma, Pichincha",,1,0.1228,-78.9942,829,7,2014
+2243663566,Gymnopithys leucaspis,EC,Pichincha: Río Guaycuyacu,,1,0.217,-78.89,555,2,2004
+2243699918,Gymnopithys leucaspis,EC,"Distrito Metropolitano de Quito, Pichincha",,1,0.1521,-78.8341,1537,12,2012
+3247195467,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+959842842,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,7,2013
+2663047145,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+938174220,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2011
+2661090055,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2019
+2669809989,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2788998285,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2019
+3621299418,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2211710227,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+1729041701,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2016
+2702695261,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,10,2019
+2664203457,Gymnopithys leucaspis,EC,EC-Pichincha- Rio Silanche Bird Sanctuary,Pichincha,1,0.111486,-79.15728,357,1,2019
+2168106914,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2018
+3201658064,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,12,2020
+3585599244,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+1395583376,Gymnopithys leucaspis,EC,Masphi Chocolate Farm,Pichincha,1,0.18754,-78.9104,642,11,2015
+3694492989,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+3630314618,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2021
+3634004754,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,11,2014
+2116560483,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2017
+3264486718,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,2,2020
+1206180871,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,8,2010
+1184485804,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2013
+2667165141,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2013
+2776628769,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2019
+2742369074,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,1,2019
+3290382482,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,6,0.071925,-78.982285,778,2,2002
+2213909802,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,10,2018
+938193650,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2011
+2684750714,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+588590337,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2010
+3636326061,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,6,2021
+3689807228,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+3259994034,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,11,2020
+3550191943,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2017
+2723163806,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2019
+2114308197,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,12,2017
+2129029708,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2017
+3581557363,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2021
+2157794717,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+3294805367,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+2769389875,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+960221358,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,7,2013
+3614530754,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2021
+3286736860,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,11,2020
+3256753516,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2664924062,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+2225039161,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2015
+3172603627,Gymnopithys leucaspis,EC,Río Pachijal Road,Pichincha,4,0.074229,-78.90523,791,8,2020
+1203097522,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2012
+3141721530,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2020
+3288415664,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2014
+2783675496,Gymnopithys leucaspis,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,5,2019
+2669771452,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+2113803769,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2017
+1397151420,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2015
+2723539199,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+2655836421,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+1385401583,Gymnopithys leucaspis,EC,Milpe--end of the road,Pichincha,2,0.07727,-78.93023,912,12,2005
+3231834566,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2020
+2226262982,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+3583557301,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2691569768,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,8,2019
+1162643864,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2014
+1400750177,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,5,2006
+2041125068,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,1,2017
+2114388300,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,3,0.071925,-78.982285,778,5,2005
+1175822403,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,5,0.122652,-78.99485,843,2,2012
+3190395827,Gymnopithys leucaspis,EC,Rio Silanche--entrance road,Pichincha,2,0.108158,-79.13607,400,2,2006
+2114905571,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,2,0.071925,-78.982285,778,3,2005
+1717654847,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2016
+2769709235,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,5,2019
+2211576144,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2018
+2175360035,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,6,2018
+2657364111,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+2661978726,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+2673355756,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,7,2013
+3530734356,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,5,0.122652,-78.99485,843,5,2021
+2215004455,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+3671441553,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2656994551,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2013
+2211938865,Gymnopithys leucaspis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,12,2018
+1375210892,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,5,0.145185,-79.14147,402,6,2015
+1778833993,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2014
+2109373848,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2017
+1344676647,Gymnopithys leucaspis,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,1,2015
+2740578193,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+1783272268,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+2751222289,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+2092998494,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2017
+3170191810,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+3269837824,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+1388719604,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,4,0.166125,-78.878876,931,9,2015
+2789757757,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,4,0.182478,-78.9123,514,8,2017
+1205441466,Gymnopithys leucaspis,EC,Rio Silanche,Pichincha,1,0.086794,-79.085464,592,9,2011
+3170203508,Gymnopithys leucaspis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2020
+2706120478,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,11,2019
+985191369,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,12,0.122652,-78.99485,843,7,2009
+1400753183,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,4,2006
+3584909337,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2006
+1166347851,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,4,2014
+980279506,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2012
+2788594337,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,8,2019
+2773718727,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2019
+2677363795,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,3,0.182503,-78.91253,513,5,2019
+2694402846,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2019
+2191708600,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,5,0.16546,-78.84751,1293,8,2018
+1789253757,Gymnopithys leucaspis,EC,Milpe--end of the road,Pichincha,4,0.07727,-78.93023,912,12,2005
+3253324682,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2772981747,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+832404792,Gymnopithys leucaspis,EC,Mangaloma Reserve,Pichincha,2,0.112778,-78.98972,692,3,2012
+3044782188,Gymnopithys leucaspis,EC,,Pichincha,1,0.144916,-79.141299,408,11,2020
+3145421172,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+2070776434,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,5,2017
+2673338517,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,5,2019
+3219659056,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2020
+3166423335,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+2770992812,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+3622004641,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,6,2021
+1349299594,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2015
+829484240,Gymnopithys leucaspis,EC,Rio Silanche Reserve & Pedro Vicente Maldonado,Pichincha,1,0.087145,-79.08533,599,9,2007
+2083188051,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,4,0.033327,-78.868454,1110,9,2017
+2090983061,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2017
+2988420957,Gymnopithys leucaspis,EC,,Pichincha,1,0.144916,-79.141299,408,11,2020
+3657982023,Gymnopithys leucaspis,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+3631664267,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,11,2021
+2720526775,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2001
+2175398984,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,6,2018
+959829910,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2013
+2052156661,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,5,0.145185,-79.14147,402,3,2017
+2172061328,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2018
+3661264425,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+941958618,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2012
+2696072268,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2019
+2988284298,Gymnopithys leucaspis,EC,,Pichincha,1,0.03351,-78.866216,1112,8,2019
+2742824410,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2725745695,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,12,2017
+1768885826,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,10,2016
+2093392654,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2017
+3526383225,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,5,2021
+588663934,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+1396905671,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2015
+3176553908,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+831004209,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2012
+3629260861,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2021
+2173442782,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+588643583,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,11,2010
+149027458,Gymnopithys leucaspis,EC,EC - Milpe,Pichincha,2,0.031586,-78.86158,1136,8,2005
+937655438,Gymnopithys leucaspis,EC,Un Poco del Choco,Pichincha,2,0.102997,-78.831024,1466,1,2013
+1180605706,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2014
+3634169101,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2021
+1204658223,Gymnopithys leucaspis,EC,EC - Milpe,Pichincha,2,0.031586,-78.86158,1136,8,2005
+2232657511,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+2031462810,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2017
+2663305474,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,6,0.145185,-79.14147,402,1,2019
+2799337402,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+1765522024,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+2784134710,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,5,2019
+587749222,Gymnopithys leucaspis,EC,Quatros Rios,Pichincha,1,0.075531,-78.97522,787,2,2002
+3253588163,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+2781119682,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,10,2019
+2159271402,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+2196966228,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2018
+3583963943,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+2732678233,Gymnopithys leucaspis,EC,"San Jorge Milpe, EC (0,043, -78,885)",Pichincha,3,0.042555,-78.88535,1076,4,2019
+3585770127,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+3248966735,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,5,2020
+2726685388,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2017
+3286179933,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+2105337458,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,5,2017
+3642528748,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+1406133717,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2015
+3571212091,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,7,2021
+3577699808,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2048395764,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,3,0.16546,-78.84751,1293,1,2017
+2728012748,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2019
+2124631868,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+1794568585,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,6,0.071925,-78.982285,778,2,2002
+3215037089,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,12,2020
+3286615466,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,11,2020
+3640377627,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+1779370148,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,6,2011
+2113648515,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,5,0.117101,-79.13609,393,12,2017
+2123624472,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary and Milpe road,Pichincha,1,0.041223,-78.88278,1082,12,2005
+960724045,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,7,2013
+2692723218,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2759208458,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,7,2019
+2687972698,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2019
+3590801113,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,6,0.05295,-78.84311,1177,2,2021
+1772400487,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+2773240485,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+3202880522,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,11,2020
+2085369064,Gymnopithys leucaspis,EC,milpe Lodge and trails,Pichincha,1,0.030685,-78.86649,1149,8,2017
+2725111404,Gymnopithys leucaspis,EC,EC - Milpe,Pichincha,2,0.031586,-78.86158,1136,8,2005
+180366994,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,8,2006
+1360603457,Gymnopithys leucaspis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,4,2015
+1195294810,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+1398112487,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2015
+2783390023,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2019
+2749727718,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+1708920894,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2016
+1729124001,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2016
+1399824775,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2015
+2657224010,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+2123498258,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,6,0.071925,-78.982285,778,6,2005
+3195050779,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2020
+2087646223,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2017
+3535116057,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2021
+2228391549,Gymnopithys leucaspis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,12,2018
+1727168574,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2016
+2703483617,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,10,2019
+2106798031,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,5,2017
+935321653,Gymnopithys leucaspis,EC,Un Poco del Choco,Pichincha,1,0.080681,-78.8221,1272,1,2013
+2762446780,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2019
+2714737951,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+3510957005,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2021
+2104556650,Gymnopithys leucaspis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2017
+2128455448,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+3208010738,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+2740771192,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,2,2019
+3536992828,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,11,2021
+2037597958,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2017
+2695912649,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2019
+1730310095,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,5,0.044357,-78.88368,1059,4,2016
+3208992835,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2020
+2784536441,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2019
+2769639379,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+2672075621,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2019
+3194782916,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2768043572,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2019
+3519081309,Gymnopithys leucaspis,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,2,0.025522,-78.85767,1170,5,2021
+3189183805,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+2706695477,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,12,0.122652,-78.99485,843,7,2009
+3278744511,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2020
+2684897470,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2019
+3599601127,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,2,2021
+2177353959,Gymnopithys leucaspis,EC,"EC-Pichincha-Quito (0,1661,-78,8792)",Pichincha,1,0.166113,-78.87921,924,2,2018
+2092697632,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2017
+3230648769,Gymnopithys leucaspis,EC,Garita Mashpi-hotel-mashpi comunidad,Pichincha,1,0.166455,-78.87116,1052,5,2020
+1191816598,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2014
+2128761396,Gymnopithys leucaspis,EC,"ChocoMashpi (Shunguito farm) 500 masl (0.1819,-78.9122)",Pichincha,6,0.181904,-78.91223,513,1,2018
+2717066539,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+1393483989,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,5,0.071925,-78.982285,778,6,2005
+3217969202,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+2770985046,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,9,2019
+1206597104,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2007
+3189504822,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+1206188633,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2007
+2699973059,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2019
+1371877042,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2015
+3186600338,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+3671739415,Gymnopithys leucaspis,EC,Pais Tropical,Pichincha,1,0.17327,-78.93343,543,12,2021
+2083340180,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,4,0.033327,-78.868454,1110,9,2017
+2096974112,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2017
+2122024652,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,6,0.145185,-79.14147,402,12,2017
+3220388505,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2020
+3133127809,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+2069466590,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2017
+3186065126,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+2719716757,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+2065168414,Gymnopithys leucaspis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,5,2017
+1400068479,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,11,2015
+1789311869,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2011
+1398118628,Gymnopithys leucaspis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2001
+2667219807,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,1,2019
+2796621204,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+2665778236,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2745794803,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2019
+3626064006,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+1393295164,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,10,2015
+3666252633,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2009
+2729290176,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2019
+3234337286,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+3296184431,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,11,2020
+3133130810,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,1,2020
+2226647421,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+1711398918,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2016
+965693397,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2013
+3145764626,Gymnopithys leucaspis,EC,"Milpe Cloud Forest, EC",Pichincha,1,0.030617,-78.866745,1147,2,2020
+2765048188,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,6,2019
+3150992174,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+975278899,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2013
+2796085743,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2019
+3251547714,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+2126526570,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2018
+2718226367,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+3603257435,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,8,0.182478,-78.9123,514,1,2021
+590145236,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2011
+2094946602,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2017
+3259648105,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2041433711,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,1,2017
+1408322749,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2012
+1786524517,Gymnopithys leucaspis,EC,San Miguel de los Bancos--Reserva Ashiringa,Pichincha,1,0.017222,-78.888336,830,11,2013
+3243040344,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2020
+3179773069,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+2725348528,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,2,2019
+2091215468,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2762996134,Gymnopithys leucaspis,EC,San Jorge DeMilpe Bird Lodge,Pichincha,1,0.043232,-78.88381,1069,10,2019
+588574006,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+2692623326,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2019
+831461225,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2012
+2732256294,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182503,-78.91253,513,5,2019
+2225094587,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,5,0.122652,-78.99485,843,12,2018
+2066822848,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,7,2017
+2193730099,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2018
+1773741704,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2016
+2204780977,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2018
+2748963143,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+1772805285,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2016
+3151026495,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,3,2020
+588564021,Gymnopithys leucaspis,EC,Arasha Rainforest Resort and Spa,Pichincha,1,0.09613,-79.100876,528,12,2010
+2160008230,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,6,2018
+1768624382,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+967016661,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,1,2011
+2747722571,Gymnopithys leucaspis,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,5,2017
+1792076743,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+2714664498,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2015
+2692655073,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2019
+3603422229,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+3155199977,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.042755,-78.88135,1077,3,2020
+3545080613,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,11,2021
+1756524637,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,8,2016
+1192906711,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2014
+588551636,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+1794378028,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2007
+2158637370,Gymnopithys leucaspis,EC,"Unnamed Road, Pichincha, EC (0.166, -78.878)",Pichincha,2,0.166055,-78.87805,932,5,2018
+3135104885,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,1,2020
+2671700028,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,2,2019
+2762899476,Gymnopithys leucaspis,EC,Mashpi-Shungo,Pichincha,1,0.186868,-78.922935,494,2,2019
+2687466039,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+3288892638,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2020
+1789267258,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,4,0.117101,-79.13609,393,12,2005
+2800887086,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2671093151,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+3284630084,Gymnopithys leucaspis,EC,"Pacto, Pichincha, EC (0.085, -78.901)",Pichincha,2,0.084977,-78.901276,940,6,2020
+2708102588,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+3655350063,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2791052118,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2019
+2776053212,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+3017959973,Gymnopithys leucaspis,EC,,Pichincha,1,0.051428,-78.843095,1082,11,2016
+1202159707,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+2741222453,Gymnopithys leucaspis,EC,EC-Pichincha- Rio Silanche Bird Sanctuary,Pichincha,1,0.111486,-79.15728,357,1,2019
+3299127202,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2020
+2031115812,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2017
+3578535509,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,12,2021
+3289856291,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,10,2020
+1786836055,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,2,2009
+3238498107,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2020
+2225512429,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2010
+2232664483,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+1789210049,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2005
+3551653866,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+3523805415,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+2675130161,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2019
+3678723044,Gymnopithys leucaspis,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,2,0.025522,-78.85767,1170,5,2021
+3173561096,Gymnopithys leucaspis,EC,Río Pachijal Road,Pichincha,4,0.074229,-78.90523,791,8,2020
+1410618183,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,3,2014
+1207166592,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2013
+966835055,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,1,2011
+2776299942,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2019
+1794191922,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2014
+3668028194,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,12,2021
+2714337649,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+3212936699,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2020
+2788414916,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2019
+2200359805,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,7,2018
+1398822944,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2015
+1748976147,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,1,2010
+1400914599,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2015
+2733490548,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2019
+1400735601,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,5,2006
+965701405,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,8,2013
+3211641523,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2020
+3516557439,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2021
+2786273252,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,7,2019
+1202154985,Gymnopithys leucaspis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,2,2004
+2797846514,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2216177308,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2018
+3197122443,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+3278459695,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,6,0.145185,-79.14147,402,1,2011
+963691621,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2013
+2079254574,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,7,2017
+980312469,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2012
+3227477038,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+2772241556,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,8,2019
+2722882334,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,8,2019
+2728437858,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2019
+3204342228,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,1,2010
+3136167984,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+2788818997,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+3587038958,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2016
+3135071387,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,3,0.117101,-79.13609,393,2,2020
+1747052265,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,6,2016
+3183530794,Gymnopithys leucaspis,EC,Río Pachijal Road,Pichincha,4,0.074229,-78.90523,791,8,2020
+3245508186,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2735565413,Gymnopithys leucaspis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,1,2019
+1763802766,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,4,0.044357,-78.88368,1059,9,2016
+590047794,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,12,2011
+1773615003,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+2142527217,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,4,0.117101,-79.13609,393,2,2018
+940754755,Gymnopithys leucaspis,EC,Un Poco del Choco,Pichincha,1,0.079308,-78.820724,1232,1,2013
+1764017307,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,12,0.122652,-78.99485,843,7,2009
+2228271848,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+937628348,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2013
+1395596878,Gymnopithys leucaspis,EC,Masphi Chocolate Farm,Pichincha,1,0.18754,-78.9104,642,11,2015
+3195311284,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3507395577,Gymnopithys leucaspis,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,1,2021
+3533968531,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,6,2021
+3584217697,Gymnopithys leucaspis,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+180361605,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+2078833833,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2017
+2031987673,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,1,2017
+2697814220,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2015
+3286344534,Gymnopithys leucaspis,EC,Río Pachijal Road,Pichincha,2,0.082,-78.912,845,6,2020
+2115008376,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2018
+2113320168,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,5,0.145185,-79.14147,402,2,2018
+2746119821,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,7,2019
+2775554265,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3649012710,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+3543184269,Gymnopithys leucaspis,EC,La Torre Eco Lodge,Pichincha,1,0.204826,-78.96063,533,2,2012
+3653437357,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2021
+1196397454,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2014
+2729532645,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+2133159714,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+972792057,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2007
+3142441245,Gymnopithys leucaspis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,1,2020
+2073794349,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,3,0.117101,-79.13609,393,8,2017
+3198824393,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2020
+1773749471,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,10,2016
+2232460756,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+1403028553,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2015
+2053357950,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,5,2017
+2733824181,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2019
+2070789113,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,5,2017
+2663348372,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3604946926,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2021
+1794814444,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2008
+2771407135,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2019
+1175064844,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2014
+2201838657,Gymnopithys leucaspis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,7,2018
+3521735143,Gymnopithys leucaspis,EC,"Vía al Pachijal, Pichincha, EC",Pichincha,5,0.068084,-78.90376,904,5,2021
+2145375332,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2018
+3253815772,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+3654360491,Gymnopithys leucaspis,EC,"Bosque Mashpi Shungo, EC (0,188, -78,912)",Pichincha,5,0.187956,-78.91236,611,5,2021
+3547332893,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2021
+3637346163,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+960736249,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,7,2013
+3139323599,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+3620453863,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,11,2021
+2198663892,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,10,2018
+959762522,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,7,2013
+3591720130,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,8,2019
+2699879989,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+2730951171,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,1,2019
+2113222433,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+2199654324,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+3650122564,Gymnopithys leucaspis,EC,"San Miguel de los Bancos, Pichincha, EC (0.095, -78.941)",Pichincha,2,0.095309,-78.94141,799,11,2021
+1771616544,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2016
+3231448003,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+1714382849,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+588161098,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,11,2008
+3658187364,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2219453993,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2014
+267064292,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2009
+2735229171,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+1377746156,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,6,2015
+2123438679,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,4,0.071925,-78.982285,778,12,2004
+3150919603,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2020
+1359750956,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+1173618035,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2012
+2079561637,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2017
+3263971366,Gymnopithys leucaspis,EC,Río Pachijal Road,Pichincha,4,0.074229,-78.90523,791,8,2020
+3219635265,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2020
+3196708122,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2020
+2662152186,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+960026413,Gymnopithys leucaspis,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,7,2013
+3137457952,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,2,2020
+1400743466,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,4,2006
+3641542127,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2021
+3525784247,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,4,0.122652,-78.99485,843,5,2021
+2711116536,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,8,2019
+3277194714,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2013
+2037070413,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2017
+1181950045,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2014
+2111564536,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,7,2017
+2211609418,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,9,2018
+2709143864,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2019
+1173145218,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2013
+2052731357,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2017
+3223461554,Gymnopithys leucaspis,EC,"Milpe Cloud Forest, EC",Pichincha,1,0.030617,-78.866745,1147,2,2020
+2232662092,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+2686420640,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2019
+1206190092,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2007
+3205598262,Gymnopithys leucaspis,EC,Reserva Cascada Tatalá,Pichincha,2,0.092907,-78.941635,805,12,2020
+1379967088,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2007
+2101753067,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,11,2017
+2770775527,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2019
+1180503611,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,7,2014
+1399791859,Gymnopithys leucaspis,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,11,2015
+3663571800,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,6,2021
+2739510683,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,5,0.182478,-78.9123,514,1,2019
+3287028578,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2020
+2719546024,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2008
+2233688411,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2000
+2053095549,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,5,2017
+2758179657,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,8,2019
+3525022134,Gymnopithys leucaspis,EC,"Vía al Pachijal, Pichincha, EC",Pichincha,5,0.068084,-78.90376,904,5,2021
+3553469320,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2019
+2716943353,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,10,2015
+2065047660,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,5,2017
+2705293313,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2016
+1384988475,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2014
+2131517301,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+3190590648,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+3292185006,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,10,2020
+588637001,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,11,2010
+3188889563,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2020
+1790055026,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2007
+3133985879,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,1,2020
+2115083966,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+3284168861,Gymnopithys leucaspis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2020
+2801386508,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+3644578069,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,1,2021
+3166644461,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,6,2020
+1771731926,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2016
+3549682586,Gymnopithys leucaspis,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,6,2021
+2226440428,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+2103010031,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,11,2017
+1201897564,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,2,2013
+3555602417,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,12,2021
+2033834678,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,1,2017
+2224041968,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+2113861307,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2017
+2243742714,Gymnopithys leucaspis,EC,Pichincha: Río Guaycuyacu,,1,0.217,-78.89,555,11,2016
+2243664993,Gymnopithys leucaspis,EC,Pichincha: Río Guaycuyacu,,1,0.217,-78.89,555,2,2004
+2243630422,Gymnopithys leucaspis,EC,"Un Poco del Choco, Pichincha",,1,0.0736,-78.7685,1713,2,2015
+2243664693,Gymnopithys leucaspis,EC,Pichincha: Río Guaycuyacu,,1,0.217,-78.89,555,2,2004
+2984518734,Gymnopithys leucaspis,EC,,Pichincha,1,0.030354,-78.866461,1155,11,2020
+2733599991,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+2655487937,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,4,0.145185,-79.14147,402,2,2019
+2801312575,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,12,2019
+2089977492,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,10,2017
+2666858511,Gymnopithys leucaspis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,2,2019
+3529614330,Gymnopithys leucaspis,EC,Ecuador - Mangaloma Reserve,Pichincha,2,0.108164,-78.98548,741,8,2021
+2068064232,Gymnopithys leucaspis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2017
+2658328831,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2014
+2689038333,Gymnopithys leucaspis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,7,2019
+1202334976,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2009
+3005241751,Gymnopithys leucaspis,EC,,Pichincha,1,0.144916,-79.141299,408,11,2020
+3583710323,Gymnopithys leucaspis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,11,2021
+1773482926,Gymnopithys leucaspis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2016
+2718419629,Gymnopithys leucaspis,EC,Tran Inv Av NP-BPM,Pichincha,1,0.106712,-78.89075,1131,10,2019
+1197127063,Gymnopithys leucaspis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2003

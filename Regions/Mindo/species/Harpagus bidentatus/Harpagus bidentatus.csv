@@ -1,0 +1,743 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1752711629,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+2751623849,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+1753322786,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2013
+3162932868,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2005
+2043792671,Harpagus bidentatus,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,2,2017
+2988452351,Harpagus bidentatus,EC,,Pichincha,1,0.144571,-79.142249,403,8,2019
+2160547306,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+1173299424,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3556816520,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2021
+1723330766,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2016
+1794437363,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2008
+2172564981,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2704697417,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+2707732715,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+1366370511,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2015
+2052325517,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2017
+969217953,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2013
+1399922675,Harpagus bidentatus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,2,-0.03871,-78.76851,1441,1,2004
+2180145289,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+829489894,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2008
+831571846,Harpagus bidentatus,EC,Pais Tropical,Pichincha,1,0.17327,-78.93343,543,2,2012
+1160619725,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+2099990141,Harpagus bidentatus,EC,"66 Avenida Quito, Pichincha, EC (-0.051, -78.771)",Pichincha,1,-0.050815,-78.771454,1278,12,2017
+1405993668,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+2221517768,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2101168928,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2004
+829333274,Harpagus bidentatus,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,8,2005
+2690661397,Harpagus bidentatus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2019
+2210789840,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+2795842639,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+3152123807,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2020
+3552662236,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+276010400,Harpagus bidentatus,EC,Upper Tandayapa Valley,Pichincha,1,0.030212,-78.69507,1878,12,2008
+2717924666,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2671025195,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+3670878101,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2021
+2670872971,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2019
+1715245524,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+2724666808,Harpagus bidentatus,EC,Mirador de Guaycapi,Pichincha,1,0.031714,-78.68125,1494,12,2019
+1380764753,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2015
+2787957734,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+1738538621,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2016
+2123407828,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+587903448,Harpagus bidentatus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2005
+2768253671,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+587902930,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2673306535,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2019
+2774593226,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2019
+3655378941,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+1794262647,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2007
+3578421720,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2015
+2114193695,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+2720909865,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+588292693,Harpagus bidentatus,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,4,2010
+1405357780,Harpagus bidentatus,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,8,2005
+3146010856,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,4,2020
+2716438402,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,5,2016
+2212541516,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2018
+2760910227,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2019
+2786436209,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2015
+3664018477,Harpagus bidentatus,EC,Pedro Vicente de Maldonado,Pichincha,1,0.08036,-79.04103,617,8,2001
+2787640688,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2148371558,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2018
+2228306437,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2018
+2111387943,Harpagus bidentatus,EC,Camino Desde Cascada Nambillo A Estación El Bravo,Pichincha,1,-0.077231,-78.75388,1518,12,2017
+2698800212,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2014
+2112355833,Harpagus bidentatus,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,12,2017
+3603184618,Harpagus bidentatus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,4,2021
+1348895674,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+2041437067,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2017
+1735741118,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2016
+2116640166,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+2739858559,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+2151087188,Harpagus bidentatus,EC,San Jorge Eco-Lodge Milpe,Pichincha,1,0.043303,-78.8838,1068,4,2018
+829574631,Harpagus bidentatus,EC,Santuario Aves Río Silanche,Pichincha,1,0.125522,-79.10224,496,10,2010
+2747211015,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2019
+3155271486,Harpagus bidentatus,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,2,-0.315077,-78.95492,841,5,2020
+2217945760,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+1402087073,Harpagus bidentatus,EC,Mindo-South,Pichincha,1,-0.06609,-78.77227,1380,12,2015
+1779936466,Harpagus bidentatus,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+3572444399,Harpagus bidentatus,EC,Ecuador - Pichincha - Ecuador - Pichincha (0.06008147 - -78.77334595),Pichincha,1,0.060082,-78.773346,1928,2,2010
+3654331940,Harpagus bidentatus,EC,"Tababela Reservoir, Quito Airport",Pichincha,1,-0.109721,-78.36531,2340,2,2017
+3574462438,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2221731389,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+1793926330,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+1777392419,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2016
+3155380447,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2020
+1409790100,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2014
+829482583,Harpagus bidentatus,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,1,2007
+2098057980,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2017
+2234059816,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2018
+829353243,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2006
+3239937480,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2123617518,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+2201203238,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2018
+277285142,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2010
+1206750300,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+3168927868,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+1760095297,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2016
+3530446440,Harpagus bidentatus,EC,Observación : Gaby Orosco - Nestor Paladines-Juan Espín,Pichincha,1,0.189944,-78.91569,573,5,2021
+1180546651,Harpagus bidentatus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,3,2014
+1205891895,Harpagus bidentatus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2012
+2793577686,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2158021860,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+2777486774,Harpagus bidentatus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,1,-0.046045,-78.8774,1219,1,2019
+1793945051,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2792238150,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2665621216,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2760496455,Harpagus bidentatus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2019
+2173588158,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2018
+2215872424,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+587905154,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2786616139,Harpagus bidentatus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2019
+3615243575,Harpagus bidentatus,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2021
+3642177714,Harpagus bidentatus,EC,"Auto selected 0.14519, -79.14163",Pichincha,1,0.145187,-79.14163,400,10,2021
+2206300298,Harpagus bidentatus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,8,2018
+3133503218,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+1182475944,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2012
+2231171648,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+3586496240,Harpagus bidentatus,EC,Pais Tropical,Pichincha,1,0.17327,-78.93343,543,12,2021
+2740467224,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+2748556919,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+2708703174,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+1791138908,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2004
+937529607,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2008
+2758935454,Harpagus bidentatus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2019
+1408323628,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2012
+3524302941,Harpagus bidentatus,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2021
+2125654906,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+3185836405,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,9,2020
+1158267240,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+1405583501,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2015
+2107467673,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+2126236089,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2018
+3504250453,Harpagus bidentatus,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,1,2007
+1379834762,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+2072784930,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2017
+2145461466,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2018
+2801323665,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,10,2017
+1173291005,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+1775570591,Harpagus bidentatus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,8,2002
+2429390860,Harpagus bidentatus,EC,,Santo Domingo de los Tsáchilas,1,-0.320708,-78.951849,844,2,2007
+2749792798,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+3963621325,Harpagus bidentatus,EC,,Pichincha,1,-0.028839,-78.762188,1634,8,2019
+1397985246,Harpagus bidentatus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2015
+2787343967,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+2107511327,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2014
+2231140145,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+1191129171,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+1791141980,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2004
+3162466461,Harpagus bidentatus,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,2,-0.315077,-78.95492,841,5,2020
+945461025,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2012
+2115081033,Harpagus bidentatus,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,7,2005
+2103442101,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+1731313676,Harpagus bidentatus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2016
+2230060352,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2130024621,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+1171636386,Harpagus bidentatus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2011
+2113119431,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+2715515825,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+1173683132,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+1190332771,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+1789248031,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,12,2005
+2226003016,Harpagus bidentatus,EC,"(0.026, -78.784)",Pichincha,1,0.025845,-78.78382,1496,12,2018
+3258928841,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2020
+3552188378,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+273996269,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2010
+832435164,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2012
+3608310063,Harpagus bidentatus,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,1,2004
+588570078,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2010
+943871334,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2013
+2045333303,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2017
+2093832086,Harpagus bidentatus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,11,2017
+1158287053,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+941107680,Harpagus bidentatus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,2,2013
+3526385731,Harpagus bidentatus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2021
+3387667389,Harpagus bidentatus,EC,Niedrige Landschaften (Lowlands) nähe Arasha,,1,0.100909,-79.096443,530,11,2004
+590179391,Harpagus bidentatus,EC,La Isla Mindo Reserve,Pichincha,1,-0.05405,-78.76346,1342,12,2011
+1200697952,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2013
+1779355961,Harpagus bidentatus,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+2123721629,Harpagus bidentatus,EC,Río Cinto--Vía a Saloya,Pichincha,1,-0.062226,-78.81049,1167,1,2018
+2125580404,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2018
+937660867,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+3186202347,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2020
+936766904,Harpagus bidentatus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,12,2012
+2118935142,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2018
+3664980114,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2010
+938661533,Harpagus bidentatus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,2,2013
+3693150750,Harpagus bidentatus,EC,"Auto selected 0.14503, -79.14161",Pichincha,1,0.145029,-79.14161,404,10,2021
+2134152580,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+2116752598,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2018
+3685253391,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,3,0.31026,-78.85736,1213,3,2018
+2077646994,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,6,2017
+1158419403,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+2680803988,Harpagus bidentatus,EC,Road out of Recinto 23 de Junio,Pichincha,1,-0.003091,-78.892426,1123,3,2019
+3214725334,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2009
+2231970309,Harpagus bidentatus,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,12,2018
+2728811868,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2019
+1729124977,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2016
+2728480659,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2019
+2740167858,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2019
+3695098121,Harpagus bidentatus,EC,Tulipe--museum and archaeological site,Pichincha,2,0.086336,-78.73621,1499,4,2008
+965326140,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2013
+2123435977,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+3278880126,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2013
+3277869299,Harpagus bidentatus,EC,"66 Avenida Quito, Pichincha, EC (-0.051, -78.771)",Pichincha,1,-0.050815,-78.771454,1278,12,2017
+2779182099,Harpagus bidentatus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+3144930308,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2020
+1195538056,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2014
+1390550349,Harpagus bidentatus,EC,EC-Reserva Las Gralarias,Pichincha,1,0.035482,-78.67648,1519,8,2011
+2148852509,Harpagus bidentatus,EC,San Jorge Eco-Lodge Milpe,Pichincha,1,0.043303,-78.8838,1068,4,2018
+2691756303,Harpagus bidentatus,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2019
+2101170519,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,12,2004
+3530571625,Harpagus bidentatus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,2,2013
+2707176957,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+2776448299,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+3188227131,Harpagus bidentatus,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,10,2020
+1402477028,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,10,2015
+832669891,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2012
+3579506390,Harpagus bidentatus,EC,Mindo,Pichincha,1,-0.052743,-78.77472,1250,2,2005
+2708637516,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+2785611151,Harpagus bidentatus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+3198466090,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,4,2009
+2038089944,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2017
+3523946300,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+2715084339,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2010
+2172661566,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+2123466652,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2004
+3562349758,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+3630137605,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2114974968,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2005
+2716958664,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,7,2019
+3607178477,Harpagus bidentatus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2121091355,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2114970640,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2005
+2060661054,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2017
+2187682121,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2018
+3596370935,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2078816917,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+2770281971,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+587978777,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,1,2006
+2097122262,Harpagus bidentatus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2017
+2755439681,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+2052864694,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2017
+3216390920,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+1202726493,Harpagus bidentatus,EC,"Equateur, Las Gralarias",Pichincha,1,-0.055697,-78.720985,1783,3,2007
+2737703086,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2019
+3692029759,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2021
+2673995956,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,3,2019
+3529066696,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2800671728,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+3174821880,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+2142540021,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2018
+2667313337,Harpagus bidentatus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,1,-0.046045,-78.8774,1219,1,2019
+2720004779,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2769212060,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+2201446127,Harpagus bidentatus,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,8,2018
+2712757698,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+3604500786,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2021
+2234128462,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2009
+1172010600,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2013
+2755333919,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2019
+2185029643,Harpagus bidentatus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2018
+2725929851,Harpagus bidentatus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2014
+2724120171,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+1789458309,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2011
+2198479789,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2210157236,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2018
+832186188,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2012
+2730944690,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3237059447,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2020
+3137030296,Harpagus bidentatus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+3656820529,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+973210121,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2007
+275692930,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+1400751928,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,4,2006
+3606500200,Harpagus bidentatus,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,11,2021
+2801253577,Harpagus bidentatus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2007
+1184436637,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+1173014188,Harpagus bidentatus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,3,2014
+3271282658,Harpagus bidentatus,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,2,-0.315077,-78.95492,841,5,2020
+2098992250,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2091490694,Harpagus bidentatus,EC,chestnut-cr antpitta feeding station,Pichincha,1,0.009731,-78.7059,2035,11,2017
+3202022604,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,2,2018
+2740394347,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,3,2019
+3580328206,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+3624161160,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2021
+2704520618,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2009
+1206181737,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,8,2010
+2068718982,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+180401713,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2008
+3281793850,Harpagus bidentatus,EC,"Auto selected -0.07850, -78.73187",Pichincha,1,-0.078498,-78.731865,1594,5,2020
+2227237566,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2018
+2160747873,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+3251913584,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2010
+2139778152,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2018
+2111032345,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2017
+2784903349,Harpagus bidentatus,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+1707154557,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,12,2006
+2699500077,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+1716516726,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+2693977071,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2718330085,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2014
+588651649,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2010
+2800694478,Harpagus bidentatus,EC,Balcón Tumpiki,Pichincha,2,-0.006943,-78.72075,1963,8,2019
+2664490307,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+1353550269,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2015
+2204410939,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2018
+273416917,Harpagus bidentatus,EC,"Reserva de las Tangaras, near Mindo",Pichincha,1,0.0103,-78.70743,1997,7,2001
+2692590445,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2019
+2770107348,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2016
+1205105398,Harpagus bidentatus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2011
+2087304718,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2017
+1786588361,Harpagus bidentatus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2012
+3648492308,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,6,2021
+2727073522,Harpagus bidentatus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2007
+2185453054,Harpagus bidentatus,EC,Nanegalito--road to Refugio Paz de las Aves,Pichincha,1,0.030906,-78.71834,1707,7,2018
+3283755138,Harpagus bidentatus,EC,"Vía al Mariposario, Pichincha, EC (-0,074, -78,754)",Pichincha,1,-0.073761,-78.75423,1348,5,2020
+2079203809,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+2038910481,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2017
+2790365966,Harpagus bidentatus,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,1,2007
+1401082343,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2015
+1786836501,Harpagus bidentatus,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,2,2014
+2792699055,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2229317477,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+1720640056,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,3,2016
+1156377260,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+1790055485,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2007
+2661983359,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+1745554099,Harpagus bidentatus,EC,"-0.0429x-78.7553 - Jun 4, 2016, 10:21",Pichincha,2,-0.04288,-78.75532,1538,6,2016
+2031074698,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+2233729477,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2018
+1180848979,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2014
+2715933259,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2016
+2137922770,Harpagus bidentatus,EC,Mashpi Lodge ( 500 To 1400 Msnm By Nestor Paladines,Pichincha,1,0.166091,-78.87911,927,2,2018
+2029988939,Harpagus bidentatus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2017
+3213836113,Harpagus bidentatus,EC,Mindo Garden Lodge,Pichincha,1,-0.072955,-78.75455,1351,4,2007
+2715170759,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+2669478826,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+2792981318,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+3134613535,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+2765731255,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+3186263417,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2016
+3682308313,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2021
+2709934604,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+2047380901,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,4,2017
+1202173907,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2011
+3186251983,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+2125330006,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2018
+3693634965,Harpagus bidentatus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2021
+1202679473,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2003
+2229771770,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+273949777,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3539164312,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2021
+2766480736,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2019
+3280681499,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,2,2018
+1748513087,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,4,2002
+1349671478,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2015
+2672046971,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2019
+3688451187,Harpagus bidentatus,EC,"Vía Piedra de Vapor, Pichincha, EC (0.143, -79.312)",Pichincha,1,0.143305,-79.31244,145,8,2021
+2667947556,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+588194277,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2009
+2785582422,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+1394313120,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2207981831,Harpagus bidentatus,EC,Rio Silanche entrance road,Pichincha,1,0.144649,-79.14127,410,11,2018
+2104580433,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,10,2017
+1776737481,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2016
+2753291832,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+2067262055,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2017
+2127405795,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+2138794550,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2016
+2758040666,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,2,2018
+2087341245,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2017
+829783385,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2011
+1794579500,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2009
+2131304612,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+3252293139,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+3575650017,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,1,2004
+2764866369,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2725503973,Harpagus bidentatus,EC,Rio Silanche,Pichincha,1,0.155468,-79.27535,155,9,2019
+1396636453,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2015
+2726470759,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2013
+1401063290,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2015
+180401709,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+1782568392,Harpagus bidentatus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2016
+2107253807,Harpagus bidentatus,EC,Nanegalito--road to Refugio Paz de las Aves,Pichincha,1,0.030906,-78.71834,1707,10,2017
+3162083453,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+2719055323,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,10,2019
+3648594837,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2021
+1764007917,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2009
+3663254744,Harpagus bidentatus,EC,"Auto selected 0.14519, -79.14163",Pichincha,1,0.145187,-79.14163,400,10,2021
+273988311,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2007
+2781276946,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+977328307,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2013
+3579969842,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2021
+3227292969,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2020
+3629904587,Harpagus bidentatus,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,4,2021
+2154065396,Harpagus bidentatus,EC,San Jorge Eco-Lodge Milpe,Pichincha,1,0.043303,-78.8838,1068,4,2018
+3141826136,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,3,0.118575,-78.61154,1881,2,2020
+2716061059,Harpagus bidentatus,EC,"Río Silanche Bird Sanctuary (0.1378, -79.1312)",Pichincha,1,0.1378,-79.1312,370,1,2013
+1794651639,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+2677020800,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2017
+1379967041,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2007
+961539127,Harpagus bidentatus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2005
+3684538067,Harpagus bidentatus,EC,"Auto selected 0.14519, -79.14163",Pichincha,1,0.145187,-79.14163,400,10,2021
+1771810843,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2011
+1716028741,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+2692646646,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2673147465,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+3642371835,Harpagus bidentatus,EC,"EC-Pichincha - -0.076x-78.764 - jul. 9, 2017 6:58",Pichincha,1,-0.076032,-78.76405,1467,12,2021
+3252906490,Harpagus bidentatus,EC,"Pacto, Pichincha, EC (0.218, -78.889)",Pichincha,1,0.218086,-78.88878,533,7,2020
+2747075532,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2019
+3549736910,Harpagus bidentatus,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,1,2007
+938639491,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+2691874255,Harpagus bidentatus,EC,San Jorge de Milpe Orchid & Bird Lodge,Pichincha,1,0.043232,-78.88381,1069,11,2016
+2123502957,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+2063137296,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+1176554366,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2014
+1990491516,Harpagus bidentatus,EC,,Pichincha,1,-0.069262,-78.802994,1169,12,2018
+3499411493,Harpagus bidentatus,EC,,Pichincha,1,0.178768,-78.931645,606,1,2022
+2756189900,Harpagus bidentatus,EC,Road out of Recinto 23 de Junio,Pichincha,1,-0.003091,-78.892426,1123,3,2019
+1400914720,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2015
+2114233213,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2005
+3279990123,Harpagus bidentatus,EC,un poco del choco,Pichincha,1,0.052995,-78.84224,1191,1,2016
+2144826766,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2006
+2778453600,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2019
+2718782650,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+1357149569,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2015
+2168204563,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+3206700624,Harpagus bidentatus,EC,Conjunto Cascada Azul,Pichincha,2,0.095099,-79.11475,471,10,2020
+1748232888,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2013
+1391241841,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+2105813629,Harpagus bidentatus,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,1,2018
+4034943320,Harpagus bidentatus,EC,,Pichincha,1,0.144572,-79.141997,412,1,2023
+829472580,Harpagus bidentatus,EC,Rio Silanche Reserve & Pedro Vicente Maldonado,Pichincha,1,0.087145,-79.08533,599,9,2007
+2083007127,Harpagus bidentatus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,7,2017
+1196931890,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,5,2004
+1181637446,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,7,2014
+2218262812,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+2719677136,Harpagus bidentatus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,3,2010
+3252293143,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020
+2031205661,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+3180412540,Harpagus bidentatus,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.209499,-78.94825,758,5,2020
+3664324861,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2021
+2767116038,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2010
+2840836835,Harpagus bidentatus,EC,Ecuador - Pichincha,,1,0.056122,-78.869362,971,2,2017
+2156283940,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2018
+2603331554,Harpagus bidentatus,EC,,Pichincha,1,-0.319793,-78.948732,1029,10,2007
+2665739950,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+2045825728,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2017
+2294642896,Harpagus bidentatus,EC,,Pichincha,1,0.145062,-79.141326,408,1,2012
+2597831621,Harpagus bidentatus,EC,,Pichincha,1,0.124909,-78.630222,1276,1,2020
+2350447833,Harpagus bidentatus,EC,,Pichincha,1,0.145055,-79.141794,403,8,2019
+1745305145,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+1793050614,Harpagus bidentatus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,4,2014
+3648298190,Harpagus bidentatus,EC,"Tababela Reservoir, Quito Airport",Pichincha,1,-0.109721,-78.36531,2340,2,2017
+2087292560,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2017
+3557224950,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+2783891283,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2766265289,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2019
+2066746652,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,3,-0.062765,-78.77427,1344,7,2017
+2204039122,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2008
+2043511847,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2017
+3525689852,Harpagus bidentatus,EC,Guayabillas-via a Santa Rosa -cielo verde by Nestor paladines,Pichincha,1,0.209928,-78.89786,664,5,2021
+1199715907,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2662417524,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2019
+3536908308,Harpagus bidentatus,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2021
+1199718704,Harpagus bidentatus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2005
+1793920347,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2076045820,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2017
+1789249838,Harpagus bidentatus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,12,2005
+3257065982,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2013
+2753734264,Harpagus bidentatus,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,4,2005
+588605282,Harpagus bidentatus,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,7,2010
+2051751558,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2017
+829372406,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+1794378375,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2007
+3584689751,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2010
+3252914509,Harpagus bidentatus,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,7,2018
+2685542283,Harpagus bidentatus,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,7,2019
+3609547139,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+3174989253,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2185268894,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2005
+2796067911,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2005
+2756502100,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2019
+3617768649,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2021
+2122095271,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,1,2018
+2736210086,Harpagus bidentatus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,1,-0.046045,-78.8774,1219,1,2019
+3686283657,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2714443812,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2019
+1713098661,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+2186762006,Harpagus bidentatus,EC,Rio Silanche--entrance road,Pichincha,2,0.108158,-79.13607,400,9,2018
+2140302574,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,3,0.31026,-78.85736,1213,3,2018
+1400745985,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+2088005488,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+3663488750,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2165439789,Harpagus bidentatus,EC,San Jorge Eco-Lodge Milpe,Pichincha,1,0.043303,-78.8838,1068,4,2018
+2123384408,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2004
+2752155771,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2016
+2208716109,Harpagus bidentatus,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,1,-0.046045,-78.8774,1219,11,2018
+3191754591,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+830536084,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2012
+1709418511,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+2211183042,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+1347351666,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2015
+3198861761,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,3,2007
+2123430747,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2004
+1773885232,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2006
+2114918392,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+3658556391,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2021
+2114521102,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2017
+3141021530,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2222814301,Harpagus bidentatus,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,2,-0.1014,-78.74411,1681,12,2016
+1726908168,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2016
+2029287604,Harpagus bidentatus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2003
+2104771559,Harpagus bidentatus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2017
+970044093,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2012
+1163820582,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+2725396686,Harpagus bidentatus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2019
+2720415144,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2018
+2036593709,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2017
+2707366193,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+2101137861,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,4,0.117101,-79.13609,393,6,2004
+829370639,Harpagus bidentatus,EC,Santuario Aves Río Silanche,Pichincha,1,0.125522,-79.10224,496,1,2005
+2116758862,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+2747572850,Harpagus bidentatus,EC,"Mashpi Shungo - (0,183, -78,912)",Pichincha,1,0.182651,-78.91212,516,4,2019
+1177612303,Harpagus bidentatus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,8,2010
+2125006195,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+829274691,Harpagus bidentatus,EC,Tandayapa (includes Bellavista),Pichincha,1,0.011186,-78.68295,1983,1,2004
+2748579049,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+2103734171,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+3673876559,Harpagus bidentatus,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2021
+831716266,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2012
+3526937329,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+2113434743,Harpagus bidentatus,EC,"(0.111, -79.13)silanche",Pichincha,1,0.110948,-79.13043,437,11,2017
+2127487276,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+1407931859,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+2043228462,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2017
+2736922218,Harpagus bidentatus,EC,Ecoruta,Pichincha,2,-0.005026,-78.661255,1765,2,2019
+1718896712,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2016
+2084294775,Harpagus bidentatus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,7,2017
+3192964490,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,2,2018
+2702324498,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,9,2019
+2130409076,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+1794194814,Harpagus bidentatus,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,2,2014
+1712388667,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+1200348559,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,12,2014
+2118196645,Harpagus bidentatus,EC,Nono toTandayapa road,Pichincha,1,-0.04278,-78.6364,2099,5,2015
+2781677574,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+2098979209,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+1777704537,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+2667594484,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+3292416469,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+2774985386,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2019
+1399820009,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2015
+2098591424,Harpagus bidentatus,EC,Camino Desde Cascada Nambillo A Estación El Bravo,Pichincha,1,-0.077231,-78.75388,1518,12,2017
+3686565213,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+3609885329,Harpagus bidentatus,EC,Vía al Chontal más bajo,Pichincha,1,0.20619,-78.72724,1211,11,2021
+2697050186,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,9,2019
+2710694884,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+2166507786,Harpagus bidentatus,EC,"Unnamed Road, Pichincha, EC (0.166, -78.878)",Pichincha,1,0.166055,-78.87805,932,5,2018
+2709314420,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2131495085,Harpagus bidentatus,EC,"Unnamed Road, Pichincha, EC (0,145, -79,142)",Pichincha,2,0.144635,-79.14208,408,1,2018
+1773690011,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2016
+1790182225,Harpagus bidentatus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,3,2007
+2056526708,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2017
+2084294429,Harpagus bidentatus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,7,2017
+1791708556,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2003
+2716657373,Harpagus bidentatus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2005
+1391128863,Harpagus bidentatus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,8,2005
+2774121433,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+2114381016,Harpagus bidentatus,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,12,2005
+1735426936,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2016
+2655759589,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2019
+3247493473,Harpagus bidentatus,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,1,0.025522,-78.85767,1170,7,2020
+2146823479,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+2666475701,Harpagus bidentatus,EC,Silanche Bird Sanctuary,Pichincha,1,0.139873,-79.139786,404,1,2008
+2101352446,Harpagus bidentatus,EC,San Tadeo,Pichincha,1,-0.028024,-78.746544,1855,8,2005
+2219478375,Harpagus bidentatus,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2018
+2066784989,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,3,-0.062765,-78.77427,1344,7,2017
+1792626877,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2007
+959765421,Harpagus bidentatus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,7,2013
+1723391502,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2016
+2052012689,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2017
+2130939441,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+2758269794,Harpagus bidentatus,EC,Rancho Doña Iva (privada),Pichincha,1,-0.072518,-78.75237,1372,4,2019
+1775475072,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+1394324173,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+1777860141,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2013
+3576054988,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+829491547,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2007
+3186409232,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,2,2018
+1792183110,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2014
+2719004365,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2019
+278055586,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2009
+2660159070,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+2194992430,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2018
+2101210459,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2004
+2696753532,Harpagus bidentatus,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,1,-0.062843,-78.76957,1277,9,2019
+2680702571,Harpagus bidentatus,EC,"Vía al Mariposario, Pichincha, EC (-0,07, -78,762) El Monte Lodge",Pichincha,1,-0.070255,-78.762314,1313,4,2019
+2712018139,Harpagus bidentatus,EC,"15 dic. 2019 7:38 p. m.--0.028, -78.759",Pichincha,1,-0.027881,-78.759094,1670,12,2019
+2151754331,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2010
+588053846,Harpagus bidentatus,EC,Milpe/Los Bancos area,Pichincha,1,0.030212,-78.87222,1127,11,2007
+1748708664,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2010
+2669068546,Harpagus bidentatus,EC,Rancho Doña Iva (privada),Pichincha,1,-0.072518,-78.75237,1372,4,2019
+2684499950,Harpagus bidentatus,EC,"(0,176, -79,187)",Pichincha,2,0.176294,-79.1866,321,7,2019
+273836106,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2008
+3239682622,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,4,2020
+2051286188,Harpagus bidentatus,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2017
+2053091787,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+2797359649,Harpagus bidentatus,EC,"Pedro Vicente Maldonado (0.0982, -79.0995)",Pichincha,1,0.0982,-79.0995,539,2,2005
+2675871069,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+1160579175,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+3220140514,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+1764039738,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+3574641305,Harpagus bidentatus,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3271445789,Harpagus bidentatus,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,1,0.025522,-78.85767,1170,7,2020
+3644535183,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2021
+2656342795,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2019
+3233744224,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2020
+3654346650,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+3133351899,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2020
+1751604856,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,7,2016
+2084346905,Harpagus bidentatus,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,7,2017
+3651728792,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2021
+3578020534,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,6,2005
+831076665,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2012
+1405082672,Harpagus bidentatus,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,10,2015
+273295584,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,9,2005
+2045683705,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2017
+941115517,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2013
+3551947247,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2006
+2731767518,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2019
+2114263977,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2005
+588194971,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2009
+1789203405,Harpagus bidentatus,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,12,2005
+829471662,Harpagus bidentatus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2008
+278188382,Harpagus bidentatus,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,9,2004
+2125778414,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2018
+2127985460,Harpagus bidentatus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2018
+1763900457,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+1163594556,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2014
+2719674713,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+1382992837,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2015
+2105183852,Harpagus bidentatus,EC,"Rio Silanche 405 masl (0.1445,-79.1422)",Pichincha,1,0.144498,-79.14224,405,1,2018
+943685080,Harpagus bidentatus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,8,2011
+2691644575,Harpagus bidentatus,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+3651944190,Harpagus bidentatus,EC,"Auto selected 0.14295, -79.14239",Pichincha,1,0.14295,-79.142395,405,9,2021
+2101259290,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2005
+2099733777,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+3189633634,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,2,2018
+2742605731,Harpagus bidentatus,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2019
+829364435,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+3579805330,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2021
+3613876201,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2021
+2121061497,Harpagus bidentatus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,12,2017
+2114971694,Harpagus bidentatus,EC,Milpe Bird Sanctuary and Milpe road,Pichincha,2,0.041223,-78.88278,1082,8,2005
+2676263472,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,4,2019
+3676183758,Harpagus bidentatus,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2021
+3536140063,Harpagus bidentatus,EC,"Cerro El Quinde-Mina Cantyvol-UNACEM (Cab. en San Miguel Alto), Imbabura, EC (0.286, -78.545)",Imbabura,1,0.285599,-78.5448,2022,7,2021
+2721047423,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+3601718208,Harpagus bidentatus,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,5,2021
+2688121003,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+1719092288,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+1756010573,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2013
+1752436150,Harpagus bidentatus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,4,2002
+2146564656,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,5,2018
+1160849877,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+2112665981,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+2114922369,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2004
+959597631,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2012
+941337084,Harpagus bidentatus,EC,La Delicia--Guayabillas road (upper part above Mashpi turnoff),Pichincha,1,0.162021,-78.82376,1623,2,2013
+2713263245,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+829258304,Harpagus bidentatus,EC,Mindo (Sétimo Paraíso & surroundings),Pichincha,1,-0.031047,-78.762344,1565,1,2004
+3153880099,Harpagus bidentatus,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,5,2020
+3575564070,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2021
+180397902,Harpagus bidentatus,EC,Ecuador: La Paz,Pichincha,2,0.020139,-78.70722,1889,3,2008
+3535469477,Harpagus bidentatus,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,10,2010
+180413025,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2008
+2719475359,Harpagus bidentatus,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,1,2007
+1764018703,Harpagus bidentatus,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2009
+2792713099,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2017
+980596600,Harpagus bidentatus,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,3,2007
+3558012986,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3627077998,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2021
+3173051124,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2020
+3536648791,Harpagus bidentatus,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+3219371355,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,3,2020
+3606702097,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2021
+1398102651,Harpagus bidentatus,EC,Reserva Río Guaycuyacu,Pichincha,1,0.216667,-78.916664,490,3,2007
+3543407378,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2021
+2225726971,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+1753575837,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2747545971,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2019
+3575184689,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+2101168070,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2003
+2037517347,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2017
+587876460,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+1409461725,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2735965027,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+3673907812,Harpagus bidentatus,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+2661011336,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2019
+2184321428,Harpagus bidentatus,EC,Pedro Vicente Maldonado Canton,Pichincha,1,0.081333,-79.049515,617,8,2005
+2778048093,Harpagus bidentatus,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,5,2019
+1786588876,Harpagus bidentatus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2012
+3680333345,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2021
+2097964561,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2017
+2720792605,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2010
+2161585267,Harpagus bidentatus,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+1745816704,Harpagus bidentatus,EC,Mindo--Yellow House Trails,Pichincha,2,-0.04892,-78.76742,1384,6,2016
+3243182493,Harpagus bidentatus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,2,2018
+1409502845,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2007
+1359762979,Harpagus bidentatus,EC,Bellavista Cloud Forest Reserve & Lodge,Pichincha,1,0.003736,-78.69116,2273,2,2015
+3211973489,Harpagus bidentatus,EC,"Vía a Chiriboga (parte baja), alrededores Guajalito",Santo Domingo de los Tsáchilas,1,-0.249051,-78.78114,1999,10,2020
+2101207233,Harpagus bidentatus,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+2784345020,Harpagus bidentatus,EC,"E28, Pichincha, EC (-0.027, -78.76)",Pichincha,1,-0.027185,-78.760414,1693,12,2019
+3299100118,Harpagus bidentatus,EC,Mindo Garden Lodge,Pichincha,2,-0.072955,-78.75455,1351,2,2008
+2693120385,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+1735744735,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2016
+1184198900,Harpagus bidentatus,EC,Mindo--Centro de Educacíon Ambiental(CEA),Pichincha,1,-0.074467,-78.75362,1350,8,2014
+1729041627,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2016
+2784392166,Harpagus bidentatus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2845485393,Harpagus bidentatus,EC,Ecuador - Pichincha,,1,0.029068,-78.864349,1148,5,2019
+3277271060,Harpagus bidentatus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2243567988,Harpagus bidentatus,EC,"Mindo Loma, Pichincha",,1,-0.0203,-78.7467,1787,5,2005
+936955393,Harpagus bidentatus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,11,2012
+2228672638,Harpagus bidentatus,EC,Rio Silanche entrance road,Pichincha,1,0.144649,-79.14127,410,11,2018
+2751370529,Harpagus bidentatus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2019
+3201341902,Harpagus bidentatus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+2063668867,Harpagus bidentatus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,5,2017
+2839222121,Harpagus bidentatus,EC,Ecuador - Pichincha - Río Silanche Bird Sanctuary,,1,0.144771,-79.143412,393,10,2013
+2841816879,Harpagus bidentatus,EC,Ecuador - Pichincha,,1,0.124969,-79.085984,517,1,2011
+1708756633,Harpagus bidentatus,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2016
+3499324441,Harpagus bidentatus,EC,,Pichincha,1,0.178768,-78.931645,606,1,2022
+1792214606,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2011
+2113660020,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2017
+3307304763,Harpagus bidentatus,EC,,Pichincha,1,0.151992,-79.265396,144,3,2019
+2844142649,Harpagus bidentatus,EC,Ecuador - Pichincha,,1,0.117805,-79.136639,395,9,2008
+2227443420,Harpagus bidentatus,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+3606870092,Harpagus bidentatus,EC,"Represa Manduriacu-Santa Rosa-Pachijal-JCEF, Pichincha, EC (0.215, -78.9)",Pichincha,1,0.215229,-78.89996,503,5,2021
+3548642474,Harpagus bidentatus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2019
+3574512327,Harpagus bidentatus,EC,Alex PO,Pichincha,1,0.165965,-78.8785,932,6,2021

@@ -1,0 +1,994 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3202803613,Leptodon cayanensis,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+3285035484,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2001
+2680175119,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2000
+180874272,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+3581228358,Leptodon cayanensis,EC,Mindo,Pichincha,1,-0.052743,-78.77472,1250,2,2005
+2225641710,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2018
+1400740680,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+3209257236,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2000
+2126884787,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2018
+1181155167,Leptodon cayanensis,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,3,2003
+2135807689,Leptodon cayanensis,EC,ruta san lorenzo (tarabita),Pichincha,1,-0.075963,-78.76485,1482,3,2018
+2787996807,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+2781861254,Leptodon cayanensis,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha (-0.0730,-78.7680)",Pichincha,1,-0.072956,-78.768,1474,5,2019
+2101584455,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2017
+2693100404,Leptodon cayanensis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,8,2019
+3142147527,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,1,2020
+3204865038,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2009
+1726002007,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+829348326,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+2794708694,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+3688638285,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2021
+3301292419,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+3523690957,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2021
+3519570449,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2021
+1346254758,Leptodon cayanensis,EC,KM Marker 137,Pichincha,1,0.143852,-79.23039,284,1,2015
+3628352866,Leptodon cayanensis,EC,Caoni Riverside Suites,Pichincha,1,0.117549,-79.23913,118,8,2021
+2095330339,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+1202680910,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2003
+2749706977,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3271013280,Leptodon cayanensis,EC,"Bamburé, Reserva privada",Pichincha,1,0.101075,-79.20286,162,9,2020
+3282360878,Leptodon cayanensis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,6,2020
+1747280580,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,6,2016
+2029990224,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2017
+2119035623,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+3183328273,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2020
+2144859678,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+3140882485,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+2057160468,Leptodon cayanensis,EC,Mindo--waterfall trail,Pichincha,1,-0.059395,-78.781586,1240,5,2017
+1766504920,Leptodon cayanensis,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,10,2016
+3281467733,Leptodon cayanensis,EC,"Vía al Mariposario, Pichincha, EC (-0.06, -78.769)",Pichincha,2,-0.060302,-78.769196,1268,10,2020
+3149310123,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2020
+2036308774,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2017
+2800407177,Leptodon cayanensis,EC,"Mindo Valley (-0.046, -78.7756)",Pichincha,1,-0.046,-78.7756,1322,4,2006
+2760356393,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2019
+3141134136,Leptodon cayanensis,EC,"Mindo, Pichincha, EC (-0.076, -78.764)",Pichincha,1,-0.076071,-78.76418,1464,2,2020
+1395570869,Leptodon cayanensis,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2015
+1718634650,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2016
+1345995175,Leptodon cayanensis,EC,unnamed road leading off near kilometer marker 137,Pichincha,1,0.123698,-79.26321,119,1,2015
+3250551840,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2020
+3520650962,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2021
+2123389100,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2001
+2070440140,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+3193927639,Leptodon cayanensis,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.209499,-78.94825,758,11,2020
+1713691624,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+2756366364,Leptodon cayanensis,EC,"EC (0,123, -78,629)",Pichincha,1,0.123075,-78.62921,1277,2,2019
+3675368257,Leptodon cayanensis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,8,2021
+2729662806,Leptodon cayanensis,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2019
+2691033797,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+3506203473,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2021
+3203415080,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+3586486899,Leptodon cayanensis,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,11,2021
+2656053344,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0,067, -78,772)",Pichincha,1,-0.067466,-78.77238,1390,2,2019
+1409461397,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2003
+1726002946,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+1405598596,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2014
+2031415399,Leptodon cayanensis,EC,Mindo--Mariposario (Butterfly House),Pichincha,2,-0.068616,-78.761826,1318,2,2017
+3293586799,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,11,2020
+3601665797,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,5,2021
+2702448052,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+2685164687,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2019
+2717944544,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+2781429787,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2019
+965683713,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2013
+3162308860,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+1726010481,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+1767923395,Leptodon cayanensis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,4,2015
+2787733117,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2016
+3218672764,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2020
+3247862347,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2020
+1712442406,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+2053409650,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,3,2017
+2725327909,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2013
+588820601,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2010
+3192175526,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,8,2020
+3226264213,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,2,0.042755,-78.88135,1077,1,2020
+3243401980,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2020
+3582523538,Leptodon cayanensis,EC,"Auto selected 0.00581, -78.70648",Pichincha,1,0.005812,-78.706474,2034,11,2021
+3533389717,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3649786503,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+2099035186,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2017
+3664302638,Leptodon cayanensis,EC,Reserva Las Tangaras,Pichincha,2,-0.07669,-78.789955,1583,12,2020
+3258155029,Leptodon cayanensis,EC,"Mindo, Pichincha, EC (-0.076, -78.764)",Pichincha,1,-0.076071,-78.76418,1464,2,2020
+1399817064,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+3276701049,Leptodon cayanensis,EC,"Paraiso Escondido, rio Achote",Pichincha,3,0.058102,-79.15391,338,11,2004
+1744540008,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2016
+3684238062,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+2777037004,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2019
+2137249372,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+3518293498,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,4,2021
+2656592612,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,3,0.1598,-78.8534,1302,1,2019
+3287797370,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+1791142565,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2004
+2066701818,Leptodon cayanensis,EC,Mindo--waterfall trail,Pichincha,1,-0.059395,-78.781586,1240,5,2017
+2779618620,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2019
+3267873395,Leptodon cayanensis,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+3262050730,Leptodon cayanensis,EC,Finca La Elenita,Pichincha,1,-0.017256,-78.77936,1598,11,2020
+3218738126,Leptodon cayanensis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,1,2020
+1784483339,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2010
+3251822777,Leptodon cayanensis,EC,Caoni Riverside Suites,Pichincha,1,0.117549,-79.23913,118,7,2020
+3689645028,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+2791835705,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+2794910817,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2012
+3530258284,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2021
+2797365308,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2005
+1384460358,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2015
+1773715879,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2016
+2114125175,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,10,2003
+2123431677,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2004
+3570066678,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,11,2021
+1349079077,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2015
+2135389755,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+3670362525,Leptodon cayanensis,EC,Pedro Vicente de Maldonado,Pichincha,2,0.08036,-79.04103,617,8,2001
+2795807317,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+1767688765,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2016
+2134198302,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2018
+1196931800,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,5,2004
+2767030624,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2019
+2654688359,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2129225912,Leptodon cayanensis,EC,Mindo--Vía a Cunuco,Pichincha,2,-0.051862,-78.783066,1228,2,2018
+3221544740,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2135702875,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+1361584263,Leptodon cayanensis,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,4,2015
+2167443863,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+2691325527,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+588752319,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2010
+1406114219,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,7,2001
+2669104215,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+2122042539,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2018
+2698912089,Leptodon cayanensis,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha (-0.0730,-78.7680)",Pichincha,1,-0.072956,-78.768,1474,5,2019
+3646774032,Leptodon cayanensis,EC,Mindo--Cabañas Armonía y Jardín de Orquídeas,Pichincha,1,-0.054974,-78.77638,1255,5,2021
+1759471361,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2016
+1407907180,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2010
+2693146652,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+2083389759,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2017
+2672114735,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2019
+2213797615,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+968739917,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2013
+2091046165,Leptodon cayanensis,EC,"(-0.076, -78.757)",Pichincha,1,-0.075633,-78.75698,1485,11,2017
+1206918309,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2005
+3279713559,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2001
+2135423092,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+1187262173,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2014
+2657098638,Leptodon cayanensis,EC,Silanche Bird Sanctuary,Pichincha,1,0.139873,-79.139786,404,1,2008
+2211939362,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2018
+2118941922,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2018
+3505178347,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2021
+3197115528,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2020
+3609536339,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2021
+1710472552,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+3613314422,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2021
+2060590364,Leptodon cayanensis,EC,Mindo--waterfall trail,Pichincha,1,-0.059395,-78.781586,1240,5,2017
+3150840294,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2020
+2104267685,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2017
+2697412518,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+1206189563,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2011
+3143774817,Leptodon cayanensis,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,1,2020
+2653447624,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2019
+2050090590,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,3,2017
+3218211692,Leptodon cayanensis,EC,Reserva Las Tangaras —> Mindo,Pichincha,1,-0.072059,-78.76793,1465,1,2020
+3588927504,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2021
+3554917839,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2115561272,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2014
+2693838039,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+2234160593,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+3643131715,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2021
+2724788026,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2012
+1722909281,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3603029705,Leptodon cayanensis,EC,Puerto Quito--Macallares,Pichincha,3,0.102935,-79.25522,248,8,2021
+3279330907,Leptodon cayanensis,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.21314,-78.950935,739,7,2020
+588929832,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+1206189883,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+2163153009,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+3147878075,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,1,2020
+2184328937,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2018
+2715575836,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+1344846210,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2015
+2759595485,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2039377935,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,3,-0.062765,-78.77427,1344,1,2017
+3623184095,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2021
+2672581140,Leptodon cayanensis,EC,"EC (0,124, -78,629)",Pichincha,2,0.12411,-78.62943,1271,5,2019
+2654923115,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2019
+3176688986,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+2033246408,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2017
+3194932571,Leptodon cayanensis,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,7,2004
+1150669217,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2014
+590467579,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,2,2011
+2792968872,Leptodon cayanensis,EC,reservoir and cielo verde area,Imbabura,1,0.219449,-78.90656,577,10,2019
+2157339925,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+3499403633,Leptodon cayanensis,EC,,Pichincha,1,0.178132,-78.931547,598,1,2022
+2691257432,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2634146334,Leptodon cayanensis,EC,,Pichincha,1,0.108095,-79.168186,362,1,2020
+2221191794,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2018
+3154590013,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2020
+2167672123,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2018
+2130862488,Leptodon cayanensis,EC,"(-0.076, -78.764)",Pichincha,1,-0.07591,-78.764336,1473,2,2018
+1196566352,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+2783934216,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.776)",Pichincha,1,-0.067177,-78.775826,1411,12,2019
+3186782773,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2020
+3198693386,Leptodon cayanensis,EC,Camino Desde Cascada Nambillo A Estación El Bravo,Pichincha,1,-0.077231,-78.75388,1518,10,2020
+1772798724,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2016
+3668078873,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,12,2021
+3137596293,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2082284445,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2017
+1156844773,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,1,2014
+3612181650,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,1,2004
+1769844405,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+2097777727,Leptodon cayanensis,EC,"(-0.073, -78.767)",Pichincha,1,-0.073386,-78.76711,1476,12,2017
+3985895801,Leptodon cayanensis,EC,,Pichincha,1,0.144916,-79.141299,408,11,2022
+3183435252,Leptodon cayanensis,EC,Río Pachijal Road,Pichincha,1,0.082,-78.912,845,6,2020
+1400927797,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+2072769861,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2017
+2114718842,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2017
+1346203068,Leptodon cayanensis,EC,road at km137 heading north,Pichincha,1,0.126749,-79.23417,159,1,2015
+2037091338,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+3205639328,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+256217411,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3581925616,Leptodon cayanensis,EC,"Pacto, Pichincha, EC (0.234, -78.765)",Pichincha,1,0.234105,-78.76463,806,5,2021
+3607836902,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+3151703307,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+2663071870,Leptodon cayanensis,EC,EC - Pichincha - Tandayapa (Silanche Reserva),Pichincha,1,0.08327,-79.04314,633,2,2019
+959759696,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2013
+2109354741,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,3,2003
+1726008875,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+3822174300,Leptodon cayanensis,EC,Ecuador - Pichincha,,1,-0.350462,-78.849535,1338,9,2018
+3668340257,Leptodon cayanensis,EC,Terrabambu Lodge,Pichincha,1,-0.059815,-78.77177,1296,9,2021
+1201824474,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2703046077,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+3288179874,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+1789246718,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2005
+2104210609,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+2152916098,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+2137820320,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2018
+2754449538,Leptodon cayanensis,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+1713401489,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+1722920105,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+2724011078,Leptodon cayanensis,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+3294007533,Leptodon cayanensis,EC,Los Bancos-Milpe IBA,Pichincha,1,0.07993,-78.886,923,2,2002
+3137729518,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2020
+2196955373,Leptodon cayanensis,EC,Silanche Reserve,Pichincha,1,0.086769,-79.085464,591,1,2014
+3299718473,Leptodon cayanensis,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+980309340,Leptodon cayanensis,EC,23-de-Junio,Pichincha,1,-0.019138,-78.87858,1113,12,2012
+2228438561,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+2148539094,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+258212922,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,9,2007
+3672487779,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2021
+2215511165,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2018
+3541042391,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2021
+3198185791,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.771)",Pichincha,1,-0.06102,-78.770905,1283,11,2020
+3635544581,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2016
+2041761736,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2017
+2133696451,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+829457738,Leptodon cayanensis,EC,forest patch near PVM,Pichincha,1,0.120967,-79.09792,619,11,2007
+2184574226,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2018
+2212525528,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2018
+2194877013,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2018
+2791725916,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2019
+3180782484,Leptodon cayanensis,EC,Caoni Riverside Suites,Pichincha,1,0.117549,-79.23913,118,7,2020
+2716492367,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+3242321981,Leptodon cayanensis,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,6,2020
+2796098684,Leptodon cayanensis,EC,Balcón Tumpiki,Pichincha,1,-0.006943,-78.72075,1963,8,2019
+2692997083,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.069, -78.771)",Pichincha,1,-0.0693,-78.771416,1415,8,2019
+2696927651,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2019
+2199006620,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2018
+2755899941,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+1748888619,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3233814687,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+3548964006,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2021
+3568072316,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+3666861621,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2021
+2199800329,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2018
+3589425891,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+3646608722,Leptodon cayanensis,EC,"Vía sin nombre, Pichincha, EC (0.042, -78.825)",Pichincha,1,0.042245,-78.82527,1215,12,2021
+3661036536,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+3583663378,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2007
+3684773772,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+2715093457,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+3554282954,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,11,2021
+2073957328,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+2083297096,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+2691930992,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,3,0.182478,-78.9123,514,5,2019
+3263442122,Leptodon cayanensis,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,7,2020
+3507967375,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2021
+2066668668,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2017
+2167533386,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2018
+2782819733,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+1206614603,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,10,2009
+1354063082,Leptodon cayanensis,EC,Maquipucuna--road,Pichincha,1,0.125055,-78.650696,1177,3,2015
+1713402953,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2016
+2115090683,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2006
+2748373364,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2019
+1794366371,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+1345179336,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+2225041664,Leptodon cayanensis,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2015
+3629217176,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,12,2021
+3175102243,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,9,2020
+2799101471,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+2724143891,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2009
+829441958,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2008
+2216977984,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+3585754983,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+1155031818,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2014
+3222573469,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2020
+1753127074,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2016
+3219601477,Leptodon cayanensis,EC,"EC-Vía a Las Cascadas - -0.066x-78.773 - jun. 3, 2017 10:46",Pichincha,1,-0.066058,-78.77306,1385,2,2020
+3640415190,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2118632146,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+1714523360,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+1407702138,Leptodon cayanensis,EC,Arasha Tropical Forest Resort and Spa,Pichincha,1,0.084594,-79.09956,411,6,2005
+1367930631,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2015
+2111697369,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2017
+3671616432,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2021
+2685821927,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2019
+3210184808,Leptodon cayanensis,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.213096,-78.950676,741,11,2020
+2763367665,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2019
+3586159963,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2021
+3601683970,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2021
+2742634647,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2019
+2118610133,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2011
+2203007064,Leptodon cayanensis,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,8,2018
+3512950914,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,4,2021
+3189555916,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2232272101,Leptodon cayanensis,EC,"Pichincha, EC (-0.074, -78.767)",Pichincha,1,-0.074105,-78.76742,1479,12,2018
+2069264817,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2017
+2751940186,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+829102637,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,11,2000
+2123438248,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2004
+3589478352,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2021
+2791886078,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2019
+2707261261,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,10,2019
+1745801125,Leptodon cayanensis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,6,2016
+2113682577,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2017
+3186984632,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+3617753370,Leptodon cayanensis,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,6,2021
+937654014,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+2139671017,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+2234166718,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+1350827425,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+2651738754,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2015
+3186170174,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2020
+2678382832,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2019
+1788392935,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2001
+2034976429,Leptodon cayanensis,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,1,2017
+2047593626,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2017
+3138252702,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2020
+2074844055,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2017
+3274297910,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+2714377168,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,12,2019
+954078303,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2011
+2201609352,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,8,2008
+258270246,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2008
+3638712317,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2021
+3540060340,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+1379518397,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2015
+3544807719,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,9,2021
+180874280,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2008
+3253392760,Leptodon cayanensis,EC,"Mindo, Pichincha, EC (-0.051, -78.759)",Pichincha,1,-0.050654,-78.75889,1393,5,2020
+2770796037,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+3661294910,Leptodon cayanensis,EC,Terrabambu Lodge,Pichincha,1,-0.059815,-78.77177,1296,9,2021
+1765440889,Leptodon cayanensis,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,8,2015
+3204478725,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2020
+1393184906,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+2773471274,Leptodon cayanensis,EC,"Localidad desconocida - (-0.076, -78.764)cordillera San Lorenzo, camino a las cascadas",Pichincha,1,-0.076105,-78.763824,1467,12,2019
+1756531858,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,8,2016
+3587075335,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2021
+2198092080,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2018
+259486932,Leptodon cayanensis,EC,June 23 Village,Pichincha,1,-0.074158,-78.89557,1614,10,2009
+3663032054,Leptodon cayanensis,EC,"Pichincha, EC (-0.077, -78.755)",Pichincha,1,-0.077113,-78.75456,1518,11,2021
+588762706,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+1754010051,Leptodon cayanensis,EC,"Road to Mashpi Lodge. 0.1415x-78.7986 - Jul 1, 2016, 07:25",Pichincha,1,0.141544,-78.79856,1451,7,2016
+2784283903,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,8,2019
+3589240642,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.074, -78.767)",Pichincha,1,-0.073846,-78.766685,1475,4,2021
+2131322186,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2018
+2197721971,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+2703545986,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2019
+1207229215,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2013
+2133486474,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2017
+2773154849,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2019
+1198875036,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2014
+149379132,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+2188626820,Leptodon cayanensis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,8,2018
+3669897996,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,12,2021
+1396516062,Leptodon cayanensis,EC,Via a la Reserva Un Poco del Choco,Pichincha,1,0.05318,-78.83961,1196,10,2015
+590674284,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2011
+1185904963,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+2175024686,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,7,2018
+2688977966,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+2150034737,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+2768908416,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,9,2019
+1397800567,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+2732912697,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+2073409508,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+2173933198,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2014
+3586660102,Leptodon cayanensis,EC,"Mindo,Vía a Las Cascadas, (San Lorenzo Road) EC (-0.068, -78.772)",Pichincha,1,-0.067611,-78.77238,1392,12,2021
+3550179908,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2021
+2654274075,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2019
+2744845903,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+1782611414,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+2125359312,Leptodon cayanensis,EC,ruta san lorenzo (tarabita),Pichincha,1,-0.075963,-78.76485,1482,2,2018
+2759615666,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2136574529,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+3228838569,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2020
+2201976978,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2018
+937534145,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2008
+3238567271,Leptodon cayanensis,EC,La isla Mindo,Pichincha,1,-0.061739,-78.75894,1518,5,2020
+3198972621,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,12,2020
+2717187925,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,3,2010
+1185647997,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2014
+2224229009,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2018
+2786903168,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+829446859,Leptodon cayanensis,EC,San Jorge Milpe Ecolodge,Pichincha,1,0.031008,-78.86289,1177,9,2007
+2717832458,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2019
+3570872770,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+2765681749,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+1345228391,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2015
+2034685628,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2017
+1711565812,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+2232001023,Leptodon cayanensis,EC,La Isla Mindo,Pichincha,1,-0.055306,-78.77035,1269,12,2018
+3521194754,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2021
+1714452754,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+3219622644,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2020
+3206553132,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2020
+2058102579,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2017
+2229308562,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+2794450719,Leptodon cayanensis,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,8,2019
+3658879666,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2021
+1749707737,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2016
+2183384266,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2018
+3277074357,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2020
+259708942,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2008
+3205960618,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+1771088741,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,11,2016
+1347351563,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2015
+2090530603,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,9,2017
+3160679181,Leptodon cayanensis,EC,Mindo - puente del Nambillo y alrededores,Pichincha,1,-0.067345,-78.78721,1253,5,2020
+2165846171,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,5,2018
+2797012967,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2010
+2096607961,Leptodon cayanensis,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,1,-0.046045,-78.8774,1219,10,2017
+938425041,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2011
+1758681549,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+2694202226,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+1709549974,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+1718451348,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2016
+3566973974,Leptodon cayanensis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,8,2021
+2170104281,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+1173620731,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+2110039463,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2017
+2664300529,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2019
+1404199376,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+3543750977,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2021
+1182160366,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2014
+2786801964,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2019
+3205660677,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,10,2020
+1192212364,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2014
+2732196496,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,3,0.1598,-78.8534,1302,1,2019
+1728118789,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2016
+2171958835,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.068, -78.776)",Pichincha,1,-0.067622,-78.77594,1431,5,2018
+2720148612,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+3268011215,Leptodon cayanensis,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,10,2020
+3150398027,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.042755,-78.88135,1077,3,2020
+2797089226,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+2781767244,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+2768714635,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+2654337801,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+829358921,Leptodon cayanensis,EC,Remnant forest patch between PVM and Las Golondrinas (La Celica),Pichincha,1,0.267067,-79.20459,241,12,2006
+2216355236,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2018
+1201838764,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2008
+2717713602,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2018
+3201941085,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+1206070723,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2010
+2716596656,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+3585981186,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2021
+2689233126,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2014
+3229120786,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2020
+1782755791,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+2660701718,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,3,2019
+2225512978,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2010
+2716273187,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2010
+980310521,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2012
+3608512344,Leptodon cayanensis,EC,Vía al Chontal más bajo,Pichincha,1,0.20619,-78.72724,1211,11,2021
+1198963830,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2014
+1780499007,Leptodon cayanensis,EC,500 m NNW of Chocolate Artisanal cacao farm,Pichincha,1,0.1872,-78.91048,649,12,2016
+2102029046,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2017
+2766801302,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,9,2019
+2661464964,Leptodon cayanensis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2012
+3148410586,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,2,2020
+3621884694,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,11,2017
+3608028154,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,6,2021
+3181540977,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,10,2018
+3694333446,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,12,2021
+1713393671,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+3666458937,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2021
+2195168395,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2018
+2669086048,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+2170516239,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,6,2018
+1400736933,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+2752223955,Leptodon cayanensis,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+3267873372,Leptodon cayanensis,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+2220365649,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2018
+1787319806,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,2,2015
+2113335012,Leptodon cayanensis,EC,"Middle Chiriboga Road (subtropical zone, <1850m, provincia de Santo Domingo)",Santo Domingo de los Tsáchilas,1,-0.246333,-78.809875,1898,2,2018
+2692379185,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,8,2019
+3693480291,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.068, -78.769)",Pichincha,1,-0.068204,-78.76893,1350,7,2021
+3540309091,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+1400734160,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+2126470359,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2018
+2090756754,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+2796841565,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2012
+2189959813,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2018
+1190805000,Leptodon cayanensis,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+2211640175,Leptodon cayanensis,EC,"Jardín Eco-botánico, Mindo",Pichincha,1,-0.05256,-78.78189,1229,11,2018
+2670552340,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2019
+3265812340,Leptodon cayanensis,EC,"Auto selected 0.12716, -78.65303",Pichincha,1,0.127164,-78.65303,1202,11,2020
+1714520116,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+2167274678,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2018
+3690997846,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2021
+1204815863,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2014
+1738539866,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2016
+3262141581,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,11,2020
+2153504025,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+3234937701,Leptodon cayanensis,EC,"Mindo, Pichincha, EC (-0,05, -78,753)",Pichincha,1,-0.049705,-78.752945,1508,5,2020
+2751387768,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2019
+2695344365,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2107261212,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2698772151,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+2714599289,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2019
+1345227502,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2015
+3270059977,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+3155612611,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2181577112,Leptodon cayanensis,EC,"San Tadeo, Pichincha, EC (-0.029, -78.752)",Pichincha,1,-0.029037,-78.75187,1742,6,2018
+1366714724,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2015
+935282357,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+2129752853,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+2772379621,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2019
+2139538236,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+1713098549,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2016
+3205212744,Leptodon cayanensis,EC,Hacienda Puyucunapi,Pichincha,1,0.026042,-78.69709,1990,10,2020
+2776003896,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2012
+3689321611,Leptodon cayanensis,EC,Maquipucuna Reserve,Pichincha,1,0.125656,-78.63061,1307,11,2019
+3550986814,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,6,2021
+2228379239,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+1788747091,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,1,2016
+2778891878,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+3191836968,Leptodon cayanensis,EC,Puente del Guayabamba,Pichincha,1,0.207414,-78.95792,458,6,2020
+1399879599,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+2771720946,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+3688458555,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+3245747240,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2020
+3202278526,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2020
+3553678516,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2021
+3254421644,Leptodon cayanensis,EC,"La Isla Mindo, Pichincha, EC (-0,05, -78,753)",Pichincha,1,-0.050245,-78.75272,1510,5,2020
+3568775358,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2021
+2689319151,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2713474468,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2014
+1769674226,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+3209148854,Leptodon cayanensis,EC,"Paraiso Escondido, rio Achote",Pichincha,3,0.058102,-79.15391,338,11,2004
+2033589769,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+2140050634,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+2170028708,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2018
+2186735437,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,6,2018
+1206197932,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2014
+2713461597,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2019
+2720248786,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2014
+1359765507,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,2,2015
+1775638587,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,11,2016
+3230933576,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2020
+1196146275,Leptodon cayanensis,EC,Tinalandia,Santo Domingo de los Tsáchilas,1,-0.297867,-79.05462,655,11,2014
+2755978882,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,9,2019
+3238444240,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,7,2010
+3211036191,Leptodon cayanensis,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.213096,-78.950676,741,11,2020
+2123442493,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+3228519220,Leptodon cayanensis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,1,2020
+1717014475,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+3141144162,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+3256780828,Leptodon cayanensis,EC,Rancho Suamox,Pichincha,2,0.10746,-79.166534,377,5,2020
+1190929566,Leptodon cayanensis,EC,"Sachatamia Transecto impacto, Punto 5",Pichincha,1,-0.019,-78.749,1751,8,2002
+1712079955,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3966689373,Leptodon cayanensis,EC,,Pichincha,1,0.027586,-78.697864,1954,10,2020
+2128105625,Leptodon cayanensis,EC,"(-0.076, -78.764)",Pichincha,2,-0.075605,-78.76425,1484,2,2018
+937635721,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2013
+1734926201,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+2112100836,Leptodon cayanensis,EC,Garceta Sol,Pichincha,1,-0.062871,-78.78141,1258,12,2017
+2217025197,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+3245959849,Leptodon cayanensis,EC,"EC-Vía a Las Cascadas - -0.066x-78.773 - jun. 3, 2017 10:46",Pichincha,1,-0.066058,-78.77306,1385,2,2020
+2663868030,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0,068, -78,772)",Pichincha,1,-0.068321,-78.771965,1396,3,2019
+3217802031,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+2067658489,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,5,2017
+2796659199,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+1410609501,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2004
+1393298898,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2015
+3228264844,Leptodon cayanensis,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.315077,-78.95492,841,5,2020
+3529476770,Leptodon cayanensis,EC,Cordillera San Lorenzo,Pichincha,1,-0.076054,-78.76411,1465,7,2021
+3294946857,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+590745918,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2011
+3639221505,Leptodon cayanensis,EC,Cordillera San Lorenzo,Pichincha,1,-0.076054,-78.76411,1465,5,2021
+1205905090,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2002
+2641461452,Leptodon cayanensis,EC,,Pichincha,1,0.106894,-78.628765,1608,2,2020
+2749433140,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2019
+2127057219,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+1371888609,Leptodon cayanensis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,4,2015
+2166480900,Leptodon cayanensis,EC,"San Tadeo, Pichincha, EC (-0.029, -78.752)",Pichincha,1,-0.029037,-78.75187,1742,6,2018
+2692023823,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+1950011325,Leptodon cayanensis,EC,,Pichincha,1,0.019098,-78.704964,1862,11,2018
+2557750180,Leptodon cayanensis,EC,,Pichincha,1,-0.076732,-78.78995,1585,12,2014
+1770092650,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+2192068552,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,10,2018
+3187546092,Leptodon cayanensis,EC,Cabuyal,Pichincha,1,0.146768,-79.272095,136,10,2020
+1389642562,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2015
+2102010061,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+941232982,Leptodon cayanensis,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,2,2013
+3196987208,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,9,2020
+2179680356,Leptodon cayanensis,EC,Ruta Milpe Pachijal,Pichincha,1,0.038075,-78.86132,1117,5,2018
+3206584269,Leptodon cayanensis,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,12,2020
+1400751438,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,4,2006
+3558686838,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,5,2021
+2147928435,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+1400746166,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+2709341766,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+1199891479,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+3196443996,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+2186889543,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2018
+2745058325,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+2786952482,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2018
+1390700186,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2015
+3233365975,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+3582490951,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+2739139838,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,11,2014
+1405244105,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2015
+2713608057,Leptodon cayanensis,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,5,2003
+1708921868,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2016
+2731206745,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2019
+2234189500,Leptodon cayanensis,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,11,2009
+2049558762,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,2,2017
+3193322878,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2020
+1708911705,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2016
+2159293668,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+1781030053,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2016
+3266774414,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,12,2020
+1771244658,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2002
+2030651234,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+3226422542,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+3678954409,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2021
+1192885898,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2014
+2118249672,Leptodon cayanensis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2013
+2181682234,Leptodon cayanensis,EC,"San Tadeo, Pichincha, EC (-0.029, -78.752)",Pichincha,1,-0.029037,-78.75187,1742,6,2018
+2113264292,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2018
+1379146258,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2015
+2128493659,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,4,2018
+256024378,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+2793706931,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2018
+3590679442,Leptodon cayanensis,EC,Rancho - El Dorado,Pichincha,1,-0.036502,-78.76554,1484,5,2021
+2797507075,Leptodon cayanensis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2012
+2790051590,Leptodon cayanensis,EC,"Los Colibríes, Pichincha, EC (-0.055, -78.778)",Pichincha,1,-0.054823,-78.77837,1242,10,2019
+2125341521,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2018
+2232932899,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+2665018741,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+3256470680,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.063, -78.774)",Pichincha,1,-0.062765,-78.77427,1344,5,2020
+2666276437,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+1166350467,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2014
+2219627429,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2018
+1204662129,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,8,2001
+3618399943,Leptodon cayanensis,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,1,0.157516,-79.22496,149,2,2021
+3259956299,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,2,2010
+2800881936,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+3539532704,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2021
+2228202334,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2016
+2689759152,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+2214285692,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+953903540,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2011
+2716225631,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2016
+2695714309,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2019
+2766005285,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+3668427737,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,9,2021
+3275410459,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+1726006684,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+3292114578,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2020
+3688577845,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.07, -78.771)",Pichincha,1,-0.069692,-78.77073,1423,12,2021
+1344849006,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2015
+2117576925,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2017
+2207856443,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2018
+1400754501,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+2211788895,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2018
+2653815499,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2019
+3207869596,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+2106239941,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+3153291656,Leptodon cayanensis,EC,"Vía a Masphi, Pichincha, EC (0.181, -78.912)",Pichincha,1,0.180546,-78.91152,514,4,2020
+2073221029,Leptodon cayanensis,EC,Mindo--waterfall trail,Pichincha,1,-0.059395,-78.781586,1240,8,2017
+2123384000,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2004
+2752362609,Leptodon cayanensis,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+2716749789,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,11,2000
+2064265178,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,5,2017
+3272952200,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2701479979,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2019
+831546682,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2012
+2081574993,Leptodon cayanensis,EC,Mindo--waterfall trail,Pichincha,1,-0.059395,-78.781586,1240,7,2017
+2783459434,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+2114842915,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2004
+2790357758,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2019
+2719366655,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2019
+3676669727,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,6,2021
+2716864055,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,12,2000
+3642514072,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2021
+590752660,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2011
+1730809944,Leptodon cayanensis,EC,Mindo--Centro de Educacíon Ambiental(CEA),Pichincha,1,-0.074467,-78.75362,1350,1,2016
+2223686040,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,12,2018
+3243199384,Leptodon cayanensis,EC,La isla Mindo,Pichincha,1,-0.061739,-78.75894,1518,5,2020
+3268893119,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2020
+1396511479,Leptodon cayanensis,EC,Via a la Reserva Un Poco del Choco,Pichincha,1,0.05318,-78.83961,1196,10,2015
+1717462911,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2016
+2153429195,Leptodon cayanensis,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,4,2018
+2709568449,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+829042215,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,2,0.071925,-78.982285,778,11,2000
+3223806668,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+3528278188,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2021
+1366966445,Leptodon cayanensis,EC,Nueva Granada - Nanegalito - Finca La Unión (1516 msnm),Pichincha,1,0.125123,-78.710884,1490,5,2015
+2739111272,Leptodon cayanensis,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+1784830636,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2012
+2125808527,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2005
+1198856418,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2014
+3538441721,Leptodon cayanensis,EC,"Restaurante los colibrís la Delicia Nanegal Pichincha, EC (0.132, -78.669)",Pichincha,1,0.131767,-78.668976,1152,10,2021
+937457047,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2008
+3247022950,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,8,2020
+3635069568,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,1,2021
+1198910705,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2014
+588768270,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2010
+2801956790,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.067, -78.775)canopy",Pichincha,1,-0.066645,-78.77501,1375,11,2019
+1201435798,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2014
+2155418329,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2018
+1178491741,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2010
+2137214826,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+3519721920,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,1,2021
+2123438888,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,1,2005
+2716551582,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2004
+2030184406,Leptodon cayanensis,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2017
+1195337337,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2014
+1711573051,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+3606761917,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2021
+1201839025,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+180874124,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+1776996716,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2016
+2111787810,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,11,2017
+3572201712,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.074, -78.767)",Pichincha,1,-0.073846,-78.766685,1475,12,2021
+2718380298,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2009
+2078089097,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,5,2017
+2212534243,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2018
+1726000648,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+2728294641,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2747345856,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2019
+1718455003,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2016
+965017016,Leptodon cayanensis,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,2,2002
+1749291796,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2016
+3581620863,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+2732238870,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2019
+3279394963,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2020
+3259852119,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2016
+2722804617,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2017
+2219124864,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2018
+2080396134,Leptodon cayanensis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,7,2017
+2715314471,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2019
+2659919611,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2019
+3239937692,Leptodon cayanensis,EC,Caoni Riverside Suites,Pichincha,1,0.117549,-79.23913,118,7,2020
+1398009595,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,11,2015
+3290752083,Leptodon cayanensis,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,4,2009
+3531729940,Leptodon cayanensis,EC,Caoni Riverside Suites,Pichincha,1,0.117549,-79.23913,118,8,2021
+3133325459,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,1,2020
+2786468360,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2019
+3585922772,Leptodon cayanensis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2016
+3605720624,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2021
+3273079986,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+2776928699,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+1716334051,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+2225654742,Leptodon cayanensis,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,1,-0.1014,-78.74411,1681,12,2016
+1783487852,Leptodon cayanensis,EC,Piedras Negras - private property off Mindo Road (location appro,Pichincha,1,-0.033844,-78.756805,1500,10,2013
+2711903856,Leptodon cayanensis,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,1,-0.024804,-78.72448,2126,12,2019
+3140747214,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2020
+3679573575,Leptodon cayanensis,EC,Birding from Home,Pichincha,1,-0.054032,-78.7772,1244,3,2021
+3673421083,Leptodon cayanensis,EC,"Vía sin nombre, Pichincha, EC (0.042, -78.825)",Pichincha,1,0.042245,-78.82527,1215,12,2021
+1712665574,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+2793214310,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2019
+2686720809,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2019
+2657716082,Leptodon cayanensis,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+1790291263,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2016
+3657196075,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.074, -78.767)",Pichincha,1,-0.073846,-78.766685,1475,12,2021
+2694830965,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+3570243644,Leptodon cayanensis,EC,Terrabambu Lodge,Pichincha,1,-0.059815,-78.77177,1296,9,2021
+2770080165,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,9,2019
+1166622643,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2014
+2120716077,Leptodon cayanensis,EC,ruta san lorenzo (tarabita),Pichincha,1,-0.075963,-78.76485,1482,1,2018
+2066754947,Leptodon cayanensis,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,4,2017
+2174715115,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2018
+2707690683,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2019
+2717593577,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+1747053625,Leptodon cayanensis,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,6,2016
+1385227546,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2006
+2709289998,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2019
+975501745,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2013
+1188754500,Leptodon cayanensis,EC,near Angel Paz's home,Pichincha,1,0.019444,-78.70657,1907,9,2014
+1403233159,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2015
+2708809425,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2019
+2136363802,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2018
+2747472335,Leptodon cayanensis,EC,Via Las Cascadas,Pichincha,1,-0.064625,-78.77323,1375,7,2019
+2758013440,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+3223710638,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2765600127,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2019
+3567936121,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,3,0.120898,-78.63837,1310,10,2021
+1190043259,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2014
+2070266131,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2017
+1206950363,Leptodon cayanensis,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2003
+2066259895,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+2042305968,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+2699032991,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2019
+1725784649,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2016
+2232419092,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+2111872811,Leptodon cayanensis,EC,ruta san lorenzo (tarabita),Pichincha,1,-0.075963,-78.76485,1482,2,2018
+2705286865,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2019
+2197775852,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2018
+1724401192,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2016
+1200349955,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,12,2014
+3269189424,Leptodon cayanensis,EC,"Bamburé, Reserva privada",Pichincha,1,0.101075,-79.20286,162,9,2020
+3270365933,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+3144814214,Leptodon cayanensis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,4,2020
+3245454514,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,7,2020
+2763706724,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2019
+2189547449,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2018
+2175359962,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,7,2018
+3137827514,Leptodon cayanensis,EC,Mashpi--Entrance road before gate,Pichincha,2,0.160629,-78.84993,1340,1,2020
+2725695059,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2019
+2189723707,Leptodon cayanensis,EC,"San Tadeo, Pichincha, EC (-0.029, -78.752)",Pichincha,1,-0.029037,-78.75187,1742,6,2018
+2098931102,Leptodon cayanensis,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,12,2017
+2782188757,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,11,2019
+2712117467,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,11,2019
+3550086763,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+2164998582,Leptodon cayanensis,EC,"(-0.066, -78.773)",Pichincha,1,-0.066124,-78.77299,1385,4,2018
+3163378912,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2009
+3581640125,Leptodon cayanensis,EC,"Nanegal, Pichincha, EC (0.126, -78.631)",Pichincha,1,0.126057,-78.630585,1322,11,2021
+3140502636,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2020
+2221171688,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+2074180429,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,6,2017
+2215650452,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+829387631,Leptodon cayanensis,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,1,2007
+2030342468,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+3224915072,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+3185319780,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,9,2020
+2658033082,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2012
+2114325759,Leptodon cayanensis,EC,San Tadeo,Pichincha,1,-0.028024,-78.746544,1855,11,2005
+3287220691,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2010
+2190530983,Leptodon cayanensis,EC,"(-0.07, -78.776)",Pichincha,1,-0.070075,-78.775665,1415,7,2018
+2673870884,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2019
+2210969903,Leptodon cayanensis,EC,Pichincha,Pichincha,3,0.149523,-78.81178,1581,10,2018
+963087503,Leptodon cayanensis,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2002
+1779356879,Leptodon cayanensis,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,1,-0.1014,-78.74411,1681,12,2016
+3534243835,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2021
+2773616676,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,4,2019
+3234053634,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2020
+3199137015,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2020
+3226835036,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2020
+2075701657,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,6,2017
+3658506388,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,8,2012
+2139043868,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+2233062686,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+1393146886,Leptodon cayanensis,EC,vía a San José de Mashpi,Pichincha,1,0.133853,-78.95951,737,10,2015
+255943383,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2008
+1207150323,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2013
+2154111681,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2018
+3155000455,Leptodon cayanensis,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.315077,-78.95492,841,5,2020
+829293952,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+2225494379,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2018
+1722922131,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+2121829393,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2018
+3253763076,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2020
+2782787185,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2019
+2788910562,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,11,2000
+3270465856,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2020
+2219734928,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+3543733927,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,12,2021
+2123474707,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+1722113442,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+2123448443,Leptodon cayanensis,EC,Restaurante Los Colibríes,Pichincha,1,-0.057893,-78.7778,1235,10,2004
+2038829517,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2017
+3291487998,Leptodon cayanensis,EC,"Vía Santo Domingo de los Tsáchillas - San Jacinto del Búa, Santo Domingo EC-Santo Domingo de los Colorados -0.20991, -79.26168",Santo Domingo de los Tsáchilas,1,-0.209913,-79.26168,398,5,2020
+2057634881,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2017
+1710479207,Leptodon cayanensis,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+3652527534,Leptodon cayanensis,EC,Finca La Elenita,Pichincha,1,-0.017256,-78.77936,1598,11,2021
+1790190598,Leptodon cayanensis,EC,Nueva Granada - Nanegalito - Finca La Unión (1516 msnm),Pichincha,1,0.125123,-78.710884,1490,5,2015
+3592277734,Leptodon cayanensis,EC,"Auto selected 0.07160, -78.95434",Pichincha,1,0.071595,-78.95434,857,5,2021
+1762878807,Leptodon cayanensis,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2016
+2740442652,Leptodon cayanensis,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2019
+2100009015,Leptodon cayanensis,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,10,2017
+3196928457,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+1205096741,Leptodon cayanensis,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,11,2011
+2225348334,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,12,2018
+588774277,Leptodon cayanensis,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+1345221806,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,1,2015
+2763612311,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+3137466600,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2020
+2656897413,Leptodon cayanensis,EC,Maquipucuna Reserve & Ecolodge,Pichincha,1,0.124037,-78.62944,1270,2,2019
+2671147981,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2013
+2752585951,Leptodon cayanensis,EC,"Vía a Las Cascadas, Pichincha, EC (-0.069, -78.771)",Pichincha,2,-0.0693,-78.771416,1415,9,2019
+3262496832,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2016
+1779936196,Leptodon cayanensis,EC,Bosque Protector Mindo Nambillo--El refugio,Pichincha,1,-0.1014,-78.74411,1681,12,2016
+3637451659,Leptodon cayanensis,EC,"Auto selected 0.07160, -78.95434",Pichincha,1,0.071595,-78.95434,857,5,2021
+2232002990,Leptodon cayanensis,EC,"Jardín Eco-botánico, Mindo",Pichincha,1,-0.05256,-78.78189,1229,11,2018
+3551279511,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,7,2021
+1171536538,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,9,2011
+3651863926,Leptodon cayanensis,EC,Terrabambu Lodge,Pichincha,1,-0.059815,-78.77177,1296,9,2021
+2787567783,Leptodon cayanensis,EC,Cuatro Rios (Four Rivers),Pichincha,2,0.071925,-78.982285,778,11,2000
+1190801235,Leptodon cayanensis,EC,"Sachatamia Transecto impacto, Punto 1",Pichincha,1,-0.009,-78.759,1700,12,2003
+2169108696,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+3183336722,Leptodon cayanensis,EC,Punto Ornitológico Mindo,Pichincha,1,-0.052496,-78.782295,1231,10,2020
+3506506247,Leptodon cayanensis,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,1,2021
+3219185813,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2020
+2114139707,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2001
+1722159726,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+2710184229,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2019
+2103440947,Leptodon cayanensis,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+943062604,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2013
+3558160915,Leptodon cayanensis,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,8,2021
+3684805609,Leptodon cayanensis,EC,Cordillera San Lorenzo,Pichincha,1,-0.076054,-78.76411,1465,5,2021
+2759045542,Leptodon cayanensis,EC,Los Bancos-Milpe IBA,Pichincha,1,0.07993,-78.886,923,2,2002
+3608688421,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+1708202957,Leptodon cayanensis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2016
+3546568627,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2021
+2709178373,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2017
+2761037733,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+3633332796,Leptodon cayanensis,EC,"(-0,075, -78,7 ruta san Lorenzo mindo",Pichincha,1,-0.074529,-78.7666,1471,4,2021
+3558238975,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2021
+1718898745,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2016
+3654732199,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2021
+3201675756,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,10,2020
+2797878839,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+2197970340,Leptodon cayanensis,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2018
+2720258700,Leptodon cayanensis,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2019
+2090907223,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,7,2017
+2720020189,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+2148410660,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,4,2018
+3635539785,Leptodon cayanensis,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,5,2021
+2661019893,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,2,2019
+3280306871,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+3279757787,Leptodon cayanensis,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,12,2020
+2772629793,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,7,2019
+3132190517,Leptodon cayanensis,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+3259985978,Leptodon cayanensis,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,5,2020
+941314432,Leptodon cayanensis,EC,forest patch near PVM,Pichincha,1,0.120967,-79.09792,619,11,2007
+3554169918,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2021
+2046179005,Leptodon cayanensis,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,3,2017
+180874277,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2008
+2071782390,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,5,2017
+3225824424,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2020
+2783678913,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+2787815098,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2019
+1405561747,Leptodon cayanensis,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2000
+1726010187,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+2695820601,Leptodon cayanensis,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,8,2019
+2243871295,Leptodon cayanensis,EC,"Finca Cuatro Rios, San Miguel de Los Bancos, Pichincha",,1,0.0742,-78.9817,767,12,2000
+2243877375,Leptodon cayanensis,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,12,2010
+3034448554,Leptodon cayanensis,EC,"Distrito Metropolitano de Quito, Pichincha, Parroquia Nanegalito, Nueva Granada, Hacienda Los Yumbos",,1,0.0797,-78.6838,1589,1,2021
+2862548021,Leptodon cayanensis,EC,,Pichincha,1,-0.045081,-78.778192,1325,11,2015
+2703840233,Leptodon cayanensis,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2019
+2031414171,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2017
+3660032370,Leptodon cayanensis,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.21314,-78.950935,739,10,2021
+2183857215,Leptodon cayanensis,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2018
+1201877789,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2014
+2685879540,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2019
+1986525956,Leptodon cayanensis,EC,,Pichincha,1,-0.073096,-78.767746,1476,12,2018
+1399710368,Leptodon cayanensis,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,5,2014
+960091688,Leptodon cayanensis,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2013
+3147943576,Leptodon cayanensis,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2020
+3623256177,Leptodon cayanensis,EC,"Auto selected 0.12684, -78.62711",Pichincha,1,0.126836,-78.627106,1351,2,2021
+1206190058,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+1399820034,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2015
+1711451613,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+2233259096,Leptodon cayanensis,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,12,2018
+3219962429,Leptodon cayanensis,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2020
+3658007021,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2005
+3667584513,Leptodon cayanensis,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2017
+2529314275,Leptodon cayanensis,EC,,Pichincha,1,-0.077326,-78.769295,1428,1,2014
+3658433542,Leptodon cayanensis,EC,"Reserva ""Sacha Urco""",Pichincha,1,-0.019955,-78.80906,1053,10,2021
+2762144982,Leptodon cayanensis,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+3307370121,Leptodon cayanensis,EC,,Pichincha,1,0.123755,-78.629907,1282,6,2021
+3704481313,Leptodon cayanensis,EC,"Pichincha: ridge between Río Mindo and Río Nambillo, 3 km SE Mindo",,1,-0.0834,-78.761,1622,2,2022
+2121815658,Leptodon cayanensis,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2018
+1711042719,Leptodon cayanensis,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3659243375,Leptodon cayanensis,EC,Reserva San Luis,Pichincha,1,-0.071361,-78.797066,1289,5,2021
+3389177869,Leptodon cayanensis,EC,Maquipucuna Ecolodge,,1,0.12601,-78.630127,1335,3,2020

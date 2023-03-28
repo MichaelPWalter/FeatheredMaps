@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3608741071,Limnodromus griseus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2021
+3536739190,Limnodromus griseus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2021

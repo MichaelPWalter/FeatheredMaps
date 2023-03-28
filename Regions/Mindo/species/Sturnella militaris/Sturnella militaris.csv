@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+841546602,Sturnella militaris,EC,Remnant forest patch between PVM and Las Golondrinas (La Celica),Pichincha,2,0.267067,-79.20459,241,1,2007
+982369068,Sturnella militaris,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+1776994792,Sturnella militaris,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2016
+973600199,Sturnella militaris,EC,Km 110,Pichincha,1,0.072249,-78.96658,821,7,2007

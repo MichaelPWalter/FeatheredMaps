@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1808192392,Pitangus sulphuratus,EC,"Yellow House, Mindo, Ecuador",,1,-0.051455,-78.772606,1267,12,2017
+1808176002,Pitangus sulphuratus,EC,"Yellow House, Mindo, Ecuador",,1,-0.051455,-78.772606,1267,12,2017
+3384188269,Pitangus sulphuratus,EC,,Santo Domingo de los Tsáchilas,1,-0.365365,-79.17429,767,9,2021
+1808189574,Pitangus sulphuratus,EC,"Reserva Forestal La Perla, Ecuador",,1,-0.147457,-79.282753,354,12,2017

@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2129781210,Anisognathus lacrymosus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2014
+1162384773,Anisognathus lacrymosus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,3,2014

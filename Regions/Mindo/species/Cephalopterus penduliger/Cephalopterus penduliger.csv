@@ -1,0 +1,997 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1352758356,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+1173149600,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,1,2013
+2839343122,Cephalopterus penduliger,EC,Ecuador - Pichincha,,5,0.05862,-78.814031,1448,1,2016
+3222577316,Cephalopterus penduliger,EC,"Via 23 de Junio, San Miguel de Los Bancos EC-Province de Pichincha (-0,0326,-78,8779)",Pichincha,4,-0.032641,-78.8779,1106,2,2020
+3643439421,Cephalopterus penduliger,EC,"Auto selected -0.06274, -78.87783",Pichincha,5,-0.062739,-78.87782,1343,11,2021
+255838058,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,10,2009
+3161728098,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2013
+2206677424,Cephalopterus penduliger,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2013
+2031019633,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,1,2017
+2693620477,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,5,2019
+3225217596,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,2,2020
+1180208425,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,7,2014
+2750555973,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2019
+178841719,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,8,2006
+3540888122,Cephalopterus penduliger,EC,Ecuador - Mangaloma Reserve,Pichincha,1,0.108164,-78.98548,741,8,2021
+2731491576,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2019
+961948564,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,8,2013
+2668705609,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,8,2015
+3230843641,Cephalopterus penduliger,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,3,-0.315077,-78.95492,841,5,2020
+2125116488,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,12,2017
+3650081287,Cephalopterus penduliger,EC,"Auto selected -0.06498, -78.87775",Pichincha,6,-0.064976,-78.87775,1358,10,2021
+3660473068,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,14,-0.05492,-78.86113,1540,8,2021
+1399106927,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,11,2015
+2772512350,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,9,2019
+3690853051,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2021
+2794722534,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,12,2015
+1734139692,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,3,2014
+3667639030,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,5,2021
+1206558105,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2000
+2111256396,Cephalopterus penduliger,EC,"E28, Pichincha, EC (-0,027, -78,761)",Pichincha,2,-0.026816,-78.76053,1708,12,2017
+2799599893,Cephalopterus penduliger,EC,Mirador Rio Blanco,Pichincha,1,0.0331,-78.8927,1060,9,2009
+3669955349,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,063, -78,878)",Pichincha,2,-0.063257,-78.87784,1351,12,2021
+580568925,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+2227896664,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+1352769168,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+2723713629,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,12,2019
+3691942433,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,3,2013
+2165702666,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+1201196832,Cephalopterus penduliger,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,10,2014
+822982614,Cephalopterus penduliger,EC,23 de Junio (Umbrellabird Lek and area),Pichincha,4,-0.027272,-78.929375,938,8,2012
+3655080790,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+3542919291,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+1782643930,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,10,2016
+1381250985,Cephalopterus penduliger,EC,Milpe area,Pichincha,2,0.039053,-78.86821,1099,6,2015
+2087066252,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,7,2017
+2220947358,Cephalopterus penduliger,EC,San Miguel de Los Bancos--vicinity,Pichincha,4,0.02274,-78.89481,1078,1,2010
+2195213357,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,9,2018
+3201968831,Cephalopterus penduliger,EC,"Recinto El Dorado, Santo Domingo de los Tsáchilas, EC (-0,226, -78,934)",Santo Domingo de los Tsáchilas,3,-0.226083,-78.93393,873,10,2020
+1206584815,Cephalopterus penduliger,EC,pipeline track between Y de Mindo and Milpe,Pichincha,1,0.031886,-78.83085,1277,4,2001
+2097500902,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,11,2017
+1755246051,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2016
+2782130023,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+3657172606,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,11,2017
+3146919309,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,5,-0.046045,-78.8774,1219,2,2020
+2689031507,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2019
+3628068550,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2021
+1759381662,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,9,2016
+3262023814,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,3,-0.209499,-78.94825,758,5,2020
+2707994866,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,11,2019
+3546229754,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,9,2021
+3536287880,Cephalopterus penduliger,EC,"Via 23 de Junio, SN Miguel Bancos EC-Pichincha -0.01658, -78.88728",Pichincha,6,-0.016579,-78.88728,1170,1,2021
+2205422869,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,9,2018
+2696528506,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2019
+1768027497,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,10,2016
+940570865,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,1,2013
+2100196781,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,6,2015
+2167524449,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,5,2018
+3524053460,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2018
+3686562102,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+2205615483,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,15,-0.05492,-78.86113,1540,8,2018
+2746278366,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2019
+940585459,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2013
+2199406201,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,7,2018
+2226018321,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,12,2018
+3596392174,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2021
+3214510155,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,1,-0.026846,-78.885376,1197,12,2020
+2689944163,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,5,2019
+2054965572,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,5,2017
+2212540258,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2018
+3152232312,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (0.031, -78.866)",Pichincha,1,0.03055,-78.86649,1153,1,2020
+2085854873,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+3208606142,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,1,2014
+2714173967,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2019
+3296558593,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,2,-0.026846,-78.885376,1197,12,2020
+2795542528,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2019
+2146018141,Cephalopterus penduliger,EC,"Unnamed Road, Pichincha, EC (0.166, -78.878)",Pichincha,1,0.16606,-78.87805,932,5,2018
+2104223399,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+3197464229,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.213096,-78.950676,741,11,2020
+2681890559,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+1401284455,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,12,2015
+2762009768,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2019
+2109113615,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,9,2017
+2201964787,Cephalopterus penduliger,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,3,2018
+3684482479,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2021
+965853765,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,9,2013
+1400508522,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,12,2015
+3685769922,Cephalopterus penduliger,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,12,2021
+2076513408,Cephalopterus penduliger,EC,"EC-Pichincha - -0.026x-78.764 - jun. 20, 2017 17:23",Pichincha,1,-0.02599,-78.76449,1679,6,2017
+2137913396,Cephalopterus penduliger,EC,Mashpi Lodge ( 500 To 1400 Msnm By Nestor Paladines,Pichincha,1,0.166091,-78.87911,927,2,2018
+2785161659,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,10,2019
+3132174718,Cephalopterus penduliger,EC,"15 dic. 2019 7:38 p. m.--0.028, -78.759",Pichincha,1,-0.027881,-78.759094,1670,1,2020
+2768329701,Cephalopterus penduliger,EC,"(0.1659,-78.8883)",Pichincha,1,0.165944,-78.88825,835,6,2018
+3298384288,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,3,2014
+2705546933,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2019
+2737809359,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2019
+2111198909,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2017
+2794084335,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,11,2019
+2719861616,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+3219992633,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+2666181957,Cephalopterus penduliger,EC,"(0,1660,-78,8786)",Pichincha,1,0.166046,-78.87859,933,4,2019
+3558334119,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+1202703011,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,10,2009
+3179787768,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2020
+2209690092,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,12,2018
+1173782988,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,9,2012
+3534709216,Cephalopterus penduliger,EC,"Mashpi Road Waterfall, Pacto, Pichincha",Pichincha,2,0.187426,-78.85537,1012,10,2021
+2227883159,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+2226082134,Cephalopterus penduliger,EC,Reserva Pachijal,Pichincha,2,0.016,-78.7673,1645,12,2018
+1405383161,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2015
+1172846577,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,3,2014
+1405571926,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,11,2015
+3570297304,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,14,-0.05492,-78.86113,1540,8,2021
+2732237942,Cephalopterus penduliger,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2019
+3653894256,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2715879932,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,4,-0.046045,-78.8774,1219,7,2019
+2768413303,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,4,2019
+3177650455,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+3664689573,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+2204645527,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,12,-0.05492,-78.86113,1540,8,2018
+2185186939,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2018
+2792819753,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,6,2019
+3242917193,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2020
+2086362796,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+3270740115,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,10,2017
+2741138493,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,5,2019
+2789988492,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,10,2019
+2098037278,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2017
+1206575330,Cephalopterus penduliger,EC,between finca opposite El Siete and La Alhambra,Pichincha,3,-0.020127,-78.76691,1658,4,2001
+2657692604,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,2,2019
+3133098471,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+965697618,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,8,2013
+3240027442,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2020
+2149498412,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+1181542853,Cephalopterus penduliger,EC,New lek above 23 de Junio,Pichincha,5,-0.076904,-78.84579,1529,7,2014
+2116635658,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+2189750075,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,7,2018
+2108115421,Cephalopterus penduliger,EC,"(-0,068, -78,879)",Pichincha,3,-0.067969,-78.87903,1425,11,2017
+1401069534,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,11,2015
+3675145571,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,7,2021
+2218888407,Cephalopterus penduliger,EC,Silanche Rd. Continued,Pichincha,1,0.086283,-79.085,585,11,2018
+1400753177,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,4,2006
+3689975436,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,11,2021
+3132443585,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,1,2020
+2668245228,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,4,2019
+3619796918,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0.065, -78.878)",Pichincha,1,-0.065325,-78.878426,1386,9,2021
+1360560727,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,4,2015
+3627789709,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2137474413,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2018
+2665730724,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,3,2019
+940590318,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,1,2013
+2702790877,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+3658943497,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+941958801,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2012
+3250446838,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2020
+2745899148,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+2113088500,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,6,2015
+3600325078,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+2704987774,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2019
+1185324528,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,8,2014
+2107673472,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2017
+2686266394,Cephalopterus penduliger,EC,"(-0.068, -78.879) la 23 de junio-lek",Pichincha,6,-0.067557,-78.87894,1427,7,2019
+3573377228,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,7,2021
+3682993269,Cephalopterus penduliger,EC,Goura Duti( ave dorada),Pichincha,1,0.001068,-78.74343,1741,5,2021
+2790683661,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,11,2019
+3676790848,Cephalopterus penduliger,EC,"Bosque Mashpi Shungo, EC (0,188, -78,912)",Pichincha,1,0.187956,-78.91236,611,5,2021
+2125059375,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,1,2018
+3273724925,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2020
+3583641661,Cephalopterus penduliger,EC,"Finca Choibá, Mashpi",Pichincha,1,0.170965,-78.899445,552,12,2021
+2750024681,Cephalopterus penduliger,EC,"(-0.068, -78.879) la 23 de junio-lek",Pichincha,12,-0.067557,-78.87894,1427,8,2019
+2229378104,Cephalopterus penduliger,EC,Silanche Rd. Continued,Pichincha,1,0.086283,-79.085,585,11,2018
+2191057332,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,8,2018
+2196412286,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2018
+2719485778,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+2042401414,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+2774294043,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,3,-0.046045,-78.8774,1219,7,2019
+2709289768,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2019
+1774544949,Cephalopterus penduliger,EC,Rio Silanche and Mangaloma for life list,Pichincha,1,0.111439,-79.13102,452,2,2012
+1198965234,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,11,2014
+1352703418,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2015
+2797013947,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2019
+2204560420,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,10,2018
+2135715884,Cephalopterus penduliger,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2018
+2095325457,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2017
+2715950114,Cephalopterus penduliger,EC,Cabañas el Jardin del Quinde,Pichincha,1,0.039284,-78.87407,1111,11,2019
+2728479609,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,2,2019
+2735564459,Cephalopterus penduliger,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,5,2019
+2683942440,Cephalopterus penduliger,EC,"Pichincha, EC (-0,083, -78,861) Blanca nieve la 23",Pichincha,2,-0.083378,-78.860886,1656,5,2019
+3560370713,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2021
+3524511041,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+3693963837,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,11,2021
+3529364120,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+3665656075,Cephalopterus penduliger,EC,"Mashpi Road Waterfall, Pacto, Pichincha",Pichincha,2,0.187426,-78.85537,1012,10,2021
+1206103999,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,8,2010
+1738541139,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2016
+3175854488,Cephalopterus penduliger,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,3,-0.315077,-78.95492,841,5,2020
+3646355802,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,12,2021
+2169943744,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+1758861913,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,9,2016
+2104188879,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2017
+2671849739,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,3,2019
+2044295758,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2017
+3621978862,Cephalopterus penduliger,EC,Hotel Mashpi-Alrededor. By Jacqui Paladines,Pichincha,1,0.166072,-78.879326,921,5,2021
+3562044517,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2016
+3279782203,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2020
+2087600346,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+3668169203,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,15,-0.046045,-78.8774,1219,11,2021
+2196683706,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,7,2018
+2215382717,Cephalopterus penduliger,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2018
+2185486813,Cephalopterus penduliger,EC,"EC-Pichincha-SN Miguel Bancos (-0,0675,-78,8790)",Pichincha,5,-0.067519,-78.87896,1428,7,2018
+3602059171,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2021
+920995146,Cephalopterus penduliger,EC,www.23-de-junio.com,,1,-0.019248,-78.868401,1131,2,2011
+1777199617,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,11,2016
+2668571127,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2019
+3823919517,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066543,-78.879028,1383,4,2022
+2838150396,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.028152,-79.034271,652,1,2010
+2835672965,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066468,-78.879005,1387,11,2018
+2842719081,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.053539,-78.817819,1334,1,2016
+2154475921,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2018
+3193851550,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,8,2020
+3580227530,Cephalopterus penduliger,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+2188924235,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,7,2018
+2045475126,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2017
+1206566366,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,11,2000
+1777643592,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,11,2016
+3691671666,Cephalopterus penduliger,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+3651012493,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,10,-0.05492,-78.86113,1540,7,2021
+2054836821,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,5,2017
+2760474124,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,2,2019
+2145491671,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+2180969709,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,9,2016
+2223719984,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,12,2018
+211165887,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2008
+2084045941,Cephalopterus penduliger,EC,"-0.0666x-78.8790 - Jul 31, 2017, 6:40 AM",Pichincha,1,-0.066565,-78.879,1384,7,2017
+2074842790,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2017
+579997806,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,7,2009
+2675920030,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+2147220278,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,4,2018
+2713143514,Cephalopterus penduliger,EC,"Finca Luis Agila, 23 de Junio, Pichincha, EC (-0,063, -78,878)",Pichincha,3,-0.066988,-78.879105,1425,8,2019
+2134896519,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2018
+2196803727,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2018
+2726891054,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2019
+2720885303,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,8,2019
+2152304104,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2018
+2106262930,Cephalopterus penduliger,EC,"Las Tolas Road, Pichincha, EC (0.079, -78.776)",Pichincha,2,0.078775,-78.77558,1777,11,2017
+2682105302,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,10,2018
+3686509288,Cephalopterus penduliger,EC,Reserva La Chacra,Pichincha,2,0.096068,-78.94553,837,10,2021
+2131666979,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,2,2018
+3532540054,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,6,2021
+3650138903,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+3512384359,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2021
+2231847273,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,11,2018
+2193643654,Cephalopterus penduliger,EC,"EC-皮钦查省-SN Miguel Bancos (-0.0676,-78.8790)",Pichincha,1,-0.067625,-78.879005,1428,8,2018
+2105203573,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,11,2017
+1198856515,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,11,2014
+3299876729,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,3,-0.026846,-78.885376,1197,12,2020
+2101475026,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,8,2017
+2058340189,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2017
+2669500049,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+2162720656,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,5,2018
+3205725687,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2020
+2043286699,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,1,2017
+2232628980,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2018
+2700161871,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,4,-0.046045,-78.8774,1219,7,2019
+3685504034,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,7,2021
+3532363340,Cephalopterus penduliger,EC,Mindo,Pichincha,1,-0.051449,-78.77132,1277,10,2018
+1343882784,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2013
+1410608201,Cephalopterus penduliger,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,2,2004
+3565364795,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.026559,-78.75939,1719,11,2021
+2689014794,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,7,2019
+1206556114,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2000
+3271378325,Cephalopterus penduliger,EC,Reserva La Chacra,Pichincha,3,0.086016,-78.943665,865,10,2020
+2655346714,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2019
+2097463603,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,8,2017
+3689323713,Cephalopterus penduliger,EC,Fincalegre Senderos y Camino al río Pachijal.,Pichincha,1,0.103043,-78.95069,811,12,2021
+822953928,Cephalopterus penduliger,EC,23 de junio,Pichincha,4,0.100174,-78.863716,1321,12,2012
+2189545402,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,12,-0.05492,-78.86113,1540,8,2018
+3217004862,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2020
+3657719739,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2016
+2203710763,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,11,2018
+2133391804,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+2192979400,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,7,2018
+3657160752,Cephalopterus penduliger,EC,Fincalegre Senderos y Camino al río Pachijal.,Pichincha,1,0.103043,-78.95069,811,12,2021
+1151350293,Cephalopterus penduliger,EC,Ecuador -- 23 Junio,Pichincha,8,-0.0332,-78.87831,1112,1,2014
+1756006482,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,9,2013
+3255978590,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,4,-0.209499,-78.94825,758,1,2020
+2187763012,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,8,2018
+2762295941,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2019
+2772275496,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,6,2018
+2765792493,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+3285357510,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2010
+3252657270,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+959771790,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2013
+2211296339,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,12,2018
+1383183116,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,8,2015
+2114861846,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,12,2017
+2768283043,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,5,2019
+2111057449,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,12,2017
+2654312043,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2019
+2757463136,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,4,2019
+1390301707,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,9,2015
+3667464961,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2021
+2719423359,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2019
+3617254874,Cephalopterus penduliger,EC,Fincalegre Senderos y Camino al río Pachijal.,Pichincha,2,0.103043,-78.95069,811,12,2021
+3559885660,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,7,2021
+2094547450,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,8,2017
+2130254179,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2018
+3558066463,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2223210491,Cephalopterus penduliger,EC,"(0.026, -78.784)",Pichincha,1,0.025845,-78.78382,1496,12,2018
+2787585653,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,8,2015
+2693225392,Cephalopterus penduliger,EC,Mashpi Lodge,Pichincha,1,0.166176,-78.87795,937,5,2018
+2140208713,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+3673876706,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,12,2021
+2039325979,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,1,2017
+3559969438,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+3136474789,Cephalopterus penduliger,EC,"27 feb. 2020 13:42-0.186, -78.853",Pichincha,2,0.185777,-78.853455,1024,2,2020
+255756243,Cephalopterus penduliger,EC,June 23 Village,Pichincha,2,-0.074158,-78.89557,1614,10,2009
+1205891906,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,1,2012
+3244290072,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,1,2020
+2777442647,Cephalopterus penduliger,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,6,2002
+3684741318,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,9,2021
+2765771218,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,7,2019
+3132140865,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2020
+2037288372,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,2,2017
+2711112768,Cephalopterus penduliger,EC,"(-0.068, -78.879) la 23 de junio-lek",Pichincha,12,-0.067557,-78.87894,1427,8,2019
+1775476838,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,9,2012
+2762408722,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,11,2019
+2147280929,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+3644160358,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,14,-0.05492,-78.86113,1540,8,2021
+2166500896,Cephalopterus penduliger,EC,"Unnamed Road, Pichincha, EC (0.157, -78.884)",Pichincha,1,0.157106,-78.88421,734,5,2018
+2191345089,Cephalopterus penduliger,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2018
+2099018553,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2017
+3242391592,Cephalopterus penduliger,EC,"(-0.0677160, -78.8786662)",Pichincha,2,-0.067961,-78.879,1424,1,2020
+2222516850,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,12,2018
+3156459678,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,3,2020
+3582492679,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2021
+2087387853,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,8,2017
+3569459183,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,7,2021
+2113562706,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,12,2010
+3533718281,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,9,2021
+2692363476,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,8,2019
+2732958179,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2017
+3540967971,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2230417052,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,4,-0.046045,-78.8774,1219,11,2018
+3594560871,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,5,2021
+3208059164,Cephalopterus penduliger,EC,Mashpi lodge,Pichincha,1,0.165543,-78.878136,928,10,2020
+1400744008,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+3554915269,Cephalopterus penduliger,EC,Ecuador - Pichincha - Ecuador - Pichincha (0.1282296 - -78.99982363),Pichincha,1,0.12823,-78.999825,845,2,2010
+3528490113,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+2103488096,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+3194747679,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2018
+2093306168,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+3237025033,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2018
+2680293317,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+1384501589,Cephalopterus penduliger,EC,Finca Felipe Gonzales,Pichincha,2,-0.029081,-78.93259,931,7,2006
+3531644479,Cephalopterus penduliger,EC,Finca Mirador,Pichincha,2,-0.021343,-78.76339,1680,7,2021
+3663788339,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,12,2021
+2220666986,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,12,2018
+3149250736,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2020
+178841522,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2008
+2764348121,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2019
+3246629645,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0.06, -78.881)",Pichincha,3,-0.059612,-78.88074,1302,1,2020
+2168950482,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2018
+2764111077,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+2182887376,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2018
+2212445490,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2018
+2224894869,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2018
+961998349,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,5,2012
+3191714850,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,3,-0.209499,-78.94825,758,10,2020
+3663233674,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,12,2021
+2798337947,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2019
+2115745992,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,12,2017
+960062044,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2013
+2085329172,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,10,2017
+2119166107,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+1763646516,Cephalopterus penduliger,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2003
+2108667931,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,11,2017
+2109771034,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2011
+3568235523,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2021
+2160888153,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2009
+3218091141,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,4,-0.213096,-78.950676,741,1,2020
+2756143824,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,2,2019
+2789508891,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,3,-0.046045,-78.8774,1219,7,2019
+2789882576,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,5,2019
+2185876671,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,6,2018
+1776293742,Cephalopterus penduliger,EC,Reserva Pachijal,Pichincha,1,0.01591,-78.76735,1644,11,2016
+2160195673,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,6,2018
+1758540460,Cephalopterus penduliger,EC,"EC-Pichincha - -0,067x-78,879 - 31 de ago de 2016 18:40",Pichincha,1,-0.067226,-78.87918,1430,8,2016
+2762698790,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,6,2019
+2142939684,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,12,2017
+1791069158,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2008
+3135342217,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2020
+2185832965,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+3552638812,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,10,-0.05492,-78.86113,1540,7,2021
+2197802309,Cephalopterus penduliger,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,3,2018
+2045684942,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2017
+2772317351,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,7,2019
+1388529723,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,9,2015
+3557135385,Cephalopterus penduliger,EC,Kapari Natural Lodge,Pichincha,6,-0.001202,-78.94196,916,8,2021
+2751935461,Cephalopterus penduliger,EC,Reserva los Cedros,Imbabura,1,0.308752,-78.779396,1392,5,2019
+1175822420,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2012
+2129304861,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,4,2018
+2223153081,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,2,-0.024389,-78.76986,1647,12,2018
+2683072621,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,6,2019
+2224631015,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2018
+2714289233,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,9,2019
+3244531519,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2020
+3584394079,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.026559,-78.75939,1719,11,2021
+3289249631,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2020
+2230866397,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,7,2018
+3678493421,Cephalopterus penduliger,EC,"Finca Choibá, Mashpi",Pichincha,1,0.170965,-78.899445,552,12,2021
+2067535748,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,5,2017
+2166520800,Cephalopterus penduliger,EC,"Unnamed Road, Pichincha, EC (0.166, -78.878)",Pichincha,1,0.166055,-78.87805,932,5,2018
+2714152003,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,7,2019
+3250434290,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,10,2020
+2186658823,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,7,2018
+3173897225,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,9,2019
+2208492263,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,11,2018
+3298516831,Cephalopterus penduliger,EC,"Via 23 de Junio, San Miguel de Los Bancos EC-Province de Pichincha (-0,0326,-78,8779)",Pichincha,4,-0.032641,-78.8779,1106,2,2020
+2065620566,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,4,0.31026,-78.85736,1213,6,2017
+980315753,Cephalopterus penduliger,EC,23-de-Junio,Pichincha,2,-0.019138,-78.87858,1113,12,2012
+1182312515,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,7,2014
+2185062301,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,7,2018
+2134648840,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,1,2018
+3633463634,Cephalopterus penduliger,EC,"Auto selected -0.06274, -78.87783",Pichincha,5,-0.062739,-78.87782,1343,11,2021
+2085083856,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,7,2017
+3241691554,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,4,2020
+3294568501,Cephalopterus penduliger,EC,Milpe Reserve,Pichincha,1,0.03312,-78.86838,1126,1,2019
+3132056667,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,6,-0.046045,-78.8774,1219,1,2020
+2148378885,Cephalopterus penduliger,EC,"E28, Pichincha, EC (0,027, -78,863)",Pichincha,2,0.027243,-78.86252,1168,3,2018
+2654356917,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3279778145,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,2,0.195715,-78.872116,766,8,2020
+2222942699,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+2042081019,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,1,2017
+2076593603,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,8,2017
+2096257459,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2017
+3510439805,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2021
+3530945801,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2021
+2725238556,Cephalopterus penduliger,EC,Pichincha Province,Pichincha,1,-0.0704,-78.9999,740,10,2017
+2729192546,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,3,2019
+1772044414,Cephalopterus penduliger,EC,Finca Felipe Gonzales,Pichincha,2,-0.029081,-78.93259,931,7,2006
+1398114435,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,10,-0.03193,-78.87659,1117,11,2015
+2066548275,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2017
+3642316930,Cephalopterus penduliger,EC,"Mashpi Road Waterfall, Pacto, Pichincha",Pichincha,2,0.187426,-78.85537,1012,10,2021
+2047811510,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2017
+2770495144,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2019
+2107519799,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2017
+2657563315,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2019
+1782568388,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2016
+2660889780,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2019
+2799534322,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,7,2009
+3203151840,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0.027, -78.885)",Pichincha,2,-0.026911,-78.88483,1192,12,2020
+3575607766,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,12,2021
+3552275343,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2021
+3586860991,Cephalopterus penduliger,EC,"SF Pachijal Ruta CBC am Culunco a Chontilla, pm camin Pachijal",Pichincha,4,0.09645,-78.88752,964,12,2021
+3665015448,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,11,2021
+1786466220,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,8,2014
+3140309347,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2020
+3548313205,Cephalopterus penduliger,EC,La Torre Eco Lodge,Pichincha,2,0.204826,-78.96063,533,2,2012
+2148468629,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+3662142884,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2021
+2095839700,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,4,-0.046045,-78.8774,1219,11,2017
+3214627055,Cephalopterus penduliger,EC,Reserva Cascada Tatalá,Pichincha,1,0.092907,-78.941635,805,12,2020
+2743745067,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,8,2010
+3620736150,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,4,2021
+2229853266,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2007
+3678550712,Cephalopterus penduliger,EC,Vía a Un Poco del Choco 1300-1500 m,Pichincha,1,0.062162,-78.81135,1534,6,2021
+2704913647,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+2709263577,Cephalopterus penduliger,EC,Tran Inv Av NP-BPM,Pichincha,1,0.106712,-78.89075,1131,10,2019
+2053307712,Cephalopterus penduliger,EC,"Finca Proyecto Nakopa, 2km entrando en dirección al 23 de Junio",Pichincha,1,-0.013604,-78.902954,1011,4,2017
+3213630911,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,12,2017
+1723004227,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2016
+3689088735,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,4,2018
+3645031646,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,1,2018
+3534767468,Cephalopterus penduliger,EC,"Unnamed Road, Pichincha, EC (0,035, -78,871)",Pichincha,1,0.035258,-78.87064,1128,3,2021
+2087275427,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2017
+2113164249,Cephalopterus penduliger,EC,la 23 de junio,Pichincha,1,0.142304,-78.76712,1138,2,2018
+2225414978,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+2791286365,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2019
+966851889,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,9,2012
+3135544879,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+2654947373,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2019
+2169353820,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,5,2018
+178841720,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,8,2006
+3559331888,Cephalopterus penduliger,EC,Hotel Mashpi-Alrededor. By Jacqui Paladines,Pichincha,1,0.166072,-78.879326,921,9,2021
+3555816017,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,12,2021
+1206190783,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,11,2007
+2797064324,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,11,2019
+1405082614,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2015
+3260399191,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,1,2019
+1383201581,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,10,2013
+2779959186,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,11,2019
+1719704697,Cephalopterus penduliger,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+3669597805,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,8,2012
+2718330129,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,10,2015
+3612150164,Cephalopterus penduliger,EC,Alex PO,Pichincha,1,0.165965,-78.8785,932,5,2021
+2184621882,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,6,2018
+1752001870,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,7,2016
+2771441203,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2019
+2202366941,Cephalopterus penduliger,EC,"(-0.068, -78.879) la 23 de junio-lek",Pichincha,4,-0.067557,-78.87894,1427,11,2018
+3672959416,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+2050477738,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2017
+3664606456,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2021
+2800473634,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2019
+1198876485,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,11,2014
+2121354420,Cephalopterus penduliger,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+2788855617,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,7,2019
+2086487423,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,7,2017
+1206597129,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2007
+3657948373,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,10,-0.03193,-78.87659,1117,8,2021
+2778133935,Cephalopterus penduliger,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,10,2019
+2709448495,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,11,2019
+2724420210,Cephalopterus penduliger,EC,reserva Natural Mangaloma,Pichincha,1,0.106478,-78.98547,734,1,2010
+3290113562,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.209499,-78.94825,758,11,2020
+3580181693,Cephalopterus penduliger,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+2719502492,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2019
+3564857123,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,11,2021
+1752248782,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,7,2016
+2782875948,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,2,0.160629,-78.84993,1340,8,2019
+2232345366,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,12,2018
+3180079907,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2020
+3628177177,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,6,2021
+3529968632,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,9,2021
+3664153885,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+3276089288,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2007
+2733686998,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+1152851408,Cephalopterus penduliger,EC,Mindo 10' Cell,Pichincha,1,-0.08333,-78.75,1445,3,2013
+3223487099,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+2783988362,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2019
+1355900104,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,3,2015
+2799271213,Cephalopterus penduliger,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,10,2019
+2733851765,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2019
+980320274,Cephalopterus penduliger,EC,23-de-Junio,Pichincha,12,-0.019138,-78.87858,1113,12,2012
+2186147704,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,7,2018
+977530729,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2013
+2097080681,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,1,2013
+3650565446,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2021
+3239916074,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2020
+3635652461,Cephalopterus penduliger,EC,"Mashpi Road Waterfall, Pacto, Pichincha",Pichincha,2,0.187426,-78.85537,1012,10,2021
+2741984942,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,2,2019
+3147752129,Cephalopterus penduliger,EC,el dorado,Santo Domingo de los Tsáchilas,2,-0.294882,-78.92309,1282,1,2020
+3610815745,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+2094359052,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2083965494,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,8,2017
+3213675559,Cephalopterus penduliger,EC,Tandayapa Bird Lodge,Pichincha,1,0.003015,-78.67856,1776,12,2020
+2693950070,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,063, -78,878)",Pichincha,3,-0.062808,-78.87783,1343,8,2019
+2058334808,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2017
+2143930619,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2018
+3153795868,Cephalopterus penduliger,EC,"27 feb. 2020 5:08--0,053, -78,775",Pichincha,2,-0.053038,-78.77499,1253,2,2020
+2221253284,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2018
+3152827375,Cephalopterus penduliger,EC,"27 feb. 2020 13:42-0.186, -78.853",Pichincha,2,0.185777,-78.853455,1024,2,2020
+2757653555,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,6,-0.046045,-78.8774,1219,10,2019
+2661944014,Cephalopterus penduliger,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,1,0.20874,-78.73695,854,3,2019
+3580666500,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,10,-0.03193,-78.87659,1117,8,2021
+2039043907,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2017
+3551501876,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+3188575978,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2020
+2102081873,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,10,2017
+822849128,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2012
+2134693455,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,1,2018
+3585840627,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,12,2021
+3575366346,Cephalopterus penduliger,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+2227704222,Cephalopterus penduliger,EC,Silanche Rd. Continued,Pichincha,1,0.086283,-79.085,585,11,2018
+2094386694,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,8,2017
+2092849645,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,9,2017
+3291583250,Cephalopterus penduliger,EC,"Pichincha, EC (0.019, -78.836)",Pichincha,1,0.019499,-78.835655,1229,12,2020
+3638393366,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,11,2021
+3691866370,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,3,2013
+3570115132,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,12,2021
+211165888,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,11,2008
+3633262211,Cephalopterus penduliger,EC,"Unnamed Road, Pichincha, EC (0,035, -78,871)",Pichincha,1,0.035258,-78.87064,1128,3,2021
+2140277731,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2018
+2174575007,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,7,2018
+2737588706,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,5,2019
+1794331746,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,9,2007
+3824042509,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066459,-78.879005,1388,4,2022
+2225372128,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,4,0.166125,-78.878876,931,12,2018
+3246492431,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2020
+2134802196,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2017
+2109830052,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2017
+2796857949,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,7,2019
+3219254313,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2020
+2842062840,Cephalopterus penduliger,EC,Ecuador - Pichincha,,2,-0.067998,-78.880867,1412,8,2019
+3216065155,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,1,2014
+1761426799,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,9,2016
+3827214540,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.045621,-78.875511,1225,4,2022
+3573269099,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2021
+2686710848,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,7,2019
+3555574303,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,10,2021
+1390331790,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2015
+3141125257,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,1,2020
+1782229104,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,8,2016
+3213149549,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,12,2020
+3141956513,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+2196604303,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2018
+2753969712,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2019
+580656799,Cephalopterus penduliger,EC,Junio de 23,Pichincha,1,0.046692,-78.88939,1040,11,2010
+2748578941,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+2757498828,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,2,0.160629,-78.84993,1340,8,2019
+2759254616,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,3,0.05295,-78.84311,1177,12,2015
+2093877498,Cephalopterus penduliger,EC,Pachijal Drive,Pichincha,1,0.052958,-78.798325,1551,9,2017
+2658795101,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,5,-0.046045,-78.8774,1219,1,2019
+3221288891,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,1,2020
+3583974957,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,12,-0.05492,-78.86113,1540,11,2021
+3266644734,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,1,2020
+3573529258,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2021
+2192650830,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,6,2018
+2030724387,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,1,2017
+3559918467,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,8,2021
+3147335566,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2020
+1768356203,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+2661845734,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,1,2019
+3659560676,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,063, -78,878)",Pichincha,2,-0.063257,-78.87784,1351,12,2021
+3661853547,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,11,2021
+942732073,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2013
+1195293742,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,11,2014
+3586236202,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,2,0.1598,-78.8534,1302,12,2021
+2661156734,Cephalopterus penduliger,EC,Un poco del choco carretera acceso,Pichincha,1,0.071048,-78.802086,1727,1,2019
+2093071934,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+3634024911,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,4,2021
+3617150201,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+1776750895,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,11,2016
+2199146692,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,9,2018
+2720161505,Cephalopterus penduliger,EC,"23 de Junio (-0.0074, -78.9177)",Pichincha,1,-0.0074,-78.9177,987,2,2014
+2207803055,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,10,2018
+1181330726,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,7,2014
+3675061713,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+2182751125,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2018
+1355962000,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,3,2015
+2674102641,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,7,2013
+3561347250,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,10,2021
+2764879630,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+2694416837,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,8,2019
+1401142799,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,11,2015
+1352864298,Cephalopterus penduliger,EC,San Miguel de los Bancos--Reserva Ashiringa,Pichincha,1,0.017222,-78.888336,830,2,2015
+3172593782,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,8,2018
+1779137572,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,12,2016
+3652294183,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,10,2021
+3618882740,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,15,-0.046045,-78.8774,1219,11,2021
+3624751154,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+2169943832,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+2083524487,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,4,0.033327,-78.868454,1110,9,2017
+1743218510,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,6,2016
+2785725188,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,066, -78,879)",Pichincha,3,-0.066024,-78.87867,1397,9,2019
+2668614013,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2019
+1166875186,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,4,2014
+2715135568,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2019
+822634236,Cephalopterus penduliger,EC,Mangaloma Reserve,Pichincha,1,0.112778,-78.98972,692,3,2012
+1186071770,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,9,2012
+2799552733,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,12,2010
+2789117827,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,5,-0.046045,-78.8774,1219,11,2019
+2798376959,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2019
+3585334776,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2021
+2138041497,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2017
+1763657683,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2016
+2709439309,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+2233051975,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,12,2018
+1726008886,Cephalopterus penduliger,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2016
+2136502460,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2009
+2134044824,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,11,2017
+2132034878,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,1,2018
+3175074119,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,7,2020
+1779395932,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,12,2016
+2731684192,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,1,2019
+3555970199,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,9,2021
+2721033608,Cephalopterus penduliger,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,10,2019
+3662399251,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,8,2021
+2147007932,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2018
+3617204846,Cephalopterus penduliger,EC,Alex PO,Pichincha,1,0.165965,-78.8785,932,8,2021
+2762713870,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2010
+1206070696,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,3,2010
+2748829076,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+3655931093,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+2139246562,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2018
+2659780115,Cephalopterus penduliger,EC,"Umbrellabird Lek NAS(-0.0675,-78.8790)",Pichincha,2,-0.067541,-78.87902,1428,1,2019
+3694989044,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,10,2021
+2222978310,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,10,2018
+2775649987,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,9,2019
+1791406512,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2016
+3217015218,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,4,-0.213096,-78.950676,741,1,2020
+3209261313,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2012
+2099153029,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,10,2017
+582478686,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,2,2011
+2746219878,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2017
+2717466521,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+3265448478,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,2,2016
+2664184678,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2019
+2679067309,Cephalopterus penduliger,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2019
+3624873832,Cephalopterus penduliger,EC,"Recinto 23 De Julio San Miguel de los Bancos, Pichincha, EC (-0.066, -78.879)",Pichincha,1,-0.065667,-78.87914,1391,9,2021
+2130411393,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+3279324393,Cephalopterus penduliger,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+2232658638,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,5,0.122652,-78.99485,843,12,2018
+2135163116,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2018
+1190943798,Cephalopterus penduliger,EC,"Sachatamia Transecto impacto, Punto 5",Pichincha,1,-0.019,-78.749,1751,6,2003
+1718894399,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2016
+2695838364,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,8,2019
+3168389281,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,6,2020
+3140695015,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2020
+3145602511,Cephalopterus penduliger,EC,"(-0.0677160, -78.8786662)",Pichincha,2,-0.067961,-78.879,1424,1,2020
+1198910781,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,11,2014
+3172314089,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2019
+3693168556,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,8,2012
+2761360338,Cephalopterus penduliger,EC,Cabañas el Jardin del Quinde,Pichincha,1,0.039284,-78.87407,1111,11,2019
+3150443918,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,2,2020
+2099873162,Cephalopterus penduliger,EC,Mashpi Lodge,Pichincha,2,-0.054601,-78.77564,1253,10,2017
+1206109565,Cephalopterus penduliger,EC,Finca Felipe Gonzales,Pichincha,1,-0.029081,-78.93259,931,7,2008
+2659225913,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,5,0.05295,-78.84311,1177,9,2017
+3199849256,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,1,-0.026846,-78.885376,1197,12,2020
+2729909583,Cephalopterus penduliger,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2019
+1400017442,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,12,2015
+1385158624,Cephalopterus penduliger,EC,Ñanca Jatunmi lodge,Pichincha,2,0.012762,-78.76989,1600,2,2006
+3219662608,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+2172088966,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,6,2018
+3133444544,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,1,2020
+3186834677,Cephalopterus penduliger,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,2,-0.213096,-78.950676,741,11,2020
+2229642661,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,12,2018
+1775502447,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2016
+3582852353,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+3184585304,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,9,2020
+3655850109,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+2149278826,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,3,2018
+2703955732,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+3192766465,Cephalopterus penduliger,EC,Reserva La Chacra,Pichincha,7,0.072082,-78.95449,853,11,2020
+3280820433,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+2713042296,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2019
+2764628958,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2019
+3277172391,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,8,2020
+3582731650,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,9,2021
+3550004985,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,11,2021
+2092132866,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,11,2017
+2725391608,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,10,2015
+3298812511,Cephalopterus penduliger,EC,un poco del choco,Pichincha,1,0.052995,-78.84224,1191,1,2016
+2691228460,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,5,2019
+2118285719,Cephalopterus penduliger,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2017
+3569527304,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+2668232141,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2019
+3557807458,Cephalopterus penduliger,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2007
+3533856076,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,6,2021
+2676860411,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2019
+3144402193,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2020
+1773749587,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,10,2016
+2232661122,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+3144528594,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,2,2020
+2232659918,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,4,0.122652,-78.99485,843,12,2018
+580692862,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,8,2010
+2114870695,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,10,2017
+2683792504,Cephalopterus penduliger,EC,"EC-Pichincha-Quito (0,2231,-78,9016)",Pichincha,1,0.223089,-78.9016,589,5,2019
+3513814310,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,2,2021
+2181410242,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+3143076467,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,1,2020
+1747289118,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,6,2016
+3548275823,Cephalopterus penduliger,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,7,2021
+2109756526,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+582464250,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03439,-78.87947,1120,11,2011
+2089801396,Cephalopterus penduliger,EC,"-0.0666x-78.8790 - Jul 31, 2017, 6:40 AM",Pichincha,1,-0.066565,-78.879,1384,7,2017
+3264961995,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,3,0.31026,-78.85736,1213,5,2020
+1777621890,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,11,2016
+2721069537,Cephalopterus penduliger,EC,Cabañas el Jardin del Quinde,Pichincha,1,0.039284,-78.87407,1111,11,2019
+3232696215,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+2160359139,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,4,2018
+2048199598,Cephalopterus penduliger,EC,La Delicia--Guayabillas road (lower part below Mashpi turnoff),Pichincha,1,0.195715,-78.872116,766,1,2017
+3529810498,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+3215923275,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,1,-0.026846,-78.885376,1197,12,2020
+2087194176,Cephalopterus penduliger,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,10,2017
+2778660581,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,11,2017
+3686625781,Cephalopterus penduliger,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,7,2021
+2232664828,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+1206570927,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,7,2000
+2096785356,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,10,2017
+3264740921,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,11,2020
+1401836887,Cephalopterus penduliger,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2013
+2097341124,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,8,-0.046045,-78.8774,1219,10,2017
+2781291751,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,4,-0.03193,-78.87659,1117,8,2019
+3606752393,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,6,2021
+2723547295,Cephalopterus penduliger,EC,"23 de Junio (-0.035, -78.9265)",Pichincha,1,-0.035,-78.9265,873,2,2014
+1162182455,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,3,2014
+2169966430,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+1206953402,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2003
+1734912695,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,7,-0.03193,-78.87659,1117,1,2016
+3648699320,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,10,2021
+2705905464,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2019
+3569193295,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,9,2021
+2785628055,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,12,2019
+2754863474,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,4,-0.046045,-78.8774,1219,7,2019
+3297225323,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+2759127597,Cephalopterus penduliger,EC,Reserva Mashpi Shungo,Pichincha,1,0.18266,-78.91341,510,10,2019
+2659653817,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,2,2017
+3661209841,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,5,-0.05492,-78.86113,1540,10,2021
+2654037758,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+3694378750,Cephalopterus penduliger,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2021
+1753617923,Cephalopterus penduliger,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,12,2007
+580755599,Cephalopterus penduliger,EC,Nanegalito--road to Refugio Paz de las Aves,Pichincha,1,0.030906,-78.71834,1707,10,2010
+2231459963,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,11,2018
+1206108392,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,8,2010
+2193420318,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,1,0.160629,-78.84993,1340,7,2018
+2196747362,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,9,2018
+2030353674,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,1,2017
+2156686980,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2018
+2089094371,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,9,2017
+3542183913,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0.065, -78.878) Private Long Wattled Umbrella Bird Lek.",Pichincha,4,-0.065263,-78.8784,1383,11,2021
+1186798192,Cephalopterus penduliger,EC,San Francisco de Pachijal,Pichincha,1,-0.138702,-78.720474,2015,1,2014
+2080972985,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2017
+3138352186,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,2,2020
+1163717120,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,2,2014
+1208342942,Cephalopterus penduliger,EC,"Sachatamia Transecto impacto, Punto 5",Pichincha,2,-0.019,-78.749,1751,4,2003
+2663550644,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,3,2019
+2162533347,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2018
+1206194207,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,11,2011
+2755644792,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,5,2019
+2116484356,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+2130759774,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,4,2018
+2668141713,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,4,0.05295,-78.84311,1177,12,2015
+2722584334,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2015
+3573045592,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,10,2021
+1751893892,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,12,2015
+2789648872,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,2,0.05295,-78.84311,1177,7,2013
+2225005330,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,11,2018
+3646506850,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+2100439298,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,10,2017
+1385566785,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,9,2015
+2139652454,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+3261244068,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2018
+2104148741,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2017
+2072551114,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,5,2017
+1156567326,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,1,2014
+2200657895,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,6,2018
+3643950002,Cephalopterus penduliger,EC,Choco Toucan Reserve,Pichincha,1,0.038,-78.872,1114,8,2021
+2786716372,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,12,2019
+2678596791,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,5,2019
+3144751019,Cephalopterus penduliger,EC,23 de Junio village.,Pichincha,2,-0.039329,-78.871216,1185,2,2020
+2672611237,Cephalopterus penduliger,EC,Reserva Rio Manduriacu,Imbabura,2,0.267662,-78.89368,894,5,2019
+2725782513,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,10,2015
+2168661499,Cephalopterus penduliger,EC,"vía al valle, Pichincha, EC (-0.068, -78.879)23 de junio",Pichincha,2,-0.067553,-78.87887,1427,4,2018
+2713915085,Cephalopterus penduliger,EC,"San Miguel de los Bancos (-0.0139, -78.9118)",Pichincha,1,-0.0139,-78.9118,992,5,2018
+2189035730,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,8,-0.05492,-78.86113,1540,9,2018
+2083317293,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+1785950890,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,12,2016
+2093064305,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2231271358,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,12,2018
+582344667,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,2,2011
+3584873890,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,1,2011
+1180541020,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,3,2014
+2790016102,Cephalopterus penduliger,EC,Milpe Road,Pichincha,2,0.051764,-78.90251,1013,2,2004
+2233798827,Cephalopterus penduliger,EC,la 23 de junio,Pichincha,1,0.142304,-78.76712,1138,2,2018
+2232218168,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+3188329405,Cephalopterus penduliger,EC,Un Poco del Choco--Reserve & Field Station,Pichincha,1,0.05295,-78.84311,1177,10,2020
+1722397175,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,3,2016
+3659106466,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2021
+2768088777,Cephalopterus penduliger,EC,Mashpi--Entrance road before gate,Pichincha,2,0.160629,-78.84993,1340,8,2019
+3629601644,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,6,2021
+2225097394,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+3142908386,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,4,2020
+2127979985,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2017
+1748804502,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2010
+1760926889,Cephalopterus penduliger,EC,"Life Center, Mashpi",Pichincha,1,0.16593,-78.88818,836,9,2016
+2141627698,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+2706049225,Cephalopterus penduliger,EC,"Finca Luis Agila, 23 de Junio, Pichincha, EC (-0,063, -78,878)",Pichincha,6,-0.066988,-78.879105,1425,10,2019
+2753816227,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,6,2019
+2668665820,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,4,2019
+3143054523,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,2,2020
+3226470806,Cephalopterus penduliger,EC,Umbrellabird Lek Luis Ajila farm,Pichincha,2,-0.046045,-78.8774,1219,1,2020
+2799693044,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2019
+3686085965,Cephalopterus penduliger,EC,"Mashpi Road Waterfall, Pacto, Pichincha",Pichincha,2,0.187426,-78.85537,1012,10,2021
+1793051582,Cephalopterus penduliger,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,4,2014
+2723849733,Cephalopterus penduliger,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2017
+2706959466,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+3633454679,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,7,2021
+1361237193,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,4,-0.05492,-78.86113,1540,4,2015
+2218980097,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,2,2007
+2138867022,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2018
+1761031771,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,9,2016
+2146337052,Cephalopterus penduliger,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,3,2018
+1716801504,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2016
+2100788627,Cephalopterus penduliger,EC,"(-0,064, -78,878)",Pichincha,7,-0.063752,-78.87807,1347,10,2017
+3694868136,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,10,-0.03193,-78.87659,1117,8,2021
+2667743898,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,4,2019
+1400751446,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+1775133979,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,7,-0.05492,-78.86113,1540,11,2016
+2675650635,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182503,-78.91253,513,5,2019
+2793199944,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2019
+3554522826,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+2697363322,Cephalopterus penduliger,EC,"(-0.068, -78.879) la 23 de junio-lek",Pichincha,5,-0.067557,-78.87894,1427,9,2019
+3628957466,Cephalopterus penduliger,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,12,2021
+2030350496,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,1,2017
+2728295893,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,1,-0.05492,-78.86113,1540,1,2019
+211165873,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,9,2007
+3546960801,Cephalopterus penduliger,EC,"Umbrellabird lek, south of Recinto 23 de Junio",Pichincha,5,-0.067602,-78.87895,1427,6,2021
+2755988290,Cephalopterus penduliger,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,3,2019
+2114694480,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,2,0.166125,-78.878876,931,12,2017
+3236158167,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,2,2020
+3570016577,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,8,2021
+2145528688,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,6,-0.025148,-78.75798,1719,5,2018
+3275680089,Cephalopterus penduliger,EC,"Vía Blanca Nieves, Pichincha, EC (-0,027, -78,885)",Pichincha,4,-0.026846,-78.885376,1197,12,2020
+2216079398,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2018
+2033122453,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,1,2017
+2769959363,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,8,2019
+2136239280,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,4,2018
+2688938840,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,063, -78,878)",Pichincha,3,-0.062808,-78.87783,1343,8,2019
+1385166374,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,12,-0.03193,-78.87659,1117,9,2015
+1400744767,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,5,2006
+1395157503,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2015
+2045823778,Cephalopterus penduliger,EC,Los Bancos (Luis Agila Property),Pichincha,1,0.028582,-78.90104,1056,3,2017
+2657659492,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2019
+3539033735,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,6,2021
+3654445283,Cephalopterus penduliger,EC,"Auto selected -0.06279, -78.87777",Pichincha,5,-0.062786,-78.87778,1344,10,2021
+3233494645,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,2,2020
+822410898,Cephalopterus penduliger,EC,Recinto 23 de Junio--Ajilla family upper forest patch,Pichincha,1,-0.0707,-78.86697,1712,7,2012
+2201453369,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2018
+3628737674,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,3,2016
+2659890605,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2019
+3693254946,Cephalopterus penduliger,EC,ruta a la cascada La Sucia,Pichincha,1,0.009441,-78.894196,853,12,2021
+2661313872,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,2,2019
+2097660748,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,12,2017
+2187494301,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,9,2018
+1764019812,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,3,0.122652,-78.99485,843,7,2009
+2100498926,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,8,2017
+2082614195,Cephalopterus penduliger,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2017
+2097456076,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,8,2017
+2114164772,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2004
+3651382374,Cephalopterus penduliger,EC,"PACTO, PICHINCHA, EC (0.172, -78.901)",Pichincha,2,0.172188,-78.90093,560,12,2021
+2118391479,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,3,2018
+2707299339,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,2,-0.03193,-78.87659,1117,11,2019
+3669265381,Cephalopterus penduliger,EC,"San Miguel de los Bancos, Pichincha, EC (-0,063, -78,878)",Pichincha,2,-0.063257,-78.87784,1351,12,2021
+2791797825,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,11,-0.05492,-78.86113,1540,12,2019
+3613982231,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,6,-0.03193,-78.87659,1117,6,2021
+2215035239,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2018
+2170368438,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+2213166591,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+2103952542,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,11,2017
+2690094659,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,6,-0.05492,-78.86113,1540,7,2019
+2750858341,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,7,2019
+2219477135,Cephalopterus penduliger,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,9,2018
+2726651333,Cephalopterus penduliger,EC,"Mashpi Shungo Rainforest Biodiversity Reserve (0.166, -78.8777)",Pichincha,1,0.166,-78.8777,932,12,2017
+3575241989,Cephalopterus penduliger,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2021
+1206206387,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,11,-0.03193,-78.87659,1117,11,2014
+3824106969,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066459,-78.879005,1388,4,2022
+2735358644,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2017
+3620483932,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,12,2021
+3822712163,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.069348,-78.880341,1448,10,2021
+2710099615,Cephalopterus penduliger,EC,Hostería Ecolodge Latorre,Imbabura,1,0.260941,-78.94489,1006,2,2017
+2836342093,Cephalopterus penduliger,EC,Ecuador - Pichincha,,5,0.056131,-78.815715,1374,1,2016
+2243631371,Cephalopterus penduliger,EC,"Un Poco del Choco, Pichincha",,1,0.0736,-78.7685,1713,2,2015
+2243632116,Cephalopterus penduliger,EC,"Un Poco del Choco, Pichincha",,1,0.0736,-78.7685,1713,2,2015
+3635891182,Cephalopterus penduliger,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,11,2021
+2841408353,Cephalopterus penduliger,EC,Ecuador - Pichincha,,2,-0.067266,-78.878975,1427,4,2019
+2721021520,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,3,2018
+2799398721,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,5,-0.03193,-78.87659,1117,12,2019
+2844386418,Cephalopterus penduliger,EC,Ecuador - Pichincha,,5,-0.06765,-78.879097,1429,5,2019
+2748209312,Cephalopterus penduliger,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,3,2019
+2185778319,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,8,-0.03193,-78.87659,1117,7,2018
+3175997253,Cephalopterus penduliger,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,8,2020
+2756038521,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,10,2019
+3597055410,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2021
+2721496951,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,9,-0.05492,-78.86113,1540,11,2019
+3662993155,Cephalopterus penduliger,EC,Ruta a la Cascada La Sucia,Pichincha,1,0.001374,-78.906685,936,12,2021
+580657007,Cephalopterus penduliger,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2010
+3280750944,Cephalopterus penduliger,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,10,2020
+2833805559,Cephalopterus penduliger,EC,Ecuador - Pichincha,,5,-0.06765,-78.879097,1429,5,2019
+2778590184,Cephalopterus penduliger,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+2837361489,Cephalopterus penduliger,EC,Ecuador - Pichincha,,2,0.051261,-78.821869,1294,11,2016
+2841955573,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.051764,-78.902512,1013,3,2019
+3823392641,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066378,-78.879051,1388,4,2022
+2836203043,Cephalopterus penduliger,EC,Ecuador - Pichincha,,2,0.05783,-78.81463,1414,10,2016
+2844722310,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.055546,-78.815948,1370,2,2019
+3825591677,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.067299,-78.879066,1429,3,2022
+2841674485,Cephalopterus penduliger,EC,Ecuador - Pichincha,,3,-0.06764,-78.879021,1428,3,2019
+2843377049,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.066468,-78.879005,1387,11,2018
+4058351027,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.067501,-78.879,1428,2,2023
+2835808057,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.0103,-78.816605,1377,9,2012
+3826211934,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.045621,-78.875511,1225,4,2022
+3822692293,Cephalopterus penduliger,EC,Ecuador - Pichincha,,2,-0.067597,-78.878967,1428,10,2021
+3823751570,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.045638,-78.875381,1221,4,2022
+3597687289,Cephalopterus penduliger,EC,Recinto 23 de Junio--upper lek site,Pichincha,3,-0.05492,-78.86113,1540,6,2021
+2723553345,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,7,2019
+2651689720,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2015
+2105783312,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,3,0.166125,-78.878876,931,11,2017
+3822598600,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.067624,-78.878983,1428,3,2019
+3227531081,Cephalopterus penduliger,EC,San Jose Farm,Pichincha,1,-0.000663,-78.68726,2233,4,2020
+2698674658,Cephalopterus penduliger,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,10,2019
+2845614413,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.059052,-78.814802,1442,4,2019
+2836528312,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,0.052334,-78.820026,1288,10,2017
+2071407160,Cephalopterus penduliger,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,5,2017
+1404188486,Cephalopterus penduliger,EC,Finca Saloya,Pichincha,1,0.004944,-78.817604,1352,12,2015
+2797510513,Cephalopterus penduliger,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+3141191501,Cephalopterus penduliger,EC,Recinto 23 de Junio,Pichincha,3,-0.03193,-78.87659,1117,1,2020
+2832922771,Cephalopterus penduliger,EC,Ecuador - Pichincha,,4,0.064544,-78.805818,1647,2,2015
+3823063581,Cephalopterus penduliger,EC,Ecuador - Pichincha,,1,-0.045661,-78.875862,1233,4,2022

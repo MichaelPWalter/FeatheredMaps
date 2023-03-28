@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3564662601,Hemispingus frontalis,EC,Reserva las Tangaras,Pichincha,2,-0.077419,-78.76933,1427,7,2021
+2133033211,Hemispingus frontalis,EC,Mindo Lindo,Pichincha,1,-0.024389,-78.76986,1647,1,2018

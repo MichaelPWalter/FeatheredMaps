@@ -1,0 +1,14 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2243865434,Pseudocolaptes johnsoni,EC,"Mashpi Road, Pichincha",,1,0.1612,-78.8492,1366,6,2010
+3759900916,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.159767,-78.853134,1300,2,2022
+2244207180,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.159522,-78.856207,1251,3,2019
+3902362936,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.02154,-78.851025,1199,1,2018
+2882996138,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.161319,-78.8538,1318,9,2020
+2626148558,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.160925,-78.848425,1341,10,2019
+3873861319,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.021897,-78.6366,2247,6,2022
+4034916320,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.159931,-78.852886,1305,1,2023
+2883206614,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.118406,-78.61208,1883,9,2020
+4034656737,Pseudocolaptes johnsoni,EC,,Pichincha,1,0.159767,-78.853134,1300,12,2022
+2243651000,Pseudocolaptes johnsoni,EC,"Mashpi Road, Pichincha",,1,0.1612,-78.8492,1366,2,2014
+2243596141,Pseudocolaptes johnsoni,EC,"Reserva Las Tangaras, Mindo, Pichincha",,1,-0.081,-78.7679,1349,12,2013
+2243650430,Pseudocolaptes johnsoni,EC,"Mashpi Road, Pichincha",,1,0.1612,-78.8492,1366,2,2014

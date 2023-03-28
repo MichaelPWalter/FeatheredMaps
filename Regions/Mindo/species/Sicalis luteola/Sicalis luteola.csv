@@ -1,0 +1,481 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3535192900,Sicalis luteola,EC,"Carabuela general area, Otavalo",Imbabura,6,0.26843,-78.25228,2605,2,2021
+1398843044,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,11,2011
+2005362727,Sicalis luteola,EC,,Pichincha,1,-0.157016,-78.352691,2408,2,2019
+3682800486,Sicalis luteola,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,6,2018
+3166630424,Sicalis luteola,EC,Casa X,Pichincha,4,-0.283681,-78.46381,2458,5,2020
+256363325,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,3,0.004016,-78.488235,2852,1,2009
+1791813197,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2000
+3139349393,Sicalis luteola,EC,Casa X,Pichincha,5,-0.283681,-78.46381,2458,3,2020
+3519496033,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,1,2021
+3507732570,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+3661209576,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,29,0.209061,-78.23808,2659,10,2021
+3612130867,Sicalis luteola,EC,Areas between Quito and Yanacocha,Pichincha,10,-0.102763,-78.54394,3358,10,2021
+941155063,Sicalis luteola,EC,-0.0224x-78.3399,Pichincha,3,-0.022431,-78.339935,2135,2,2013
+980589033,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,1,-0.2238,-78.5133,2814,12,2013
+3264724651,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,6,2020
+2212358134,Sicalis luteola,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,9,2018
+1773124995,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,7,0.040374,-78.50293,2405,11,2016
+3582135269,Sicalis luteola,EC,Lago San Pablo,Imbabura,8,0.20874,-78.23227,2657,10,2021
+1757292320,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,8,2016
+844667618,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,8,-0.2238,-78.5133,2814,6,2012
+2136850250,Sicalis luteola,EC,Quito airport pond,Pichincha,10,-0.109842,-78.36495,2341,2,2018
+3257492468,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,7,2020
+3584672487,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,10,2021
+3151585343,Sicalis luteola,EC,Quito,Pichincha,3,-0.099572,-78.41707,2496,4,2020
+1175967136,Sicalis luteola,EC,Lago San Pablo,Imbabura,10,0.20874,-78.23227,2657,4,2012
+3146537903,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,3,2020
+3662387105,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,5,0.209061,-78.23808,2659,11,2021
+1190933211,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,5,0.000833,-78.355,2295,12,2009
+3152300863,Sicalis luteola,EC,Casa X,Pichincha,6,-0.283681,-78.46381,2458,5,2020
+1382964602,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,8,2015
+1770987459,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,2,2009
+1398951586,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2015
+2698587992,Sicalis luteola,EC,Itulcachi y alrededores,Pichincha,2,-0.268455,-78.34797,2662,7,2018
+1206612262,Sicalis luteola,EC,Lago San Pablo,Imbabura,5,0.20874,-78.23227,2657,4,2007
+3505208666,Sicalis luteola,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,1,2021
+1173577799,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,4,0.004016,-78.488235,2852,11,2012
+2655838075,Sicalis luteola,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,1,2019
+3245142823,Sicalis luteola,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,16,-0.272252,-78.30158,3158,7,2020
+2219678197,Sicalis luteola,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,9,2018
+1345790364,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,1,2015
+1196392048,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,6,2011
+3151967926,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,5,2020
+3689096828,Sicalis luteola,EC,Areas between Quito and Yanacocha,Pichincha,80,-0.102763,-78.54394,3358,11,2021
+3662681321,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,2,0.000833,-78.355,2295,7,2021
+3242667744,Sicalis luteola,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,16,-0.272252,-78.30158,3158,7,2020
+2711175071,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,2,2016
+2686696699,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,7,2019
+3692802262,Sicalis luteola,EC,Lago San Pablo,Imbabura,5,0.20874,-78.23227,2657,9,2021
+3641207242,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,10,2021
+2033251494,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,1,2017
+3191529489,Sicalis luteola,EC,Lago San Pablo,Imbabura,21,0.20874,-78.23227,2657,10,2020
+1205235218,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,5,2009
+1383146538,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,8,2015
+3294806231,Sicalis luteola,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,16,-0.272252,-78.30158,3158,7,2020
+3165559796,Sicalis luteola,EC,Casa X,Pichincha,6,-0.283681,-78.46381,2458,5,2020
+256551934,Sicalis luteola,EC,Mitad del Mundo,Pichincha,2,-0.002274,-78.4559,2475,10,2009
+3594556760,Sicalis luteola,EC,"Auto selected -0.16387, -78.42615",Pichincha,1,-0.163873,-78.42615,2425,4,2021
+2212719423,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2018
+1204877702,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,10,-0.2238,-78.5133,2814,3,2005
+3637293843,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,10,-0.111752,-78.584694,3528,11,2008
+3599858091,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,1,2021
+945456466,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,8,-0.2238,-78.5133,2814,6,2012
+3520167295,Sicalis luteola,EC,"Carabuela general area, Otavalo",Imbabura,4,0.26843,-78.25228,2605,4,2021
+3988528041,Sicalis luteola,EC,,Pichincha,1,-0.11796,-78.362791,2354,11,2022
+1206176772,Sicalis luteola,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,6,2008
+3515188250,Sicalis luteola,EC,Lago San Pablo,Imbabura,4,0.20874,-78.23227,2657,2,2021
+2131072676,Sicalis luteola,EC,Calacali scrub area,Pichincha,3,-0.017337,-78.51008,2833,2,2018
+2792921584,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,21,-0.087945,-78.59246,3158,8,2019
+599736499,Sicalis luteola,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,1,2010
+3146705916,Sicalis luteola,EC,Lago San Pablo,Imbabura,10,0.20874,-78.23227,2657,1,2020
+599863338,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2010
+601257218,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,11,2011
+1734963033,Sicalis luteola,EC,Cochasqui,Pichincha,20,0.059722,-78.29972,3006,5,2016
+1790055916,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,1,-0.2238,-78.5133,2814,12,2013
+2148953543,Sicalis luteola,EC,Alpachaca Hotel,Pichincha,2,-0.157406,-78.3496,2434,5,2018
+2116684419,Sicalis luteola,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,2,2018
+3223385673,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,4,2020
+3167574343,Sicalis luteola,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,16,-0.272252,-78.30158,3158,7,2020
+1719356986,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,2,2016
+2174996049,Sicalis luteola,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,6,2018
+3290508020,Sicalis luteola,EC,Colibrí Garden,Pichincha,15,-0.271118,-78.30196,3176,7,2020
+3648232880,Sicalis luteola,EC,"Calle Atahualpa, Imbabura, EC (0,193, -78,211)",Imbabura,1,0.193468,-78.21103,2662,9,2021
+3180037940,Sicalis luteola,EC,Quito--Parque La Alameda,Pichincha,1,-0.214297,-78.50238,2814,2,2018
+256656324,Sicalis luteola,EC,Quito--Parque Itchimbia,Pichincha,8,-0.225262,-78.499115,2832,4,2010
+1778276801,Sicalis luteola,EC,Quito airport pond,Pichincha,40,-0.109842,-78.36495,2341,12,2016
+3564117701,Sicalis luteola,EC,Lago San Pablo,Imbabura,19,0.20874,-78.23227,2657,9,2021
+2005362735,Sicalis luteola,EC,,Pichincha,1,-0.154996,-78.353328,2413,2,2019
+3673052928,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,2,2021
+1792253300,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,1,2003
+2779552084,Sicalis luteola,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,54,-0.10849,-78.561905,3450,9,2019
+3210415532,Sicalis luteola,EC,Santa Rosa Pesillo,Imbabura,6,0.182936,-78.08464,3119,11,2020
+3536504732,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,12,2006
+3566280441,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,5,0.000833,-78.355,2295,7,2021
+1344690628,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2015
+1793400843,Sicalis luteola,EC,Areas between Quito and Yanacocha,Pichincha,15,-0.102763,-78.54394,3358,7,2008
+3258786591,Sicalis luteola,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,16,-0.272252,-78.30158,3158,7,2020
+3302083878,Sicalis luteola,EC,,Pichincha,1,0.009428,-78.293412,2575,5,2021
+1771655515,Sicalis luteola,EC,Amaguaña Motocross Racetrack,Pichincha,1,-0.370212,-78.48784,2534,11,2002
+3693765925,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2021
+3150547200,Sicalis luteola,EC,Casa X,Pichincha,7,-0.283681,-78.46381,2458,5,2020
+2180904084,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,2,-0.2238,-78.5133,2814,2,2018
+2207566139,Sicalis luteola,EC,"Tierra Firme Vía a Cotacachi, Cotacachi, Provincia de Imbabura, EC (0.282, -78.253)",Imbabura,50,0.282069,-78.25344,2445,10,2018
+3159023853,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,6,2020
+3524239403,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,4,0.209061,-78.23808,2659,4,2021
+3156183409,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,3,2020
+2045868579,Sicalis luteola,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,3,2017
+1345833060,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,1,2015
+3237670764,Sicalis luteola,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,1,2020
+3234510418,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,3,2020
+1345492540,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2015
+1359826593,Sicalis luteola,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,4,2015
+3242846915,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,4,2020
+3559470684,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,20,-0.087945,-78.59246,3158,11,2021
+2220347094,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2018
+2206380878,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2018
+3205630901,Sicalis luteola,EC,"Hacienda Collaquí, Pichincha, EC (-0,169, -78,404)",Pichincha,2,-0.169074,-78.404106,2384,8,2020
+1719084432,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,2,2016
+2081229825,Sicalis luteola,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,5,2017
+3601422075,Sicalis luteola,EC,Lago San Pablo,Imbabura,3,0.20874,-78.22313,2657,2,2021
+2775411823,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2019
+1788881466,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2000
+3506569841,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,1,2021
+2226855037,Sicalis luteola,EC,san juan de malchingui,Pichincha,4,0.042645,-78.3771,2646,11,2018
+2078234154,Sicalis luteola,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,6,2017
+3232811438,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,4,-0.283654,-78.46401,2458,4,2020
+3179299382,Sicalis luteola,EC,Tumbaco y alrededores,Pichincha,1,-0.212411,-78.40462,2330,11,2006
+2205463467,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2018
+841245946,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2000
+3691079568,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+1354347407,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2015
+2118205283,Sicalis luteola,EC,Calacali scrub area,Pichincha,3,-0.017337,-78.51008,2833,2,2018
+843064228,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,1,2012
+3662818828,Sicalis luteola,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,8,2019
+1208332030,Sicalis luteola,EC,Quito--Parque Itchimbia,Pichincha,1,-0.225262,-78.499115,2832,5,2010
+1745001562,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,6,2016
+1721385051,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,3,2016
+3599947059,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+2695855553,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,21,-0.087945,-78.59246,3158,8,2019
+3180901634,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,5,2020
+2658196749,Sicalis luteola,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,2,2019
+3611561945,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,15,0.209061,-78.23808,2659,9,2021
+3611975025,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,8,0.209061,-78.23808,2659,11,2021
+2735093650,Sicalis luteola,EC,Nayon valleys and quebradas,Pichincha,2,-0.156892,-78.42721,2491,1,2019
+3681311364,Sicalis luteola,EC,Subida a Cotourco,Pichincha,20,-0.240845,-78.271645,3392,9,2021
+1754579731,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,8,2016
+256953838,Sicalis luteola,EC,Parque Itchimbia,Pichincha,1,-0.222301,-78.498856,2895,4,2008
+2207036440,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2008
+3570800375,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,14,0.209061,-78.23808,2659,9,2021
+3614966439,Sicalis luteola,EC,Lago San Pablo,Imbabura,14,0.20874,-78.23227,2657,9,2021
+2200953202,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2018
+2798820949,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,2,2016
+3518421160,Sicalis luteola,EC,"Auto selected -0.16622, -78.42493",Pichincha,2,-0.166222,-78.424934,2381,5,2021
+1345792633,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,1,2015
+1724042312,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2016
+3562540829,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,12,2021
+3551916071,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,5,2003
+3545412147,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+3149061351,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,4,2020
+2801139401,Sicalis luteola,EC,Nayon valleys and quebradas,Pichincha,6,-0.156892,-78.42721,2491,12,2019
+1783137138,Sicalis luteola,EC,Cañón del río San Pedro,Pichincha,7,-0.278455,-78.45154,2399,12,2016
+2054867919,Sicalis luteola,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,4,2017
+2672853890,Sicalis luteola,EC,Puembo Birding Garden,Pichincha,4,-0.165593,-78.36133,2422,2,2019
+1172985717,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,3,2013
+3676878220,Sicalis luteola,EC,San Patricio Alto Cumbayá,Pichincha,3,-0.213936,-78.45971,2596,5,2021
+3680919196,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,4,2021
+2180624726,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2018
+3162758182,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,4,2020
+3246036010,Sicalis luteola,EC,"Hacienda Collaquí, Pichincha, EC (-0,169, -78,404)",Pichincha,2,-0.169074,-78.404106,2384,8,2020
+1771490093,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2016
+2092209923,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,10,2017
+3270511371,Sicalis luteola,EC,Casa X,Pichincha,5,-0.283681,-78.46381,2458,5,2020
+2221320689,Sicalis luteola,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,6,-0.049224,-78.776825,1268,11,2018
+2114205931,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,6,2004
+3639736969,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+3208484906,Sicalis luteola,EC,Camino a la Mina de Sn Pedro,Pichincha,2,-0.174687,-78.41146,2253,12,2020
+1175965397,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,3,2012
+841501209,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,5,2006
+3241097447,Sicalis luteola,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,2,2020
+2054560419,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,5,2017
+3188286641,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2020
+3585502304,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+2178768438,Sicalis luteola,EC,Lago San Pablo,Imbabura,5,0.20874,-78.23227,2657,4,2007
+3238128347,Sicalis luteola,EC,"Alfonso Lamiña, Quito EC-Pichincha -0.22350, -78.44949",Pichincha,1,-0.223505,-78.44949,2421,5,2020
+2088015669,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,20,0.040374,-78.50293,2405,10,2017
+1794542440,Sicalis luteola,EC,Quito--Parque Metropolitano Guangüiltagua,Pichincha,10,-0.182604,-78.4671,2928,6,2014
+3145030393,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,3,2020
+2701869344,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3685031034,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,38,0.209061,-78.23808,2659,9,2021
+3228670523,Sicalis luteola,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,5,2020
+1711013739,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2016
+3632509882,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,26,0.209061,-78.23808,2659,9,2021
+2132968422,Sicalis luteola,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,1,2018
+3618139892,Sicalis luteola,EC,"San Rafael, Imbabura, EC (0,203, -78,237)",Imbabura,1,0.2027,-78.23654,2658,3,2021
+2224499307,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2018
+1206149681,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,8,2010
+2659343500,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,2,2019
+1781696954,Sicalis luteola,EC,Pululahua Hostal,Pichincha,20,0.033814,-78.48593,2504,12,2016
+3541117498,Sicalis luteola,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,3,2021
+3165476582,Sicalis luteola,EC,"Luis Felipe Borja, Quito EC-Pichincha -0.28329, -78.46459",Pichincha,1,-0.283287,-78.46459,2456,5,2020
+3684229962,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,4,2021
+3584916438,Sicalis luteola,EC,Guagua Pichincha--road and trail to top of volcano,Pichincha,5,-0.203755,-78.58956,3802,10,2021
+2703186029,Sicalis luteola,EC,"Via Alóag Santo Domingo, Provincia de Santo Domingo de los Tsáchilas, EC (-0.317, -79.012)",Santo Domingo de los Tsáchilas,1,-0.316829,-79.012314,710,10,2019
+1748455449,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,7,2016
+3679066991,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+3627953732,Sicalis luteola,EC,yanacocha reserve,Pichincha,75,-0.111738,-78.584854,3530,11,2021
+2796573749,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,11,2019
+1714128181,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,20,-0.111752,-78.584694,3528,2,2016
+2664606018,Sicalis luteola,EC,Quito Airport Suites Hotel,Pichincha,7,-0.154892,-78.34993,2429,2,2019
+2787174822,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,32,-0.087945,-78.59246,3158,9,2019
+1724092227,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2016
+256276627,Sicalis luteola,EC,Otavalo--general area,Imbabura,12,0.234403,-78.25862,2529,11,2008
+2116156166,Sicalis luteola,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2017
+2800807045,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,12,2019
+599686686,Sicalis luteola,EC,Miravalle II,Pichincha,1,-0.186714,-78.44559,2499,9,2009
+2037915245,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2017
+2716019880,Sicalis luteola,EC,Cañón del río San Pedro,Pichincha,7,-0.278455,-78.45154,2399,12,2016
+2043033698,Sicalis luteola,EC,Quito airport pond,Pichincha,7,-0.109842,-78.36495,2341,4,2017
+3638510293,Sicalis luteola,EC,San Patricio Alto Cumbayá,Pichincha,4,-0.213936,-78.45971,2596,5,2021
+3172239838,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2020
+3238995469,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,1,-0.283654,-78.46401,2458,1,2020
+3599651241,Sicalis luteola,EC,"lago san pablo Road, Eugenio Espejo, Provincia de Imbabura, EC (0.216, -78.237)",Imbabura,2,0.215564,-78.237366,2659,5,2021
+2081542977,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,9,2017
+3590937940,Sicalis luteola,EC,"San Rafael, Imbabura, EC (0,203, -78,237)",Imbabura,1,0.2027,-78.23654,2658,3,2021
+3694096931,Sicalis luteola,EC,Areas between Quito and Yanacocha,Pichincha,80,-0.102763,-78.54394,3358,11,2021
+2743625293,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2670247843,Sicalis luteola,EC,Quito airport pond,Pichincha,10,-0.109842,-78.36495,2341,1,2019
+3265555519,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,3,2020
+2223629197,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2016
+2125799766,Sicalis luteola,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,3,2018
+3279814702,Sicalis luteola,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,2,2018
+1782124637,Sicalis luteola,EC,Los Algarrobos EC-Pichincha-Quito - -0.207x-78.424 - 31 dic. 2016 07:10,Pichincha,1,-0.206948,-78.42434,2277,12,2016
+1205366610,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,25,0.000833,-78.355,2295,1,2009
+3580977030,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,12,2021
+2218422696,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2018
+3151498903,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,5,2020
+1359329418,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2015
+1380846454,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,8,2015
+3218309455,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,1,-0.283654,-78.46401,2458,1,2020
+2123498068,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,1,0.000833,-78.355,2295,12,2005
+3524132934,Sicalis luteola,EC,"Auto selected -0.16405, -78.43126",Pichincha,1,-0.164048,-78.43126,2438,6,2021
+2708560798,Sicalis luteola,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2017
+2773113389,Sicalis luteola,EC,Mindo--Las Terrazas de Dana Lodge,Pichincha,2,-0.062843,-78.76957,1277,6,2019
+3637980253,Sicalis luteola,EC,"Vía a Malchingui, Pichincha, EC (0.032, -78.303)",Pichincha,2,0.031655,-78.30296,2756,6,2021
+3631402208,Sicalis luteola,EC,"Unnamed Road, Eugenio Espejo, Imbabura, EC (0.209, -78.238)",Imbabura,1,0.2091,-78.23812,2659,3,2021
+1190857841,Sicalis luteola,EC,Quito--Reservorio de Cumbayá,Pichincha,3,-0.193,-78.426834,2354,12,2009
+256462710,Sicalis luteola,EC,Lago San Pablo,Imbabura,18,0.20874,-78.23227,2657,1,2009
+2726326181,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2019
+2032631580,Sicalis luteola,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,1,2017
+3667461987,Sicalis luteola,EC,"Auto selected -0.16330, -78.42593",Pichincha,6,-0.1633,-78.425934,2420,4,2021
+2221215735,Sicalis luteola,EC,"Tierra Firme Vía a Cotacachi, Cotacachi, Provincia de Imbabura, EC (0.282, -78.253)",Imbabura,50,0.282069,-78.25344,2445,10,2018
+2141497600,Sicalis luteola,EC,Mitad del Mundo,Pichincha,2,-0.002274,-78.4559,2475,3,2018
+2654227215,Sicalis luteola,EC,Mindo,Pichincha,2,-0.054016,-78.77367,1257,1,2019
+2101034274,Sicalis luteola,EC,Mindo--Las Mariposas,Pichincha,1,-0.045619,-78.77948,1300,8,2006
+3572794640,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,6,0.209061,-78.23808,2659,8,2021
+3246251828,Sicalis luteola,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,2,2018
+3235534738,Sicalis luteola,EC,"La Armenia II, Quito, Pichincha, EC (-0,279, -78,461)",Pichincha,1,-0.279385,-78.461,2455,5,2020
+2685191773,Sicalis luteola,EC,Parque Metropolitano del Sur,Pichincha,4,-0.32255,-78.509544,2864,5,2019
+1724036228,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2016
+2793280469,Sicalis luteola,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,54,-0.10849,-78.561905,3450,9,2019
+1200033439,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,12,2014
+1407001471,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,4,-0.000687,-78.51512,2811,6,2004
+1190986028,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,12,2009
+963004491,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,1,-0.2238,-78.5133,2814,1,2006
+2787575144,Sicalis luteola,EC,Parque Metropolitano del Sur,Pichincha,1,-0.32255,-78.509544,2864,2,2013
+3182700583,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,4,0.199889,-78.2337,2660,10,2020
+3155665780,Sicalis luteola,EC,Casa X,Pichincha,4,-0.283681,-78.46381,2458,4,2020
+256963359,Sicalis luteola,EC,Parque Itchimbia,Pichincha,1,-0.222301,-78.498856,2895,4,2008
+3607531178,Sicalis luteola,EC,Areas between Quito and Yanacocha,Pichincha,80,-0.102763,-78.54394,3358,11,2021
+1372172029,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,6,2015
+3573397634,Sicalis luteola,EC,Cochasqui,Pichincha,10,0.059722,-78.29972,3006,10,2021
+3512951209,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,4,2021
+2779489519,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,32,-0.087945,-78.59246,3158,9,2019
+2033372341,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,1,2017
+2680748235,Sicalis luteola,EC,Parque Metropolitano del Sur,Pichincha,4,-0.32255,-78.509544,2864,5,2019
+3155238277,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,5,2020
+2799568311,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,11,2019
+2655689026,Sicalis luteola,EC,"Hacienda La JIMENITA Pichincha, EC",Pichincha,1,-0.23489,-78.34969,2592,1,2019
+2123323529,Sicalis luteola,EC,Calacali scrub area,Pichincha,3,-0.017337,-78.51008,2833,2,2018
+1786573394,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,1,2012
+3600979190,Sicalis luteola,EC,"Luis Cordero, Quito EC-Pichincha -0.15707, -78.42717",Pichincha,3,-0.157071,-78.42717,2490,2,2021
+3511049980,Sicalis luteola,EC,Lago San Pablo,Imbabura,7,0.20874,-78.23227,2657,4,2021
+2100193222,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,10,2017
+2132297360,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,2,2018
+3512914599,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,4,2021
+3583698061,Sicalis luteola,EC,Cochasqui,Pichincha,10,0.059722,-78.29972,3006,10,2021
+3535189185,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,10,2021
+3266692202,Sicalis luteola,EC,Casa X,Pichincha,4,-0.283681,-78.46381,2458,5,2020
+1721764003,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,3,2016
+3510541726,Sicalis luteola,EC,"Auto selected -0.16355, -78.42600",Pichincha,50,-0.163551,-78.425995,2421,3,2021
+3582224791,Sicalis luteola,EC,Cochasqui,Pichincha,10,0.059722,-78.29972,3006,10,2021
+2213124609,Sicalis luteola,EC,Hacienda Rumiloma,Pichincha,2,-0.176159,-78.53123,3343,11,2018
+2095344989,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,10,2017
+2127535096,Sicalis luteola,EC,Cañon del Río San Pedro_ Armenia(Conocoto),Pichincha,1,-0.273812,-78.452995,2414,12,2017
+978212997,Sicalis luteola,EC,Otavalo--general area,Imbabura,2,0.234403,-78.25862,2529,5,2009
+2006038759,Sicalis luteola,EC,,Pichincha,1,-0.154978,-78.35335,2413,2,2019
+3510785727,Sicalis luteola,EC,"Auto selected -0.16353, -78.42324",Pichincha,1,-0.16353,-78.42324,2395,4,2021
+1732752374,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,5,2016
+844127451,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,8,-0.2238,-78.5133,2814,6,2012
+3545453587,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,1,2021
+2032624071,Sicalis luteola,EC,Quito airport pond,Pichincha,30,-0.109842,-78.36495,2341,1,2017
+953915560,Sicalis luteola,EC,"Calacali Racetrack, Caspigasi",Pichincha,1,0.004978,-78.48363,2715,2,2011
+3988483055,Sicalis luteola,EC,,Pichincha,1,-0.11796,-78.362791,2354,11,2022
+3521146389,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+2873724382,Sicalis luteola,EC,,Imbabura,1,0.221764,-78.230351,2662,1,2020
+2005362758,Sicalis luteola,EC,,Pichincha,1,-0.156536,-78.352878,2416,2,2019
+2787658305,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,5,2015
+4006572650,Sicalis luteola,EC,,Pichincha,1,-0.11796,-78.362791,2354,11,2022
+2788020490,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,7,2019
+2137220400,Sicalis luteola,EC,Mindo--Las Mariposas,Pichincha,1,-0.045619,-78.77948,1300,8,2006
+1195926933,Sicalis luteola,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,11,2014
+978208498,Sicalis luteola,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,5,2009
+1195735151,Sicalis luteola,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,11,2014
+1398821274,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,11,2011
+3609539605,Sicalis luteola,EC,Cachiviro y pantanos,Imbabura,4,0.197754,-78.22119,2658,3,2021
+2763090244,Sicalis luteola,EC,"Mariscal Sucre International Airport, Quito EC-Pichincha (-0.1242,-78.3616)",Pichincha,3,-0.124178,-78.36156,2371,5,2019
+2227567740,Sicalis luteola,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2018
+1151349147,Sicalis luteola,EC,Ecuador -- Bosque Protetator Jerusalen,Pichincha,3,0.000687,-78.364105,2328,1,2014
+3257628117,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,3,2020
+3166445981,Sicalis luteola,EC,"157 Leonidas Proaño, Quito, Pichincha, EC (-0.102, -78.436)",Pichincha,6,-0.102407,-78.4359,2654,5,2020
+2686416293,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2110804762,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2018
+1205235673,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,50,0.000833,-78.355,2295,6,2009
+3280635574,Sicalis luteola,EC,Casa X,Pichincha,4,-0.283681,-78.46381,2458,10,2020
+1205366762,Sicalis luteola,EC,Chaupi Chupa,Pichincha,20,-0.169365,-78.41352,2157,12,2008
+2701876724,Sicalis luteola,EC,Hostería Rincon de Puembo,Pichincha,1,-0.173506,-78.36059,2437,9,2019
+2155403404,Sicalis luteola,EC,Calacali scrub area,Pichincha,3,-0.017337,-78.51008,2833,2,2018
+3565673073,Sicalis luteola,EC,"Huerto orgánico Nayon 0.16476, -78.42549",Pichincha,4,-0.16476,-78.42548,2416,12,2021
+3607224748,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,2,0.209061,-78.23808,2659,4,2021
+3295344621,Sicalis luteola,EC,Casa X,Pichincha,4,-0.283681,-78.46381,2458,3,2020
+1206059755,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2010
+3623207455,Sicalis luteola,EC,Cochapungo,Imbabura,1,0.197609,-78.21516,2658,9,2021
+2146851077,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,3,2018
+3180354930,Sicalis luteola,EC,Casa X,Pichincha,5,-0.283681,-78.46381,2458,6,2020
+3161420191,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,5,2020
+3259770116,Sicalis luteola,EC,Nayón y alrededores,Pichincha,4,-0.158274,-78.439384,2595,12,2020
+3689303540,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+2143389071,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,3,2018
+3225299476,Sicalis luteola,EC,Quito,Pichincha,2,-0.099572,-78.41707,2496,4,2020
+3581045458,Sicalis luteola,EC,"Unnamed Road, Pichincha, EC (-0.107, -78.586)",Pichincha,17,-0.1068,-78.585815,3463,9,2021
+1788653520,Sicalis luteola,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,2,2009
+1773690799,Sicalis luteola,EC,Quito airport pond,Pichincha,20,-0.109842,-78.36495,2341,11,2016
+3651459555,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,12,2021
+2044602785,Sicalis luteola,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,2,2017
+3172363145,Sicalis luteola,EC,Casa X,Pichincha,8,-0.283681,-78.46381,2458,5,2020
+1772155542,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,11,2016
+974394664,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,5,0.000833,-78.355,2295,11,2013
+3175081432,Sicalis luteola,EC,"Luis Felipe Borja, Quito EC-Pichincha -0.28352, -78.46440",Pichincha,1,-0.283525,-78.46439,2457,5,2020
+3561286843,Sicalis luteola,EC,"Nayon vulture vally -0.16637, -78.42317",Pichincha,10,-0.16637,-78.42317,2343,7,2021
+3582529093,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+3263264860,Sicalis luteola,EC,"Calle Luis Stacey Guzman, Pichincha, EC (-0,169, -78,404)",Pichincha,1,-0.169074,-78.404106,2384,12,2020
+3666812039,Sicalis luteola,EC,"Via Araque, San Rafael",Imbabura,1,0.192207,-78.21235,2661,9,2021
+3552850343,Sicalis luteola,EC,"Carabuela general area, Otavalo",Imbabura,10,0.26843,-78.25228,2605,8,2021
+600917150,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,2,-0.000687,-78.51512,2811,3,2011
+3590918978,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,3,2021
+2726570263,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,2,-0.000687,-78.51512,2811,10,2000
+2099588579,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,20,0.040374,-78.50293,2405,10,2017
+1195751627,Sicalis luteola,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,11,2014
+2795386018,Sicalis luteola,EC,"Alpachaca, Quito EC-Pichincha (-0.1327,-78.3593)",Pichincha,1,-0.13273,-78.35929,2391,12,2019
+1150751002,Sicalis luteola,EC,Quito Teleferiqo,Pichincha,2,-0.188183,-78.53542,3933,1,2014
+1786747705,Sicalis luteola,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2015
+954042183,Sicalis luteola,EC,"Calacali Racetrack, Caspigasi",Pichincha,1,0.004978,-78.48363,2715,2,2011
+2224453052,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2018
+3596736897,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+3230711578,Sicalis luteola,EC,"Av. Principal, Pichincha, EC (-0.341, -78.537)",Pichincha,2,-0.340992,-78.536804,2987,2,2020
+3238897579,Sicalis luteola,EC,"Hacienda Collaquí, Pichincha, EC (-0,169, -78,404)",Pichincha,27,-0.169074,-78.404106,2384,5,2020
+2657793688,Sicalis luteola,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,2,2019
+1205366715,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,50,0.000833,-78.355,2295,1,2009
+3176042791,Sicalis luteola,EC,Hipódromo Calacalí (horse racetrack),Pichincha,1,0.001373,-78.484436,2721,4,2015
+2192515556,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2018
+2655424888,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2019
+3531713133,Sicalis luteola,EC,Quito Airport Scrub,Pichincha,6,-0.126169,-78.36331,2370,6,2021
+600944126,Sicalis luteola,EC,Calacali Hippodrome,Pichincha,12,0.001373,-78.484436,2721,2,2011
+3590508333,Sicalis luteola,EC,"Unnamed Road, Imbabura, EC (0.197, -78.224)",Imbabura,10,0.197188,-78.224304,2662,3,2021
+3692094499,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,12,2021
+1175955370,Sicalis luteola,EC,Lago San Pablo,Imbabura,10,0.20874,-78.23227,2657,3,2012
+3659180523,Sicalis luteola,EC,Reserva Zuro Loma,Pichincha,30,-0.088671,-78.599754,3108,11,2021
+2139827701,Sicalis luteola,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,3,2018
+3185221884,Sicalis luteola,EC,"La Armenia II--0,279, -78,461",Pichincha,1,-0.279385,-78.461,2455,5,2020
+936686233,Sicalis luteola,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,2,-0.09409,-78.556305,3208,11,2011
+841449977,Sicalis luteola,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,1,0.022492,-78.50228,3043,1,2006
+3230676943,Sicalis luteola,EC,Casa X,Pichincha,3,-0.283681,-78.46381,2458,5,2020
+3264793865,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,2,-0.283654,-78.46401,2458,3,2020
+2091341587,Sicalis luteola,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,10,2017
+3246210733,Sicalis luteola,EC,Casa X,Pichincha,6,-0.283681,-78.46381,2458,4,2020
+2713735600,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2000
+3133764520,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,1,-0.283654,-78.46401,2458,1,2020
+3548008371,Sicalis luteola,EC,"Auto selected -0.16688, -78.42053",Pichincha,1,-0.166883,-78.42053,2343,2,2021
+2123617772,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,12,2005
+2721436215,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,4,0.199889,-78.2337,2660,11,2019
+2780384086,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,11,2019
+2064997427,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,4,0.004016,-78.488235,2852,5,2017
+2107554594,Sicalis luteola,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,11,2017
+937079626,Sicalis luteola,EC,Parque Condor (Somewhere in Otavalo),Imbabura,4,0.226979,-78.27227,2602,3,2012
+3532112974,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,5,2021
+3139427131,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2020
+2205856600,Sicalis luteola,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2018
+3224953502,Sicalis luteola,EC,Lotización La Armenia--Conocoto,Pichincha,1,-0.283654,-78.46401,2458,1,2020
+2226844764,Sicalis luteola,EC,Hostería El Carmelo de Mindo,Pichincha,1,-0.058923,-78.779655,1238,9,2018
+3668218511,Sicalis luteola,EC,Lago San Pablo,Imbabura,2,0.213451,-78.23913,2664,12,2021
+2660673915,Sicalis luteola,EC,Quito airport pond,Pichincha,10,-0.109842,-78.36495,2341,2,2019
+1206060694,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,5,0.004016,-78.488235,2852,7,2008
+183467878,Sicalis luteola,EC,Otavalo area,Imbabura,1,0.235347,-78.24343,2733,3,2007
+3225498109,Sicalis luteola,EC,Casa X,Pichincha,1,-0.283681,-78.46381,2458,4,2020
+256540195,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,200,-0.111752,-78.584694,3528,8,2008
+2797013924,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,11,2019
+271878782,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,10,-0.111752,-78.584694,3528,8,2005
+3661474303,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,6,0.209061,-78.23808,2659,12,2021
+3158263842,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,4,2020
+2040605867,Sicalis luteola,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,1,2017
+1195927847,Sicalis luteola,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,11,2014
+3575236542,Sicalis luteola,EC,Cochasqui,Pichincha,10,0.059722,-78.29972,3006,10,2021
+2106893352,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,20,0.040374,-78.50293,2405,10,2017
+3293503172,Sicalis luteola,EC,"Hacienda Collaquí, Pichincha, EC (-0,169, -78,404)",Pichincha,1,-0.169074,-78.404106,2384,6,2020
+3541787828,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,3,0.199889,-78.2337,2660,1,2021
+3143962748,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,4,2020
+3691109321,Sicalis luteola,EC,"Vía a Malchingui, Pichincha, EC (0.032, -78.303)",Pichincha,2,0.031655,-78.30296,2756,6,2021
+601070534,Sicalis luteola,EC,Calacali Hippodrome,Pichincha,25,0.001373,-78.484436,2721,2,2011
+1379062783,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,8,-0.111752,-78.584694,3528,7,2015
+3199971907,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2020
+3561037709,Sicalis luteola,EC,Guayllabamba--vicinity,Pichincha,3,-0.059051,-78.34565,2137,11,2007
+2107027509,Sicalis luteola,EC,"(0.035, -78.493) Pululahua",Pichincha,20,0.035036,-78.49345,2588,10,2017
+1380732531,Sicalis luteola,EC,Hacienda Zuleta (parroquia: Angochaga),Imbabura,1,0.2,-78.09,2884,4,2002
+941295303,Sicalis luteola,EC,Parque Itchimbia,Pichincha,1,-0.222301,-78.498856,2895,4,2008
+1206619113,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,4,0.004016,-78.488235,2852,4,2007
+3586128856,Sicalis luteola,EC,"Intag, El Refugio",Imbabura,1,0.374728,-78.47623,1921,12,2021
+3533923651,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,2,0.000833,-78.355,2295,7,2021
+1783123685,Sicalis luteola,EC,Cañón del río San Pedro,Pichincha,7,-0.278455,-78.45154,2399,12,2016
+3691193700,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2021
+3622259954,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,4,2021
+2666880315,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,2,0.000833,-78.355,2295,1,2019
+3667020212,Sicalis luteola,EC,Lago San Pablo,Imbabura,7,0.20874,-78.23227,2657,10,2021
+3665915875,Sicalis luteola,EC,Camino viejo a Guallabamba,Pichincha,3,-0.093039,-78.38939,2174,2,2021
+3272192254,Sicalis luteola,EC,"Luis Felipe Borja, Quito EC-Pichincha -0.28356, -78.46438",Pichincha,7,-0.283563,-78.46438,2457,5,2020
+1206194870,Sicalis luteola,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,11,2011
+1348474091,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2015
+1398532928,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,11,2011
+965082517,Sicalis luteola,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,2,0.077382,-78.518135,1925,8,2013
+3194330332,Sicalis luteola,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,2,2018
+3183131154,Sicalis luteola,EC,Santa Rosa Pesillo,Imbabura,12,0.182936,-78.08464,3119,7,2020
+2696300786,Sicalis luteola,EC,Quito--Parque Metropolitano Guangüiltagua,Pichincha,10,-0.182604,-78.4671,2928,6,2014
+3168707520,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,5,2020
+1348682088,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2015
+3678450511,Sicalis luteola,EC,Casa X,Pichincha,2,-0.283681,-78.46381,2458,1,2021
+1783355475,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,6,-0.2238,-78.5133,2814,10,2013
+3285992339,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2007
+2659068045,Sicalis luteola,EC,Guagua Pichincha--road and trail to top of volcano,Pichincha,1,-0.203755,-78.58956,3802,1,2007
+1783136058,Sicalis luteola,EC,Cañón del río San Pedro,Pichincha,7,-0.278455,-78.45154,2399,12,2016
+3574431573,Sicalis luteola,EC,Cochasqui,Pichincha,10,0.059722,-78.29972,3006,10,2021
+2739042634,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2019
+3629484031,Sicalis luteola,EC,Lago San Pablo,Imbabura,8,0.20874,-78.23227,2657,10,2021
+1716831039,Sicalis luteola,EC,"Race Track -Calacalí EC-Pichincha-Quito - 0,005x-78,484",Pichincha,2,0.004672,-78.48357,2714,2,2016
+1794813412,Sicalis luteola,EC,Hosteria Rose Cottage,Imbabura,1,0.203075,-78.287285,2851,2,2011
+1190900045,Sicalis luteola,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,2,2011
+3672940021,Sicalis luteola,EC,"Unnamed Road, Pichincha, EC (-0.107, -78.586)",Pichincha,17,-0.1068,-78.585815,3463,9,2021
+3665808538,Sicalis luteola,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,3,2021
+1166834769,Sicalis luteola,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,4,2014
+2710792361,Sicalis luteola,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,7,2019
+2774881466,Sicalis luteola,EC,puembo birding garden,Pichincha,5,-0.165119,-78.3593,2423,9,2019
+1196283963,Sicalis luteola,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2014
+2696314893,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,32,-0.087945,-78.59246,3158,9,2019
+3243648079,Sicalis luteola,EC,Tumbaco y alrededores,Pichincha,1,-0.212411,-78.40462,2330,11,2006
+1719630222,Sicalis luteola,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,2,2016
+3663827656,Sicalis luteola,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,1,2004
+3536692141,Sicalis luteola,EC,Pantanal de Espejo,Imbabura,14,0.209061,-78.23808,2659,9,2021
+3299031850,Sicalis luteola,EC,Parque Lotización La Armenia (La Herradura)--Conocoto,Pichincha,1,-0.281323,-78.46237,2464,7,2020
+2666628395,Sicalis luteola,EC,Quito Airport Suites Hotel,Pichincha,2,-0.154892,-78.34993,2429,2,2019
+1837794284,Sicalis luteola,EC,,Pichincha,1,-0.01354,-78.35903,2302,3,2017
+2108460250,Sicalis luteola,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,11,2017
+3198466543,Sicalis luteola,EC,"José Miguel Guarderas, Quito, Pichincha, EC (-0.111, -78.415)",Pichincha,7,-0.111289,-78.414856,2606,8,2020
+3549505098,Sicalis luteola,EC,Bosque Protector Jerusalem,Pichincha,2,0.000833,-78.355,2295,7,2021
+3649411326,Sicalis luteola,EC,"Unnamed Road, Pichincha, EC (-0.107, -78.586)",Pichincha,8,-0.1068,-78.585815,3463,11,2021
+3389033986,Sicalis luteola,EC,Eine gemässigte Klimazona nördlich von Quito,,1,-0.170077,-78.466866,2880,11,2004
+2674421252,Sicalis luteola,EC,Nayon valleys and quebradas,Pichincha,1,-0.156892,-78.42721,2491,4,2019
+1202683449,Sicalis luteola,EC,Mitad del Mundo,Pichincha,2,-0.002274,-78.4559,2475,10,2009
+3685184515,Sicalis luteola,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,200,-0.087945,-78.59246,3158,12,2021
+2982198641,Sicalis luteola,EC,"Turubamaba Cerca de Planta de Tratamiento El Troje, Quito",,1,-0.3303,-78.522,3136,5,2019
+2243683736,Sicalis luteola,EC,Imbabura: Laguna San Pablo,,1,0.199,-78.23,2657,4,2003
+976050594,Sicalis luteola,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,1,-0.2238,-78.5133,2814,3,2005
+1397995769,Sicalis luteola,EC,"Lotización La Armenia, Charles Darwin",Pichincha,10,-0.28093,-78.46322,2465,11,2015
+3387999377,Sicalis luteola,EC,Wälder im Tandayapa Valley und Umgebung,,1,0.011335,-78.689766,2054,11,2004

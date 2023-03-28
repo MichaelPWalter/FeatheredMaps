@@ -1,0 +1,739 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2226697624,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+2574157012,Anas discors,EC,,Pichincha,1,-0.196157,-78.428112,2353,2,2020
+3456801202,Anas discors,EC,,Pichincha,1,-0.192999,-78.426306,2356,12,2021
+1205367377,Anas discors,EC,Lago San Pablo,Imbabura,200,0.20874,-78.23227,2657,11,2008
+2721044896,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+3573358314,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+1201366802,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+2210266891,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,35,-0.193,-78.426834,2354,10,2018
+2620089984,Anas discors,EC,,Pichincha,1,-0.193206,-78.427231,2350,3,2018
+3673185603,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+3509032512,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,2,2021
+3576067889,Anas discors,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,12,2016
+2194485357,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,4,-0.193,-78.426834,2354,10,2018
+3663224228,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+1759913807,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+3533451794,Anas discors,EC,Reservorio Guangopolo,Pichincha,10,-0.269851,-78.45281,2439,2,2021
+1195926921,Anas discors,EC,"Quito, Airport Pond",Pichincha,120,-0.106602,-78.36527,2341,11,2014
+2101440719,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,9,-0.193,-78.426834,2354,9,2017
+3694204657,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,12,-0.193,-78.426834,2354,11,2021
+2671496021,Anas discors,EC,Lago San Pablo,Imbabura,120,0.20874,-78.23227,2657,2,2019
+3683060753,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,170,-0.193,-78.426834,2354,12,2016
+2224627720,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2018
+2087495963,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,50,-0.193,-78.426834,2354,10,2017
+2183676280,Anas discors,EC,Lago San Pablo,Imbabura,4,0.20874,-78.23227,2657,11,2017
+2124514279,Anas discors,EC,Quito Airport Ponds,Pichincha,47,-0.109251,-78.36464,2343,2,2018
+3656991680,Anas discors,EC,"Tababela Reservoir, Quito Airport",Pichincha,8,-0.109721,-78.36531,2340,2,2017
+3664553966,Anas discors,EC,Reservorio Los Chillos,Pichincha,2,-0.379977,-78.41123,2802,7,2021
+3624722657,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,50,0.199889,-78.2337,2660,4,2021
+1175955331,Anas discors,EC,Lago San Pablo,Imbabura,50,0.20874,-78.23227,2657,3,2012
+2100064395,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+1767167771,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,33,-0.193,-78.426834,2354,10,2016
+2219913882,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,2,2018
+3189971522,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,2,2018
+938468632,Anas discors,EC,Rio Los Bancos,Pichincha,8,0.027123,-78.9069,1006,12,2011
+3202980986,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,10,2020
+3613695180,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+2658973106,Anas discors,EC,Quito airport pond,Pichincha,13,-0.109842,-78.36495,2341,2,2019
+2799020712,Anas discors,EC,"Via al Ilalo, Quito EC-Pichincha (-0,2362,-78,4060)",Pichincha,1,-0.236162,-78.40603,2620,12,2019
+1190824012,Anas discors,EC,Lagunas de Mojanda: Caricocha,Pichincha,2,0.13082,-78.25569,3694,2,2007
+1190986262,Anas discors,EC,Lago San Pablo,Imbabura,80,0.20874,-78.23227,2657,12,2012
+3232646477,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,1,2020
+3688331608,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,43,-0.193,-78.426834,2354,10,2021
+2084740037,Anas discors,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,10,2017
+2149799191,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,40,-0.193,-78.426834,2354,12,2017
+2715905953,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2019
+3219308640,Anas discors,EC,Reservorio Guangopolo,Pichincha,4,-0.269851,-78.45281,2439,3,2020
+1778276474,Anas discors,EC,Quito airport pond,Pichincha,44,-0.109842,-78.36495,2341,12,2016
+2116841449,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2018
+2787470645,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,150,-0.193,-78.426834,2354,12,2019
+1173885848,Anas discors,EC,Lago San Pablo,Imbabura,15,0.20874,-78.23227,2657,2,2014
+1348505067,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,205,-0.193,-78.426834,2354,2,2015
+3571629446,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3225499359,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,1,2020
+3666062676,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2021
+1201734284,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,10,2009
+2115713674,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2018
+3254154314,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,7,-0.193,-78.426834,2354,9,2020
+2220444947,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,10,2018
+3203308862,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,9,2020
+3608091258,Anas discors,EC,Muelle COCHAPUNGO,Imbabura,29,0.197203,-78.21448,2658,10,2021
+1203885047,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+1346724762,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2015
+2790674383,Anas discors,EC,Lago San Pablo,Imbabura,24,0.20874,-78.23227,2657,10,2019
+1773719389,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2016
+3179864506,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,9,2020
+3675955725,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,60,-0.193,-78.426834,2354,1,2021
+3688994850,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+2779981617,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+2114863208,Anas discors,EC,Quito airport pond,Pichincha,15,-0.109842,-78.36495,2341,10,2017
+2735255793,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2019
+3599696082,Anas discors,EC,Reservorio Guangopolo,Pichincha,9,-0.269851,-78.45281,2439,2,2021
+3667046298,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,60,-0.193,-78.426834,2354,3,2021
+3681834917,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+3512737899,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2720088648,Anas discors,EC,Reservorio de Cumbayá,Pichincha,80,-0.195326,-78.429794,2359,12,2019
+2790398727,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,20,-0.193,-78.426834,2354,10,2019
+1405419941,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2015
+3221384307,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,10,-0.193,-78.426834,2354,3,2020
+3674658853,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,50,0.199889,-78.2337,2660,4,2021
+1770479207,Anas discors,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,10,2016
+3505156048,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+1768046779,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,70,-0.193,-78.426834,2354,1,2012
+3629645802,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2744503110,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,4,2019
+2154567706,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,3,2018
+2097448658,Anas discors,EC,San Pablo Water Treatment,Imbabura,7,0.199145,-78.23432,2657,10,2017
+2220981618,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+1346135496,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,170,-0.193,-78.426834,2354,1,2015
+2746654745,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,2,2019
+1195735142,Anas discors,EC,"Quito, Airport Pond",Pichincha,80,-0.106602,-78.36527,2341,11,2014
+2036336240,Anas discors,EC,Quito airport pond,Pichincha,60,-0.109842,-78.36495,2341,2,2017
+3560577910,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+2038914550,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,182,-0.193,-78.426834,2354,1,2017
+3592122623,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,2,2021
+3524202353,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,3,2021
+1782477305,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,20,0.205291,-78.20698,2659,12,2016
+1348797794,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,200,-0.193,-78.426834,2354,2,2015
+2722323824,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,12,2019
+2734137384,Anas discors,EC,Quito airport pond,Pichincha,9,-0.109842,-78.36495,2341,2,2019
+3505695259,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,1,2021
+1723611575,Anas discors,EC,Lago San Pablo,Imbabura,15,0.20874,-78.23227,2657,3,2016
+3653797963,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,11,2021
+3183499544,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,7,-0.193,-78.426834,2354,9,2020
+3549142926,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,3,2021
+1783913417,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,4,2013
+3641487521,Anas discors,EC,"PACTO, PICHINCHA, EC (0.172, -78.901)",Pichincha,2,0.172188,-78.90093,560,12,2021
+2740882276,Anas discors,EC,Quito airport pond,Pichincha,9,-0.109842,-78.36495,2341,2,2019
+3613295954,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,11,2021
+2212417618,Anas discors,EC,Quito airport pond,Pichincha,9,-0.109842,-78.36495,2341,9,2018
+3573666820,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2706248446,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,10,2019
+3210468588,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,11,2020
+3673857250,Anas discors,EC,Reservorio Guangopolo,Pichincha,9,-0.269851,-78.45281,2439,2,2021
+1194545050,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,100,-0.193,-78.426834,2354,11,2014
+3505938747,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,3,-0.193,-78.426834,2354,1,2021
+3217941870,Anas discors,EC,Reservorio Guangopolo,Pichincha,7,-0.269851,-78.45281,2439,3,2020
+2029683809,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,150,0.199889,-78.2337,2660,1,2017
+2033364154,Anas discors,EC,Quito airport pond,Pichincha,60,-0.109842,-78.36495,2341,1,2017
+3240059263,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,3,2020
+1193892702,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,91,-0.193,-78.426834,2354,10,2014
+3152240394,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,3,2020
+1348848802,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,200,-0.193,-78.426834,2354,2,2015
+3258969385,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,9,2020
+2038276679,Anas discors,EC,Quito airport pond,Pichincha,8,-0.109842,-78.36495,2341,3,2017
+2663376713,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,30,0.199889,-78.2337,2660,3,2019
+1176036157,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,17,-0.193,-78.426834,2354,10,2011
+2102721858,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+1192437690,Anas discors,EC,Laguna de Cuicocha,Imbabura,2,0.30257,-78.36251,3069,10,2002
+3508143713,Anas discors,EC,Reservorio Guangopolo,Pichincha,10,-0.269851,-78.45281,2439,2,2021
+3194037298,Anas discors,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+3679188582,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2786265333,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,12,2019
+2723713774,Anas discors,EC,Reservorio de Cumbayá,Pichincha,30,-0.196316,-78.42791,2351,12,2019
+2574269028,Anas discors,EC,,Pichincha,1,-0.195492,-78.426996,2354,2,2020
+1201366791,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+3067818651,Anas discors,EC,,Pichincha,1,-0.110079,-78.363971,2341,3,2021
+4046687185,Anas discors,EC,,Pichincha,1,-0.195024,-78.428121,2355,2,2023
+4046553248,Anas discors,EC,,Pichincha,1,-0.195518,-78.427445,2355,2,2023
+1398806047,Anas discors,EC,Quito airport pond,Pichincha,22,-0.109842,-78.36495,2341,11,2015
+1195955022,Anas discors,EC,Quito airport pond,Pichincha,100,-0.109842,-78.36495,2341,11,2014
+1769603998,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2016
+2752871995,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,25,0.199889,-78.2337,2660,1,2019
+3564735354,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,3,2021
+2781769772,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+2783776129,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+2132154018,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2018
+3146345570,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,1,2020
+3693987248,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,9,2021
+2036124829,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,15,-0.193,-78.426834,2354,3,2017
+1385542426,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2015
+2101747901,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+1397146497,Anas discors,EC,Quito airport pond,Pichincha,22,-0.109842,-78.36495,2341,11,2015
+2216934907,Anas discors,EC,Ruta a la Cascada La Sucia,Pichincha,3,0.001374,-78.906685,936,11,2018
+2131983035,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2018
+1201340207,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+3185251066,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,9,2020
+1344689591,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,1,2015
+2700378687,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+4046550193,Anas discors,EC,,Pichincha,1,-0.191914,-78.426381,2362,2,2023
+3576522810,Anas discors,EC,Pantanal de Espejo,Imbabura,13,0.209061,-78.23808,2659,11,2021
+3679585063,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,7,-0.193,-78.426834,2354,10,2021
+2141628546,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2018
+1346404739,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,196,-0.193,-78.426834,2354,1,2015
+1400496827,Anas discors,EC,Quito airport pond,Pichincha,25,-0.109842,-78.36495,2341,12,2015
+2227490586,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,61,-0.193,-78.426834,2354,11,2018
+3506652059,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,1,2021
+2574220971,Anas discors,EC,,Pichincha,1,-0.196414,-78.429251,2353,2,2020
+3576798398,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+1783896555,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,4,2013
+3659890605,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+3575801618,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2723355346,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,12,2019
+2781112533,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+2051626055,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2017
+1771490083,Anas discors,EC,Quito airport pond,Pichincha,75,-0.109842,-78.36495,2341,11,2016
+4014948013,Anas discors,EC,,Pichincha,1,-0.196478,-78.429143,2353,12,2022
+4046230246,Anas discors,EC,,Pichincha,1,-0.195261,-78.428669,2354,2,2023
+3664686250,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+2093292870,Anas discors,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2017
+3628819395,Anas discors,EC,La Armenia,Pichincha,2,-0.271535,-78.45374,2445,5,2021
+3535131976,Anas discors,EC,Reservorio Los Chillos,Pichincha,36,-0.379977,-78.41123,2802,2,2021
+2792650850,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+3648802712,Anas discors,EC,Cochapungo,Imbabura,8,0.197609,-78.21516,2658,10,2021
+3506686811,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+4046315192,Anas discors,EC,,Pichincha,1,-0.195261,-78.428669,2354,2,2023
+2048367302,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,142,-0.193,-78.426834,2354,3,2017
+2685534485,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,3,2019
+2124582940,Anas discors,EC,Quito airport pond,Pichincha,50,-0.109842,-78.36495,2341,2,2018
+2799176667,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,10,2019
+1193640113,Anas discors,EC,Reservorio de Cumbayá,Pichincha,25,-0.193022,-78.42697,2354,10,2014
+198651564,Anas discors,EC,Lago San Pablo,Imbabura,1,0.210203,-78.22471,2657,10,2007
+2042521691,Anas discors,EC,"Parquet Del Reservation, Cumbaya, ECUADOR",Pichincha,13,-0.192939,-78.42612,2357,2,2017
+3289337898,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,63,-0.193,-78.426834,2354,10,2020
+3584191467,Anas discors,EC,"Finca Choibá, Mashpi",Pichincha,2,0.170965,-78.899445,552,12,2021
+3505772317,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,1,2021
+3151479236,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,50,-0.193,-78.426834,2354,3,2020
+3155032841,Anas discors,EC,Reservorio Guangopolo,Pichincha,7,-0.269851,-78.45281,2439,3,2020
+2221847175,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,8,-0.193,-78.426834,2354,12,2018
+3577087579,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3573476514,Anas discors,EC,Lago San Pablo,Imbabura,4,0.20874,-78.23227,2657,11,2017
+3220604424,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,1,2020
+576169610,Anas discors,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,1,2010
+3196753499,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2020
+1401524303,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,89,-0.193,-78.426834,2354,12,2015
+3585426080,Anas discors,EC,Pantanal de Espejo,Imbabura,14,0.209061,-78.23808,2659,10,2021
+2757135986,Anas discors,EC,Lago San Pablo,Imbabura,5,0.20874,-78.23227,2657,1,2019
+1346403693,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,196,-0.193,-78.426834,2354,1,2015
+3196065028,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2020
+2663294454,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,2,2019
+3217728499,Anas discors,EC,Reservorio Guangopolo,Pichincha,4,-0.269851,-78.45281,2439,2,2020
+2096600459,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,10,2017
+1721384922,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,3,2016
+1395689158,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2015
+2700879737,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+3583807487,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+1403368258,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,12,2015
+2110308407,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,26,0.215744,-78.90205,482,1,2018
+2733546185,Anas discors,EC,Quito airport pond,Pichincha,13,-0.109842,-78.36495,2341,2,2019
+3542486003,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,1,2021
+3531847359,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,1,2021
+3684478620,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+2091067142,Anas discors,EC,"Carretera Panamericana, Provincia de Imbabura, EC (0.201, -78.235)",Imbabura,1,0.201099,-78.23532,2659,9,2017
+2217754472,Anas discors,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,11,2018
+2656325235,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2019
+1353824121,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2015
+2205179317,Anas discors,EC,Lago San Pablo,Imbabura,16,0.20874,-78.23227,2657,10,2018
+1190861534,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2009
+2122642921,Anas discors,EC,"EC-Pichincha-Quito (-0.1129,-78.3640)",Pichincha,2,-0.11287,-78.364,2345,1,2018
+1190605305,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,10,-0.193,-78.426834,2354,10,2014
+2788747364,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,12,2019
+3209293015,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,100,-0.193,-78.426834,2354,10,2020
+1175965382,Anas discors,EC,Lago San Pablo,Imbabura,50,0.20874,-78.23227,2657,3,2012
+2801201220,Anas discors,EC,Lago San Pablo,Imbabura,20,0.20874,-78.23227,2657,11,2019
+3644351493,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+1765050919,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,10,2016
+3622091872,Anas discors,EC,"San Rafael, Imbabura, EC (0.197, -78.218)",Imbabura,1,0.197212,-78.21846,2660,2,2021
+1388790552,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,9,2015
+3673108768,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,3,2021
+3528171420,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,80,-0.193,-78.426834,2354,3,2021
+1708816817,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,127,-0.193,-78.426834,2354,1,2016
+3268335145,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,12,2020
+3637828742,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+3612724019,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+3631355865,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,12,2021
+3669799205,Anas discors,EC,"Via Araque, San Rafael",Imbabura,1,0.192207,-78.21235,2661,9,2021
+1191468467,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2014
+3609595407,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,1,2021
+2200064111,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,9,2018
+3199903361,Anas discors,EC,Lago San Pablo,Imbabura,87,0.20874,-78.23227,2657,10,2020
+2218068031,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+3206406230,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,10,2020
+2730013621,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,2,2019
+3534951855,Anas discors,EC,Reservorio Guangopolo,Pichincha,9,-0.269851,-78.45281,2439,2,2021
+3216855998,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,1,2020
+1205369330,Anas discors,EC,Lago San Pablo,Imbabura,25,0.20874,-78.23227,2657,2,2009
+3190969922,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,10,2020
+1190784127,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,24,-0.193,-78.426834,2354,10,2012
+2100920260,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+3237553660,Anas discors,EC,Club Los Chillos - Laguna (acceso restringido),Pichincha,2,-0.352805,-78.42675,2554,3,2020
+3649604049,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+1202160679,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2014
+3662659026,Anas discors,EC,Cochapungo,Imbabura,8,0.197609,-78.21516,2658,10,2021
+1387862494,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2015
+1200033458,Anas discors,EC,Quito airport pond,Pichincha,50,-0.109842,-78.36495,2341,12,2014
+2675935130,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,2,2019
+3212373749,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,14,-0.193,-78.426834,2354,11,2020
+2725376955,Anas discors,EC,"20 oct. 2019 07:05-0,201, -78,235",Imbabura,1,0.201288,-78.23499,2661,10,2019
+2095344901,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+1194536479,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,100,-0.193,-78.426834,2354,11,2014
+3611319471,Anas discors,EC,Quito airport pond,Pichincha,10,-0.109842,-78.36495,2341,3,2021
+3653002236,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+3141377267,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,3,2020
+3645652309,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+3575225369,Anas discors,EC,"Finca Choibá, Mashpi",Pichincha,2,0.170965,-78.899445,552,12,2021
+3651591826,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+1348482323,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,206,-0.193,-78.426834,2354,1,2015
+2704071528,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,11,2019
+1768983945,Anas discors,EC,Quito airport pond,Pichincha,50,-0.109842,-78.36495,2341,10,2016
+3682666828,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2045895367,Anas discors,EC,Quito airport pond,Pichincha,15,-0.109842,-78.36495,2341,3,2017
+3203356725,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,10,2020
+3587683900,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2035813926,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,1,2017
+2136845309,Anas discors,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,2,2018
+2718784912,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+2769481162,Anas discors,EC,Recinto la Magdalena,Santo Domingo de los Tsáchilas,2,-0.286986,-79.0295,867,10,2019
+3184915444,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,7,0.199889,-78.2337,2660,10,2020
+2666537902,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,2,2019
+2782324245,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,10,-0.193,-78.426834,2354,11,2019
+3509401626,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2762468328,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,1,2019
+2102883246,Anas discors,EC,Quito airport pond,Pichincha,12,-0.109842,-78.36495,2341,11,2017
+3186777909,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,10,2020
+1776125537,Anas discors,EC,Lago San Pablo,Imbabura,100,0.20874,-78.23227,2657,11,2016
+1348480741,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,206,-0.193,-78.426834,2354,1,2015
+2087484868,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,10,2017
+3570114359,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,3,2021
+2734777347,Anas discors,EC,Quito airport pond,Pichincha,7,-0.109842,-78.36495,2341,1,2019
+3228978650,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,3,2020
+3599473691,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,3,2021
+1190985975,Anas discors,EC,Lago San Pablo,Imbabura,175,0.20874,-78.23227,2657,12,2009
+3665523729,Anas discors,EC,Lago San Pablo,Imbabura,15,0.20874,-78.23227,2657,11,2021
+2100543702,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+3656665888,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,11,2021
+3225356905,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,2,2020
+819515143,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,12,2012
+2143939779,Anas discors,EC,Lago San Pablo,Imbabura,2,0.20874,-78.23227,2657,4,2018
+2710626781,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,150,-0.193,-78.426834,2354,12,2019
+1772156803,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2016
+2221010252,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,8,-0.193,-78.426834,2354,11,2018
+3593620295,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2015
+3688648214,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,9,2021
+2765586694,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,9,2019
+2131325777,Anas discors,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,9,2004
+1400689061,Anas discors,EC,Quito airport pond,Pichincha,25,-0.109842,-78.36495,2341,12,2015
+3576849935,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2770398448,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,12,2019
+3588206339,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,2,2021
+2740713417,Anas discors,EC,Quito airport pond,Pichincha,9,-0.109842,-78.36495,2341,2,2019
+2749759856,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,2,2019
+3284115706,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,2,2018
+2111370596,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+3687679609,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3530091283,Anas discors,EC,Reservorio Los Chillos,Pichincha,2,-0.379977,-78.41123,2802,7,2021
+3561207489,Anas discors,EC,Reservorio Los Chillos,Pichincha,2,-0.379977,-78.41123,2802,7,2021
+2140303295,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,3,2018
+1190930168,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,12,-0.193,-78.426834,2354,4,2012
+3543015344,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,9,2021
+2133656461,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,80,-0.193,-78.426834,2354,2,2018
+2046975028,Anas discors,EC,Lago San Pablo,Imbabura,39,0.20874,-78.23227,2657,3,2017
+1359826535,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,4,2015
+2107346190,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+1770788529,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,69,-0.193,-78.426834,2354,11,2016
+3516304764,Anas discors,EC,Reservorio Los Chillos,Pichincha,36,-0.379977,-78.41123,2802,2,2021
+2102844174,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2017
+3584503118,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,107,-0.193,-78.426834,2354,12,2021
+1201366789,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+1348502075,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,205,-0.193,-78.426834,2354,2,2015
+2097780546,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2017
+3676575650,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,1,2021
+2034868589,Anas discors,EC,La Armenia - Conocoto,Pichincha,2,-0.269435,-78.45372,2438,1,2017
+3670489084,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,12,2021
+2657204737,Anas discors,EC,Lago San Pablo,Imbabura,124,0.20874,-78.23227,2657,2,2019
+3605246409,Anas discors,EC,Pantanal de Espejo,Imbabura,13,0.209061,-78.23808,2659,4,2021
+1396690284,Anas discors,EC,Quito airport pond,Pichincha,22,-0.109842,-78.36495,2341,11,2015
+2748816163,Anas discors,EC,Reservorio Guangopolo,Pichincha,4,-0.269851,-78.45281,2439,2,2019
+1359329391,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2015
+2722647435,Anas discors,EC,"Alluriquín Chitoa, EC (-0.308, -78.815)",Santo Domingo de los Tsáchilas,1,-0.307558,-78.814995,1802,10,2019
+3687665433,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,12,2021
+2218021397,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2018
+2726698114,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,12,2019
+1348682042,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2015
+3679867076,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,4,2021
+2123309394,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2018
+3689246250,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,11,2021
+3543470593,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,130,-0.193,-78.426834,2354,4,2021
+941153721,Anas discors,EC,0.2011x-78.2345,Imbabura,18,0.201101,-78.23452,2657,2,2013
+3652434939,Anas discors,EC,cumbaya reservoir,Pichincha,40,-0.194241,-78.42916,2363,4,2021
+2737813971,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,3,2019
+2110843510,Anas discors,EC,"Reservorio CumbayaEC-Pichincha-Quito-José Maria Vargas - -0,1956x-78,4296",Pichincha,30,-0.195632,-78.42965,2359,12,2017
+3577275610,Anas discors,EC,Lago San Pablo,Imbabura,15,0.20874,-78.23227,2657,11,2021
+3537436582,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,4,0.199889,-78.2337,2660,10,2021
+1173360107,Anas discors,EC,Lago San Pablo,Imbabura,80,0.20874,-78.23227,2657,12,2012
+1197894875,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,180,-0.193,-78.426834,2354,11,2014
+1777625938,Anas discors,EC,Lago San Pablo,Imbabura,100,0.20874,-78.23227,2657,11,2016
+1346282610,Anas discors,EC,Quito airport pond,Pichincha,12,-0.109842,-78.36495,2341,1,2015
+2139433257,Anas discors,EC,Zoológico de Guayllabamba,Pichincha,1,-0.072114,-78.3572,2169,3,2018
+2655878009,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2019
+3514318052,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+3683036217,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,50,0.199889,-78.2337,2660,4,2021
+3561625367,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2021
+2701645129,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,4,-0.193,-78.426834,2354,9,2019
+2109447006,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+1345437395,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2015
+2786722570,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,10,2019
+2111641910,Anas discors,EC,Quito airport pond,Pichincha,10,-0.109842,-78.36495,2341,11,2017
+3291501827,Anas discors,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+2132144501,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,2,2018
+3673731188,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+2216143241,Anas discors,EC,Quito airport pond,Pichincha,9,-0.109842,-78.36495,2341,10,2018
+2103155912,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+3512203783,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2788541201,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,4,-0.193,-78.426834,2354,10,2019
+1175967121,Anas discors,EC,Lago San Pablo,Imbabura,84,0.20874,-78.23227,2657,4,2012
+2052001951,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2017
+2780520068,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+3201863585,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,10,2020
+1196282564,Anas discors,EC,Quito airport pond,Pichincha,100,-0.109842,-78.36495,2341,11,2014
+1345792612,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2015
+2711415488,Anas discors,EC,Reservoir,Pichincha,5,-0.1695,-78.4632,2921,11,2019
+2706971113,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,4,0.199889,-78.2337,2660,11,2019
+2716966791,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,10,2019
+3664110191,Anas discors,EC,Lago San Pablo,Imbabura,51,0.20874,-78.23227,2657,10,2021
+2099682738,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+1711013595,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,1,2016
+2779243325,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+1195751606,Anas discors,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,11,2014
+3614039380,Anas discors,EC,Cochapungo,Imbabura,1,0.197609,-78.21516,2658,9,2021
+2717250031,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2019
+2205982925,Anas discors,EC,"Armenia-Lumbisi Road, Quito, Pichincha, (-0.257, -78.459)",Pichincha,50,-0.256512,-78.45883,2404,9,2018
+1194615044,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,114,-0.193,-78.426834,2354,11,2014
+3515635426,Anas discors,EC,Lago San Pablo,Imbabura,50,0.20874,-78.23227,2657,4,2021
+3270505741,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2016
+1385928659,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,7,2012
+3256939318,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,3,2020
+1346135063,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,170,-0.193,-78.426834,2354,1,2015
+3661979855,Anas discors,EC,Lago San Pablo,Imbabura,10,0.213451,-78.23913,2664,12,2021
+3193365949,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,11,2020
+3252486171,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,3,2020
+3628507685,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+3689058435,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+2722036289,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,14,0.199889,-78.2337,2660,10,2019
+2109330903,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+2739081147,Anas discors,EC,Quito airport pond,Pichincha,13,-0.109842,-78.36495,2341,2,2019
+1173759053,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,24,-0.193,-78.426834,2354,10,2012
+3637832488,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+1721968768,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,10,-0.193,-78.426834,2354,3,2016
+1348799052,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,200,-0.193,-78.426834,2354,2,2015
+2101761373,Anas discors,EC,Lago San Pablo,Imbabura,3,0.20874,-78.23227,2657,10,2017
+3661915285,Anas discors,EC,Pantanal de Espejo,Imbabura,86,0.209061,-78.23808,2659,12,2021
+3521365956,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,3,2021
+3253231767,Anas discors,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+3592199987,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,26,-0.193,-78.426834,2354,3,2021
+3675409163,Anas discors,EC,Lago San Pablo,Imbabura,53,0.20874,-78.23227,2657,2,2021
+3508842599,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,1,2021
+1720106817,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,143,-0.193,-78.426834,2354,3,2016
+2698696894,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,12,-0.193,-78.426834,2354,9,2019
+3059165438,Anas discors,EC,,Pichincha,1,-0.19651,-78.42891,2354,3,2021
+4046560111,Anas discors,EC,,Pichincha,1,-0.195024,-78.428121,2355,2,2023
+3267339786,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2020
+3659793423,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,9,2021
+2105391838,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,10,2017
+3673209058,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2021
+2236233697,Anas discors,EC,,Pichincha,1,-0.189805,-78.42601,2351,3,2019
+4046362213,Anas discors,EC,,Pichincha,1,-0.195261,-78.428669,2354,2,2023
+3456748871,Anas discors,EC,,Pichincha,1,-0.192999,-78.426306,2356,12,2021
+2834854082,Anas discors,EC,Ecuador - Pichincha,,30,-0.194599,-78.427362,2360,1,2020
+3552703398,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+3070461527,Anas discors,EC,,Pichincha,1,-0.194663,-78.427567,2357,3,2021
+3665395781,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,1,0.205291,-78.20698,2659,9,2021
+3650181437,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,17,-0.193,-78.426834,2354,4,2021
+4046729184,Anas discors,EC,,Pichincha,1,-0.194772,-78.427375,2359,2,2023
+2465198459,Anas discors,EC,,Pichincha,1,-0.193098,-78.426747,2352,12,2019
+3552180737,Anas discors,EC,"Unnamed Road, Eugenio Espejo, Imbabura, EC (0.209, -78.238)",Imbabura,12,0.2091,-78.23812,2659,3,2021
+3587943570,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,1,2021
+2576390040,Anas discors,EC,,Pichincha,1,-0.270419,-78.452822,2438,2,2020
+2465367830,Anas discors,EC,,Pichincha,1,-0.193205,-78.426724,2350,12,2019
+3985700007,Anas discors,EC,,Pichincha,1,-0.192937,-78.427188,2355,11,2022
+4046563203,Anas discors,EC,,Pichincha,1,-0.195261,-78.428669,2354,2,2023
+2236232046,Anas discors,EC,,Pichincha,1,-0.19044,-78.426878,2355,3,2019
+2236233577,Anas discors,EC,,Pichincha,1,-0.18983,-78.42603,2351,3,2019
+4046645198,Anas discors,EC,,Pichincha,1,-0.195024,-78.428121,2355,2,2023
+2655073079,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,18,0.199889,-78.2337,2660,1,2019
+3456734076,Anas discors,EC,,Pichincha,1,-0.192999,-78.426306,2356,12,2021
+2465192425,Anas discors,EC,,Pichincha,1,-0.194034,-78.4271,2366,12,2019
+3039209053,Anas discors,EC,,Pichincha,1,-0.268962,-78.453508,2428,1,2021
+3416209261,Anas discors,EC,,Pichincha,1,-0.195567,-78.427343,2356,11,2021
+2580096770,Anas discors,EC,,Pichincha,1,-0.191745,-78.426204,2358,12,2019
+2580252011,Anas discors,EC,,Pichincha,1,-0.191642,-78.426456,2360,12,2019
+2574074066,Anas discors,EC,,Imbabura,1,0.200339,-78.233894,2660,2,2013
+3456660767,Anas discors,EC,,Pichincha,1,-0.192999,-78.426306,2356,12,2021
+3456793103,Anas discors,EC,,Pichincha,1,-0.192999,-78.426306,2356,12,2021
+2574267933,Anas discors,EC,,Pichincha,1,-0.195479,-78.427232,2356,2,2020
+2665994008,Anas discors,EC,Chontal--Oilbird Cave (Finca Morales/Cueva de los Tayos),Pichincha,8,0.20874,-78.73695,854,3,2019
+1773426482,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,1,2012
+1399732267,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2015
+2205303241,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,4,-0.193,-78.426834,2354,10,2018
+3548903971,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,3,2021
+3690349036,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,1,2021
+3511183604,Anas discors,EC,Quito airport pond,Pichincha,7,-0.109842,-78.36495,2341,4,2021
+2033816116,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,1,2017
+1201366773,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+1395693380,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2015
+3638444207,Anas discors,EC,Pantanal de Espejo,Imbabura,9,0.209061,-78.23808,2659,11,2021
+3640522499,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+3286213489,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,12,2020
+2778784381,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,12,-0.193,-78.426834,2354,10,2019
+2041644087,Anas discors,EC,Quito airport pond,Pichincha,15,-0.109842,-78.36495,2341,1,2017
+2725783794,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,1,2012
+1775229208,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2016
+3221307396,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,1,2020
+1197193857,Anas discors,EC,Lago San Pablo,Imbabura,50,0.20874,-78.23227,2657,11,2014
+3624686056,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,80,-0.193,-78.426834,2354,3,2021
+2215252090,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,4,-0.193,-78.426834,2354,10,2018
+2674856897,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,14,-0.193,-78.426834,2354,3,2019
+2095198818,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,9,-0.193,-78.426834,2354,9,2017
+2773794059,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,12,2019
+2732065129,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,21,0.199889,-78.2337,2660,1,2019
+1208294958,Anas discors,EC,Lago San Pablo,Imbabura,8,0.20874,-78.23227,2657,11,2009
+3543683181,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,9,2021
+2725004396,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2019
+2193241119,Anas discors,EC,Quito airport pond,Pichincha,12,-0.109842,-78.36495,2341,10,2018
+3227450728,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,2,2020
+2655616279,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,1,2019
+2718972661,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+2696166497,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+1770492097,Anas discors,EC,Quito airport pond,Pichincha,25,-0.109842,-78.36495,2341,10,2016
+1173052918,Anas discors,EC,Lago San Pablo,Imbabura,10,0.20874,-78.23227,2657,3,2013
+3687865887,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,11,2021
+3555783068,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,3,2021
+3627975715,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,3,2021
+2215267299,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2018
+1208603455,Anas discors,EC,"Quito, Airport Pond",Pichincha,100,-0.106602,-78.36527,2341,11,2014
+2084260641,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,10,2017
+1788242686,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2016
+3143298487,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,1,2020
+2047193581,Anas discors,EC,Quito airport pond,Pichincha,8,-0.109842,-78.36495,2341,3,2017
+1393201428,Anas discors,EC,"Quito, Airport Pond",Pichincha,1,-0.106602,-78.36527,2341,10,2015
+3621704193,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,20,-0.193,-78.426834,2354,12,2021
+2726631718,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,10,2017
+3607987030,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+3629952039,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+3132409531,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,1,2020
+2801833272,Anas discors,EC,"20 oct. 2019 07:05-0,201, -78,235",Imbabura,12,0.201288,-78.23499,2661,10,2019
+2729627288,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,1,2019
+2657918832,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,12,0.199889,-78.2337,2660,2,2019
+2093173415,Anas discors,EC,Quito airport pond,Pichincha,40,-0.109842,-78.36495,2341,11,2017
+2667067602,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,3,2019
+198655362,Anas discors,EC,Lago San Pablo,Imbabura,10,0.20874,-78.23227,2657,1,2009
+1773690693,Anas discors,EC,Quito airport pond,Pichincha,68,-0.109842,-78.36495,2341,11,2016
+3661916044,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2110449050,Anas discors,EC,Quito airport pond,Pichincha,28,-0.109842,-78.36495,2341,11,2017
+3577928969,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3136566723,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,2,2020
+3687900817,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+2725953800,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,10,2019
+2137377544,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,20,-0.193,-78.426834,2354,3,2018
+1345833084,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2015
+2672279611,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,6,0.199889,-78.2337,2660,1,2019
+819184139,Anas discors,EC,Lago San Pablo,Imbabura,50,0.20874,-78.23227,2657,2,2012
+2746179048,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,3,2019
+2720742754,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2017
+2045253908,Anas discors,EC,Quito airport pond,Pichincha,60,-0.109842,-78.36495,2341,2,2017
+3516365762,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,3,2021
+2108069735,Anas discors,EC,"Pacto, Pichincha, EC (0.144, -78.765)",Pichincha,1,0.144239,-78.764534,1218,10,2017
+2219346539,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+2762359224,Anas discors,EC,"Lago San Pablo. Muelle EC (0.216, -78.238)",Imbabura,4,0.215896,-78.238205,2663,11,2019
+1385000161,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2015
+1194376559,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,90,-0.193,-78.426834,2354,11,2014
+2214140606,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,9,2018
+3509764833,Anas discors,EC,Reservorio Los Chillos,Pichincha,36,-0.379977,-78.41123,2802,2,2021
+2102449510,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+2669748660,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,12,0.199889,-78.2337,2660,1,2019
+2203260922,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+1201366810,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+2036344517,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,1,2017
+3614516585,Anas discors,EC,Pantanal de Espejo,Imbabura,3,0.209061,-78.23808,2659,9,2021
+3514373183,Anas discors,EC,"Avenida Pampite, Quito EC-Pichincha -0.19698, -78.43093",Pichincha,1,-0.196981,-78.43093,2350,1,2021
+2092581894,Anas discors,EC,Quito airport pond,Pichincha,7,-0.109842,-78.36495,2341,9,2017
+3238157936,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,150,-0.193,-78.426834,2354,3,2020
+3623963143,Anas discors,EC,"Lago San Pablo. Muelle EC (0.216, -78.238)",Imbabura,6,0.215896,-78.238205,2663,12,2021
+1391831459,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2015
+3605698688,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,4,2021
+2745569072,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,2,2019
+2116710542,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2018
+3542909222,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+3554681159,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2130330052,Anas discors,EC,"Carretera Panamericana, Provincia de Imbabura, EC (0.201, -78.235)",Imbabura,1,0.201099,-78.23532,2659,9,2017
+2141109097,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,8,0.205291,-78.20698,2659,3,2018
+2035522763,Anas discors,EC,Quito airport pond,Pichincha,86,-0.109842,-78.36495,2341,1,2017
+3555242750,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,16,0.199889,-78.2337,2660,1,2021
+1197187898,Anas discors,EC,Quito airport pond,Pichincha,100,-0.109842,-78.36495,2341,11,2014
+2730319893,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,2,2019
+3577960516,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3549103230,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,107,-0.193,-78.426834,2354,12,2021
+2131489018,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2018
+2099869821,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+3632563886,Anas discors,EC,Lago San Pablo,Imbabura,35,0.20874,-78.23227,2657,9,2021
+2111348523,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,10,2017
+2216558011,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,11,2018
+3198715634,Anas discors,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,10,2020
+2773740954,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,12,-0.193,-78.426834,2354,9,2019
+2708333377,Anas discors,EC,Quito airport pond,Pichincha,19,-0.109842,-78.36495,2341,11,2019
+3661287604,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2021
+3288302950,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,10,2020
+3135847641,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,1,2020
+2104714456,Anas discors,EC,Lago San Pablo,Imbabura,7,0.20874,-78.23227,2657,10,2017
+3507523042,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,2,2021
+2030264791,Anas discors,EC,Quito airport pond,Pichincha,11,-0.109842,-78.36495,2341,1,2017
+2033015696,Anas discors,EC,Lago San Pablo,Imbabura,125,0.20874,-78.23227,2657,2,2017
+3539933452,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,8,0.199889,-78.2337,2660,1,2021
+2129920516,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,42,0.199889,-78.2337,2660,2,2018
+3214447292,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,170,-0.193,-78.426834,2354,12,2020
+3211779082,Anas discors,EC,Lago San Pablo,Imbabura,12,0.20874,-78.23227,2657,12,2020
+2660934699,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,28,-0.193,-78.426834,2354,3,2019
+2092980478,Anas discors,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2017
+3545436040,Anas discors,EC,Pantanal de Espejo,Imbabura,15,0.209061,-78.23808,2659,4,2021
+3574863369,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+1155114889,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2014
+3220728462,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,1,2020
+3255881651,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,1,2020
+3294112101,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,2,2020
+1775289324,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,10,2016
+1786747769,Anas discors,EC,Quito airport pond,Pichincha,8,-0.109842,-78.36495,2341,11,2015
+1190842567,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,4,2011
+2747036233,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,4,2019
+1195272256,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,138,-0.193,-78.426834,2354,11,2014
+3510052139,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+3545553878,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,10,2021
+2749300528,Anas discors,EC,Lago San Pablo,Imbabura,124,0.20874,-78.23227,2657,2,2019
+2126708456,Anas discors,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,1,2018
+3516313450,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,1,2021
+3141090138,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,23,-0.193,-78.426834,2354,1,2020
+3694357206,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+2789564690,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+2203769865,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2018
+2143402614,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,3,2018
+1345790345,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,1,2015
+2729900285,Anas discors,EC,Lago San Pablo,Imbabura,124,0.20874,-78.23227,2657,2,2019
+3637926923,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,62,-0.193,-78.426834,2354,11,2021
+3132704379,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,1,2020
+3511637433,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,3,0.205291,-78.20698,2659,1,2021
+2716608416,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+2149333339,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,3,2018
+2799086390,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+3681221303,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,2,2021
+3508611257,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,1,2021
+1773134169,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2016
+2107123790,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,11,2017
+1195245426,Anas discors,EC,Quito airport pond,Pichincha,50,-0.109842,-78.36495,2341,11,2014
+3628415945,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,3,2021
+3665641986,Anas discors,EC,"Tababela Reservoir, Quito Airport",Pichincha,8,-0.109721,-78.36531,2340,2,2017
+2782616009,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,20,-0.193,-78.426834,2354,10,2019
+3693790487,Anas discors,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,11,2021
+2227645657,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,12,2018
+1767774242,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,70,-0.193,-78.426834,2354,1,2012
+3515429226,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,100,-0.193,-78.426834,2354,3,2021
+2045358682,Anas discors,EC,Quito airport pond,Pichincha,15,-0.109842,-78.36495,2341,1,2017
+3568559602,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+2036115691,Anas discors,EC,Quito airport pond,Pichincha,60,-0.109842,-78.36495,2341,2,2017
+1768624495,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,62,-0.193,-78.426834,2354,10,2016
+2059827163,Anas discors,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,4,2017
+3515831382,Anas discors,EC,"Unnamed Road, Imbabura, EC (0.19, -78.203)",Imbabura,20,0.190008,-78.202965,2663,3,2021
+3600945435,Anas discors,EC,Guagua Pichincha--road and trail to top of volcano,Pichincha,1,-0.203755,-78.58956,3802,1,2021
+819352279,Anas discors,EC,Lago San Pablo,Imbabura,60,0.20874,-78.23227,2657,2,2012
+3683406285,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,43,-0.193,-78.426834,2354,10,2021
+1765006364,Anas discors,EC,Lago San Pablo,Imbabura,6,0.20874,-78.23227,2657,10,2016
+3217669701,Anas discors,EC,Reservorio Guangopolo,Pichincha,5,-0.269851,-78.45281,2439,1,2020
+1194390926,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,90,-0.193,-78.426834,2354,11,2014
+3195852847,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,30,-0.193,-78.426834,2354,12,2020
+2100180876,Anas discors,EC,"Cordillera SAN LORENZO Pichincha, EC (-0.078, -78.753)",Pichincha,1,-0.077501,-78.75307,1519,9,2017
+3591598227,Anas discors,EC,Reservorio Guangopolo,Pichincha,9,-0.269851,-78.45281,2439,2,2021
+1206043561,Anas discors,EC,Lago San Pablo,Imbabura,5,0.20874,-78.23227,2657,2,2013
+3624207076,Anas discors,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2017
+1196654461,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2014
+1777607716,Anas discors,EC,Lago San Pablo,Imbabura,100,0.20874,-78.23227,2657,11,2016
+1195253915,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,134,-0.193,-78.426834,2354,11,2014
+3692896846,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2021
+3511242276,Anas discors,EC,Quito airport pond,Pichincha,7,-0.109842,-78.36495,2341,4,2021
+2733306439,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,1,2019
+3656637568,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+1206281535,Anas discors,EC,Quito airport pond,Pichincha,120,-0.109842,-78.36495,2341,11,2014
+2777687010,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,10,2019
+2733104119,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,120,-0.193,-78.426834,2354,2,2019
+3157217317,Anas discors,EC,Reservorio Guangopolo,Pichincha,3,-0.269851,-78.45281,2439,3,2020
+1346620814,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,200,-0.193,-78.426834,2354,1,2015
+2102250577,Anas discors,EC,Quito airport pond,Pichincha,28,-0.109842,-78.36495,2341,11,2017
+1721763852,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,3,2016
+977349946,Anas discors,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2013
+2186968913,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,9,2018
+1190953376,Anas discors,EC,Lago San Pablo,Imbabura,4,0.20874,-78.23227,2657,2,2007
+3154074056,Anas discors,EC,Parque reservorio Cumbaya,Pichincha,20,-0.191462,-78.42731,2360,3,2020
+2221851184,Anas discors,EC,Ruta a la Cascada La Sucia,Pichincha,2,0.001374,-78.906685,936,12,2018
+3510626359,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,183,-0.193,-78.426834,2354,3,2021
+2039100968,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,2,2017
+3670460709,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,25,-0.193,-78.426834,2354,3,2021
+3565923710,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,10,2021
+2698790563,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,9,-0.193,-78.426834,2354,9,2019
+1780333030,Anas discors,EC,Lago San Pablo,Imbabura,200,0.20874,-78.23227,2657,12,2016
+1192674147,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,55,-0.193,-78.426834,2354,10,2014
+2036706408,Anas discors,EC,Lago San Pablo,Imbabura,20,0.20874,-78.23227,2657,2,2017
+1348474036,Anas discors,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,2,2015
+3197583182,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,7,-0.193,-78.426834,2354,9,2020
+3624372263,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,253,-0.193,-78.426834,2354,2,2021
+3582674966,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,2,2019
+3664724779,Anas discors,EC,"Unnamed Road, Eugenio Espejo, Imbabura, EC (0.209, -78.238)",Imbabura,12,0.2091,-78.23812,2659,3,2021
+1713842244,Anas discors,EC,Lago San Pablo--Parque Acuático Araque,Imbabura,30,0.205291,-78.20698,2659,1,2016
+3218343534,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,1,2020
+3667407669,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,1,-0.193,-78.426834,2354,11,2021
+3555339412,Anas discors,EC,Reservorio Guangopolo,Pichincha,10,-0.269851,-78.45281,2439,2,2021
+1777176659,Anas discors,EC,Manduriacu Reservoir,Pichincha,7,0.214174,-78.911705,478,11,2016
+3680132844,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,80,-0.193,-78.426834,2354,3,2021
+1720428303,Anas discors,EC,Quito airport pond,Pichincha,5,-0.109842,-78.36495,2341,3,2016
+3681885222,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+3645033035,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,11,2021
+3602121080,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,110,-0.193,-78.426834,2354,3,2021
+2187675913,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,9,2018
+1206595675,Anas discors,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,2,2013
+3641494924,Anas discors,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,12,2021
+3669979746,Anas discors,EC,Reservorio Guangopolo,Pichincha,8,-0.269851,-78.45281,2439,12,2021
+3591702017,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,20,-0.193,-78.426834,2354,1,2021
+3193794579,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,11,2020
+1196204865,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,107,-0.193,-78.426834,2354,11,2014
+3587621119,Anas discors,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,2,0.199889,-78.2337,2660,1,2021
+2039977348,Anas discors,EC,Quito airport pond,Pichincha,3,-0.109842,-78.36495,2341,2,2017
+2191632026,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,10,2018
+3648162301,Anas discors,EC,Reservorio Guangopolo,Pichincha,1,-0.269851,-78.45281,2439,7,2021
+2223577592,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,5,-0.193,-78.426834,2354,11,2018
+1348855033,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,200,-0.193,-78.426834,2354,2,2015
+2043563061,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,50,-0.193,-78.426834,2354,4,2017
+2653358574,Anas discors,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2019
+1402388160,Anas discors,EC,Lago San Pablo,Imbabura,75,0.20874,-78.23227,2657,12,2015
+2124686760,Anas discors,EC,Quito airport pond,Pichincha,8,-0.109842,-78.36495,2341,1,2018
+2101737751,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+2124574402,Anas discors,EC,Quito airport pond,Pichincha,50,-0.109842,-78.36495,2341,2,2018
+2090518861,Anas discors,EC,San Pablo Water Treatment Facility,Imbabura,1,0.198658,-78.23428,2658,10,2017
+3514110298,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,60,-0.193,-78.426834,2354,3,2021
+2756443381,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,40,-0.193,-78.426834,2354,3,2019
+2702497309,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,10,2019
+2736532054,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,28,-0.193,-78.426834,2354,3,2019
+3616731224,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,4,2021
+2657935347,Anas discors,EC,Reservorio Guangopolo,Pichincha,4,-0.269851,-78.45281,2439,2,2019
+3059171144,Anas discors,EC,,Pichincha,1,-0.19658,-78.429542,2352,3,2021
+3589249040,Anas discors,EC,"Unnamed Road, Eugenio Espejo, Imbabura, EC (0.209, -78.238)",Imbabura,12,0.2091,-78.23812,2659,3,2021
+1190870635,Anas discors,EC,Lago San Pablo,Imbabura,84,0.20874,-78.23227,2657,2,2008
+1398951454,Anas discors,EC,Quito airport pond,Pichincha,4,-0.109842,-78.36495,2341,11,2015
+2714757791,Anas discors,EC,Lago San Pablo,Imbabura,9,0.20874,-78.23227,2657,10,2019
+1398113487,Anas discors,EC,Quito airport pond,Pichincha,22,-0.109842,-78.36495,2341,11,2015
+3416175623,Anas discors,EC,,Pichincha,1,-0.192496,-78.42714,2359,11,2021
+2788608929,Anas discors,EC,Reservorio Guangopolo,Pichincha,2,-0.269851,-78.45281,2439,12,2019
+3586357746,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,50,-0.193,-78.426834,2354,12,2021
+4046601260,Anas discors,EC,,Pichincha,1,-0.195346,-78.428137,2352,2,2023
+2840129345,Anas discors,EC,Ecuador - Quito,,1,-0.221626,-78.509978,2808,3,2012
+4014839956,Anas discors,EC,,Pichincha,1,-0.196688,-78.42998,2351,12,2022
+2574218958,Anas discors,EC,,Pichincha,1,-0.19639,-78.429259,2353,2,2020
+2033246767,Anas discors,EC,Quito airport pond,Pichincha,6,-0.109842,-78.36495,2341,1,2017
+2788994566,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,10,2019
+2330212457,Anas discors,EC,Laguna San Pablo,,1,0.209016,-78.22377,2657,2,2011
+2242753020,Anas discors,EC,,Pichincha,1,-0.189825,-78.426027,2351,3,2019
+3988535034,Anas discors,EC,,Pichincha,1,-0.11796,-78.362791,2354,11,2022
+3545059418,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,10,2021
+3693430897,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,18,-0.193,-78.426834,2354,10,2021
+2574171965,Anas discors,EC,,Pichincha,1,-0.195456,-78.427168,2355,2,2020
+1788241720,Anas discors,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,9,2016
+3193447169,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,9,2020
+3136427674,Anas discors,EC,Reservorio de Cumbaya,Pichincha,40,-0.19373,-78.42554,2347,2,2020
+2573886849,Anas discors,EC,,Pichincha,1,-0.196285,-78.428263,2354,2,2020
+1194380827,Anas discors,EC,Quito--Reservorio de Cumbayá,Pichincha,96,-0.193,-78.426834,2354,11,2014

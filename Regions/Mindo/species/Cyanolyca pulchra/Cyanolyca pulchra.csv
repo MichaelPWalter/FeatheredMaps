@@ -1,0 +1,753 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2243867495,Cyanolyca pulchra,EC,"Tandayapa Valley, Pichincha",,1,-0.0167,-78.6834,2309,7,2010
+2848588168,Cyanolyca pulchra,EC,"Mindo, Pichincha",,1,-0.0266,-78.7423,1861,2,2020
+2982208143,Cyanolyca pulchra,EC,Bellavista Cloud Forest Reserve,,1,-0.016,-78.6809,2231,9,2019
+2243609931,Cyanolyca pulchra,EC,"Recinto 23 de Junio, Pichincha",,1,-0.0301,-78.876,1114,7,2014
+2233060094,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.003047,-78.67859,1776,1,2012
+2777848663,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2019
+3180273836,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2012
+1792955558,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,8,2008
+1378608358,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,7,2015
+2744691272,Cyanolyca pulchra,EC,Bellavista to Tandayapa - spot 2,Pichincha,2,-0.007322,-78.68092,1866,2,2019
+943655789,Cyanolyca pulchra,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,11,2011
+3614348812,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+586598130,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2011
+1191605969,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2003
+2071692028,Cyanolyca pulchra,EC,La Chacra,Pichincha,1,0.069189,-78.950745,859,5,2017
+2098785727,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,9,2017
+3619770281,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,1,2000
+1190924108,Cyanolyca pulchra,EC,"San Luis Transecto impacto, Punto 10",Pichincha,1,-0.028,-78.698,2332,10,2004
+2783306691,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2005
+2155381530,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2018
+274387588,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,8,2008
+3184272147,Cyanolyca pulchra,EC,Old Nono - Mindo Road,Pichincha,1,-0.036737,-78.63602,2053,6,2005
+2075645256,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+3582523805,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+2715752968,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2001
+2724047491,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2014
+1394538464,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,10,2014
+2801304568,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,5,2013
+584718948,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,8,2010
+1751919698,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,7,2016
+2766546577,Cyanolyca pulchra,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,10,2000
+1788864642,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,7,2014
+3643232530,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+3288947664,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2014
+3209858876,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2013
+2705377733,Cyanolyca pulchra,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,1,-0.024804,-78.72448,2126,10,2019
+2175362914,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,4,2006
+2763838328,Cyanolyca pulchra,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.049224,-78.776825,1268,8,2006
+2126279597,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+2691986099,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,8,2019
+1787553814,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2005
+1770129218,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,4,2006
+1180050026,Cyanolyca pulchra,EC,Tandayapa (includes Bellavista),Pichincha,1,0.011186,-78.68295,1983,1,2003
+584827258,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2010
+1406330812,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2005
+1787681842,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2015
+3247987694,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2005
+3266620770,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2015
+2684404267,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.001937,-78.6759,1665,12,2013
+1355746004,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2015
+3272565309,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2011
+2123429670,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2004
+2206973784,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2008
+2076932545,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+3207593040,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2018
+1767575628,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,3,2013
+2135462740,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2015
+3662262688,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.003026,-78.678566,1776,8,2015
+3170349208,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,3,2006
+1773507700,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,7,2009
+1758374426,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2014
+3684495563,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2021
+2152820401,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2006
+1189314652,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,9,2014
+2101172539,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,3,-0.014162,-78.67891,2126,2,2005
+2221159461,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,11,2018
+1766294678,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,10,2016
+586684972,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,8,2011
+1183344682,Cyanolyca pulchra,EC,"old Nono-Mindo Road, jay location",Pichincha,2,-0.005333,-78.66085,1778,7,2014
+2183784995,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,6,2018
+586537087,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2011
+2101259270,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2004
+2117590496,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2006
+583759047,Cyanolyca pulchra,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,7,2003
+2128540390,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2018
+1790469336,Cyanolyca pulchra,EC,Los Bancos-Milpe IBA,Pichincha,1,0.07993,-78.886,923,2,2016
+1366758461,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,5,2015
+2716103327,Cyanolyca pulchra,EC,Nono-Mindo Road,Pichincha,3,-0.031393,-78.728676,2046,5,2019
+2114897830,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2004
+2228645886,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+3279036459,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2013
+2074179329,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2708383447,Cyanolyca pulchra,EC,"Bellavista, Pichincha, EC (-0.016, -78.681)",Pichincha,1,-0.015954,-78.68081,2226,8,2019
+2114886187,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2004
+1368852008,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,5,2015
+2098267757,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2017
+960088527,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,7,2013
+971508420,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,11,2013
+3540863101,Cyanolyca pulchra,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.07316, -78.76762",Pichincha,1,-0.073159,-78.767624,1477,8,2021
+1794545511,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,6,2014
+2114236576,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2005
+1398080037,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2001
+2193621852,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2018
+179593701,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+1204226196,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2000
+2665113418,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,3,2019
+1410492613,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2001
+275107335,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2002
+179594678,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,7,2007
+1381933663,Cyanolyca pulchra,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,8,2015
+3283920247,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2020
+2114261950,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,12,2005
+3689986885,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+934404970,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,12,2011
+2194846243,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,7,2018
+2735170156,Cyanolyca pulchra,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,1,-0.024804,-78.72448,2126,6,2019
+2114197510,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,12,2004
+2758928194,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,4,-0.017016,-78.65079,1867,5,2019
+3186087106,Cyanolyca pulchra,EC,Old Nono - Mindo Road,Pichincha,1,-0.036737,-78.63602,2053,6,2005
+1406576731,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,10,2011
+2074062898,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,6,2017
+3278498656,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2005
+2211201657,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,11,2018
+1182602686,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2014
+2785985868,Cyanolyca pulchra,EC,Tandayapa road,Pichincha,1,-0.007342,-78.68074,1858,9,2019
+961228406,Cyanolyca pulchra,EC,Santa Lucia Lodge,Pichincha,2,0.118575,-78.61154,1881,7,2013
+274835535,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,10,2007
+825485071,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,5,2010
+1758430749,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,8,2016
+1791517482,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,12,2005
+3585115686,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2007
+2707878728,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2019
+2787974297,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2013
+584729696,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2010
+2177266011,Cyanolyca pulchra,EC,"EC-Pichincha-SN Miguel Bancos (-0.0104,-78.7307)",Pichincha,1,-0.010397,-78.73071,2059,6,2018
+1178580540,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2010
+2195034682,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,9,2018
+1207554991,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,1,2014
+3294949195,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2001
+273199360,Cyanolyca pulchra,EC,Upper Tandayapa Valley (Old Rd to Quito),Pichincha,4,-0.009,-78.654,1825,9,2009
+2714707305,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,3,2008
+3562541289,Cyanolyca pulchra,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,8,2012
+586578852,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,6,2011
+975223603,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2013
+3579895848,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+1387421620,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,9,2015
+1776696213,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2016
+3173491393,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2000
+2726822800,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,3,2010
+3192443971,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2014
+1793917181,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2004
+1202766019,Cyanolyca pulchra,EC,Old Non-Tandayapa Road,Pichincha,1,0.022316,-78.72425,1680,7,2014
+2768164033,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,6,2019
+1717609823,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.011232,-78.73018,2061,2,2016
+1754862453,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,7,2016
+1201747254,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,12,2003
+1202661198,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,6,2002
+276052911,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+2797230369,Cyanolyca pulchra,EC,"Tandayapa Valley (0.0048, -78.6834)",Pichincha,1,0.0048,-78.6834,1994,12,2009
+1779380529,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,6,2011
+584004674,Cyanolyca pulchra,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,12,2007
+945730510,Cyanolyca pulchra,EC,Ecoruta near Tandayapa,Pichincha,2,-0.0103,-78.65662,1867,7,2010
+2182612881,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,6,2018
+1773504030,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+2788625397,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2010
+824833366,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2000
+3152465957,Cyanolyca pulchra,EC,San Jose Farm,Pichincha,1,-0.000663,-78.68726,2233,5,2020
+1394578208,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,9,2014
+274924113,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,3,-0.012531,-78.72995,2073,2,2010
+2187371120,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2018
+1756685471,Cyanolyca pulchra,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,7,2012
+3584351156,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+1172375696,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,5,2014
+2709979328,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,8,2019
+3580377008,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,11,2017
+3213211181,Cyanolyca pulchra,EC,Bosque Protector Jerusalem,Pichincha,1,0.001997,-78.37589,2352,12,2017
+2795715203,Cyanolyca pulchra,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,4,-0.068914,-78.588905,2712,11,2006
+1206077109,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,9,2008
+179594063,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,6,2007
+2065585921,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,2,-0.024567,-78.72461,2126,5,2017
+1707757451,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,4,-0.017016,-78.65079,1867,12,2005
+2775607459,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,8,2019
+3212844244,Cyanolyca pulchra,EC,Bosque Protector Jerusalem,Pichincha,1,0.001997,-78.37589,2352,12,2017
+2796578626,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,8,2004
+2185980254,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2018
+3177520670,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,1,2006
+1353522107,Cyanolyca pulchra,EC,"-0.0208x-78.6473 - Mar 6, 2015, 4:39 PM",Pichincha,1,-0.020818,-78.647255,1907,3,2015
+2118170554,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+3567904302,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,3,-0.017016,-78.65079,1867,7,2007
+2231757744,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,1,-0.024567,-78.72461,2126,12,2018
+1398290296,Cyanolyca pulchra,EC,La Armenia,Pichincha,3,0.072055,-78.69558,1737,12,2011
+2097350391,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+2661530741,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,3,-0.033302,-78.712814,2228,2,2008
+1354014067,Cyanolyca pulchra,EC,Old Nono-Mindo Rd,Pichincha,2,-0.032513,-78.73242,1988,3,2015
+2114907969,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,1,-0.014162,-78.67891,2126,2,2005
+1794992228,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+2114193897,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,12,2004
+2055877387,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,5,2017
+962870017,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2005
+2123633755,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2005
+3641960952,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+1794151752,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2015
+1788868740,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+2689621414,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+1409470672,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,2,2003
+825250568,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,4,2006
+2114845652,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,12,2001
+1768614933,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+2073509758,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2104436879,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,10,2017
+3208327618,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2020
+2101172049,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,1,-0.014162,-78.67891,2126,2,2005
+2114188506,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,9,2004
+2214173638,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,7,2003
+179594066,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,7,2007
+827084480,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2012
+3677903572,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,8,2021
+2221221003,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,6,0.00235,-78.67743,1742,1,2009
+1410684671,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,3,2004
+3649261526,Cyanolyca pulchra,EC,Nono-Mindo Road near San Tadeo,Pichincha,3,-0.024868,-78.74329,1913,11,2021
+2079456443,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,7,2017
+1792948904,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2008
+271138118,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,1,0.030212,-78.69507,1878,12,2008
+148746838,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2008
+2658640061,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,1,2019
+2228224537,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2006
+1788824401,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2010
+2713588806,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2018
+1791531079,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,12,2005
+2718530644,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,4,0.00235,-78.67743,1742,7,2010
+2114850094,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,5,2004
+2106313744,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2017
+973592045,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2007
+584778300,Cyanolyca pulchra,EC,Old Nono-Mindo Rd,Pichincha,3,-0.023818,-78.643616,2006,12,2010
+1763672305,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,5,2001
+2781484391,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2007
+1707756411,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,4,0.00235,-78.67743,1742,12,2005
+1196024601,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2005
+1186379978,Cyanolyca pulchra,EC,Old Nono-Mindo Road,Pichincha,2,-0.01019,-78.653824,1862,8,2014
+2691546856,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,6,2014
+584771629,Cyanolyca pulchra,EC,Tandayapa Valley -- Upper,Pichincha,2,-0.014983,-78.67921,2173,11,2010
+270168399,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,10,2007
+1404816545,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2004
+1202808360,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2001
+179593754,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,3,2008
+2127709318,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+2139771544,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,3,2018
+2197198867,Cyanolyca pulchra,EC,"Bird Watcher's House Pichincha, EC (-0.025, -78.725)",Pichincha,2,-0.024507,-78.72466,2125,9,2018
+1195515279,Cyanolyca pulchra,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,6,2011
+1199314158,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,7,2000
+1206175422,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,5,2008
+2071710745,Cyanolyca pulchra,EC,La Chacra,Pichincha,1,0.069189,-78.950745,859,5,2017
+179594620,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,9,2008
+1786583673,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2012
+2678408431,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,1,2019
+1789378738,Cyanolyca pulchra,EC,"EC-Pichincha-SN Miguel Bancos (-0,0626,-78,7736)",Pichincha,1,-0.062576,-78.77359,1351,10,2016
+1409584329,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,1,2014
+2085900623,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,10,2017
+1789248123,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2005
+3684148313,Cyanolyca pulchra,EC,"Via de Observación de Aves, Cordillera San Lorenzo, SN Miguel Bancos EC-Pichincha -0.07316, -78.76762",Pichincha,1,-0.073159,-78.767624,1477,8,2021
+1772411517,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+2697983897,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2008
+179594626,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,8,2008
+2139256722,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+2177926930,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,6,2018
+2142810442,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+2101170057,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+1405997097,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2001
+1206063222,Cyanolyca pulchra,EC,Alambi Reserve,Pichincha,2,0.030789,-78.680565,1488,7,2008
+3263393271,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2010
+1390398346,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,7,2010
+1792579814,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,10,2004
+2777845365,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,8,2004
+1768016525,Cyanolyca pulchra,EC,Tandayapa - Bellavista Road -- 0.01x-78.68,Pichincha,2,-0.010152,-78.6798,1964,10,2016
+1173777262,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,9,2012
+1175855063,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,11,2011
+2801027320,Cyanolyca pulchra,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+825350213,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2008
+273967965,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2009
+2117605499,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,6,-0.017016,-78.65079,1867,2,2006
+2230334730,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,2,-0.024567,-78.72461,2126,11,2018
+2726928012,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2004
+584793634,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,2,2010
+2123462620,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2005
+2114889270,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,2,0.004678,-78.675606,1654,10,2004
+583928276,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2006
+2181966679,Cyanolyca pulchra,EC,Siempre Verde - The Lovett School,Imbabura,1,0.371723,-78.421906,2457,6,2016
+3278313146,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2009
+2066832424,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+1201738476,Cyanolyca pulchra,EC,Mindo Lindo,Pichincha,4,-0.024389,-78.76986,1647,12,2003
+2713255646,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2019
+3270313342,Cyanolyca pulchra,EC,La Armenia-Bellavista Road (alternate road to Bellavista),Pichincha,3,0.00859,-78.69729,2065,12,2020
+3267373181,Cyanolyca pulchra,EC,"Via a Santa Rosa, Pichincha, EC (-0.032, -78.729)",Pichincha,1,-0.031583,-78.72894,2039,11,2020
+1353760490,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2015
+1182826566,Cyanolyca pulchra,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,8,2014
+2785322466,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2000
+1787674347,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2011
+2734337106,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,1,2019
+1787609214,Cyanolyca pulchra,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+3545733627,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+1410495588,Cyanolyca pulchra,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,5,2005
+3546844027,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,7,2002
+1190906923,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,12,2009
+2106834627,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2017
+272750892,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,4,2010
+2103193218,Cyanolyca pulchra,EC,"Mindo-Tandayapa Road (-0.032, -78.725)",Pichincha,1,-0.031872,-78.725464,2088,11,2017
+584711116,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+2114904777,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,4,0.004678,-78.675606,1654,11,2004
+2114851823,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2004
+2114840599,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,6,2004
+2078839143,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2017
+2218415384,Cyanolyca pulchra,EC,Tandayapa Valley & Lodge (1650-1900m.a.s.l.),Pichincha,1,-0.000586,-78.67674,1697,10,2018
+2788008527,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,3,2019
+3277283698,Cyanolyca pulchra,EC,Puyucunapi: Sendero Casa-Cascadas,Pichincha,2,0.025192,-78.700005,1898,10,2020
+2755098431,Cyanolyca pulchra,EC,"Pichincha, EC (0.01, -78.705)",Pichincha,1,0.0095,-78.70549,2035,6,2019
+3280203597,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+940571136,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2013
+2787296081,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,3,-0.015922,-78.681206,2242,10,2019
+1776819026,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+2719120939,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,9,2019
+1350984166,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2015
+1397435405,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2015
+1399548127,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,1,2008
+825235061,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,3,-0.017016,-78.65079,1867,4,2006
+584817714,Cyanolyca pulchra,EC,Nono-Mindo Road,Pichincha,5,0.000343,-78.66631,1789,11,2010
+1788872211,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,7,2009
+2728609987,Cyanolyca pulchra,EC,Bellavista to Tandayapa - spot 2,Pichincha,2,-0.007322,-78.68092,1866,2,2019
+1153638591,Cyanolyca pulchra,EC,Mindo 10' Cell,Pichincha,1,-0.08333,-78.75,1445,10,2005
+2734845079,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2019
+966154554,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,9,2013
+2114930288,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+2668158153,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2019
+3185859821,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2007
+2114379668,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2005
+2725832257,Cyanolyca pulchra,EC,Road trom Yanacocha Reserve to San Jorge - Tandayapa,Pichincha,1,-0.054316,-78.62702,2242,11,2019
+2719608042,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,9,2019
+3286587660,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+3645022900,Cyanolyca pulchra,EC,"Tandayapa Valley, same area as previous day",Pichincha,1,0.00949,-78.67554,1624,8,2001
+1182877804,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,5,2013
+584127038,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+1788163222,Cyanolyca pulchra,EC,Reserva La Chacra,Pichincha,1,0.071749,-78.95434,856,2,2016
+2717091659,Cyanolyca pulchra,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,6,2016
+272756469,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,12,2008
+1345677919,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,2,0.02575,-78.632385,1901,1,2015
+2144121443,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+1793958309,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,3,2003
+1779701493,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2016
+3640706733,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,2,2013
+2049808965,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,5,2017
+3656494026,Cyanolyca pulchra,EC,Bosque Protector Siempre Verde,Imbabura,1,0.372374,-78.42244,2446,7,2008
+972506538,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,9,2008
+2229191353,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2018
+2126357199,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+2101148605,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,12,2001
+2764485205,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,5,2019
+1794705988,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2008
+583864450,Cyanolyca pulchra,EC,"nono-tandayapa rd, ecuador",Pichincha,1,-0.046692,-78.63464,2157,6,2005
+825195509,Cyanolyca pulchra,EC,Tandayapa (includes Bellavista),Pichincha,1,0.011186,-78.68295,1983,2,2004
+1791318233,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2009
+1791720432,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,8,2008
+2666827428,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2019
+3561584587,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+2050198539,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2017
+2762033445,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,6,2017
+3659847176,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2021
+1789223384,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2005
+2217114985,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,4,2006
+1174976795,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,10,2012
+2680658750,Cyanolyca pulchra,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,1,-0.024804,-78.72448,2126,6,2019
+2080288765,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2017
+270078485,Cyanolyca pulchra,EC,Bella Vista-Tandayapa,Pichincha,3,-0.012016,-78.67756,2067,10,2004
+1794823962,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,6,2011
+3691942515,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,12,2021
+1788865790,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2014
+148746418,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,-0.001545,-78.68168,2001,1,2003
+584825387,Cyanolyca pulchra,EC,Ecoruta near Tandayapa,Pichincha,2,-0.0103,-78.65662,1867,7,2010
+2114207331,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2004
+970122304,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2008
+941337295,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2004
+1180706734,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2002
+3560045598,Cyanolyca pulchra,EC,Ecuador - Pichincha - Ecuador - Pichincha (-0.02124377 - -78.76740888),Pichincha,1,-0.021244,-78.76741,1615,2,2010
+3134348768,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,1,2020
+3555413664,Cyanolyca pulchra,EC,Balcón Tumpiki,Pichincha,1,-0.006943,-78.72075,1963,10,2020
+2123385137,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2004
+1382171411,Cyanolyca pulchra,EC,Gary & Karen's House (Roughly) (Road to Bellavista from SanTadeo,Pichincha,1,-0.022659,-78.74215,1954,8,2015
+1175592924,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2011
+958637227,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,9,2001
+963003018,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,8,2013
+3275651284,Cyanolyca pulchra,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,12,2007
+1201956575,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,4,2010
+2703818686,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,10,2019
+584123831,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,7,2009
+1203108908,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,4,-0.015922,-78.681206,2242,8,2012
+1410489253,Cyanolyca pulchra,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,3,2006
+2028703303,Cyanolyca pulchra,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,3,-0.068914,-78.588905,2712,2,2012
+586453355,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,6,2011
+2801918597,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2007
+584225080,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2010
+179593632,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,3,2008
+2127409482,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2018
+1392631610,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,9,2014
+2085925815,Cyanolyca pulchra,EC,Tandayapa Valley - lower valley (above Tandayapa Bird Lodge),Pichincha,1,0.004508,-78.67904,1851,10,2017
+936375198,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,7,2008
+3547762370,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,7,2010
+2713824135,Cyanolyca pulchra,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,1,0.125067,-78.62796,1309,10,2019
+1398897795,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,11,2015
+2714586588,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,4,0.00235,-78.67743,1742,1,2006
+2101151709,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,1,2004
+2759174045,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2019
+2051083419,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2017
+1199006413,Cyanolyca pulchra,EC,Bellavista Cloud Forest Reserve,Pichincha,1,0.003552,-78.69058,2271,1,2006
+271212440,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,4,-0.035534,-78.70597,2245,9,2007
+1773002271,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+2719627416,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+1202507868,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,6,2002
+2219682610,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,5,2013
+2837911299,Cyanolyca pulchra,EC,Ecuador - Pichincha,,2,-0.148634,-78.782456,1830,7,2009
+3606879756,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2021
+2195167923,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2018
+2838097526,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.037079,-78.734894,1964,3,2010
+179594070,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,7,2007
+3136157137,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2020
+2165220286,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,4,2018
+584203995,Cyanolyca pulchra,EC,Old Nono-Mindo Road,Pichincha,2,-0.01236,-78.6525,1983,12,2010
+2219514119,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,2,-0.024567,-78.72461,2126,11,2018
+1172012183,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2013
+2657577582,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2019
+2208649683,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,10,2005
+2716875005,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2018
+2727189433,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.002322,-78.67682,1706,5,2010
+2839687224,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.0268,-78.7422,1867,9,2010
+2832169455,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.008217,-78.725109,1802,3,2010
+1350603722,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,2,2015
+3279595901,Cyanolyca pulchra,EC,Old Nono - Mindo Road,Pichincha,1,-0.036737,-78.63602,2053,6,2005
+975845969,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,12,2013
+2101343228,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2005
+2839387192,Cyanolyca pulchra,EC,Ecuador - Pichincha,,3,-0.033646,-78.683052,2432,6,2009
+2142562142,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,5,-0.033302,-78.712814,2228,3,2018
+1793999372,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,7,2008
+2840912257,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.0268,-78.7422,1867,9,2010
+1792953575,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,8,2008
+583754218,Cyanolyca pulchra,EC,La Armenia-Bellavista Road (alternate road to Bellavista),Pichincha,1,0.00859,-78.69729,2065,4,2003
+1409877469,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2015
+825240908,Cyanolyca pulchra,EC,Tandayapa (includes Bellavista),Pichincha,1,0.011186,-78.68295,1983,1,2005
+2073753259,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+936766474,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,12,2012
+824890115,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2000
+2759202422,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,6,2019
+2148489188,Cyanolyca pulchra,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,3,2018
+2234128134,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2010
+2075630113,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+3552366979,Cyanolyca pulchra,EC,Santa Lucia Cloud Forest Ecolodge-Reserve Santa Lucia,Pichincha,1,0.138451,-78.61272,1433,3,2009
+1188246917,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2014
+2139091390,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+1151344866,Cyanolyca pulchra,EC,Ecuador -- Reserva Las Grallarias,Pichincha,1,-0.01054,-78.73083,2061,1,2014
+2703103876,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,3,-0.015922,-78.681206,2242,10,2019
+936310401,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2008
+955923074,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2013
+944018807,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,3,2013
+2101170048,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,10,2004
+2125719308,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2018
+3177401310,Cyanolyca pulchra,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,3,2006
+1410977929,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2007
+2123454727,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,3,-0.014162,-78.67891,2126,2,2005
+1749039320,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2016
+2715066701,Cyanolyca pulchra,EC,"Tandayapa Valley (0.0048, -78.6834)",Pichincha,1,0.0048,-78.6834,1994,6,2009
+584762062,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2010
+1791693068,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,3,2013
+2135676748,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,2,2018
+1411357540,Cyanolyca pulchra,EC,Tandayapa-general area,Pichincha,1,-0.001974,-78.67623,1703,8,2014
+3210851315,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2020
+1407681350,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,6,2005
+1727172702,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.011232,-78.73018,2061,2,2016
+2175637057,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2018
+1794437245,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,10,2008
+2658517980,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2019
+2164920082,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2018
+1791109143,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+2797689460,Cyanolyca pulchra,EC,"en route--Bellavista to Mindo, Old Nono-Mindo Road",Pichincha,1,-0.03579,-78.7085,2271,8,2012
+583864337,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2005
+1784518453,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,9,2010
+2114883252,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2004
+2101171414,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,10,2004
+1771813631,Cyanolyca pulchra,EC,bellavista cloud forest,Pichincha,1,-0.012917,-78.67561,1987,5,2012
+2112759724,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+272889810,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,3,-0.014162,-78.72983,2090,5,2009
+1710739278,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,3,0.015986,-78.67585,1612,1,2016
+1723011448,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,3,2016
+937638292,Cyanolyca pulchra,EC,La Armenia-Bellavista Road (alternate road to Bellavista),Pichincha,2,0.00859,-78.69729,2065,1,2013
+1353762510,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2015
+1396692057,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2015
+1792072635,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+3260491685,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2004
+2086214481,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2017
+3575395491,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+1201955472,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,4,2010
+945736401,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+1756685396,Cyanolyca pulchra,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,7,2012
+3635422657,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,4,2021
+2061601728,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2740577867,Cyanolyca pulchra,EC,Bellavista to Tandayapa - spot 2,Pichincha,2,-0.007322,-78.68092,1866,2,2019
+2220872179,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,11,2018
+1390121218,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,8,2005
+1410606841,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2004
+1791884115,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2006
+584125832,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+1410488626,Cyanolyca pulchra,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,6,2005
+2699819527,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,4,-0.033302,-78.712814,2228,7,2019
+2101218989,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+1409827232,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,4,2005
+2183816892,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,6,2018
+1189834679,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,3,0.00235,-78.67743,1742,9,2014
+2118308247,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,3,2003
+1787501434,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,11,2005
+2675440308,Cyanolyca pulchra,EC,Desvío Mindo (Junction),Pichincha,2,-0.026744,-78.76363,1683,1,2014
+2136703439,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,11,2005
+2187580048,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2018
+1362853503,Cyanolyca pulchra,EC,Nono-Mindo Road near San Tadeo,Pichincha,2,-0.024868,-78.74329,1913,4,2015
+2133911375,Cyanolyca pulchra,EC,"Tanandayapa R, EC-Pichincha (0.0508,-78.6805)",Pichincha,1,0.050812,-78.68055,1478,1,2018
+1733462086,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,3,2009
+2113595615,Cyanolyca pulchra,EC,"(-0.0396,-78.6364)",Pichincha,2,-0.039572,-78.63642,2091,11,2017
+2170536085,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2018
+2138620841,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2018
+584043165,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2008
+586609593,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2011
+2671974610,Cyanolyca pulchra,EC,Drive to Sachatamia,Pichincha,2,-0.015978,-78.68077,2225,2,2019
+2739967338,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2005
+2079052576,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+1176357349,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,2,2011
+2734551949,Cyanolyca pulchra,EC,"Pichincha, EC (-0,092, -78,752)",Pichincha,1,-0.09183,-78.752235,1837,1,2019
+2209398530,Cyanolyca pulchra,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,8,2008
+1744541265,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,6,2016
+1792108020,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2014
+3161476833,Cyanolyca pulchra,EC,"Mindo, Pichincha, EC",Pichincha,5,-0.00435,-78.72183,1903,3,2020
+2726593561,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2012
+2777388728,Cyanolyca pulchra,EC,Bellavista Cloud Forest,Pichincha,1,-0.015964,-78.68091,2231,9,2019
+1785063724,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2010
+2151698416,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,4,2018
+584827041,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+3286379133,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,3,2006
+584792658,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2010
+2101145572,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,1,-0.014162,-78.67891,2126,2,2004
+2195086054,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2008
+1756661172,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,2,2015
+269800491,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2003
+1774296528,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,-0.001545,-78.68168,2001,1,2003
+2183152045,Cyanolyca pulchra,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,2,-0.024804,-78.72448,2126,7,2018
+940589982,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2013
+3687291248,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2009
+3689962909,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,4,-0.015922,-78.681206,2242,10,2021
+2122686683,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,2,-0.024567,-78.72461,2126,3,2018
+827225514,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,12,2012
+1196775157,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2004
+1788871105,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+1185139345,Cyanolyca pulchra,EC,Old Nono-Mindo Road,Pichincha,2,-0.01019,-78.653824,1862,8,2014
+2775819702,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2019
+3180252452,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,8,2020
+1208780147,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,7,2010
+2800564339,Cyanolyca pulchra,EC,Reserva Río Manduriacu,Imbabura,2,0.31026,-78.85736,1213,12,2019
+1384496622,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,7,2006
+584832774,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2010
+584763325,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2010
+274380551,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2008
+584143564,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2009
+3679969906,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2004
+2161637935,Cyanolyca pulchra,EC,Ruta Plaza Guitierrez,Imbabura,1,0.344179,-78.45541,2470,5,2018
+943753100,Cyanolyca pulchra,EC,Bellavista/Tandayapa Valley/Lower Nono-Mindo Rd,Pichincha,2,-0.02017,-78.68743,2334,8,2003
+3550884884,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+962562521,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,8,2013
+2123622772,Cyanolyca pulchra,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,7,2005
+971898187,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2005
+1788393488,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,1,2001
+1407166231,Cyanolyca pulchra,EC,Bellavista Cloud Forest Reserve,Pichincha,1,0.003678,-78.6912,2274,7,2011
+276037137,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2010
+2058568416,Cyanolyca pulchra,EC,La Chacra,Pichincha,1,0.069189,-78.950745,859,4,2017
+584831405,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2010
+3557672856,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+1790185938,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,9,2010
+2111040840,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,10,2017
+2705572897,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,10,2019
+1191608505,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2003
+2114904540,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,2,0.004678,-78.675606,1654,12,2004
+586607200,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2011
+1190921815,Cyanolyca pulchra,EC,"San Luis Transecto impacto, Punto 6",Pichincha,1,-0.019,-78.699,2359,6,2005
+3619507536,Cyanolyca pulchra,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,10,2004
+179594631,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,9,2008
+3204406066,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2013
+2728753959,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,1,2019
+1183267360,Cyanolyca pulchra,EC,Bellavista Cloud Forest Reserve,Pichincha,4,0.003047,-78.690796,2276,5,2014
+2216898697,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+2779816274,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,10,2017
+3211091183,Cyanolyca pulchra,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.00206,-78.68189,2048,12,2007
+2751562141,Cyanolyca pulchra,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,11,2016
+2183311183,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2018
+2074659690,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,5,2017
+2091856349,Cyanolyca pulchra,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,8,2017
+2737147229,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,1,2009
+2116075317,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2004
+2105622336,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2017
+2789790567,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2005
+1772044366,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,7,2006
+2123464251,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2004
+2032285840,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2017
+2754531885,Cyanolyca pulchra,EC,"EC-Pichincha-Quito (0.0202,-78.7071)angel paz b",Pichincha,5,0.020185,-78.707146,1888,5,2019
+2101236840,Cyanolyca pulchra,EC,Upper Tandayapa Valley,Pichincha,1,-0.014162,-78.67891,2126,8,2005
+2113803576,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,11,2017
+3205956500,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,1,2011
+1192433523,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2002
+2111418287,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2017
+1749040374,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2016
+2718799356,Cyanolyca pulchra,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,7,2014
+2232931919,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,4,-0.017016,-78.65079,1867,12,2018
+1788770223,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2005
+3610777430,Cyanolyca pulchra,EC,"Ruta Tandayapa, Quito EC-Pichincha -0.05786, -78.61256",Pichincha,6,-0.057858,-78.61256,2363,11,2021
+3692745773,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,1,2000
+2151691100,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,5,2018
+2114205977,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,1,2005
+584169227,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.012531,-78.72995,2073,7,2009
+3223345939,Cyanolyca pulchra,EC,San Jose Farm,Pichincha,1,-0.000663,-78.68726,2233,4,2020
+2114253999,Cyanolyca pulchra,EC,Lower Tandayapa Valley,Pichincha,1,0.004678,-78.675606,1654,8,2005
+945459592,Cyanolyca pulchra,EC,La Armenia-Bellavista Road (alternate road to Bellavista),Pichincha,2,0.00859,-78.69729,2065,7,2006
+980260343,Cyanolyca pulchra,EC,Nono-Mindo Road,Pichincha,4,-0.030703,-78.72583,2082,11,2012
+2707570305,Cyanolyca pulchra,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.771)",Pichincha,1,-0.06102,-78.770905,1283,8,2019
+2110212460,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,3,2008
+2114259861,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,8,2005
+586502076,Cyanolyca pulchra,EC,East Old Nono-Mindo Rd,Pichincha,2,-0.053215,-78.62846,2201,6,2011
+1352052439,Cyanolyca pulchra,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,2,2015
+2795335078,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2000
+1189723162,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,9,2014
+1406611067,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2005
+179593381,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,3,0.02575,-78.632385,1901,3,2007
+3661445080,Cyanolyca pulchra,EC,"Tandayapa Valley, Fausto's to Tony Nunnery's to Bellavista",Pichincha,1,0.00949,-78.67554,1624,8,2001
+3662305433,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2007
+3198694204,Cyanolyca pulchra,EC,Balcón Tumpiki,Pichincha,1,-0.006943,-78.72075,1963,10,2020
+1789506099,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,2,2010
+2060723904,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2017
+586689105,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,6,2011
+2122668890,Cyanolyca pulchra,EC,San Jorge Tandayapa—15 km south,Pichincha,1,-0.02046,-78.647545,1890,3,2018
+2080552897,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2017
+1183016014,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2014
+1756644835,Cyanolyca pulchra,EC,Nono-Mindo Road--exact location unknown,Pichincha,1,-0.031162,-78.72915,2048,3,2007
+2101216688,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2005
+2217271885,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,2,-0.016544,-78.68791,2278,11,2018
+2136804531,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,3,-0.012531,-78.72995,2073,12,2017
+2058050091,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,3,2017
+1405322991,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,6,0.00235,-78.67743,1742,4,2005
+2099095860,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2017
+2177650031,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,5,2018
+1794824686,Cyanolyca pulchra,EC,Tandayapa,Pichincha,1,0.016984,-78.6738,1611,6,2011
+1773062926,Cyanolyca pulchra,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,6,2001
+1407158038,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,7,2011
+2762363152,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2019
+1410490435,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,6,2000
+2079066403,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,6,2017
+1773515903,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,4,-0.012531,-78.72995,2073,7,2009
+2132901499,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,2,2018
+1788680736,Cyanolyca pulchra,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,7,2007
+3683491074,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2006
+2101355226,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2005
+2233259087,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,4,-0.017016,-78.65079,1867,12,2018
+1773486392,Cyanolyca pulchra,EC,"Birdwatcher' House, -0.0249x-78.7247",Pichincha,2,-0.024865,-78.724686,2124,10,2016
+276114220,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,4,2010
+3287303847,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,4,2009
+1205958129,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,10,2011
+2157637587,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,4,2018
+1748310317,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,6,2016
+1791549689,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2006
+2798191927,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,6,2017
+1409461244,Cyanolyca pulchra,EC,Reserva Bellavista--general area,Pichincha,1,-0.016544,-78.68791,2278,2,2003
+1369337413,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.012531,-78.72995,2073,5,2015
+1206604872,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,2,2014
+3546210599,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,8,2021
+2101189770,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2017
+584791368,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,11,2010
+2787334347,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,3,2019
+1754876206,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2016
+2123394133,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+1790485340,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,6,2006
+1794823924,Cyanolyca pulchra,EC,East Old Nono-Mindo Rd,Pichincha,2,-0.053215,-78.62846,2201,6,2011
+2101220243,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,8,2004
+1791547675,Cyanolyca pulchra,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,2,-0.033302,-78.712814,2228,2,2006
+1408203091,Cyanolyca pulchra,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,8,2012
+3672639422,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,7,2010
+2116370884,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2018
+2696861358,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,8,2019
+1198843370,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2014
+2210468458,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,1,-0.024567,-78.72461,2126,12,2018
+2130031281,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,2,2018
+3293979069,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,10,2013
+3295978299,Cyanolyca pulchra,EC,Tandayapa-Bellavista general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,2,-0.00206,-78.68189,2048,11,2013
+1202220347,Cyanolyca pulchra,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,3,2012
+958641541,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,9,2001
+2115096577,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2005
+1411364648,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2015
+970118900,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,2,2008
+2189284565,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,7,2013
+2104239297,Cyanolyca pulchra,EC,"Mindo-Tandayapa Road (-0.032, -78.725)",Pichincha,1,-0.031872,-78.725464,2088,11,2017
+2114392622,Cyanolyca pulchra,EC,Mindo Loma,Pichincha,2,-0.020747,-78.743286,1877,8,2005
+2659582283,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,2,2019
+3561108897,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2018
+1793945152,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2004
+3635543823,Cyanolyca pulchra,EC,"Via Quito-Nono, Quito EC-Pichincha -0.00735, -78.65804",Pichincha,2,-0.00735,-78.65804,1795,11,2021
+2078795150,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2101210794,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2004
+3607096837,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,11,2021
+1793913984,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2004
+2145751039,Cyanolyca pulchra,EC,"EC-Pichincha-SN Miguel Bancos (-0,0243,-78,7246)",Pichincha,1,-0.024281,-78.7246,2126,5,2018
+1399554989,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,2,-0.017016,-78.65079,1867,1,2008
+2038873109,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,2,2017
+179594665,Cyanolyca pulchra,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,8,2006
+1744915535,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,3,-0.013116,-78.677826,2087,6,2016
+3388043709,Cyanolyca pulchra,EC,Wälder im Tandayapa Valley und Umgebung,,1,0.011335,-78.689766,2054,11,2004
+1198847716,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2014
+2835979960,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.0268,-78.7422,1867,9,2010
+2832735163,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.01,-78.7334,2006,9,2010
+2243868027,Cyanolyca pulchra,EC,"Tandayapa Bird Lodge, Pichincha",,1,-0.0101,-78.6776,2035,9,2010
+2243775950,Cyanolyca pulchra,EC,"Tandayapa Bird Lodge, Tandayapa Valley, Pichincha",,1,0.01,-78.6776,1702,1,2001
+2243869397,Cyanolyca pulchra,EC,"Tandayapa Bird Lodge, Pichincha",,1,-0.0101,-78.6776,2035,9,2010
+3282285176,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,12,2020
+2982209126,Cyanolyca pulchra,EC,Bellavista Cloud Forest Reserve,,1,-0.016,-78.6809,2231,9,2019
+2243775770,Cyanolyca pulchra,EC,"Tandayapa Bird Lodge, Tandayapa Valley, Pichincha",,1,0.01,-78.6776,1702,1,2001
+2839870966,Cyanolyca pulchra,EC,Ecuador - Pichincha,,2,-0.007325,-78.658494,1826,7,2012
+2213328141,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,1,-0.024567,-78.72461,2126,12,2018
+2101166474,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2004
+2716670325,Cyanolyca pulchra,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,10,2000
+179594069,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,3,-0.014162,-78.72983,2090,7,2007
+2835431249,Cyanolyca pulchra,EC,Ecuador - Pichincha,,2,-0.148634,-78.782456,1830,7,2009
+2838411943,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.01074,-78.731927,2046,6,2012
+3226672015,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,1,2020
+1390554188,Cyanolyca pulchra,EC,EC-Reserva Las Gralarias,Pichincha,1,0.035482,-78.67648,1519,8,2011
+2786620908,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,6,2017
+2222084667,Cyanolyca pulchra,EC,Santa Rosa Bird Lodge,Pichincha,3,-0.024567,-78.72461,2126,12,2018
+961054078,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,7,2013
+1380017515,Cyanolyca pulchra,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,9,2007
+586449540,Cyanolyca pulchra,EC,East Old Nono-Mindo Rd,Pichincha,2,-0.053215,-78.62846,2201,6,2011
+2838357496,Cyanolyca pulchra,EC,Ecuador - Pichincha,,3,-0.01236,-78.728714,2032,2,2010
+2835326457,Cyanolyca pulchra,EC,Ecuador - Pichincha,,3,-0.009876,-78.726482,1851,1,2010
+2832171658,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,0.003948,-78.716698,1940,6,2010
+3637412765,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2021
+825185028,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+2790619605,Cyanolyca pulchra,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,2,-0.024804,-78.72448,2126,10,2019
+2222947947,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,2,0.00235,-78.67743,1742,11,2018
+825208268,Cyanolyca pulchra,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,10,2006
+2838245275,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.148634,-78.782456,1830,6,2009
+2832297917,Cyanolyca pulchra,EC,Ecuador - Pichincha,,2,-0.010577,-78.730816,2061,6,2012
+2104400791,Cyanolyca pulchra,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,2,0.015986,-78.67585,1612,11,2017
+2836035271,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.021244,-78.767409,1615,2,2010
+274835534,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,2,-0.014162,-78.72983,2090,9,2009
+586502427,Cyanolyca pulchra,EC,Santa Lucia Lodge,Pichincha,2,0.118575,-78.61154,1881,9,2011
+2218100800,Cyanolyca pulchra,EC,Mindo Loma,Pichincha,1,-0.020747,-78.743286,1877,7,2018
+2071966424,Cyanolyca pulchra,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,7,2017
+2243722105,Cyanolyca pulchra,EC,"Tandayapa Valley, Pichincha",,1,-0.0167,-78.6834,2309,11,2008
+2243868455,Cyanolyca pulchra,EC,"Tandayapa Valley, Pichincha",,1,-0.0167,-78.6834,2309,7,2010
+2243558033,Cyanolyca pulchra,EC,"Tandayapa Bird Lodge, Tandayapa Valley, Pichincha",,1,0.0101,-78.6776,1701,1,2012
+2243869776,Cyanolyca pulchra,EC,"Tandayapa Valley, Pichincha",,1,-0.0167,-78.6834,2309,7,2010
+2243869528,Cyanolyca pulchra,EC,"Tandayapa Valley, Pichincha",,1,-0.0167,-78.6834,2309,7,2010
+2848587199,Cyanolyca pulchra,EC,"Mindo, Pichincha",,1,-0.0266,-78.7423,1861,3,2020
+2835623657,Cyanolyca pulchra,EC,Ecuador - Pichincha,,1,-0.035969,-78.723907,2090,7,2010
+272756283,Cyanolyca pulchra,EC,Reserva Las Gralarias,Pichincha,1,-0.014162,-78.72983,2090,8,2007
+1788141447,Cyanolyca pulchra,EC,Reserva Orquideológica El Pahuma,Pichincha,2,0.02575,-78.632385,1901,3,2008
+980252371,Cyanolyca pulchra,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,11,2012
+2835631654,Cyanolyca pulchra,EC,Ecuador - Pichincha,,4,0.00412,-78.678589,1816,7,2010

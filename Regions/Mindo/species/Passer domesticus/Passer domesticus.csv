@@ -1,0 +1,535 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2725816129,Passer domesticus,EC,Reserva Amagusa,Pichincha,5,0.1598,-78.8534,1302,5,2019
+1181952726,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2014
+1755073066,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2010
+2397506194,Passer domesticus,EC,,Pichincha,1,0.13472,-78.676438,1116,11,2018
+3302139397,Passer domesticus,EC,,Pichincha,1,-0.174404,-78.384256,2351,7,2020
+3525785052,Passer domesticus,EC,"2 Valencia, Quito, Pichincha, EC (-0.229, -78.438)",Pichincha,1,-0.229307,-78.43844,2373,5,2021
+2100116696,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,9,2017
+966422234,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2013
+1745279241,Passer domesticus,EC,EC-Pichincha-Pedro Vicente M.-Rio Silanche,Pichincha,5,0.063707,-79.05973,641,6,2016
+3170740528,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,9,-0.052779,-78.359406,2110,6,2020
+1191338137,Passer domesticus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,11,2011
+2127539614,Passer domesticus,EC,Hotel San José Aeropuerto,Pichincha,1,-0.189592,-78.35297,2474,3,2018
+2689742756,Passer domesticus,EC,"EC-Pichincha-Quito (0.1463,-78.7664)",Pichincha,2,0.146259,-78.76638,1239,7,2019
+3681021431,Passer domesticus,EC,Puembo--El Molino,Pichincha,6,-0.176704,-78.3534,2319,6,2021
+2098953500,Passer domesticus,EC,Hostería Rincon de Puembo,Pichincha,2,-0.173506,-78.36059,2437,10,2017
+3186632061,Passer domesticus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,3,2012
+3684279695,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+3525018497,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,8,-0.322741,-78.99407,787,4,2021
+3186497039,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+1739040898,Passer domesticus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,5,2016
+3246021497,Passer domesticus,EC,Nanegal--vicinity,Pichincha,8,0.136249,-78.677826,1150,2,2020
+2127363859,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+2686547552,Passer domesticus,EC,"(0,007, -78,906)",Pichincha,1,0.006614,-78.906235,809,6,2019
+2683783857,Passer domesticus,EC,Puerto Quito,Pichincha,2,0.116386,-79.26367,196,12,2009
+1175212357,Passer domesticus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,11,2011
+3522552015,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,20,0.087625,-79.05275,613,5,2021
+3573895485,Passer domesticus,EC,"Parque Puembo, Quito EC-Pichincha",Pichincha,15,-0.177224,-78.35868,2442,12,2021
+2747255378,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2019
+2690189872,Passer domesticus,EC,"(-0.0684,-78.7628)",Pichincha,3,-0.068422,-78.76277,1307,2,2019
+3532038178,Passer domesticus,EC,"Via Quito Guayllabamba, Quito EC-Pichincha (-0.0528,-78.3486)",Pichincha,6,-0.052787,-78.34863,2137,8,2021
+2797187220,Passer domesticus,EC,Quito Airport Motel Suites,Pichincha,1,-0.156301,-78.3494,2426,10,2019
+3212459009,Passer domesticus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+3243083901,Passer domesticus,EC,"Calle Tumbecinos, Santo Domingo, Provincia de Santo Domingo de los Tsáchilas, EC (-0,255, -79,151)",Santo Domingo de los Tsáchilas,2,-0.254663,-79.15129,578,5,2020
+1190708986,Passer domesticus,EC,"Terminal terrestre, Santo Domingo de los Tsáchilas",Santo Domingo de los Tsáchilas,50,-0.25,-79.16,568,9,2003
+1765239374,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2016
+1759949852,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2016
+3622176623,Passer domesticus,EC,"N8-233 Conector Alpachaca, Quito, Pichincha, EC (-0,157, -78,35)",Pichincha,4,-0.157286,-78.349785,2432,10,2021
+1723025663,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2016
+3506596248,Passer domesticus,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,1,2021
+3587060214,Passer domesticus,EC,Parque de la Juventud,Santo Domingo de los Tsáchilas,2,-0.24776,-79.148544,578,1,2021
+970714246,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,11,2013
+971436674,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,11,2013
+3289267479,Passer domesticus,EC,"Parque Central De Perucho, Pichincha, EC",Pichincha,15,0.108731,-78.42378,1815,10,2020
+2726333850,Passer domesticus,EC,Palomar,Santo Domingo de los Tsáchilas,4,-0.321833,-78.99272,739,11,2019
+2167790120,Passer domesticus,EC,"Avenida 29 de Junio, Pedro Vicente M. EC-Pichincha (0.0886,-79.0544)",Pichincha,3,0.08858,-79.054436,611,5,2018
+3226775882,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+3268735975,Passer domesticus,EC,"Alejandro Carrion, Quito EC-Pichincha -0.22932, -78.39236",Pichincha,4,-0.229323,-78.39236,2406,10,2020
+3681820470,Passer domesticus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,8,2021
+2795622102,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2019
+2143482525,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,3,2018
+2185769762,Passer domesticus,EC,Quito Airport,Pichincha,1,-0.122566,-78.35857,2370,3,2018
+3638254701,Passer domesticus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,8,2021
+1156007315,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2014
+2161614788,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,4,2018
+2715162057,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2016
+3584174468,Passer domesticus,EC,Hotel Alpachaca,Pichincha,4,-0.15728,-78.349525,2434,12,2021
+2669110369,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+2777739421,Passer domesticus,EC,Tandayapa Bird Lodge,Pichincha,4,0.00235,-78.67743,1742,8,2006
+1374630472,Passer domesticus,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,4,-0.062765,-78.77427,1344,6,2015
+966569561,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2013
+1162182534,Passer domesticus,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2014
+3686631746,Passer domesticus,EC,"Corredor Alpachaca, Quito EC-Pichincha -0.15700, -78.34895",Pichincha,3,-0.156995,-78.348946,2436,12,2021
+3511528586,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2021
+3517916844,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2021
+2201207728,Passer domesticus,EC,Hostería Rincon de Puembo,Pichincha,2,-0.173506,-78.36059,2437,10,2017
+3690425850,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,8,0.087625,-79.05275,613,11,2021
+1405177975,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2004
+2662574126,Passer domesticus,EC,Rio Silanche Road,Pichincha,2,0.088579,-79.08178,573,12,2001
+2773148601,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,3,2019
+2659516799,Passer domesticus,EC,Airbnb near Quito- Rail Trail to Rio Chiche Bridge,Pichincha,1,-0.174351,-78.36625,2411,2,2019
+2670106263,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2019
+2797459220,Passer domesticus,EC,Los Tubos,Santo Domingo de los Tsáchilas,1,-0.320708,-79.000374,743,10,2019
+2660053875,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+2717802681,Passer domesticus,EC,Nanegal--vicinity,Pichincha,12,0.136249,-78.677826,1150,11,2019
+2696196248,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2019
+1380023265,Passer domesticus,EC,"Ecuador, Los Bancos Restaurant overlooking river",Pichincha,1,0.024977,-78.89763,1061,9,2007
+1175046140,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,5,2014
+3249856780,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,15,-0.052779,-78.359406,2110,7,2020
+3605921857,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,8,0.087625,-79.05275,613,11,2021
+1157315990,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2014
+3564005571,Passer domesticus,EC,Puerto Quito,Pichincha,6,0.116386,-79.26367,196,10,2021
+2668594590,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2019
+2734412994,Passer domesticus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,1,2007
+2720100533,Passer domesticus,EC,Rio Silanche--general area,Pichincha,5,0.117101,-79.13609,393,2,2004
+1179800408,Passer domesticus,EC,Guayllabamba,Pichincha,15,-0.052376,-78.346725,2137,7,2014
+1719754201,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2016
+3177310340,Passer domesticus,EC,Nanegal--vicinity,Pichincha,2,0.136249,-78.677826,1150,6,2020
+3670000024,Passer domesticus,EC,Tipico Locro,Pichincha,10,-0.052862,-78.348854,2140,1,2021
+2773419093,Passer domesticus,EC,Finca La Mercedes,Pichincha,3,-0.31401,-78.93371,879,11,2019
+1776993178,Passer domesticus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2016
+1204977470,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,2,2007
+3230368530,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,1,2020
+2726869416,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2019
+2725884087,Passer domesticus,EC,Quito--Reservorio de Cumbayá,Pichincha,2,-0.193,-78.426834,2354,11,2019
+1768227856,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2016
+2721378155,Passer domesticus,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,12,2010
+2984568866,Passer domesticus,EC,,Pichincha,1,0.001142,-78.51639,2820,11,2020
+1730099796,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2016
+3627982406,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,11,2021
+2543088249,Passer domesticus,EC,,Santo Domingo de los Tsáchilas,1,-0.215671,-79.173019,508,12,2019
+1758909136,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2016
+2230485028,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,11,2018
+3249448854,Passer domesticus,EC,"Alluriquin, Provincia de Santo Domingo de los Tsáchilas, EC (-0,311, -78,952)",Santo Domingo de los Tsáchilas,4,-0.31144,-78.95181,932,9,2020
+3388459735,Passer domesticus,EC,Wälder im Tandayapa Valley und Umgebung,,1,0.011335,-78.689766,2054,11,2004
+3537952555,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,6,0.087625,-79.05275,613,11,2021
+3152932023,Passer domesticus,EC,Finca Los Cedros,Santo Domingo de los Tsáchilas,1,-0.243939,-79.27061,403,4,2020
+2198433953,Passer domesticus,EC,Puembo Central Park,Pichincha,4,-0.176786,-78.35883,2441,7,2018
+1754264180,Passer domesticus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,6,2016
+2170168370,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,7,2018
+2115201084,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+3265220349,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,8,-0.052779,-78.359406,2110,8,2020
+2145087220,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2018
+3160240789,Passer domesticus,EC,San Miguel de Los Bancos,Pichincha,1,0.022509,-78.89041,1090,3,2020
+2151162996,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2018
+3389784119,Passer domesticus,EC,Niedrige Landschaften (Lowlands) nähe Arasha,,1,0.100909,-79.096443,530,11,2004
+2062050265,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,3,0.02228,-78.8909,1096,3,2017
+2083810834,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,7,2017
+1792095299,Passer domesticus,EC,Pvm,Pichincha,10,0.09331,-79.1053,506,11,2011
+149577833,Passer domesticus,EC,Pedro Vicente Maldanado,Pichincha,1,0.084457,-79.09813,417,8,2007
+3687681816,Passer domesticus,EC,"Vía Piedra de Vapor, Pichincha, EC (0.143, -79.312)",Pichincha,2,0.143305,-79.31244,145,8,2021
+1756699334,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2016
+941318585,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2013
+2144769625,Passer domesticus,EC,La Hesperia,Pichincha,1,-0.353706,-78.84845,1348,7,2005
+3541425785,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,12,0.087625,-79.05275,613,9,2021
+3217397513,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+1191974961,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2014
+3679128369,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+2186776037,Passer domesticus,EC,"Vía a Pacto, Quito, Pichincha, EC (0.066, -78.692)",Pichincha,3,0.065881,-78.692406,1768,9,2018
+1788690789,Passer domesticus,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,6,2002
+2173625363,Passer domesticus,EC,Quito Airport,Pichincha,1,-0.122566,-78.35857,2370,3,2018
+3601404795,Passer domesticus,EC,"Calle A, Quito, Pichincha, EC (-0,182, -78,416)",Pichincha,2,-0.18156,-78.41636,2325,5,2021
+1769564590,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2016
+1392957835,Passer domesticus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,11,2014
+591936411,Passer domesticus,EC,Itapoa,Pichincha,1,0.122994,-79.27089,120,1,2008
+1407706355,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,6,2005
+3582577722,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+2137704415,Passer domesticus,EC,"Mindo, Pichincha, Ecuador",Pichincha,1,-0.051069,-78.77195,1276,3,2018
+2161050684,Passer domesticus,EC,"408 Avenida Chone, Santo Domingo de los Colorados, Provincia de Santo Domingo de los Tsáchilas, EC (-0.257, -79.191)UTPL",Santo Domingo de los Tsáchilas,3,-0.256847,-79.19128,508,5,2018
+3182721890,Passer domesticus,EC,Avenida chone km 1,Santo Domingo de los Tsáchilas,5,-0.247684,-79.20408,496,6,2020
+2228118966,Passer domesticus,EC,Quito Airport area,Pichincha,2,-0.126286,-78.36247,2368,12,2018
+3685965533,Passer domesticus,EC,El Quinche,Pichincha,10,-0.112491,-78.29312,2651,7,2021
+2162557942,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2018
+1791669171,Passer domesticus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,12,2005
+2662083754,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+2732787969,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+2759220322,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2019
+2181705230,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2018
+2072305768,Passer domesticus,EC,Parque El Ejido,Pichincha,2,-0.209298,-78.498474,2792,6,2017
+2770102407,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2019
+2124944752,Passer domesticus,EC,"Rita Lecumberry, Quito, Pichincha, EC (-0.216, -78.408)",Pichincha,1,-0.216029,-78.40773,2333,3,2018
+3583496961,Passer domesticus,EC,Las Golondrinas,Pichincha,1,0.315363,-79.22223,228,1,2009
+3233452172,Passer domesticus,EC,Nanegal--vicinity,Pichincha,6,0.136249,-78.677826,1150,3,2020
+2072491417,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,7,2017
+1151145729,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2014
+2101763982,Passer domesticus,EC,"Ecuador, San Miguel de Los Bancos",Pichincha,2,0.02292,-78.88902,1092,9,2017
+1398543582,Passer domesticus,EC,Pvm,Pichincha,10,0.09331,-79.1053,506,11,2011
+3542925471,Passer domesticus,EC,"Calle A, Quito, Pichincha, EC (-0,182, -78,416)",Pichincha,1,-0.180353,-78.41491,2255,3,2021
+2151287830,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,3,2018
+3622116704,Passer domesticus,EC,"Calle A, Quito, Pichincha, EC (-0,182, -78,416)",Pichincha,3,-0.18156,-78.41636,2325,5,2021
+3672906847,Passer domesticus,EC,Bosque Protector Jerusalem,Pichincha,5,0.000833,-78.355,2295,10,2021
+2130356189,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2018
+3180154736,Passer domesticus,EC,Iglesia Alchipichi,Pichincha,2,0.042497,-78.406494,2045,8,2020
+2784698345,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2016
+3658167314,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,11,2021
+2739868177,Passer domesticus,EC,Bosque Protector Jerusalem,Pichincha,1,0.000833,-78.355,2295,5,2017
+3253382464,Passer domesticus,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,6,-0.252486,-79.14583,589,10,2020
+3265273125,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,3,-0.052779,-78.359406,2110,6,2020
+2776526583,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2019
+3665697090,Passer domesticus,EC,Puembo--City Square,Pichincha,2,-0.176453,-78.35833,2441,11,2021
+3259182878,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+1208695405,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2703122852,Passer domesticus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,7,2019
+3183318337,Passer domesticus,EC,San Jorge de Milpe,Pichincha,3,0.044357,-78.88368,1059,6,2016
+2221250043,Passer domesticus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,1,2017
+3692618393,Passer domesticus,EC,Pedro Vicente de Maldonado Town,Pichincha,1,0.08036,-79.04103,617,8,2001
+1165688568,Passer domesticus,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,3,2014
+833654796,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,1,2007
+3539384885,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,12,2007
+2037066765,Passer domesticus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,2,2017
+3551630007,Passer domesticus,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,5,0.015986,-78.67585,1612,3,2021
+3615566397,Passer domesticus,EC,"Marco Jaramillo, San Miguel de Los Bancos, Pichincha, EC (0.022, -78.898)",Pichincha,2,0.022295,-78.897606,1052,1,2021
+2201958492,Passer domesticus,EC,Quito Airport,Pichincha,1,-0.122566,-78.35857,2370,3,2018
+1769710494,Passer domesticus,EC,Gualea,Pichincha,6,0.117103,-78.75231,1216,10,2016
+3552893577,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2021
+2784414093,Passer domesticus,EC,Pacto,Pichincha,3,0.14738,-78.80696,1508,10,2019
+2180078873,Passer domesticus,EC,"PUEBLO DE GUALEA(0.111, -78.75)",Pichincha,3,0.111231,-78.749825,1310,8,2018
+2225042243,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2018
+3618543804,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,12,2007
+1716030734,Passer domesticus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,2,2016
+1386547570,Passer domesticus,EC,Santo Domingo de los Tsachilas - southern entrance,Santo Domingo de los Tsáchilas,10,-0.281413,-79.2076,502,7,2003
+2125051685,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+1745774093,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,6,2016
+3148322339,Passer domesticus,EC,Nanegal--vicinity,Pichincha,3,0.136249,-78.677826,1150,2,2020
+2777271470,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2019
+3680360680,Passer domesticus,EC,"Manuel Burbano, Quito EC-Pichincha -0.17734, -78.35880",Pichincha,12,-0.177343,-78.3588,2443,8,2021
+2746540937,Passer domesticus,EC,"(-0.0684,-78.7628)",Pichincha,3,-0.068422,-78.76277,1307,2,2019
+3642732837,Passer domesticus,EC,Finca Sisantu,Santo Domingo de los Tsáchilas,1,-0.171765,-79.345856,309,5,2021
+2740889939,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+3647004383,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,4,-0.322741,-78.99407,787,5,2021
+2105342466,Passer domesticus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2017
+2030393664,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,1,2017
+2106854417,Passer domesticus,EC,"Las Tolas Road, Pichincha, EC (0.079, -78.776)",Pichincha,3,0.078775,-78.77558,1777,11,2017
+3529916290,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,6,-0.322741,-78.99407,787,5,2021
+2204423226,Passer domesticus,EC,Cotacachi--Rio Ambi Canyon,Imbabura,6,0.279035,-78.249825,2473,10,2018
+2094963486,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,11,2017
+3199728202,Passer domesticus,EC,Valle de Guayllabamba IBA,Pichincha,4,0.043805,-78.4122,1917,10,2020
+3274819281,Passer domesticus,EC,"Urbanización "" Las Bromelias""",Pichincha,2,0.079067,-79.0339,633,12,2020
+980604082,Passer domesticus,EC,"Terminal terrestre, Santo Domingo de los Tsáchilas",Santo Domingo de los Tsáchilas,35,-0.25,-79.16,568,10,2011
+967208807,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2013
+3514639188,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,10,-0.322741,-78.99407,787,5,2021
+591738757,Passer domesticus,EC,Pedro Vincente Maldonado,Pichincha,1,0.089264,-79.096756,515,8,2005
+3552484891,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,7,-0.322741,-78.99407,787,3,2021
+1202188013,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,7,2005
+2134884090,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+3645121396,Passer domesticus,EC,"Manuel Burbano, Quito EC-Pichincha -0.17734, -78.35880",Pichincha,12,-0.177343,-78.3588,2443,8,2021
+2129609948,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,2,-0.254899,-79.17269,562,2,2018
+1391234712,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,8,2005
+2154086936,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,4,2018
+3148255416,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,5,0.02274,-78.89481,1078,2,2020
+3567225582,Passer domesticus,EC,Finca Sisantu,Santo Domingo de los Tsáchilas,1,-0.171765,-79.345856,309,5,2021
+3249619116,Passer domesticus,EC,"Los Eucaliptos, Provincia de Imbabura, EC (0,251, -78,253)",Imbabura,1,0.251345,-78.2526,2551,5,2020
+2152988359,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,7,2010
+1176575306,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2014
+2047587636,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,5,0.02274,-78.89481,1078,4,2017
+2744113448,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,2,0.02228,-78.8909,1096,3,2019
+3684279715,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+3585112679,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,16,0.087625,-79.05275,613,12,2021
+2679379678,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+961502999,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+3248881089,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+3277430051,Passer domesticus,EC,Finca Mundo Verde,Santo Domingo de los Tsáchilas,5,-0.058943,-79.25629,375,10,2020
+181865043,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,5,0.145185,-79.14147,402,9,2008
+2779251124,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,10,2019
+1790054502,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,9,2007
+2112660441,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+1788494053,Passer domesticus,EC,Puente del Río Blanco,Pichincha,1,0.005556,-78.912224,791,3,2014
+2747162441,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,2,0.02228,-78.8909,1096,3,2019
+2784811351,Passer domesticus,EC,Quito Airport Suites,Pichincha,1,-0.155761,-78.35153,2387,7,2019
+2767751729,Passer domesticus,EC,Pacto,Pichincha,3,0.14738,-78.80696,1508,10,2019
+279015475,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,8,2007
+2110553957,Passer domesticus,EC,Parque El Ejido,Pichincha,2,-0.209298,-78.498474,2792,2,2018
+2132843706,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,3,2018
+1709298317,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,3,-0.254899,-79.17269,562,1,2016
+3628689490,Passer domesticus,EC,Sendero Frutti Tour & Birdwatching,Pichincha,2,0.08146,-79.05632,595,8,2021
+1180964534,Passer domesticus,EC,Guayllabamba,Pichincha,15,-0.052376,-78.346725,2137,7,2014
+3660983761,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,9,2021
+3259623094,Passer domesticus,EC,Av. Los Tsachilas y Rio Aguarico,Santo Domingo de los Tsáchilas,5,-0.25649,-79.16825,549,6,2020
+2705218904,Passer domesticus,EC,"EC-Pichincha-Quito (0.1463,-78.7664)",Pichincha,2,0.146259,-78.76638,1239,7,2019
+2119968196,Passer domesticus,EC,Los Bancos—HOSP,Pichincha,5,0.022878,-78.89335,1079,1,2018
+962391512,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2013
+2671388961,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2019
+2072553715,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,7,2017
+2162723842,Passer domesticus,EC,"e28 Vía Los Bancos, San Miguel de Los Bancos, Pichincha, EC (0.023, -78.895)",Pichincha,1,0.022942,-78.89529,1076,5,2018
+2168224301,Passer domesticus,EC,"Chimborazo, Quito EC-Pichincha (-0,1992,-78,4311)",Pichincha,2,-0.199188,-78.43111,2347,5,2018
+2747266763,Passer domesticus,EC,Los Pinchos Del Parque De Puembo,Pichincha,3,-0.176462,-78.35877,2440,7,2019
+2176394943,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,6,2018
+1744915475,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,6,2016
+1160684569,Passer domesticus,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,3,2014
+3505733774,Passer domesticus,EC,Quito--Reservorio de Cumbayá,Pichincha,6,-0.193,-78.426834,2354,1,2021
+1788699926,Passer domesticus,EC,Hotel Zaracay,Santo Domingo de los Tsáchilas,1,-0.254487,-79.166275,558,6,2002
+1794289727,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2015
+1347909432,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2015
+2770117832,Passer domesticus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,7,2019
+2750544875,Passer domesticus,EC,Reserva Orquideológica El Pahuma,Pichincha,1,0.02575,-78.632385,1901,8,2006
+1189811523,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2014
+2747006295,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2019
+3650164714,Passer domesticus,EC,Puembo--City Square,Pichincha,2,-0.176453,-78.35833,2441,11,2021
+2234180893,Passer domesticus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,1,2017
+2228945028,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,11,2018
+3687694662,Passer domesticus,EC,"Auto selected -0.15712, -78.34969",Pichincha,3,-0.157124,-78.349686,2432,12,2021
+3271250011,Passer domesticus,EC,San Tadeo Birdwatching (Feeders),Pichincha,2,-0.029472,-78.751816,1731,7,2020
+2052686376,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,4,2017
+2690706309,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2010
+2709645186,Passer domesticus,EC,Puembo Birding Garden,Pichincha,2,-0.165593,-78.36133,2422,12,2019
+2794017063,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2019
+1723027820,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2016
+3289886064,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+960749054,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,7,2013
+1205858557,Passer domesticus,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,9,2010
+2093763643,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,8,2017
+2760182265,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2019
+3580138269,Passer domesticus,EC,Puembo--City Square,Pichincha,2,-0.176453,-78.35833,2441,11,2021
+3585022768,Passer domesticus,EC,"Via Guayllabamba Quito, Quito EC-Pichincha -0.05250, -78.34886",Pichincha,8,-0.052505,-78.348854,2139,12,2021
+3289587228,Passer domesticus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,2,0.019655,-78.70693,1906,3,2012
+2739583009,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,7,2004
+1201815477,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,4,0.087625,-79.05275,613,11,2003
+2755939947,Passer domesticus,EC,"Gualea (0.1107,-78.7463)",Pichincha,3,0.11073,-78.74633,1300,6,2019
+3615093258,Passer domesticus,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,1,0.157516,-79.22496,149,2,2021
+3587023200,Passer domesticus,EC,Mindoloma Bird Lodge,Pichincha,1,-0.01163,-78.74401,1785,10,2011
+968759824,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2013
+3617576976,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+2767587882,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+2774891788,Passer domesticus,EC,Los Bancos,Pichincha,1,0.023145,-78.88835,1097,3,2019
+1386548895,Passer domesticus,EC,Santo Domingo de los Tsachilas - Av Chone y 25,Santo Domingo de los Tsáchilas,10,-0.24934,-79.202324,502,9,2003
+2219299091,Passer domesticus,EC,Reserva Amagusa,Pichincha,4,0.1598,-78.8534,1302,12,2018
+1199914706,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2014
+2397471661,Passer domesticus,EC,,Pichincha,1,0.133089,-78.669486,1156,11,2018
+3282449566,Passer domesticus,EC,"Valle Hermoso, Santo Domingo de los Tsáchilas",Santo Domingo de los Tsáchilas,2,-0.090019,-79.278824,260,10,2020
+937519858,Passer domesticus,EC,Santo Domingo--general area,Santo Domingo de los Tsáchilas,3,-0.254573,-79.17641,544,11,2008
+3646734198,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,9,2017
+3161707933,Passer domesticus,EC,Finca Sisantu,Santo Domingo de los Tsáchilas,2,-0.171765,-79.345856,309,5,2020
+2168135610,Passer domesticus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,11,2017
+833965575,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,1,2011
+2229784839,Passer domesticus,EC,Zaysant Ecolodge,Pichincha,1,-0.186415,-78.355644,2457,12,2018
+2192873971,Passer domesticus,EC,"E28, San Miguel de Los Bancos, Pichincha, EC (0.023, -78.893)",Pichincha,1,0.022844,-78.893326,1079,10,2018
+2732630790,Passer domesticus,EC,"9 De Octubre Mindo, Mindo EC-Pichincha (-0,0512,-78,7742) el chinchinal",Pichincha,1,-0.051249,-78.7742,1254,1,2019
+2089830188,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,7,2017
+3193603599,Passer domesticus,EC,"Parque Central De Puellaro, Pichincha, EC",Pichincha,30,0.065724,-78.40293,2066,10,2020
+3193546504,Passer domesticus,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,6,-0.252486,-79.14583,589,10,2020
+2142883626,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2018
+3337401763,Passer domesticus,EC,,Pichincha,1,-0.052822,-78.348808,2140,8,2021
+4028951231,Passer domesticus,EC,,Pichincha,1,0.131287,-78.676438,1164,2,2023
+2641627555,Passer domesticus,EC,,Pichincha,1,0.134892,-78.676352,1114,3,2020
+3337556250,Passer domesticus,EC,,Pichincha,1,0.065571,-78.402799,2071,8,2021
+3637494858,Passer domesticus,EC,"EC-Quito, Aeropuerto Internacional",Pichincha,1,-0.123544,-78.35827,2373,11,2021
+3337674343,Passer domesticus,EC,,Pichincha,1,0.065672,-78.402733,2070,8,2021
+2641545361,Passer domesticus,EC,,Pichincha,1,0.134892,-78.676352,1114,1,2020
+2860132230,Passer domesticus,EC,,Pichincha,1,0.188051,-78.574942,1642,8,2020
+2984513901,Passer domesticus,EC,,Pichincha,1,0.017549,-78.479425,2728,11,2020
+2273283886,Passer domesticus,EC,,Pichincha,1,0.137638,-78.675837,1122,6,2019
+960735375,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,7,2013
+3508891213,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,3,-0.322741,-78.99407,787,2,2021
+2197421932,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,7,2018
+3287969574,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,10,2020
+3553175679,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,5,-0.059051,-78.34565,2137,7,2021
+3568390862,Passer domesticus,EC,Puerto Quito,Pichincha,5,0.116386,-79.26367,196,8,2021
+833408513,Passer domesticus,EC,Lago San Pablo to Cotacachi,Imbabura,4,0.259078,-78.25099,2560,9,2002
+2695060628,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,5,2019
+2110126622,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+1748980756,Passer domesticus,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,1,2010
+3584335132,Passer domesticus,EC,Puembo--City Square,Pichincha,2,-0.176453,-78.35833,2441,11,2021
+3215819822,Passer domesticus,EC,Bosque Protector Jerusalem,Pichincha,6,0.000833,-78.355,2295,7,2020
+938623808,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2013
+2717961847,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2013
+1758307931,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2016
+3273037616,Passer domesticus,EC,Finca Sisantu,Santo Domingo de los Tsáchilas,2,-0.171765,-79.345856,309,5,2020
+3605830992,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,12,2005
+1787672371,Passer domesticus,EC,Rio Chiche Canyon,Pichincha,1,-0.2061,-78.37052,2324,2,2015
+3618227551,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,5,0.02274,-78.89481,1078,7,2021
+3656809250,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,8,0.087625,-79.05275,613,11,2021
+3527925114,Passer domesticus,EC,"598 Hemisferios, Quito, Pichincha, EC (-0.01, -78.449)",Pichincha,3,-0.010402,-78.448875,2409,5,2021
+3602447721,Passer domesticus,EC,"Avenida 29 de Junio, Pedro Vicente M. EC-Pichincha 0.08356, -79.04205",Pichincha,1,0.083561,-79.04205,635,1,2021
+1784717196,Passer domesticus,EC,Reserva Amagusa,Pichincha,1,0.1598,-78.8534,1302,11,2016
+2188164396,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2018
+3640084188,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2013
+2051941075,Passer domesticus,EC,Recinto 23 de Junio,Pichincha,1,-0.03193,-78.87659,1117,3,2017
+2217274234,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2018
+592754687,Passer domesticus,EC,Pedro Vicente Maldonado,Pichincha,1,0.086517,-79.100876,498,2,2010
+279081264,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,10,0.145185,-79.14147,402,8,2005
+2115769988,Passer domesticus,EC,Los Bancos—HOSP,Pichincha,5,0.022878,-78.89335,1079,1,2018
+3204292823,Passer domesticus,EC,"Alluriquin, Santo Domingo de los Tsáchilas, EC (-0,25, -79,063)",Santo Domingo de los Tsáchilas,1,-0.250057,-79.062614,690,8,2020
+3206568312,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,7,-0.052779,-78.359406,2110,8,2020
+2186013976,Passer domesticus,EC,Santa Marianita,Pichincha,1,0.130697,-78.66666,1171,6,2018
+1758030211,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2016
+1190641831,Passer domesticus,EC,Santo Domingo de los Tsáchilas - eastern entrance of town,Santo Domingo de los Tsáchilas,2,-0.246848,-79.14648,593,7,2003
+3554742200,Passer domesticus,EC,Los Bancos,Pichincha,1,0.023145,-78.88835,1097,3,2019
+3609357460,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2021
+2689007674,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2019
+1351985671,Passer domesticus,EC,UIO Quito Airport,Pichincha,1,-0.120283,-78.35786,2372,2,2015
+3542897949,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,5,-0.059051,-78.34565,2137,7,2021
+1353136789,Passer domesticus,EC,Terminal Terrestre Santo Domingo,Santo Domingo de los Tsáchilas,250,-0.235642,-79.16874,555,3,2015
+2779878101,Passer domesticus,EC,Los Bancos,Pichincha,1,0.023145,-78.88835,1097,3,2019
+2143606139,Passer domesticus,EC,"Avenida Simón Bolivar, Quito, Pichincha, EC (-0.022, -78.442)",Pichincha,1,-0.022249,-78.44155,2389,3,2018
+2711981336,Passer domesticus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2019
+3656186451,Passer domesticus,EC,"Vía Guayllabamba Tabacundo, Quito, Pichincha, EC (-0.048, -78.342)",Pichincha,7,-0.048092,-78.34166,2159,7,2021
+3219971059,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+3137212989,Passer domesticus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2020
+2147928228,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,9,-0.059051,-78.34565,2137,4,2018
+2720073295,Passer domesticus,EC,Nanegal--vicinity,Pichincha,7,0.136249,-78.677826,1150,11,2019
+2743820884,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,3,2019
+1750068176,Passer domesticus,EC,Otavalo to Quito,Imbabura,1,0.190953,-78.22261,2706,12,2008
+3184722476,Passer domesticus,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,6,2005
+3243325757,Passer domesticus,EC,Balcón Tumpiki,Pichincha,1,-0.006943,-78.72075,1963,6,2020
+3235043419,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+3241388630,Passer domesticus,EC,Alluriquín,Santo Domingo de los Tsáchilas,3,-0.322082,-79.00031,724,3,2020
+1788992862,Passer domesticus,EC,Tulipe--museum and archaeological site,Pichincha,1,0.086336,-78.73621,1499,7,2016
+3268860132,Passer domesticus,EC,"Lenin Grandes, Santo Domingo de los Tsáchilas, EC (-0,263, -79,115)",Santo Domingo de los Tsáchilas,1,-0.263357,-79.115135,635,8,2020
+2663471779,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+3291447962,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,12,-0.052779,-78.359406,2110,9,2020
+1409461736,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2007
+3185569120,Passer domesticus,EC,"27 oct. 2020 8:04--0,011, -78,449",Pichincha,4,-0.010553,-78.448814,2408,10,2020
+591777135,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+1351972487,Passer domesticus,EC,UIO Quito Airport,Pichincha,1,-0.120283,-78.35786,2372,2,2015
+1399190288,Passer domesticus,EC,Desvío Mindo (Junction),Pichincha,2,-0.026744,-78.76363,1683,11,2015
+970132350,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2013
+3136054222,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,1,2020
+833618865,Passer domesticus,EC,Puerto Quito,Pichincha,1,0.1272,-79.253136,213,12,2006
+3296776593,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,1,2001
+2728595082,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2019
+2785398233,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,1,-0.059051,-78.34565,2137,10,2019
+2739745985,Passer domesticus,EC,Hotel Quito,Pichincha,1,-0.156213,-78.34945,2426,1,2019
+2671621113,Passer domesticus,EC,Los Bancos,Pichincha,1,0.023145,-78.88835,1097,3,2019
+3166778427,Passer domesticus,EC,"(0.298, -78.274)",Imbabura,1,0.297608,-78.27394,2458,7,2020
+1202159600,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2004
+2699956357,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2019
+2130947415,Passer domesticus,EC,"Hotel De Puemblo, Quito",Pichincha,3,-0.170813,-78.36936,2402,6,2015
+3530746399,Passer domesticus,EC,Bellavista--camino a la estación científica (research station road),Pichincha,2,-0.020999,-78.684425,2338,4,2021
+1748873733,Passer domesticus,EC,Pedro Vicente Maldanado,Pichincha,1,0.084457,-79.09813,417,8,2007
+2046780660,Passer domesticus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,3,2017
+3550817589,Passer domesticus,EC,"San Miguel de los Bancos, Pichincha, EC (-0.008, -79.011)",Pichincha,6,-0.007993,-79.011086,734,8,2021
+2192559352,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2018
+2133793568,Passer domesticus,EC,Mindo - La Yaguira,Pichincha,1,-0.056283,-78.77171,1265,3,2018
+3138113729,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2020
+3143103411,Passer domesticus,EC,Nanegal--vicinity,Pichincha,8,0.136249,-78.677826,1150,2,2020
+3570423261,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,2,-0.322741,-78.99407,787,6,2021
+3674536020,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,8,0.087625,-79.05275,613,9,2021
+2135079754,Passer domesticus,EC,"(0.023, -78.894)",Pichincha,4,0.022792,-78.89353,1079,2,2018
+3617101811,Passer domesticus,EC,"Unnamed Road, Apuela, Imbabura, EC (0,355, -78,514)",Imbabura,30,0.354888,-78.51375,1563,7,2021
+3223514704,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,2,2020
+2753306123,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,4,2019
+3535648483,Passer domesticus,EC,Tulipe--museum and archaeological site,Pichincha,2,0.086336,-78.73621,1499,7,2021
+3666700929,Passer domesticus,EC,"Corredor Alpachaca, Quito EC-Pichincha -0.15700, -78.34895",Pichincha,3,-0.156995,-78.348946,2436,12,2021
+2229694519,Passer domesticus,EC,Zaysant Ecolodge,Pichincha,1,-0.186415,-78.355644,2457,12,2018
+3620989055,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,10,-0.322741,-78.99407,787,5,2021
+2664231649,Passer domesticus,EC,Nature Trail The Chaquiñán,Pichincha,2,-0.199706,-78.43161,2357,1,2019
+3629291548,Passer domesticus,EC,Sendero Frutti Tour & Birdwatching,Pichincha,4,0.08146,-79.05632,595,10,2021
+2708033157,Passer domesticus,EC,"Eloy Alfaro, Quito EC-Pichincha (-0,2000,-78,4315)",Pichincha,1,-0.199958,-78.43152,2359,12,2019
+3266755685,Passer domesticus,EC,Cayambe (Zona Urbana),Pichincha,4,0.042005,-78.14506,2814,8,2020
+3221449992,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,5,0.02274,-78.89481,1078,2,2020
+280259275,Passer domesticus,EC,Puembo town,Pichincha,1,-0.18869,-78.36685,2416,7,2003
+3249242306,Passer domesticus,EC,Alluriquín,Santo Domingo de los Tsáchilas,8,-0.322619,-78.99801,736,6,2020
+2711676689,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,7,2019
+2117312277,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+3172587365,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,5,-0.052779,-78.359406,2110,8,2020
+1191696501,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2009
+3625812526,Passer domesticus,EC,Río Blanco--Piedra de Vapor,Pichincha,2,0.148009,-79.3257,132,8,2021
+2749957099,Passer domesticus,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,5,2019
+2095558685,Passer domesticus,EC,"Ecuador, San Miguel de Los Bancos",Pichincha,2,0.02292,-78.88902,1092,9,2017
+3515351321,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,4,-0.059051,-78.34565,2137,1,2021
+3269640112,Passer domesticus,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,6,-0.252486,-79.14583,589,10,2020
+3178828641,Passer domesticus,EC,"Valle Hermoso, Santo Domingo de los Tsáchilas",Santo Domingo de los Tsáchilas,2,-0.090019,-79.278824,260,9,2020
+3150334881,Passer domesticus,EC,Nanegal--vicinity,Pichincha,3,0.136249,-78.677826,1150,1,2020
+2047085595,Passer domesticus,EC,Rancho Suamox,Pichincha,2,0.10746,-79.166534,377,3,2017
+2674025248,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2019
+1205992213,Passer domesticus,EC,Perucho,Pichincha,1,0.109091,-78.42318,1821,2,2013
+1197466758,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,11,2014
+2704765951,Passer domesticus,EC,Hostería Rincon de Puembo,Pichincha,4,-0.173506,-78.36059,2437,10,2019
+278757966,Passer domesticus,EC,Pedro Vicente Maldonado,Pichincha,1,0.079651,-79.10019,500,7,2001
+2215868604,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2018
+2652419364,Passer domesticus,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,4,2005
+2218218584,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,11,2018
+1786588575,Passer domesticus,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2012
+3591416846,Passer domesticus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.22313,2657,2,2021
+1379118359,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,7,2015
+3170658739,Passer domesticus,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,3,-0.252486,-79.14583,589,7,2020
+3576693039,Passer domesticus,EC,EC-P El Chaquinan,Pichincha,17,-0.169923,-78.375694,2384,12,2021
+2231631458,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2018
+1178449973,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2014
+1398819961,Passer domesticus,EC,Pvm,Pichincha,10,0.09331,-79.1053,506,11,2011
+3617251139,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+592952203,Passer domesticus,EC,Pvm,Pichincha,10,0.09331,-79.1053,506,11,2011
+3642085157,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,14,0.087625,-79.05275,613,6,2021
+3261159079,Passer domesticus,EC,Avenida chone km 1,Santo Domingo de los Tsáchilas,5,-0.247684,-79.20408,496,6,2020
+3141738281,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+1176592124,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2014
+1791071977,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,4,2008
+2041538661,Passer domesticus,EC,Quito--Cumbaya USFQ,Pichincha,1,-0.196833,-78.43567,2394,1,2017
+592686720,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2010
+2680085655,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,3,2019
+2743233074,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,5,2019
+2763857275,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2019
+2781577178,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2019
+3170694779,Passer domesticus,EC,"terreno Guayllabamba (-0,053, -78,359)",Pichincha,9,-0.052779,-78.359406,2110,7,2020
+3213846403,Passer domesticus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,7,2010
+3592053893,Passer domesticus,EC,"MacKays Quinta, Pichincha, EC (-0,151, -78,334)",Pichincha,1,-0.15081,-78.334404,2466,2,2021
+2166661917,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,6,2018
+3547262505,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2021
+2711473189,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,9,2019
+3213956257,Passer domesticus,EC,Cayambe (Zona Urbana),Pichincha,8,0.042005,-78.14506,2814,11,2020
+2148946142,Passer domesticus,EC,Alpachaca Hotel,Pichincha,5,-0.157406,-78.3496,2434,5,2018
+1769136031,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2016
+1744547959,Passer domesticus,EC,San Jorge de Milpe,Pichincha,2,0.044357,-78.88368,1059,6,2016
+2231389550,Passer domesticus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,1,2017
+1782560437,Passer domesticus,EC,Mindo--El Monte Sustainable Lodge,Pichincha,2,-0.069394,-78.76362,1311,1,2009
+3209639080,Passer domesticus,EC,Ruta de los Tubos,Santo Domingo de los Tsáchilas,6,-0.322741,-78.99407,787,11,2020
+3278246427,Passer domesticus,EC,"Vía a Nueva Aurora, Pichincha, EC (0.074, -79.051)",Pichincha,3,0.073553,-79.05083,595,12,2020
+594493230,Passer domesticus,EC,Pedro Vicente Maldonado,Pichincha,1,0.086517,-79.099846,505,11,2011
+3568117371,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,4,-0.059051,-78.34565,2137,7,2021
+3658956153,Passer domesticus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2009
+2732762622,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,4,2019
+3219990326,Passer domesticus,EC,Puerto Quito,Pichincha,5,0.116386,-79.26367,196,1,2020
+3243908642,Passer domesticus,EC,San Tadeo Birdwatching (Feeders),Pichincha,2,-0.029472,-78.751816,1731,7,2020
+3567695044,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,5,-0.059051,-78.34565,2137,7,2021
+3218090695,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,1,2020
+1200408563,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2014
+3252664978,Passer domesticus,EC,Bosque Provincial Kasama,Santo Domingo de los Tsáchilas,6,-0.252486,-79.14583,589,10,2020
+2756451318,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,6,2019
+2207942532,Passer domesticus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,11,2018
+2052377651,Passer domesticus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,3,2017
+2109771324,Passer domesticus,EC,Comunidad Araque,Imbabura,6,0.202946,-78.20354,2666,11,2017
+3667239965,Passer domesticus,EC,"Manuel Burbano, Quito EC-Pichincha -0.17734, -78.35880",Pichincha,12,-0.177343,-78.3588,2443,8,2021
+2076990378,Passer domesticus,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,6,2017
+2207855064,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,2,-0.254899,-79.17269,562,10,2018
+2146328165,Passer domesticus,EC,EC Quito airport terminal,Pichincha,1,-0.122023,-78.36342,2363,3,2018
+1155611033,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,1,2014
+2767443985,Passer domesticus,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2010
+3546904011,Passer domesticus,EC,Quito Aeropuerto,Pichincha,15,-0.124247,-78.36234,2373,9,2021
+3594478680,Passer domesticus,EC,"Calle Pedro Vicente Maldonado, Pichincha, EC (0.123, -79.252)",Pichincha,6,0.122844,-79.252014,148,5,2021
+3217644735,Passer domesticus,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,1,2020
+2109641765,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,2,2004
+1203027100,Passer domesticus,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,3,2005
+1411020171,Passer domesticus,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2007
+1787911571,Passer domesticus,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,4,2005
+1719691476,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2016
+3284592442,Passer domesticus,EC,Finca Mundo Verde,Santo Domingo de los Tsáchilas,5,-0.058943,-79.25629,375,10,2020
+2124481845,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,3,0.02274,-78.89481,1078,3,2018
+3133921300,Passer domesticus,EC,Puembo—Parque Puembo,Pichincha,1,-0.176913,-78.35854,2440,2,2020
+3234810514,Passer domesticus,EC,Nanegal--vicinity,Pichincha,3,0.136249,-78.677826,1150,2,2020
+3628529875,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,5,0.02228,-78.8909,1096,3,2021
+3621246035,Passer domesticus,EC,Guayllabamba--vicinity,Pichincha,9,-0.059051,-78.34565,2137,4,2018
+181865647,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,1,0.02274,-78.89481,1078,6,2008
+1206599951,Passer domesticus,EC,Perucho,Pichincha,20,0.109091,-78.42318,1821,12,2009
+2202172568,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2018
+1190702129,Passer domesticus,EC,Santo Domingo de los Tsachilas - Terminal terrestre,Santo Domingo de los Tsáchilas,100,-0.239124,-79.17023,549,7,2003
+1186005205,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,6,2014
+2038637650,Passer domesticus,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,2,2017
+2157522056,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,0.087625,-79.05275,613,4,2018
+2718477187,Passer domesticus,EC,Santo Domingo de las Tsáchilas--city (*For historical checklists; please use a more precise location when possible),Santo Domingo de los Tsáchilas,1,-0.254899,-79.17269,562,12,2019
+2216547039,Passer domesticus,EC,Kapari Natural Lodge,Pichincha,2,-0.001202,-78.94196,916,11,2018
+2078902469,Passer domesticus,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,6,2017
+2202158183,Passer domesticus,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2018
+2721519306,Passer domesticus,EC,Desvío Mindo (Junction),Pichincha,1,-0.026744,-78.76363,1683,4,2008
+3657610165,Passer domesticus,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,4,2013
+2132581650,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,2,2018
+3206640575,Passer domesticus,EC,Valle de Guayllabamba IBA,Pichincha,4,0.043805,-78.4122,1917,12,2020
+2901696391,Passer domesticus,EC,,Pichincha,1,0.320187,-79.211242,178,4,2020
+3285380197,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,10,0.02228,-78.8909,1096,1,2011
+1201790615,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,12,2014
+2658207007,Passer domesticus,EC,Gualea,Pichincha,4,0.113127,-78.74937,1268,3,2019
+1192989189,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,10,2014
+2131327484,Passer domesticus,EC,San Miguel de Los Bancos--vicinity,Pichincha,2,0.02274,-78.89481,1078,1,2018
+1719666868,Passer domesticus,EC,Mirador Rio Blanco -- San Miguel de Los Bancos,Pichincha,1,0.02228,-78.8909,1096,2,2016
+2702518646,Passer domesticus,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,7,2019
+1757280897,Passer domesticus,EC,Nanegal--vicinity,Pichincha,1,0.136249,-78.677826,1150,8,2016

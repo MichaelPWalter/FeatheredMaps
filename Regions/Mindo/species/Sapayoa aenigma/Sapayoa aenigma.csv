@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1761026828,Sapayoa aenigma,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,9,2016
+2081118507,Sapayoa aenigma,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,7,2017

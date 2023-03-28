@@ -1,0 +1,13 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3287715645,Hoploxypterus cayanus,EC,"Piedra de Vapor and surroundings, Pichincha, EC",Pichincha,1,0.147815,-79.325935,129,12,2020
+3286054469,Hoploxypterus cayanus,EC,Via a Piedra de Vapor,Pichincha,1,0.14665,-79.32621,129,10,2020
+2725528686,Hoploxypterus cayanus,EC,Via a Piedra de Vapor,Pichincha,2,0.14665,-79.32621,129,12,2019
+3192906642,Hoploxypterus cayanus,EC,"Piedra de Vapor-Puerto Quito, Pichincha, EC (0,147, -79,326)",Pichincha,1,0.146774,-79.32645,122,7,2020
+3271984422,Hoploxypterus cayanus,EC,"Vía Piedra de Vapor, Pichincha, EC.",Pichincha,2,0.123045,-79.271164,125,10,2020
+3168885403,Hoploxypterus cayanus,EC,Piedra de Vapor - Puerto Quito,Pichincha,1,0.146554,-79.3265,124,7,2020
+3264613045,Hoploxypterus cayanus,EC,"Paraíso de Amigos , Vía Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3285010385,Hoploxypterus cayanus,EC,"Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3293489189,Hoploxypterus cayanus,EC,"Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+2711116625,Hoploxypterus cayanus,EC,Via a Piedra de Vapor,Pichincha,2,0.14665,-79.32621,129,12,2019
+3293170099,Hoploxypterus cayanus,EC,"Paraíso de Amigos , Vía Piedra de Vapor, Pichincha, EC (0.147, -79.323)",Pichincha,1,0.146538,-79.322845,146,10,2020
+3388906009,Hoploxypterus cayanus,EC,Tinalandia Lodge,,1,-0.308046,-79.038895,679,12,2004

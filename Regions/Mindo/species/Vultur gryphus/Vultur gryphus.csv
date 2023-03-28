@@ -1,0 +1,374 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1759497105,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+2200406197,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2018
+3621297357,Vultur gryphus,EC,"Vía sin nombre, Pichincha, EC (-0.222, -78.278)",Pichincha,1,-0.222218,-78.27835,3482,11,2021
+3505674256,Vultur gryphus,EC,Faldas del volcán Cusin,Imbabura,1,0.170075,-78.16492,2785,2,2021
+2144996709,Vultur gryphus,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,3,2018
+1764605838,Vultur gryphus,EC,Area Above Pifo,Pichincha,1,-0.244617,-78.3154,2799,8,2016
+3644600649,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2673596479,Vultur gryphus,EC,Cascadas de Cariacu,Pichincha,2,0.092444,-78.0835,3188,5,2019
+2724382897,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2016
+2734785695,Vultur gryphus,EC,El Tablon sideroad,Pichincha,1,-0.267404,-78.2822,3175,2,2019
+2194633561,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,10,2018
+1764774483,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2016
+2710244582,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,8,2019
+3539386212,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.28576,-78.29207,3377,11,2021
+2215258678,Vultur gryphus,EC,"Via Collas Tababela, Quito EC-Pichincha (-0.1023,-78.3810)",Pichincha,2,-0.102339,-78.38098,2131,11,2018
+942342284,Vultur gryphus,EC,"Vulcan Imbabura, Imbabura, Ecuador",Imbabura,1,0.258056,-78.179726,4465,1,2002
+3556016052,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,7,2021
+2100486680,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+2129165496,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,4,2018
+2153850758,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,4,2018
+2694565612,Vultur gryphus,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+3248150712,Vultur gryphus,EC,San Jose del Tablon,Pichincha,1,-0.28286,-78.290764,3399,9,2010
+3256235371,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.271118,-78.30196,3176,9,2020
+2727164859,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2008
+3271596158,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+3137245057,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+944030216,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,2,2002
+3298802989,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+1409811474,Vultur gryphus,EC,Ridge trail above Teleferico to Rucu,Pichincha,1,-0.170136,-78.55169,4225,9,2005
+1724568059,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,3,2016
+1762334940,Vultur gryphus,EC,Imbabura - east flank,Imbabura,3,0.26,-78.16,3694,9,2016
+3267689920,Vultur gryphus,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,6,2013
+2711696944,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,2,0.30257,-78.36251,3069,4,2008
+3691555696,Vultur gryphus,EC,Sendero Teleférico,Pichincha,1,-0.192069,-78.51385,2985,9,2021
+2200955813,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,8,2018
+603231471,Vultur gryphus,EC,Ecuador - road to Papallacta pass,Pichincha,4,-0.243758,-78.32668,2705,11,2007
+2070272621,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2017
+2659728642,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2012
+3578636959,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.285, -78.253)",Pichincha,1,-0.285435,-78.252846,3533,12,2021
+2688982050,Vultur gryphus,EC,Itulcachi y alrededores,Pichincha,2,-0.268455,-78.34797,2662,7,2018
+2178774486,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,4,-0.268477,-78.27128,3309,2,2009
+3657705511,Vultur gryphus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,12,2021
+3599448154,Vultur gryphus,EC,Colibrí Garden,Pichincha,2,-0.271118,-78.30196,3176,1,2021
+3535187829,Vultur gryphus,EC,"Auto selected -0.11666, -78.57133",Pichincha,1,-0.116658,-78.57133,3531,7,2021
+2161488786,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+1166510688,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,4,2014
+2767281131,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+1380840948,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2015
+3226932863,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+2108169785,Vultur gryphus,EC,Roadside outside Mulauco,Pichincha,1,-0.262383,-78.292694,3054,11,2017
+845469386,Vultur gryphus,EC,Condor Project,Imbabura,2,0.197802,-78.07284,2898,7,2010
+3280183297,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+2078829833,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+2088434977,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+258527538,Vultur gryphus,EC,Hacienda San Jose,Pichincha,3,-0.2675,-78.283005,3157,3,2010
+2159687577,Vultur gryphus,EC,"EC-Imbabura-Cotacachi (0,2935,-78,2956)",Imbabura,1,0.29349,-78.29563,2566,5,2018
+2073448940,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+2226890962,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2014
+2755800368,Vultur gryphus,EC,El Tablon sideroad,Pichincha,1,-0.267404,-78.2822,3175,2,2019
+1749211899,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2016
+3643112068,Vultur gryphus,EC,"9 Via Santa Ines, Quito, Pichincha, EC (-0.195, -78.415)",Pichincha,1,-0.195313,-78.41527,2326,9,2021
+3637286649,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2021
+2146026728,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,4,2018
+3261662063,Vultur gryphus,EC,Quito general area,Pichincha,1,-0.190715,-78.469505,2890,1,2014
+2086024044,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+2184437122,Vultur gryphus,EC,San José de Quichinche,Imbabura,1,0.237299,-78.267525,2523,7,2018
+3255975739,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,7,2020
+2702935723,Vultur gryphus,EC,"Unknown Location - (-0.268, -78.262)",Pichincha,2,-0.267569,-78.26229,3390,8,2019
+2066341839,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2017
+2725213117,Vultur gryphus,EC,Teleférico Volcan Pichincha,Pichincha,1,-0.192514,-78.52426,3277,7,2012
+848332202,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+1178519848,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2010
+2725716068,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+1794540053,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2014
+848325751,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+942697739,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2013
+2725954117,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2008
+3232221618,Vultur gryphus,EC,Lote 10 Casa,Pichincha,1,-0.341074,-78.4451,2538,5,2020
+1778957140,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,7,2011
+1794129873,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2011
+3546351582,Vultur gryphus,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,8,2021
+2181452883,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+3693263154,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2778790386,Vultur gryphus,EC,Itulcachi y alrededores,Pichincha,2,-0.268455,-78.34797,2662,11,2017
+603930883,Vultur gryphus,EC,Calacalí-Nono Road,Pichincha,3,-0.031102,-78.55805,2572,8,2010
+3232012094,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3241551895,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,8,2020
+2787425823,Vultur gryphus,EC,"Alpachaca, Quito EC-Pichincha (-0.1321,-78.3593)",Pichincha,2,-0.132051,-78.35933,2388,7,2017
+3210480997,Vultur gryphus,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,6,2013
+845147231,Vultur gryphus,EC,Tablón Alto,Pichincha,1,-0.270235,-78.25987,3413,1,2004
+2176097901,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,6,2018
+2111370327,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+3676768576,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+1714126937,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2016
+3580149005,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+1409810244,Vultur gryphus,EC,Base of summit cone Rucu,Pichincha,2,-0.165158,-78.55813,4313,9,2005
+848609490,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+3580562096,Vultur gryphus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,12,2021
+2197033775,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2018
+1173665743,Vultur gryphus,EC,Polilepis Reserve,Pichincha,1,-0.261846,-78.29425,3045,5,2014
+2228928600,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+3651610003,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+3549102454,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.285, -78.253)",Pichincha,1,-0.285435,-78.252846,3533,12,2021
+2141364609,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+848816286,Vultur gryphus,EC,Quito--Parque La Alameda,Pichincha,1,-0.214297,-78.50238,2814,8,2012
+2034993265,Vultur gryphus,EC,Laguna de Mojanda (Pichincha),Pichincha,1,0.133457,-78.26295,3723,3,2017
+3627017019,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,1,0.29339,-78.35171,3077,5,2021
+1411361750,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2015
+1387826659,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2013
+2178993345,Vultur gryphus,EC,San Joge Eco Lodge Quito,Pichincha,1,-0.11666,-78.523415,3193,8,2018
+2798065005,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2096959876,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+1716487120,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,2,2016
+960668290,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,7,2013
+2100204322,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+1186073176,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,9,2012
+2178510975,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+3688647764,Vultur gryphus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,9,2021
+848239162,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+1790301727,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2006
+1757985257,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2016
+1193786815,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,10,2014
+3645103488,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+941232157,Vultur gryphus,EC,Scenic slope before Papallacta pass,Pichincha,2,-0.304783,-78.27141,3890,2,2013
+2162695369,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3651588435,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2021
+2105867365,Vultur gryphus,EC,"EC-Via Papallacta Pifo (Rt. 20), Quito (-0.2680,-78.2585)",Pichincha,1,-0.268035,-78.25855,3440,12,2017
+1775484177,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,9,2012
+3168998505,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,7,2020
+1750979403,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2016
+3568831617,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+1198387735,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2014
+2702688680,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,8,2019
+2216953133,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,11,2018
+2104160658,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+1206278801,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2010
+3657822086,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2073328612,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+1788935386,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2014
+2207516916,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2018
+3546838360,Vultur gryphus,EC,"9 Via Santa Ines, Quito, Pichincha, EC (-0.195, -78.415)",Pichincha,1,-0.195313,-78.41527,2326,9,2021
+1747198219,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,6,2016
+1717743647,Vultur gryphus,EC,Guagua Pichincha--road and trail to top of volcano,Pichincha,1,-0.203755,-78.58956,3802,2,2016
+3600793993,Vultur gryphus,EC,Bosque Protector Jerusalem,Pichincha,2,0.000833,-78.355,2295,5,2021
+3260153520,Vultur gryphus,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.272252,-78.30158,3158,8,2020
+2184273544,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3646613084,Vultur gryphus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,9,2021
+3508292628,Vultur gryphus,EC,Colibrí Garden,Pichincha,2,-0.28576,-78.29207,3377,3,2021
+2108650341,Vultur gryphus,EC,"EC-Pichincha-Quito (-0,3701,-78,3438)",Pichincha,1,-0.370089,-78.343834,3076,12,2017
+2065942744,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2017
+3297098369,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+2193381317,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+2084343633,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+2691279096,Vultur gryphus,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+2657206384,Vultur gryphus,EC,El Tablon sideroad,Pichincha,1,-0.267404,-78.2822,3175,2,2019
+3279051766,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,9,2020
+2185063326,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+1179454347,Vultur gryphus,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,6,2014
+2154087870,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2018
+1185479454,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2014
+3235314625,Vultur gryphus,EC,Santa Rosa Pesillo,Imbabura,1,0.182936,-78.08464,3119,7,2020
+2157551998,Vultur gryphus,EC,"EC-Via Papallacta Pifo (Rt. 20), Quito (-0.2680,-78.2585)",Pichincha,1,-0.268035,-78.25855,3440,12,2017
+3243212840,Vultur gryphus,EC,Valley west of ridge to Rucu,Pichincha,1,-0.175084,-78.55665,4098,6,2020
+2787189130,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,9,2019
+967006887,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,9,2012
+3651176202,Vultur gryphus,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,10,2021
+977533529,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2013
+2710356101,Vultur gryphus,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,5,2018
+2137087326,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,2,2018
+2192605568,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,8,2018
+2085236292,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+3168238657,Vultur gryphus,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,7,2004
+1175665168,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2011
+848722224,Vultur gryphus,EC,Penas Blancas,Pichincha,2,-0.26837,-78.25874,3438,8,2012
+2778063042,Vultur gryphus,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,8,2019
+3677819356,Vultur gryphus,EC,Colibrí Garden,Pichincha,2,-0.28576,-78.29207,3377,2,2021
+3574282717,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,7,2021
+2076094652,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+3563771676,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2181966548,Vultur gryphus,EC,Area Above Pifo,Pichincha,1,-0.244617,-78.3154,2799,8,2016
+2188784792,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+2217998787,Vultur gryphus,EC,"Via Collas Tababela, Quito EC-Pichincha (-0.1023,-78.3810)",Pichincha,2,-0.102339,-78.38098,2131,11,2018
+1188230117,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2014
+3645785875,Vultur gryphus,EC,"Auto selected -0.11666, -78.57133",Pichincha,1,-0.116658,-78.57133,3531,7,2021
+1371174407,Vultur gryphus,EC,Lagunas de Mojanda: Caricocha,Pichincha,2,0.13082,-78.25569,3694,5,2015
+3284156965,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+1788655865,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,2,2011
+2228318408,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2018
+971215850,Vultur gryphus,EC,Papallacta--'old house' site,Pichincha,2,-0.266332,-78.2825,3175,9,2012
+2089894171,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+3574743061,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+845148560,Vultur gryphus,EC,Lagunas de Mojanda,Imbabura,1,0.149907,-78.26332,3758,3,2004
+2109835107,Vultur gryphus,EC,"Calle Sucre, González Suárez, Provincia de Imbabura, EC (0.258, -78.177)",Imbabura,1,0.257503,-78.17705,4311,12,2017
+2086320237,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,7,2017
+1172390930,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2014
+3530240435,Vultur gryphus,EC,Yanacocha,Imbabura,2,0.20069,-78.1177,3170,3,2021
+3549388538,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+3585516283,Vultur gryphus,EC,Faldas del volcán Cusin,Imbabura,5,0.170075,-78.16492,2785,11,2021
+3662396050,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+1185920792,Vultur gryphus,EC,Papallacta--'old house' site,Pichincha,2,-0.266332,-78.2825,3175,9,2012
+3257809148,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2001
+257321293,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,3,2009
+1791084917,Vultur gryphus,EC,Laguna de Mojanda,Imbabura,2,0.139389,-78.248276,3923,6,2016
+2799885225,Vultur gryphus,EC,"Yanacocha Reserve, Ecuador",Pichincha,1,-0.111695,-78.58496,3532,4,2019
+848610205,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+2191551367,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+3635699217,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+953907716,Vultur gryphus,EC,Cuchauco,Pichincha,1,-0.269172,-78.25864,3446,2,2011
+1722645894,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,6,-0.268477,-78.27128,3309,3,2016
+3583250803,Vultur gryphus,EC,Faldas del volcán Cusin,Imbabura,5,0.170075,-78.16492,2785,11,2021
+1775654407,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2002
+960321554,Vultur gryphus,EC,"EC-Imbabura - 0.2018x-78.0869 - Jul 22, 2013, 12:12",Imbabura,2,0.201822,-78.0869,2880,7,2013
+3179144139,Vultur gryphus,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,6,-0.279515,-78.69269,2491,9,2020
+2711860728,Vultur gryphus,EC,Pichincha mountain hike and teriferico,Pichincha,1,-0.163472,-78.56231,4458,8,2019
+256249058,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2005
+3656092116,Vultur gryphus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,9,2021
+2183892502,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+3555830619,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+3571421083,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+2212961242,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2018
+1206282821,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2012
+3299401141,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2003
+2684897264,Vultur gryphus,EC,Mama's house,Imbabura,1,0.355938,-78.49946,1638,9,2015
+3648370087,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+3615277961,Vultur gryphus,EC,"Auto selected -0.11666, -78.57133",Pichincha,1,-0.116658,-78.57133,3531,7,2021
+3202309153,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.271118,-78.30196,3176,10,2020
+3580323505,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+3822063765,Vultur gryphus,EC,Ecuador - Imbabura,,3,0.151748,-78.187637,2986,8,2010
+3506361431,Vultur gryphus,EC,Colibrí Garden,Pichincha,2,-0.271118,-78.30196,3176,2,2021
+1750749682,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,7,2016
+1180210919,Vultur gryphus,EC,Pululahua--mirador,Pichincha,1,0.02555,-78.48345,2822,7,2014
+1380732506,Vultur gryphus,EC,Hacienda Zuleta (parroquia: Angochaga),Imbabura,2,0.2,-78.09,2884,4,2002
+3662469066,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+2150183132,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,4,2018
+3605412205,Vultur gryphus,EC,"Auto selected -0.11666, -78.57133",Pichincha,1,-0.116658,-78.57133,3531,7,2021
+3677622022,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+603948814,Vultur gryphus,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,1,2010
+961461688,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,8,2013
+3184770202,Vultur gryphus,EC,Ecuador,Pichincha,1,-0.083496,-78.255615,2985,4,2019
+845351871,Vultur gryphus,EC,Hiking from the teleferico to Rucu Pichincha,Pichincha,1,-0.173184,-78.54983,4129,4,2007
+1758116859,Vultur gryphus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,8,2016
+2161561542,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+2704670949,Vultur gryphus,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2697,-78.2557)",Pichincha,1,-0.269731,-78.25569,3469,8,2019
+3674911390,Vultur gryphus,EC,"Auto selected -0.11666, -78.57133",Pichincha,1,-0.116658,-78.57133,3531,7,2021
+1182447149,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.1119,-78.58481,3526,7,2004
+3276406194,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.28576,-78.29207,3377,7,2020
+936189128,Vultur gryphus,EC,Hacienda Zuleta,Imbabura,1,0.201418,-78.08691,2880,12,2012
+3540833306,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+944433094,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2013
+3629989376,Vultur gryphus,EC,Quito Centro,Pichincha,1,-0.157986,-78.44777,2680,7,2021
+2144627273,Vultur gryphus,EC,Rio Chiche Canyon,Pichincha,1,-0.2061,-78.37052,2324,3,2018
+3261247258,Vultur gryphus,EC,"Hotel Hacienda La Jimenita, Pifo",Pichincha,2,-0.234846,-78.3498,2594,1,2020
+848156400,Vultur gryphus,EC,lower elevation west side Papallacta Pass,Pichincha,3,-0.268542,-78.28274,3168,9,2012
+963474648,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2013
+3176854946,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,7,2020
+3208590728,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+2746773789,Vultur gryphus,EC,Lago San Pablo,Imbabura,1,0.20874,-78.23227,2657,8,2004
+3257883047,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,7,2020
+2200013486,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2011
+969466419,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2011
+2712502852,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2168838651,Vultur gryphus,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,5,2018
+2123430397,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,9,2004
+937122354,Vultur gryphus,EC,Pichincha,Pichincha,2,-0.118546,-78.58011,3809,10,2011
+2726455461,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,9,2004
+3292833835,Vultur gryphus,EC,Zoológico de Guayllabamba,Pichincha,1,-0.072114,-78.3572,2169,12,2020
+3545470931,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,7,2021
+3529510393,Vultur gryphus,EC,Quito Airport Suites Hotel,Pichincha,1,-0.154892,-78.34993,2429,5,2021
+3198188479,Vultur gryphus,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,2,-0.272252,-78.30158,3158,10,2020
+1786452044,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+2171363787,Vultur gryphus,EC,San Jose del Tablon,Pichincha,1,-0.28286,-78.290764,3399,4,2018
+2715675398,Vultur gryphus,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,6,2015
+2117222611,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,1,2018
+3687741525,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2217958574,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,8,2003
+2791576979,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+2795631074,Vultur gryphus,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,6,2012
+1724575806,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,3,2016
+2126055326,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+2772753896,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,8,2019
+3576603299,Vultur gryphus,EC,"Yanacocha, W. of Quito",Pichincha,1,-0.11161,-78.5845,3529,8,2001
+2179110803,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2018
+3298876972,Vultur gryphus,EC,Laguna de Mojanda (Provincia Imbabura),Imbabura,1,0.149174,-78.264626,3730,3,2017
+3565414675,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+1747976300,Vultur gryphus,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,6,2016
+1198305706,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,10,2004
+2702614012,Vultur gryphus,EC,"Unknown Location - (-0.268, -78.262)",Pichincha,2,-0.267569,-78.26229,3390,8,2019
+2081558062,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2017
+2653839705,Vultur gryphus,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,1,2019
+3687603259,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+3255515624,Vultur gryphus,EC,Pintag,Pichincha,2,-0.371551,-78.37543,2847,2,2020
+2090453421,Vultur gryphus,EC,"(-0.2840,-78.2477)",Pichincha,1,-0.284037,-78.247734,3600,8,2017
+3232910228,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+2126709589,Vultur gryphus,EC,Guagua Pichincha--road and trail to top of volcano,Pichincha,3,-0.203755,-78.58956,3802,12,2011
+1149046622,Vultur gryphus,EC,Pululahua Hostel and surrounding properties,Pichincha,1,0.079994,-78.53405,1917,6,2013
+1724611246,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,1,-0.268477,-78.27128,3309,3,2016
+2129117385,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+938691945,Vultur gryphus,EC,Rucu Pichincha,Pichincha,2,-0.178871,-78.599625,4629,10,2011
+2199629264,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,8,2018
+3520450346,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,5,2021
+2786180189,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2014
+848331434,Vultur gryphus,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,6,2012
+3650234167,Vultur gryphus,EC,Quito Teleferiqo,Pichincha,1,-0.188183,-78.53542,3933,12,2021
+845466000,Vultur gryphus,EC,Cental Valley,Pichincha,2,-0.239767,-78.33926,2587,3,2010
+2056450496,Vultur gryphus,EC,Laguna de Mojanda (Pichincha),Pichincha,1,0.133457,-78.26295,3723,3,2017
+3568814522,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2021
+845553982,Vultur gryphus,EC,Otavalo,Imbabura,1,0.231357,-78.261604,2541,4,2011
+2096923879,Vultur gryphus,EC,"EC-Via Papallacta Pifo (Rt. 20), Quito (-0.2680,-78.2585)",Pichincha,1,-0.268035,-78.25855,3440,12,2017
+3274293234,Vultur gryphus,EC,"Upper Chiriboga Rd. (upper subtropical and temperate zone, >2500m)",Pichincha,6,-0.279515,-78.69269,2491,9,2020
+3659579394,Vultur gryphus,EC,"Quito-Papallacta, Pichincha, EC (-0.276, -78.258)",Pichincha,2,-0.275832,-78.25752,3485,8,2021
+1178576356,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2010
+847080676,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2012
+3648251714,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+3572935889,Vultur gryphus,EC,Quito airport pond,Pichincha,1,-0.109842,-78.36495,2341,11,2021
+2742352534,Vultur gryphus,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2672,-78.2825)",Pichincha,1,-0.267179,-78.28251,3166,3,2019
+1783155397,Vultur gryphus,EC,Laguna de Cuicocha,Imbabura,1,0.30257,-78.36251,3069,7,2007
+2701567525,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,8,2019
+2187199920,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+3146951862,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+1788865266,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2014
+2181020691,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,8,2018
+3269961794,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,2,-0.285834,-78.2923,3372,11,2020
+3575952929,Vultur gryphus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,11,2021
+3546939548,Vultur gryphus,EC,Colibrí Garden,Pichincha,2,-0.28576,-78.29207,3377,1,2021
+3295284690,Vultur gryphus,EC,Lagunas de Mojanda: Huarmicocha,Pichincha,3,0.13728,-78.2677,3716,11,2008
+2794040531,Vultur gryphus,EC,"Hotel Hacienda La Jimenita, Pifo",Pichincha,2,-0.234846,-78.3498,2594,9,2019
+2140158851,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,4,2018
+3137498617,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2020
+3583728056,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+3300512424,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2020
+2767905169,Vultur gryphus,EC,"Unknown Location - (-0.268, -78.262)",Pichincha,4,-0.267569,-78.26229,3390,8,2019
+2153919229,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2014
+3295959257,Vultur gryphus,EC,Santa Rosa Pesillo,Imbabura,1,0.182936,-78.08464,3119,11,2020
+954064497,Vultur gryphus,EC,Cuchauco,Pichincha,1,-0.269172,-78.25864,3446,2,2011
+3137693965,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2020
+3275428204,Vultur gryphus,EC,Zoológico de Guayllabamba,Pichincha,1,-0.072114,-78.3572,2169,12,2020
+603228675,Vultur gryphus,EC,Ecuador - road to Papallacta pass,Pichincha,4,-0.243758,-78.32668,2705,11,2007
+2200103389,Vultur gryphus,EC,Casa Mojanda,Imbabura,2,0.180102,-78.271774,3070,9,2018
+3572936969,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.28576,-78.29207,3377,11,2021
+1410891179,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,9,2007
+3214654464,Vultur gryphus,EC,Laguna Cubilche,Imbabura,1,0.232981,-78.133865,3774,4,2003
+3667970356,Vultur gryphus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,9,2021
+3172145137,Vultur gryphus,EC,Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.285834,-78.2923,3372,7,2020
+1190857385,Vultur gryphus,EC,Hacienda Zuleta (parroquia: Angochaga),Imbabura,1,0.2,-78.09,2884,7,2003
+2225076847,Vultur gryphus,EC,Pululahua--mirador,Pichincha,1,0.02555,-78.48345,2822,12,2018
+2689253956,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2011
+2087172647,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2017
+3584021687,Vultur gryphus,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,12,2021
+2083385552,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2017
+1775489307,Vultur gryphus,EC,Papallacta--'old house' site,Pichincha,2,-0.266332,-78.2825,3175,9,2012
+3191262657,Vultur gryphus,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.272252,-78.30158,3158,10,2020
+3266440964,Vultur gryphus,EC,Bosque Nativo de Colibrí Garden (Familia Umaquinga),Pichincha,1,-0.272252,-78.30158,3158,8,2020
+2710784953,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+2703085594,Vultur gryphus,EC,"Via Pifo Papallacta, Quito EC-Pichincha (-0.2706,-78.2563)",Pichincha,1,-0.270587,-78.25626,3462,10,2019
+3667039339,Vultur gryphus,EC,Puembo Birding Garden,Pichincha,1,-0.165593,-78.36133,2422,9,2021
+2673545299,Vultur gryphus,EC,Pifo,Pichincha,1,-0.237176,-78.33798,2612,1,2010
+3250858673,Vultur gryphus,EC,Colibrí Garden,Pichincha,1,-0.271118,-78.30196,3176,10,2020
+1779022875,Vultur gryphus,EC,Otavalo--general area,Imbabura,1,0.234403,-78.25862,2529,7,2011
+1783029277,Vultur gryphus,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,9,2011
+1750658818,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2016
+2126041984,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2017
+2774535915,Vultur gryphus,EC,Hacienda San Jose--vicinity,Pichincha,2,-0.268477,-78.27128,3309,8,2019
+2729530060,Vultur gryphus,EC,San Jorge Ecolodge (Quito),Pichincha,1,-0.11649,-78.52343,3187,1,2019
+2169093256,Vultur gryphus,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2018
+2097580726,Vultur gryphus,EC,"EC-Via Papallacta Pifo (Rt. 20), Quito (-0.2680,-78.2585)",Pichincha,1,-0.268035,-78.25855,3440,12,2017
+2835950218,Vultur gryphus,EC,Ecuador - Pichincha,,1,-0.162676,-78.563229,4477,3,2016
+2206991430,Vultur gryphus,EC,"Olmedo Road, Pichincha, EC (0.102, -78.104)",Pichincha,1,0.102087,-78.10418,3005,7,2018
+3212379430,Vultur gryphus,EC,Otavalo--Parque Cóndor,Imbabura,1,0.233849,-78.24037,2780,6,2013
+2836207307,Vultur gryphus,EC,Ecuador - Pichincha,,1,-0.163838,-78.561955,4445,3,2016
+3268443348,Vultur gryphus,EC,Colibrí Garden,Pichincha,3,-0.271118,-78.30196,3176,9,2020
+2192970147,Vultur gryphus,EC,"San Jorge , Pichincha, EC (-0,117, -78,523)",Pichincha,1,-0.116807,-78.523094,3188,8,2018
+2159931305,Vultur gryphus,EC,Laguna de Mojanda (Provincia Imbabura),Imbabura,1,0.149174,-78.264626,3730,6,2018
+2839336392,Vultur gryphus,EC,Ecuador - Laguna Cuicocha,,1,0.312422,-78.358912,3236,6,2019

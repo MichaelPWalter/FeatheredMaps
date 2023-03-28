@@ -1,0 +1,15 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3634277600,Piranga rubriceps,EC,Via de ingreso a Siempre Verde,Imbabura,1,0.372777,-78.424736,2406,11,2021
+3665046372,Piranga rubriceps,EC,Bosque Protector Siempre Verde,Imbabura,4,0.372374,-78.42244,2446,12,2021
+3569530717,Piranga rubriceps,EC,"Plaza Gutierrez (Calvario), Imbabura, EC (0.373, -78.424)",Imbabura,1,0.372734,-78.424065,2419,11,2021
+3567709390,Piranga rubriceps,EC,Siempre Verde (correct locality!),Imbabura,1,0.37239,-78.42243,2446,4,2021
+1190951551,Piranga rubriceps,EC,"San Luis Transecto impacto, Punto 7",Pichincha,1,-0.018,-78.698,2398,3,2004
+3633973183,Piranga rubriceps,EC,Bosque Protector Siempre Verde,Imbabura,2,0.372374,-78.42244,2446,7,2021
+1190960432,Piranga rubriceps,EC,Guarumos Transecto impacto P07,Pichincha,1,-0.04864,-78.64856,2580,1,2005
+3586623697,Piranga rubriceps,EC,Bosque Protector Siempre Verde,Imbabura,4,0.372374,-78.42244,2446,12,2021
+1190797092,Piranga rubriceps,EC,Guarumos Transecto impacto P08,Pichincha,1,-0.04933,-78.65,2580,4,2008
+3683535348,Piranga rubriceps,EC,"Plaza Gutierrez (Calvario), Imbabura, EC (0.373, -78.424)",Imbabura,1,0.372734,-78.424065,2419,11,2021
+1190900181,Piranga rubriceps,EC,"Hacienda Verdecocha (reserva privada), transecto 03",Pichincha,1,-0.10648,-78.64341,2468,2,2008
+3616104424,Piranga rubriceps,EC,Bosque Protector Siempre Verde,Imbabura,2,0.372374,-78.42244,2446,7,2021
+1190854952,Piranga rubriceps,EC,Guarumos Transecto impacto P08,Pichincha,1,-0.04933,-78.65,2580,6,2007
+3515312574,Piranga rubriceps,EC,"Auto selected 0.35998, -78.48305",Imbabura,1,0.359981,-78.48305,1886,4,2021

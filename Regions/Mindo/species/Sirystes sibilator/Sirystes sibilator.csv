@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2103486840,Sirystes sibilator,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+1205858204,Sirystes sibilator,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,9,2010
+2782722919,Sirystes sibilator,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+3140735611,Sirystes sibilator,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2020

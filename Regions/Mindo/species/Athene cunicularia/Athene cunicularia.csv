@@ -1,0 +1,526 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2988675088,Athene cunicularia,EC,,Pichincha,1,-0.089487,-78.575601,3065,10,2020
+3070308196,Athene cunicularia,EC,,Pichincha,1,0.054683,-78.305583,3024,6,2014
+3562742539,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+2603387246,Athene cunicularia,EC,,Pichincha,1,0.043022,-78.485138,2534,11,2016
+1777390532,Athene cunicularia,EC,Pululahua Hostal,Pichincha,4,0.033814,-78.48593,2504,11,2016
+3556265671,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+2656596891,Athene cunicularia,EC,Yanacocha Reserve to Nono Rd - shortcut,Pichincha,3,-0.078339,-78.59801,3021,1,2019
+1788541397,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,4,2010
+3685179220,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+2782478876,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3577135850,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+3661191082,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,5,2021
+3207587098,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+2662640426,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,1,2019
+2659783443,Athene cunicularia,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,1,2019
+3201101281,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+1410615152,Athene cunicularia,EC,Cochasqui,Pichincha,2,0.059722,-78.29972,3006,6,2013
+3542342408,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+3656148438,Athene cunicularia,EC,Reserva Verdecocha,Pichincha,2,-0.09729,-78.60604,2831,12,2020
+3204896776,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+3652363306,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2174903176,Athene cunicularia,EC,"Nono, Alambi town, Verdecocha, Yanacocha reserve",Pichincha,1,-0.089135,-78.60005,3091,6,2018
+3544470827,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2021
+3684537685,Athene cunicularia,EC,"Reserva Geobotánica Pululahua, Quito EC-Pichincha 0.07751, -78.51899",Pichincha,1,0.077505,-78.51899,1918,10,2021
+3530840114,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,5,0.260691,-78.31629,2641,4,2021
+2654551200,Athene cunicularia,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,1,2019
+3680694639,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+1738927404,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,1,0.000833,-78.355,2295,5,2016
+1787307707,Athene cunicularia,EC,barrio señor del árbol,Pichincha,3,-0.04554,-78.46249,2607,6,2015
+3671229579,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,12,2021
+2046929983,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2017
+3299596219,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2020
+2728788898,Athene cunicularia,EC,road between Yanacocha and Quito-Nono Rd - stop 2,Pichincha,3,-0.07832,-78.59798,3018,2,2019
+2230019523,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,3,-0.068914,-78.588905,2712,9,2018
+3580721437,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+3268495161,Athene cunicularia,EC,"Reserva Geobotanica Pululahua, Quito EC-Pichincha (0.0439,-78.4753)",Pichincha,2,0.043868,-78.47526,2542,11,2020
+1744627280,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2016
+2777335031,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2219343795,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2018
+3646846289,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+3646741489,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3578345018,Athene cunicularia,EC,Cochasqui,Pichincha,7,0.059722,-78.29972,3006,10,2021
+3552865719,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+2093510404,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,5,-0.111752,-78.584694,3528,11,2017
+3688311906,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,12,2021
+2097180260,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2017
+2663262623,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2019
+2722887455,Athene cunicularia,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,1,2009
+3670824541,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,5,2021
+1182452506,Athene cunicularia,EC,Nono,Pichincha,1,-0.06879,-78.58992,2730,7,2004
+3216065174,Athene cunicularia,EC,airport terminal,Pichincha,1,-0.122842,-78.356285,2375,7,2015
+2721771828,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2019
+3200126754,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2020
+2780940691,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+1767024732,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2007
+2750063778,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,1,2015
+2687159653,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,1,-0.09409,-78.556305,3208,7,2019
+3184528725,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2020
+3630660576,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3636772582,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,12,2021
+2796636847,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2019
+1747551647,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,6,2016
+3239140933,Athene cunicularia,EC,Cochasqui,Pichincha,8,0.059722,-78.29972,3006,1,2020
+2134801397,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,9,2017
+3631117443,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+3574044127,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+3650624513,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2573929979,Athene cunicularia,EC,,Pichincha,1,-0.111757,-78.585165,3529,4,2019
+2963905792,Athene cunicularia,EC,,Santo Domingo de los Tsáchilas,1,-0.210918,-79.191449,509,10,2020
+1353970465,Athene cunicularia,EC,Quito Airport,Pichincha,1,-0.106087,-78.35878,2356,3,2015
+3135458837,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2020
+2778902397,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,8,2016
+2112340644,Athene cunicularia,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2018
+3582023414,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+3625285997,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,10,2021
+2779354976,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+3546493415,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2020
+3564082027,Athene cunicularia,EC,Quito International Airport,Pichincha,1,-0.131954,-78.36041,2383,10,2013
+3551469193,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+3278802958,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2020
+2703302223,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+2208300103,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+2161635422,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,6,2018
+3654160715,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2021
+2193401696,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2018
+3533412163,Athene cunicularia,EC,Cochasqui,Pichincha,5,0.059722,-78.29972,3006,6,2021
+2071919988,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,5,2017
+3288914343,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2020
+2747222055,Athene cunicularia,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,11,2007
+2218966516,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,9,2018
+1356698725,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,3,2015
+1405462280,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,11,2015
+3636229085,Athene cunicularia,EC,Burrowing Owl area,Pichincha,2,-0.086378,-78.59928,3076,1,2021
+1179461478,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,4,-0.102763,-78.54394,3358,6,2014
+3653588105,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+3584001797,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2691056379,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2242854845,Athene cunicularia,EC,,Pichincha,1,0.055138,-78.307028,3007,5,2019
+2999047713,Athene cunicularia,EC,,Pichincha,1,-0.088649,-78.599808,3108,11,2020
+2242829574,Athene cunicularia,EC,,Pichincha,1,0.055854,-78.307571,3018,5,2019
+1978864924,Athene cunicularia,EC,,Pichincha,1,-0.078383,-78.59796,3018,12,2018
+1759663361,Athene cunicularia,EC,Cañón del Chiche,Pichincha,1,-0.192561,-78.374016,2257,8,2016
+2677700205,Athene cunicularia,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,2,0.022492,-78.50228,3043,1,2019
+1787744586,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2015
+3566058912,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+3555443129,Athene cunicularia,EC,Cochasqui,Pichincha,7,0.059722,-78.29972,3006,10,2021
+1206072186,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,3,2010
+3670497178,Athene cunicularia,EC,Cerro Ilaló y alrededores,Pichincha,2,-0.265608,-78.42182,3107,5,2021
+2795339773,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,11,2011
+1410622315,Athene cunicularia,EC,Cochasqui,Pichincha,2,0.059722,-78.29972,3006,5,2008
+2665966917,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2019
+198784940,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,11,2008
+3585531960,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+2203703454,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,3,-0.068914,-78.588905,2712,9,2018
+3070451316,Athene cunicularia,EC,,Pichincha,1,-0.088631,-78.599834,3108,1,2021
+3301946305,Athene cunicularia,EC,,Pichincha,1,0.057192,-78.307245,3032,6,2021
+1350693023,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,2,2015
+1457589106,Athene cunicularia,EC,,Pichincha,1,0.032959,-78.657303,1682,3,2017
+2037357441,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,3,-0.09409,-78.556305,3208,1,2017
+1920839060,Athene cunicularia,EC,,Pichincha,1,-0.07838,-78.598015,3022,3,2018
+2070278614,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,5,2017
+3623263535,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+1203272158,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,8,2012
+2161520940,Athene cunicularia,EC,"(-0.0891,-78.6000)",Pichincha,1,-0.089083,-78.59995,3097,6,2018
+2746235094,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3468950812,Athene cunicularia,EC,,Pichincha,1,0.05707,-78.30779,3030,7,2021
+3150644632,Athene cunicularia,EC,Pululahua Crater next to Casa L'Amore,Pichincha,2,0.044705,-78.48748,2682,1,2020
+2172496971,Athene cunicularia,EC,"(-0.0891,-78.6000)",Pichincha,1,-0.089083,-78.59995,3097,6,2018
+2042495217,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2017
+2741575633,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,3,-0.102763,-78.54394,3358,1,2019
+2227538102,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2018
+3542456684,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+3566974492,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,11,2021
+3183472283,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2020
+3205267977,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+3671016681,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2021
+2209537352,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,10,2018
+2190160860,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,9,2018
+3662107607,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2021
+2720194463,Athene cunicularia,EC,Zuro Loma Birding,Pichincha,2,-0.086833,-78.59844,3078,10,2019
+961952999,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,8,2013
+3526879198,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2738208932,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,3,2019
+2752897691,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,1,2019
+2230510351,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,9,2018
+2687942127,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,1,-0.09409,-78.556305,3208,7,2019
+3644741903,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3572544215,Athene cunicularia,EC,Cochasqui,Pichincha,7,0.059722,-78.29972,3006,10,2021
+3583692398,Athene cunicularia,EC,Cochasqui,Pichincha,7,0.059722,-78.29972,3006,10,2021
+3580042111,Athene cunicularia,EC,Cochasqui Parque Arqueológico,Pichincha,3,0.05473,-78.30561,3024,8,2021
+2205172294,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,8,2018
+2214291630,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2018
+2746379649,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2019
+2228466805,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2016
+2701707840,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,11,2016
+2765784288,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2704783928,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+2230406819,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,11,2018
+2701625104,Athene cunicularia,EC,"(-0.0887,-78.5999)",Pichincha,2,-0.088732,-78.59988,3107,9,2019
+964994444,Athene cunicularia,EC,Pululahua Hostel and surrounding properties,Pichincha,4,0.079994,-78.53405,1917,6,2013
+3654948863,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+2656561296,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,2,2019
+2202131644,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,7,2018
+965076209,Athene cunicularia,EC,Reserva Geobotánica Pululahua (Lower part below 2000m),Pichincha,1,0.077382,-78.518135,1925,8,2013
+3623042128,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,5,0.260691,-78.31629,2641,7,2021
+1708757613,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,1,2016
+3605501232,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,1,2021
+3571362557,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,8,2021
+2773807179,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,12,2018
+3279519229,Athene cunicularia,EC,"Parque Arqueológico Cochasquí, Pichincha, EC (0,055, -78,304)",Pichincha,5,0.054764,-78.3045,3029,3,2020
+2685422170,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2774744612,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,5,2017
+3666601538,Athene cunicularia,EC,Lago San Pablo--humedal de aguas residuales (water treatment wetland),Imbabura,1,0.199889,-78.2337,2660,2,2021
+1775211088,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,3,-0.102763,-78.54394,3358,11,2016
+3286650497,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2020
+2219556392,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,1,2017
+3587164234,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2021
+2746590688,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,5,-0.068914,-78.588905,2712,2,2019
+2702366732,Athene cunicularia,EC,Upper Alambi,Pichincha,1,9.9e-05,-78.664215,1746,10,2019
+3508664495,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,1,2021
+1206116155,Athene cunicularia,EC,Pululahua Hostal,Pichincha,3,0.033814,-78.48593,2504,11,2009
+2158274808,Athene cunicularia,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,5,2018
+3295704490,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,12,2020
+2096660813,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,9,2017
+3672168560,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,5,2021
+3690084667,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+2686958905,Athene cunicularia,EC,"EC--Yanacocha to Mindo, Ecoroute",Pichincha,1,-0.088639,-78.59221,3157,6,2019
+2774414341,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,8,2019
+3599630818,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,1,2021
+2771805970,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+2690519064,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,12,2018
+578535548,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.05373,-78.19313,2849,1,2011
+1793879338,Athene cunicularia,EC,Pululahua Hostal,Pichincha,1,0.033814,-78.48593,2504,11,2015
+2792304915,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,3,0.000833,-78.355,2295,9,2019
+2744803258,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,8,2011
+1172985715,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,3,2013
+3690290057,Athene cunicularia,EC,Cochasqui,Pichincha,3,0.059722,-78.29972,3006,6,2021
+3659805217,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,10,2021
+3607188697,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,5,0.260691,-78.31629,2641,4,2021
+3636232917,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,3,-0.088671,-78.599754,3108,9,2021
+2169474351,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,5,2018
+3624763273,Athene cunicularia,EC,Pululahua Hostal,Pichincha,2,0.033814,-78.48593,2504,11,2021
+3643949160,Athene cunicularia,EC,"Unnamed Road, Pichincha, EC (-0.107, -78.586)",Pichincha,2,-0.1068,-78.585815,3463,11,2021
+2655940572,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+3634909861,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+3602481606,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+2161383694,Athene cunicularia,EC,"(-0.0891,-78.6000)",Pichincha,1,-0.089083,-78.59995,3097,6,2018
+3655825414,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2084368585,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2017
+3584078524,Athene cunicularia,EC,"Vía sin nombre, Imbabura, EC (0.213, -78.182)",Imbabura,2,0.212744,-78.181656,2888,12,2021
+2114999045,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,4,0.040374,-78.50293,2405,2,2018
+2108111265,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2017
+2171277918,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,7,2018
+3513543001,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,1,2021
+2681139879,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,6,2019
+2098077054,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,9,2017
+2666357414,Athene cunicularia,EC,road between Yanacocha and Quito-Nono Rd - stop 2,Pichincha,3,-0.07832,-78.59798,3018,2,2019
+3658507050,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+2102248050,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,9,2017
+2706442582,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,7,2019
+2054997352,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,4,2017
+2734429151,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2019
+3581405892,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,3,0.040374,-78.50293,2405,8,2021
+3642620544,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,9,2021
+2733340580,Athene cunicularia,EC,Mitad del Mundo,Pichincha,1,-0.002274,-78.4559,2475,1,2019
+3282482429,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2020
+2122739896,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,12,2017
+2742654337,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2019
+2765352640,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3578231832,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+3139348759,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2020
+2731997404,Athene cunicularia,EC,Yanacocha Reserve to Nono Rd - shortcut,Pichincha,3,-0.078339,-78.59801,3021,1,2019
+2146404722,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,4,2018
+2226094483,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,12,2018
+3667782415,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+820884312,Athene cunicularia,EC,Pululahua farmland,Pichincha,1,0.065478,-78.50416,2327,2,2012
+2134430002,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2018
+3579698105,Athene cunicularia,EC,"Vía sin nombre, Imbabura, EC (0.213, -78.182)",Imbabura,2,0.212744,-78.181656,2888,12,2021
+3185539572,Athene cunicularia,EC,Ecuador,Pichincha,1,-0.083496,-78.255615,2985,5,2019
+3213639356,Athene cunicularia,EC,Pululahua Hostal,Pichincha,1,0.033814,-78.48593,2504,11,2017
+3593725626,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2021
+3660593520,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,10,2021
+817675666,Athene cunicularia,EC,Nono,Pichincha,1,-0.06879,-78.58992,2730,1,2005
+3632366228,Athene cunicularia,EC,"Cumbas Conde, Imbabura, EC (0.259, -78.308)",Imbabura,6,0.259485,-78.30837,2627,4,2021
+3602452697,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,2,2021
+1723373261,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,3,2016
+2165478969,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,2,2015
+3639742491,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+1354672552,Athene cunicularia,EC,Quito Airport,Pichincha,1,-0.106087,-78.35878,2356,3,2015
+3506460050,Athene cunicularia,EC,Burrowing Owl area,Pichincha,2,-0.086378,-78.59928,3076,1,2021
+3257229339,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,2,2020
+3280919979,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2020
+3554310812,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2052173761,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,3,2017
+3588430852,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,2,2021
+3563321933,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+2761375846,Athene cunicularia,EC,Nono Vicinity,Pichincha,1,-0.067269,-78.57645,2741,7,2019
+2132684238,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,1,2018
+3212597971,Athene cunicularia,EC,Drive from Yanacocha Reserve to San Jorge Eco-lodge Tandayapa,Pichincha,2,-0.005384,-78.67864,1804,12,2017
+2131666248,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,3,2018
+3275352357,Athene cunicularia,EC,Cofiza,Santo Domingo de los Tsáchilas,1,-0.214643,-79.192406,531,10,2020
+3584029625,Athene cunicularia,EC,Cochasqui,Pichincha,7,0.059722,-78.29972,3006,10,2021
+2218630098,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,11,2018
+3546239963,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+2171180076,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,5,2018
+3693302284,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,9,2021
+2672157001,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,9,2014
+3679107012,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+2690953161,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2187918021,Athene cunicularia,EC,Cochasqui's Pyramids,Pichincha,3,0.054717,-78.30561,3023,2,2018
+3539093136,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+3521706556,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2021
+2788638071,Athene cunicularia,EC,Halconera,Pichincha,1,-0.120281,-78.36396,2360,6,2018
+2127278058,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2018
+3677129591,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,11,2021
+2749709699,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,4,0.000833,-78.355,2295,3,2013
+1206639151,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,2,2010
+3690283104,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,10,2021
+2211288979,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,9,2018
+3516612100,Athene cunicularia,EC,Cochasqui pyramids,Pichincha,3,0.055163,-78.305664,3019,4,2021
+2068498727,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,7,2017
+3667153582,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,2,-0.10849,-78.561905,3450,10,2021
+3507379523,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,2,2021
+2724425763,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,2,2010
+2208324782,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+2789078846,Athene cunicularia,EC,Zuro Loma Birding,Pichincha,2,-0.086833,-78.59844,3078,10,2019
+961954545,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,8,2013
+3539594416,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+3574572944,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,9,2021
+2097045313,Athene cunicularia,EC,Pululahua Hostal,Pichincha,3,0.033814,-78.48593,2504,10,2017
+2706431128,Athene cunicularia,EC,Upper Alambi,Pichincha,1,9.9e-05,-78.664215,1746,10,2019
+3654993132,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+2223992464,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,12,2018
+1151337347,Athene cunicularia,EC,Ecuador -- Pululahua,Pichincha,2,0.04762,-78.47107,2670,1,2014
+3635612124,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+2073904946,Athene cunicularia,EC,"(-0.108, -78.558)",Pichincha,1,-0.107923,-78.55798,3444,8,2017
+3583560144,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2021
+3575333652,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+3585437344,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+1750066863,Athene cunicularia,EC,Otavalo to Quito,Imbabura,1,0.190953,-78.22261,2706,12,2008
+2597821062,Athene cunicularia,EC,,Pichincha,1,-0.130311,-78.353444,2398,4,2014
+2730002308,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+3599440374,Athene cunicularia,EC,Burrowing Owl area,Pichincha,2,-0.086378,-78.59928,3076,1,2021
+3272633063,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2020
+3302013165,Athene cunicularia,EC,,Pichincha,1,0.057061,-78.30748,3030,6,2021
+2898467670,Athene cunicularia,EC,,Pichincha,1,0.035677,-78.491254,2528,9,2020
+2242873922,Athene cunicularia,EC,,Pichincha,1,0.056614,-78.307838,3027,5,2019
+4062553755,Athene cunicularia,EC,,Pichincha,1,0.055494,-78.306931,3006,3,2023
+1403247460,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2015
+2657853095,Athene cunicularia,EC,road between Yanacocha and Quito-Nono Rd - stop 2,Pichincha,3,-0.07832,-78.59798,3018,2,2019
+2862366578,Athene cunicularia,EC,,Pichincha,1,0.054916,-78.304356,3028,1,2011
+3598229228,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,5,2021
+2988703578,Athene cunicularia,EC,,Pichincha,1,-0.088649,-78.599808,3108,11,2020
+4062594714,Athene cunicularia,EC,,Pichincha,1,0.0551,-78.306675,3005,3,2023
+3633987139,Athene cunicularia,EC,Cochasqui,Pichincha,4,0.059722,-78.29972,3006,6,2021
+1781695538,Athene cunicularia,EC,Pululahua Hostal,Pichincha,5,0.033814,-78.48593,2504,12,2016
+2744349472,Athene cunicularia,EC,Cochasqui Archaeological Park Ecuador,Pichincha,1,0.054916,-78.30436,3028,10,2018
+2242838027,Athene cunicularia,EC,,Pichincha,1,0.056836,-78.3079,3029,5,2019
+3391319293,Athene cunicularia,EC,,Pichincha,1,-0.024978,-78.555985,2689,9,2021
+3677743082,Athene cunicularia,EC,Cochasqui,Pichincha,5,0.059722,-78.29972,3006,6,2021
+2220999151,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2018
+2671259682,Athene cunicularia,EC,Yanacocha Reserve to Nono Rd - shortcut,Pichincha,3,-0.078339,-78.59801,3021,1,2019
+3585791701,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,10,2021
+2988438833,Athene cunicularia,EC,,Pichincha,1,-0.122089,-78.364205,2362,11,2020
+3610043478,Athene cunicularia,EC,"Auto selected -0.08856, -78.59990",Pichincha,2,-0.088559,-78.5999,3108,7,2021
+3466251333,Athene cunicularia,EC,,Pichincha,1,-0.110702,-78.362262,2351,3,2009
+3113381530,Athene cunicularia,EC,,Pichincha,1,-0.084253,-78.601322,3058,5,2021
+2366097584,Athene cunicularia,EC,,Pichincha,1,0.043269,-78.476375,2529,8,2019
+2597724473,Athene cunicularia,EC,,Pichincha,1,-0.11661,-78.364109,2352,12,2013
+2992696884,Athene cunicularia,EC,,Pichincha,1,-0.178926,-78.463416,2944,11,2020
+3302010995,Athene cunicularia,EC,,Imbabura,1,0.223503,-78.248514,2774,5,2021
+2802567880,Athene cunicularia,EC,,Pichincha,1,-0.085807,-78.598882,3091,2,2020
+4062921722,Athene cunicularia,EC,,Pichincha,1,0.056636,-78.307831,3027,3,2023
+2873913317,Athene cunicularia,EC,,Pichincha,1,0.035577,-78.491631,2531,9,2020
+2242877056,Athene cunicularia,EC,,Pichincha,1,0.056185,-78.303964,3048,5,2019
+2456561019,Athene cunicularia,EC,,Pichincha,1,0.054883,-78.305441,3026,5,2019
+3712602519,Athene cunicularia,EC,,Pichincha,1,-0.18811,-78.473146,2881,3,2022
+2732856230,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2019
+2114507448,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,4,-0.10849,-78.561905,3450,11,2017
+2229110852,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,11,2018
+3628237225,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3279071381,Athene cunicularia,EC,Drive from Yanacocha Reserve to San Jorge Eco-lodge Tandayapa,Pichincha,2,-0.005384,-78.67864,1804,12,2017
+3272572852,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2018
+1776532037,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,4,0.040374,-78.50293,2405,11,2016
+1409417491,Athene cunicularia,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,8,2007
+2161442545,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,6,2018
+2660050169,Athene cunicularia,EC,Yanacocha Reserve to Nono Rd - shortcut,Pichincha,3,-0.078339,-78.59801,3021,1,2019
+3678553164,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,8,2021
+3248354850,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,8,2020
+3288397923,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+2230992370,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,2,2009
+2212626643,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,12,2018
+2764059360,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,1,-0.09409,-78.556305,3208,7,2019
+2701892973,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2019
+3625437056,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2021
+3676118886,Athene cunicularia,EC,Camino viejo a Guallabamba,Pichincha,1,-0.093039,-78.38939,2174,2,2021
+2657368860,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+2227902087,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,1,0.000833,-78.355,2295,11,2018
+941722578,Athene cunicularia,EC,-0.1242x-78.3593,Pichincha,1,-0.124213,-78.35932,2373,3,2013
+2120491791,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2017
+3604151821,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,5,2021
+1770486850,Athene cunicularia,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,10,2016
+978772022,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,1,2011
+2227239531,Athene cunicularia,EC,Pululahua Hostal,Pichincha,1,0.033814,-78.48593,2504,6,2017
+2684217997,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,3,2019
+2773174598,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2735468123,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,3,-0.111752,-78.584694,3528,2,2019
+820668363,Athene cunicularia,EC,Cochasqui,Pichincha,2,0.059722,-78.29972,3006,2,2012
+2708308116,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+817913600,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,1,2007
+3646010888,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,1,0.260691,-78.31629,2641,7,2021
+3150270666,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2020
+2702074262,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2659199585,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+1202166296,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2014
+2666822143,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,3,2019
+2748520097,Athene cunicularia,EC,Yanacocha Reserve to Nono Rd - shortcut,Pichincha,3,-0.078339,-78.59801,3021,1,2019
+1768260331,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,2,0.004016,-78.488235,2852,10,2016
+2750322057,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,1,-0.09409,-78.556305,3208,7,2019
+3689791026,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2021
+2222109606,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2018
+3541676924,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,1,0.260691,-78.31629,2641,7,2021
+1707657462,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,11,2014
+3694557735,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2021
+2190276019,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,9,2018
+2738196742,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+2098856628,Athene cunicularia,EC,Pululahua Hostal,Pichincha,3,0.033814,-78.48593,2504,10,2017
+2764446025,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,1,-0.09409,-78.556305,3208,7,2019
+3623512607,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+941721628,Athene cunicularia,EC,-0.1246x-78.3597,Pichincha,2,-0.124563,-78.35973,2374,3,2013
+3562860053,Athene cunicularia,EC,Cochasqui,Pichincha,5,0.059722,-78.29972,3006,6,2021
+3689009594,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,9,2021
+3208177520,Athene cunicularia,EC,Pululahua--mirador,Pichincha,1,0.02555,-78.48345,2822,11,2020
+3279678892,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,6,2008
+3549892058,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+3575154695,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,9,2021
+2128602552,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2018
+1207226908,Athene cunicularia,EC,Cochasquí,Pichincha,1,0.055071,-78.30467,3025,5,2009
+1346284646,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,5,0.040374,-78.50293,2405,1,2015
+1404898618,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,10,2009
+2666418573,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+2215759706,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2018
+3218568831,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,2,-0.09409,-78.556305,3208,2,2020
+3565593168,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+3505209149,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,1,2021
+2738511291,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,7,2018
+3186817181,Athene cunicularia,EC,"Ecoruta (Quito-Nono road), temperate zone",Pichincha,2,-0.09409,-78.556305,3208,2,2020
+2120464913,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,12,2017
+3182032862,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2014
+2688015777,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2736750162,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+3680139738,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+2216003477,Athene cunicularia,EC,"(-0.0779,-78.5980)",Pichincha,1,-0.077928,-78.59802,3005,12,2018
+2796737849,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,3,-0.068914,-78.588905,2712,11,2019
+3202412837,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+3200022458,Athene cunicularia,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2018
+3296056694,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2020
+2657050233,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,2,2019
+2101218001,Athene cunicularia,EC,Calacalí--Sendero de la Virgen (Trail from shrine),Pichincha,1,0.004016,-78.488235,2852,12,2003
+3260052932,Athene cunicularia,EC,"Auto selected 0.26994, -78.23783",Imbabura,1,0.269943,-78.23783,2584,5,2020
+1790189113,Athene cunicularia,EC,Sorialoma-Guangopolo,Pichincha,1,-0.256389,-78.4375,2621,5,2015
+2765560352,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2729484180,Athene cunicularia,EC,"Yanacocha Road, Pichincha, EC (-0,117, -78,523)",Pichincha,1,-0.116823,-78.52325,3192,1,2019
+3634773906,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,10,2021
+1785919868,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,2,2012
+3193576262,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+3664507808,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+2731640903,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2019
+2773452224,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+2114325086,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,1,-0.068914,-78.588905,2712,2,2018
+3686263487,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,6,2021
+3584748337,Athene cunicularia,EC,"Pondoña-La Reventazón, Pichincha, EC (0.047, -78.493)",Pichincha,2,0.047123,-78.49331,2833,10,2021
+1344074236,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,1,-0.10849,-78.561905,3450,11,2014
+3611754820,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,1,2021
+2138962779,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,3,2018
+3635934400,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,2,2015
+3198009702,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,6,2016
+2681495759,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,3,2019
+2036884091,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,1,2017
+2740132384,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,3,2019
+3289942639,Athene cunicularia,EC,Quito airport pond,Pichincha,2,-0.109842,-78.36495,2341,2,2018
+2189070950,Athene cunicularia,EC,Perucho y alrededores,Pichincha,2,0.109177,-78.42423,1816,1,2017
+2225131833,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2018
+3671360829,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,5,2021
+3548245658,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3196600354,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,4,0.040374,-78.50293,2405,12,2020
+1367221028,Athene cunicularia,EC,Sorialoma-Guangopolo,Pichincha,1,-0.256389,-78.4375,2621,5,2015
+3582815034,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,10,2021
+2212649344,Athene cunicularia,EC,Road from San Jorge Ecolodge to Yanacocha Reserve,Pichincha,3,-0.10849,-78.561905,3450,10,2018
+3171446423,Athene cunicularia,EC,Vía antigua Perucho.,Pichincha,1,0.10725,-78.43315,1640,5,2020
+3638153060,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+2139779237,Athene cunicularia,EC,Cochasqui,Pichincha,3,0.006439,-78.46529,2567,3,2018
+2693885188,Athene cunicularia,EC,"yanacocha Road, Pichincha, EC (-0,117, -78,523)",Pichincha,2,-0.116726,-78.52307,3187,8,2019
+1753536929,Athene cunicularia,EC,Calacalí--vicinity,Pichincha,1,-0.000687,-78.51512,2811,8,2007
+2716650283,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,12,2017
+2191954903,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,8,2018
+2209681308,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,3,-0.087945,-78.59246,3158,11,2017
+3540707324,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,2,0.260691,-78.31629,2641,7,2021
+3565415895,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3252069085,Athene cunicularia,EC,Malchinguí,Pichincha,3,0.045225,-78.34968,2714,10,2020
+3663471677,Athene cunicularia,EC,Cochasqui,Pichincha,5,0.059722,-78.29972,3006,6,2021
+2211235696,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2018
+2226364656,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,12,2018
+3166907358,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,6,2008
+3659636008,Athene cunicularia,EC,"Quebrada Cumbas, Imbabura, EC (0.261, -78.316)",Imbabura,4,0.260691,-78.31629,2641,4,2021
+2730730527,Athene cunicularia,EC,"(-0,108, -78,546)",Pichincha,3,-0.108361,-78.54559,3441,3,2019
+576079196,Athene cunicularia,EC,Cochasqui,Pichincha,4,0.059722,-78.29972,3006,3,2009
+2168343194,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2018
+3201731992,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,11,2020
+1751602251,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,12,2015
+2779372052,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,3,0.000833,-78.355,2295,9,2019
+3200775413,Athene cunicularia,EC,Reserva Verdecocha,Pichincha,2,-0.09729,-78.60604,2831,12,2020
+3525237503,Athene cunicularia,EC,Quito International Airport,Pichincha,1,-0.131954,-78.36041,2383,10,2013
+3601367168,Athene cunicularia,EC,Cochasqui,Pichincha,1,0.059722,-78.29972,3006,7,2021
+3536983159,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+2751566721,Athene cunicularia,EC,Nono Vicinity,Pichincha,1,-0.067269,-78.57645,2741,7,2019
+2160678494,Athene cunicularia,EC,"Malchingui - Mojanda, Pichincha, EC (0,054, -78,305)",Pichincha,2,0.053663,-78.3054,3011,5,2018
+3598671182,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,1,2021
+3597991901,Athene cunicularia,EC,"Vía Otavalo, Provincia de Imbabura, EC (0.255, -78.271)",Imbabura,1,0.25476,-78.27101,2475,1,2021
+2201789341,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,11,2018
+3541445417,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+3646961800,Athene cunicularia,EC,Cochasqui,Pichincha,5,0.059722,-78.29972,3006,6,2021
+2118670944,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,2,-0.111752,-78.584694,3528,1,2018
+2728920165,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+3645417169,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,5,2021
+2190065173,Athene cunicularia,EC,Halconera,Pichincha,1,-0.120281,-78.36396,2360,6,2018
+2140709369,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,2,0.040374,-78.50293,2405,4,2018
+3569878754,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,7,2021
+2064926171,Athene cunicularia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,5,0.040374,-78.50293,2405,5,2017
+3642651526,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,9,2021
+2226878700,Athene cunicularia,EC,"(-0.0779,-78.5980)",Pichincha,1,-0.077928,-78.59802,3005,12,2018
+3670840847,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,11,2021
+3243473199,Athene cunicularia,EC,Piscinas Ilaló,Pichincha,2,-0.285429,-78.381096,2535,8,2020
+3641721779,Athene cunicularia,EC,Cochasqui,Pichincha,3,0.059722,-78.29972,3006,6,2021
+2207430925,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,10,2018
+2196328033,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,8,2018
+1165026686,Athene cunicularia,EC,"Reserva Geobotánica Pululahua (Upper part, >2000m)",Pichincha,3,0.022492,-78.50228,3043,1,2014
+2055446104,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,4,-0.111752,-78.584694,3528,4,2017
+2065011972,Athene cunicularia,EC,Pululahua Geobotanical Reserve at 2500 mts,Pichincha,6,0.040255,-78.48144,2490,5,2017
+2696743955,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,1,-0.087945,-78.59246,3158,7,2019
+3597389667,Athene cunicularia,EC,Cochasqui,Pichincha,3,0.059722,-78.29972,3006,6,2021
+3298491085,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2020
+1379733276,Athene cunicularia,EC,Quito Airport,Pichincha,1,-0.106087,-78.35878,2356,3,2015
+3580845069,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,1,-0.088671,-78.599754,3108,11,2021
+2670449150,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2019
+2227948843,Athene cunicularia,EC,"Unnamed Road, Pichincha, EC (-0,107, -78,587)",Pichincha,3,-0.106518,-78.586716,3468,12,2018
+2684071009,Athene cunicularia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,7,2019
+3591515454,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,1,2021
+2230122406,Athene cunicularia,EC,Bosque Protector Jerusalem,Pichincha,1,0.000833,-78.355,2295,11,2018
+3640372549,Athene cunicularia,EC,Reserva Zuro Loma,Pichincha,2,-0.088671,-78.599754,3108,12,2021
+3213687791,Athene cunicularia,EC,"San Pablo, Imbabura, EC (0.215, -78.185)",Imbabura,2,0.215168,-78.18476,2889,12,2020
+3506322214,Athene cunicularia,EC,Ecoruta (Nono-Tandayapa Road above 2500 m),Pichincha,2,-0.068914,-78.588905,2712,1,2021
+3032132402,Athene cunicularia,EC,,Pichincha,1,0.059718,-78.305662,3092,1,2021
+3277211691,Athene cunicularia,EC,Perucho y alrededores,Pichincha,1,0.109177,-78.42423,1816,5,2020
+3725067640,Athene cunicularia,EC,Ecuador - Pichincha,,1,0.039556,-78.486561,2511,8,2011
+3215213122,Athene cunicularia,EC,Cochasqui,Pichincha,2,0.059722,-78.29972,3006,6,2011
+820570059,Athene cunicularia,EC,Pululahua crater,Pichincha,1,0.049148,-78.48782,2645,3,2012
+3705428070,Athene cunicularia,EC,,Pichincha,1,-0.188032,-78.472847,2883,3,2022
+2242912394,Athene cunicularia,EC,,Pichincha,1,0.056442,-78.23939,2968,5,2019
+3302117774,Athene cunicularia,EC,,Pichincha,1,0.055258,-78.307633,3006,6,2021
+3204823362,Athene cunicularia,EC,Reserva Verdecocha,Pichincha,2,-0.09729,-78.60604,2831,12,2020
+3293710774,Athene cunicularia,EC,Atajo/Shortcut from Yanacocha to Quito-Nono road,Pichincha,2,-0.087945,-78.59246,3158,2,2020
+2826338492,Athene cunicularia,EC,,Pichincha,1,-0.096009,-78.588768,3247,11,2018
+1890072565,Athene cunicularia,EC,,Pichincha,1,-0.097355,-78.588328,3262,7,2018
+3715561559,Athene cunicularia,EC,Ecuador - Pichincha,,2,0.0341,-78.4862,2501,2,2017

@@ -1,0 +1,12 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3278044768,Aramus guarauna,EC,Puerto Quito,Pichincha,1,0.116386,-79.26367,196,9,2020
+3264816775,Aramus guarauna,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322139,-79.213936,426,6,2020
+3542341098,Aramus guarauna,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,10,2021
+2225095707,Aramus guarauna,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+3169433696,Aramus guarauna,EC,Centro Cultural Mushily,Santo Domingo de los Tsáchilas,1,-0.322233,-79.213486,427,6,2020
+3005145539,Aramus guarauna,EC,,Pichincha,1,-0.3515,-78.431956,2539,11,2020
+3664357004,Aramus guarauna,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,9,2021
+3655789377,Aramus guarauna,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,11,2021
+3523485365,Aramus guarauna,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,7,2021
+3674707290,Aramus guarauna,EC,Quintas vacacionales Oasis,Pichincha,1,0.10889,-79.090706,520,7,2021
+3282331049,Aramus guarauna,EC,"Vía Los Bancos, Pichincha, EC (0.102, -79.108)",Pichincha,1,0.101877,-79.10772,513,12,2020

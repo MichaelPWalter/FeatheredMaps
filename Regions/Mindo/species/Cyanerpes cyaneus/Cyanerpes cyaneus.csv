@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+921384041,Cyanerpes cyaneus,EC,Milpe Bird Sanctuary,,1,0.03276,-78.853394,1153,2,2011
+3283156564,Cyanerpes cyaneus,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2011
+2086299915,Cyanerpes cyaneus,EC,Rio Silanche Bird Sanctuary,Pichincha,3,0.145185,-79.14147,402,7,2017
+3169808868,Cyanerpes cyaneus,EC,Puente del Guayabamba,Pichincha,1,0.207414,-78.95792,458,6,2020

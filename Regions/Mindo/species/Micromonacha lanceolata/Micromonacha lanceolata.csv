@@ -1,0 +1,364 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2883154202,Micromonacha lanceolata,EC,,Pichincha,1,0.05058,-78.880755,1071,9,2020
+2243869919,Micromonacha lanceolata,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,6,2003
+3388868157,Micromonacha lanceolata,EC,Niedrige Landschaften (Lowlands) nähe Arasha,,1,0.100909,-79.096443,530,11,2004
+2726270444,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2000
+1147148804,Micromonacha lanceolata,EC,Selanche Road Km 126,,1,-0.1427,-79.141567,484,9,2003
+3070350972,Micromonacha lanceolata,EC,,Pichincha,1,0.12559,-78.630573,1307,1,2011
+1792445757,Micromonacha lanceolata,EC,Selanche Road Km 126,Santo Domingo de los Tsáchilas,1,-0.1427,-79.14156,484,9,2003
+1986526032,Micromonacha lanceolata,EC,,Pichincha,1,0.123131,-78.99491,852,12,2018
+2779485901,Micromonacha lanceolata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2019
+2098642148,Micromonacha lanceolata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,10,2017
+1738540942,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2016
+2042078100,Micromonacha lanceolata,EC,Recinto 23 de Junio--upper lek site,Pichincha,2,-0.05492,-78.86113,1540,1,2017
+1206189508,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2011
+2033186660,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,2,-0.065725,-78.769196,1288,1,2017
+3689057342,Micromonacha lanceolata,EC,Reserva Los Cedros,Imbabura,2,0.321968,-78.787,1820,5,2021
+961502967,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2222797947,Micromonacha lanceolata,EC,Kapari Natural Lodge,Pichincha,1,-0.001202,-78.94196,916,12,2018
+2741542168,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,4,2019
+2718615311,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,7,2009
+1789212895,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2005
+2780223621,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,3,0.182478,-78.9123,514,10,2016
+3148680195,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+3181201145,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+3681169321,Micromonacha lanceolata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+3572726929,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2021
+3583407308,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2021
+2085691422,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,10,2017
+3226363864,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2020
+591733599,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2079837064,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2017
+3198521019,Micromonacha lanceolata,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,10,2020
+3616915949,Micromonacha lanceolata,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+2123501984,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2005
+3521948214,Micromonacha lanceolata,EC,"Vía al Pachijal, Pichincha, EC",Pichincha,2,0.068084,-78.90376,904,5,2021
+3561820653,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2021
+3580104279,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+1347800411,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+2166346579,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2218460286,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+1790305391,Micromonacha lanceolata,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2008
+2227065180,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+2717060401,Micromonacha lanceolata,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,6,2003
+2103725084,Micromonacha lanceolata,EC,Mashpi Sendero Restauración,Pichincha,1,0.183213,-78.90909,534,1,2018
+2034259143,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,1,2017
+2130003783,Micromonacha lanceolata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,4,2011
+1727170774,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2016
+1374723854,Micromonacha lanceolata,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,5,2015
+3637346162,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+1752765903,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2016
+3584217694,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+1193607772,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2014
+2127520577,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2018
+3646350881,Micromonacha lanceolata,EC,Cerro Campana,Pichincha,1,0.126663,-78.626854,1354,5,2021
+2799979381,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2000
+3253298498,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2020
+2173499594,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+2106091201,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+3577125875,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,3,2004
+1156581778,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2014
+2716470524,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2019
+3230872200,Micromonacha lanceolata,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,1,2020
+833519694,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2006
+2798187870,Micromonacha lanceolata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2019
+2189726043,Micromonacha lanceolata,EC,"Milpe, Pichincha, EC (0.045, -78.873)",Pichincha,1,0.04502,-78.87336,1077,6,2018
+2708671624,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2018
+2748581943,Micromonacha lanceolata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,2,0.215744,-78.90205,482,1,2019
+2012957284,Micromonacha lanceolata,EC,,Pichincha,1,0.052736,-78.842286,1186,2,2019
+3179445404,Micromonacha lanceolata,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,8,2020
+3573742995,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0.071, -78.905)",Pichincha,1,0.071375,-78.90489,777,5,2021
+2859894844,Micromonacha lanceolata,EC,,Santo Domingo de los Tsáchilas,1,-0.2991,-79.0526,732,8,2007
+2801168631,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2014
+3241661836,Micromonacha lanceolata,EC,Garita Mashpi-hotel-mashpi comunidad,Pichincha,1,0.166455,-78.87116,1052,5,2020
+3514934528,Micromonacha lanceolata,EC,Cabañas El Jardín del Quinde,Pichincha,1,0.035577,-78.87227,1109,3,2021
+2188032982,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+2142880010,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2018
+2087128408,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,10,2017
+3232328562,Micromonacha lanceolata,EC,Bosque El Dorado,Santo Domingo de los Tsáchilas,1,-0.209499,-78.94825,758,5,2020
+1668862980,Micromonacha lanceolata,EC,,Pichincha,1,0.14456,-79.142311,401,3,2017
+3691755747,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,1,2013
+3044910726,Micromonacha lanceolata,EC,,Imbabura,1,0.276067,-78.675828,1435,2,2021
+3389352279,Micromonacha lanceolata,EC,Wälder im Tandayapa Valley und Umgebung,,1,0.011335,-78.689766,2054,11,2004
+2689591158,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2019
+2767407526,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2019
+4054958839,Micromonacha lanceolata,EC,,Pichincha,1,0.14448,-79.14216,409,1,2023
+3008413698,Micromonacha lanceolata,EC,,Pichincha,1,0.031048,-78.86721,1143,10,2013
+2670102353,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2019
+3145418318,Micromonacha lanceolata,EC,"(0.0474,-78.8871)",Pichincha,1,0.04742,-78.887146,1058,2,2020
+3524598350,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,1,0.025522,-78.85767,1170,5,2021
+1405176927,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2004
+975207053,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2013
+2708834320,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2019
+2723607569,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2015
+2076951271,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,6,2017
+3542026311,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0.071, -78.905)",Pichincha,1,0.071375,-78.90489,777,5,2021
+2796398037,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2004
+2659226763,Micromonacha lanceolata,EC,"(0,124, -78,629)",Pichincha,1,0.124343,-78.6295,1270,2,2019
+2746508062,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2019
+2084021167,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,10,2017
+181363611,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2008
+3508839752,Micromonacha lanceolata,EC,Finca El Carmelo,Imbabura,1,0.275052,-78.67555,1426,2,2021
+3263402635,Micromonacha lanceolata,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.315077,-78.95492,841,5,2020
+2709398205,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,5,2003
+2800053410,Micromonacha lanceolata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,11,2019
+2069161367,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2017
+833396628,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,11,2000
+2747855971,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2007
+2800431211,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,5,2019
+2787124106,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+1729225876,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2016
+2688379326,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2017
+1722919813,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3184616059,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,10,2020
+2763924138,Micromonacha lanceolata,EC,La Isla Mindo,Pichincha,1,-0.055306,-78.77035,1269,12,2019
+980037908,Micromonacha lanceolata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,4,2011
+2734702257,Micromonacha lanceolata,EC,"EC (0,123, -78,629)",Pichincha,1,0.123075,-78.62921,1277,2,2019
+3283633633,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2020
+2221330048,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2018
+3575499965,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2021
+2675694947,Micromonacha lanceolata,EC,"Mashpi Shungo - (0,183, -78,912)",Pichincha,1,0.182651,-78.91212,516,4,2019
+3578331859,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+1712079979,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3180803401,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2020
+3276771274,Micromonacha lanceolata,EC,"Pacto, Pichincha, EC (0.085, -78.901)",Pichincha,1,0.084977,-78.901276,940,6,2020
+2789093667,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2019
+3134970200,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+1709163706,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,1,2016
+3296303183,Micromonacha lanceolata,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,9,2020
+2154718607,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2018
+1722922149,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+3276956347,Micromonacha lanceolata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+2097859370,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2017
+592409486,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2010
+1769702645,Micromonacha lanceolata,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,10,2016
+3533010036,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0.071, -78.905)",Pichincha,1,0.071375,-78.90489,777,5,2021
+2233061952,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,12,2018
+1769712888,Micromonacha lanceolata,EC,Mashpi Road -- 0.174x-78.854,Pichincha,2,0.174424,-78.85374,1191,10,2016
+3205698476,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2020
+2066837697,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,7,2017
+591757252,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+3647966698,Micromonacha lanceolata,EC,Reserva La Chacra,Pichincha,1,0.096068,-78.94553,837,10,2021
+2074107628,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2017
+3681018381,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+1406148314,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2015
+3211255504,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+2185936116,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,7,2018
+1182828214,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,8,2014
+2166086782,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,5,2018
+836678027,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+3160653632,Micromonacha lanceolata,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.315077,-78.95492,841,5,2020
+1206155561,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,8,2010
+3620230282,Micromonacha lanceolata,EC,Alex PO,Pichincha,1,0.165965,-78.8785,932,6,2021
+2746452016,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,8,2019
+2758514966,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2019
+1737794532,Micromonacha lanceolata,EC,"EC-Pichincha - Vía Cunuco -0,046x-78,786 - 14/05/2016 08:47 p.m.",Pichincha,1,-0.046103,-78.785866,1367,5,2016
+2188979576,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2009
+3677779100,Micromonacha lanceolata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2021
+2681230852,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,4,2019
+3583461899,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,11,2000
+1764019816,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,7,2009
+3209955763,Micromonacha lanceolata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2020
+1348394990,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+3171800771,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,1,2013
+3508170603,Micromonacha lanceolata,EC,Finca El Carmelo,Imbabura,1,0.275052,-78.67555,1426,2,2021
+2725130575,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2019
+1711042744,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+964038927,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,7,2013
+1723392664,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2016
+2782714667,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,5,2019
+1400751378,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+3664964027,Micromonacha lanceolata,EC,"SF Pachijal Ruta CBC am Culunco a Chontilla, pm camin Pachijal",Pichincha,1,0.09645,-78.88752,964,12,2021
+1178827021,Micromonacha lanceolata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,6,2014
+2123391140,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,7,2004
+3195767380,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2020
+2106757000,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,2,2001
+2702986562,Micromonacha lanceolata,EC,La Isla Mindo,Pichincha,1,-0.055306,-78.77035,1269,10,2019
+2113907932,Micromonacha lanceolata,EC,Mashpi Sendero Restauración,Pichincha,1,0.183213,-78.90909,534,1,2018
+1791816968,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+2169104426,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,5,2018
+3562634531,Micromonacha lanceolata,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+3626159550,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2013
+2092441405,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,11,2017
+2751523658,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,5,2019
+271080482,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2009
+2161728320,Micromonacha lanceolata,EC,"San Jorge De Milpe(0,043, -78,884)",Pichincha,2,0.042698,-78.884094,1078,5,2018
+2769757061,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2019
+2078686450,Micromonacha lanceolata,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,7,2017
+2103012878,Micromonacha lanceolata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,8,2007
+1749905969,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2012
+1206750254,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2006
+970211210,Micromonacha lanceolata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,1,2007
+1766969788,Micromonacha lanceolata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,10,2016
+1351713569,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,2,2015
+3512355139,Micromonacha lanceolata,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2021
+3294208929,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+3575393290,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,11,2021
+2518154555,Micromonacha lanceolata,EC,,Pichincha,1,-0.036342,-78.883073,1146,1,2014
+3206768843,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+2086124189,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,3,0.033327,-78.868454,1110,10,2017
+2800681178,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2690622402,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,6,2019
+2191933682,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2073603889,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2017
+2767148766,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,8,2019
+2783007954,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+2189641136,Micromonacha lanceolata,EC,"Milpe, Pichincha, EC (0.045, -78.873)",Pichincha,1,0.04502,-78.87336,1077,6,2018
+3070278927,Micromonacha lanceolata,EC,,Pichincha,1,0.124909,-78.630222,1276,1,2011
+2123441532,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2005
+2668872841,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,7,2004
+1805376351,Micromonacha lanceolata,EC,,Santo Domingo de los Tsáchilas,1,-0.297508,-79.051794,687,8,2007
+1789210182,Micromonacha lanceolata,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,12,2005
+1788856841,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2000
+2125583479,Micromonacha lanceolata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,8,2007
+2714627690,Micromonacha lanceolata,EC,Reserva Río Manduriacu,Imbabura,1,0.31026,-78.85736,1213,7,2019
+1767031908,Micromonacha lanceolata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,10,2016
+3166068252,Micromonacha lanceolata,EC,"Auto selected -0.07850, -78.73187",Pichincha,1,-0.078498,-78.731865,1594,6,2020
+1166901949,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,4,2014
+2744846553,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,4,2019
+3658241722,Micromonacha lanceolata,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+1385804878,Micromonacha lanceolata,EC,Mindo--Rio Cinto,Pichincha,1,-0.062968,-78.80807,1239,12,2003
+2185983290,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,7,2018
+2705298417,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2019
+3578618664,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,12,2021
+1737600573,Micromonacha lanceolata,EC,"-0.048x-78.791 - may. 14, 2016 20:38",Pichincha,1,-0.047856,-78.79079,1171,5,2016
+1791142546,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,10,2004
+2094750261,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2658617914,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,8,2002
+2754232289,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,6,2017
+3577873301,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+2179986121,Micromonacha lanceolata,EC,Pedro Vicente Maldonado Canton,Pichincha,1,0.081333,-79.049515,617,8,2005
+3529063697,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2021
+2068616643,Micromonacha lanceolata,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,7,2017
+3589187875,Micromonacha lanceolata,EC,Cabañas ECOJUNIN,Imbabura,1,0.278129,-78.66762,1356,2,2021
+2081495866,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+3286497843,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,1,2013
+2716516083,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,2,0.124139,-78.62937,1272,10,2019
+3214938138,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,1,2014
+2667446787,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,2,2019
+1754897872,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,7,2016
+3188243820,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+2079176559,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,7,2017
+1405145799,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,8,2003
+3157363737,Micromonacha lanceolata,EC,Recinto El Dorado,Santo Domingo de los Tsáchilas,1,-0.315077,-78.95492,841,5,2020
+1407706297,Micromonacha lanceolata,EC,Pedro Vicente Maldonado--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,0.087625,-79.05275,613,6,2005
+1768355532,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+833621588,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2785601393,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,11,2019
+2718979634,Micromonacha lanceolata,EC,Represa Hidroeléctrica Manduriacu,Imbabura,1,0.215744,-78.90205,482,10,2017
+2796059465,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,8,2004
+3615825320,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.030357,-78.86646,1155,3,2012
+2723805312,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+1376329891,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2015
+3192885523,Micromonacha lanceolata,EC,"Rio Pachijal Road - Pichincha, EC (0,082, -78,912)",Pichincha,1,0.081515,-78.91248,834,7,2020
+3620605732,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0.071, -78.905)",Pichincha,1,0.071375,-78.90489,777,5,2021
+2668845704,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,3,2019
+1794215504,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,7,2008
+2079222489,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2017
+2800842332,Micromonacha lanceolata,EC,"Rio Sardinas, 3-5km bellow",Pichincha,1,0.190409,-78.86343,880,11,2019
+2114197555,Micromonacha lanceolata,EC,Hotel Tinalandia,Santo Domingo de los Tsáchilas,1,-0.299136,-79.0526,732,7,2004
+1357049061,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,3,2015
+3284945818,Micromonacha lanceolata,EC,"Rio Pachijal Road - Pichincha, EC (0,082, -78,912)",Pichincha,1,0.081515,-78.91248,834,7,2020
+2141367150,Micromonacha lanceolata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,4,2011
+1714385136,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+3265834065,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+935322601,Micromonacha lanceolata,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,1,2013
+2049648568,Micromonacha lanceolata,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,3,2017
+3138405304,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,2,2020
+1189145766,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,9,2014
+3585992413,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,12,2021
+2229851868,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2007
+2726702607,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,7,2017
+2044397743,Micromonacha lanceolata,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2017
+1345434499,Micromonacha lanceolata,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2015
+2680151055,Micromonacha lanceolata,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,5,2019
+3597060832,Micromonacha lanceolata,EC,Mindo--La Isla,Pichincha,1,-0.055248,-78.765686,1314,1,2021
+1766987528,Micromonacha lanceolata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,10,2016
+2227898987,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+3532410762,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2005
+2689487291,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2019
+2223430885,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.086769,-79.085464,591,7,2018
+3217977176,Micromonacha lanceolata,EC,Rancho Suamox,Pichincha,1,0.10746,-79.166534,377,1,2020
+937631066,Micromonacha lanceolata,EC,Mashpi--general area,Pichincha,2,0.16546,-78.84751,1293,1,2013
+592079367,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,2,0.122652,-78.99485,843,7,2009
+3524251857,Micromonacha lanceolata,EC,"vía al Pachijal, Pichincha, EC (0,026, -78,858)",Pichincha,1,0.025522,-78.85767,1170,5,2021
+2231011839,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+3146534188,Micromonacha lanceolata,EC,"(0.0474,-78.8871)",Pichincha,1,0.04742,-78.887146,1058,2,2020
+2769461473,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,2,0.182478,-78.9123,514,8,2019
+1206950404,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,3,2003
+592460180,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2010
+2190547338,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2188095077,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+3266665051,Micromonacha lanceolata,EC,Valentura,Pichincha,1,0.050597,-78.88076,1071,11,2020
+1178401346,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2014
+2784678851,Micromonacha lanceolata,EC,"EC-Pichincha-Quito (0,1251,-78,6280)",Pichincha,2,0.125067,-78.62796,1309,10,2019
+1722909241,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,1,2016
+2215019754,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,12,2018
+1758681488,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+2046385006,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,3,2017
+836398856,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,7,2012
+1206048844,Micromonacha lanceolata,EC,Selanche Road Km 126,Santo Domingo de los Tsáchilas,1,-0.1427,-79.14156,484,9,2003
+1717656166,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,2,2016
+972210733,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2005
+3571767986,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,11,2021
+2709329653,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,2,0.145185,-79.14147,402,12,2019
+836813314,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+2166347865,Micromonacha lanceolata,EC,"Milpe, Pichincha, EC (0.045, -78.873)",Pichincha,1,0.04502,-78.87336,1077,6,2018
+1385401579,Micromonacha lanceolata,EC,Milpe--end of the road,Pichincha,1,0.07727,-78.93023,912,12,2005
+2799974245,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2012
+1769852151,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+2719184883,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,2,0.120898,-78.63837,1310,9,2019
+2114888791,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2004
+1206234929,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2008
+2097625562,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,10,2017
+1769674181,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2016
+1385811209,Micromonacha lanceolata,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,2,2003
+591757287,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+2091362882,Micromonacha lanceolata,EC,milpe Lodge and trails,Pichincha,1,0.030685,-78.86649,1149,8,2017
+1765525357,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2016
+2726745431,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2010
+1199717319,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,8,2005
+3278398509,Micromonacha lanceolata,EC,Finca Blanca Margarita - Chicao Chocolate,Pichincha,1,0.157516,-79.22496,149,12,2020
+2657171471,Micromonacha lanceolata,EC,"EC (0,124, -78,63)",Pichincha,1,0.124146,-78.629524,1271,2,2019
+2187416957,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,6,2018
+2104405030,Micromonacha lanceolata,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,7,2017
+944804967,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,2,0.117101,-79.13609,393,8,2003
+3536393482,Micromonacha lanceolata,EC,"Vía al Pachijal, Pichincha, EC",Pichincha,2,0.068084,-78.90376,904,5,2021
+2114202607,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,9,2004
+3264210883,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2020
+3167979612,Micromonacha lanceolata,EC,Río Pachijal Road,Pichincha,1,0.082,-78.912,845,6,2020
+1786467445,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,2,0.033327,-78.868454,1110,9,2013
+3163656839,Micromonacha lanceolata,EC,Valentura,Pichincha,2,0.050597,-78.88076,1071,6,2020
+2677703337,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,4,2019
+3567876674,Micromonacha lanceolata,EC,"Pachijal 2 Pichincha, EC (0.069, -78.912)",Pichincha,1,0.06928,-78.912445,746,5,2021
+594009102,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,11,2011
+1766971089,Micromonacha lanceolata,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,10,2016
+1348224155,Micromonacha lanceolata,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2015
+3566602634,Micromonacha lanceolata,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2021
+3624481755,Micromonacha lanceolata,EC,Cabañas ECOJUNIN,Imbabura,1,0.278129,-78.66762,1356,2,2021
+2658808866,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,1,2019
+2059088071,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,6,2017
+1790150120,Micromonacha lanceolata,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,6,2008
+2801743494,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,6,2018
+2710079304,Micromonacha lanceolata,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,7,2019
+2795577943,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,9,2019
+2231600839,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,7,2018
+2243568987,Micromonacha lanceolata,EC,"Distrito Metropolitano de Quito, Pichincha",,1,0.1202,-78.6278,1271,1,2013
+2243664770,Micromonacha lanceolata,EC,Pichincha: Río Guaycuyacu,,1,0.217,-78.89,555,7,2004
+2243584530,Micromonacha lanceolata,EC,"Milpe, Pichincha",,1,0.0287,-78.8628,1146,9,2013
+2034084510,Micromonacha lanceolata,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,1,2017
+2243610416,Micromonacha lanceolata,EC,"Reserva Mangaloma, Pichincha",,1,0.1228,-78.9942,829,7,2014
+2243569469,Micromonacha lanceolata,EC,"Andes, Distrito Metropolitano de Quito, Pichincha",,1,0.1238,-78.6294,1270,1,2013
+1348379773,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,1,2015
+3691363739,Micromonacha lanceolata,EC,Reserva/Finca Mashpi-Shungo (Mashpi Chocolate Artesanal Farm),Pichincha,1,0.182478,-78.9123,514,6,2021
+2704988189,Micromonacha lanceolata,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,6,2019
+3044903945,Micromonacha lanceolata,EC,,Imbabura,1,0.276258,-78.675955,1437,2,2021
+1385214335,Micromonacha lanceolata,EC,Reserva Mangaloma,Pichincha,1,0.122652,-78.99485,843,4,2006
+1715245180,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,2,2016
+2166518793,Micromonacha lanceolata,EC,"Milpe, Pichincha, EC (0.045, -78.873)",Pichincha,1,0.04502,-78.87336,1077,6,2018
+2832142500,Micromonacha lanceolata,EC,Ecuador - Pichincha,,1,0.124672,-78.996849,916,1,2010
+3212954931,Micromonacha lanceolata,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,11,2019
+1990615886,Micromonacha lanceolata,EC,,Pichincha,1,0.145021,-79.141352,408,7,2018
+2243868385,Micromonacha lanceolata,EC,"Rio Silanche, Pedro Vicente Maldonado, Pichincha",,1,0.1431,-79.1334,420,7,2010
+2243570961,Micromonacha lanceolata,EC,"Andes, Distrito Metropolitano de Quito, Pichincha",,1,0.1238,-78.6294,1270,1,2013
+2832208320,Micromonacha lanceolata,EC,Ecuador - Pichincha,,1,0.123768,-78.997536,881,7,2009

@@ -1,0 +1,9 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1206234388,Gallinago nobilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2007
+1191598284,Gallinago nobilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,1,2008
+1190932189,Gallinago nobilis,EC,Lagunas de Mojanda: Yanacocha,Pichincha,1,0.11411,-78.27269,3714,7,2005
+3266883728,Gallinago nobilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,2,2006
+1403248629,Gallinago nobilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2015
+2111959796,Gallinago nobilis,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,12,2017
+980256299,Gallinago nobilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,2,2006
+1206226389,Gallinago nobilis,EC,Reserva Verdecocha,Pichincha,1,-0.09729,-78.60604,2831,12,2007

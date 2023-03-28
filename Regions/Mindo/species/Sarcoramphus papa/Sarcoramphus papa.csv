@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1166622611,Sarcoramphus papa,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,4,2014
+2673666165,Sarcoramphus papa,EC,Mama's house,Imbabura,1,0.355938,-78.49946,1638,9,2015
+1201369352,Sarcoramphus papa,EC,Rio Silanche--entrance road,Pichincha,1,0.108158,-79.13607,400,11,2014
+964606699,Sarcoramphus papa,EC,Carapungo,Pichincha,1,-0.092339,-78.451065,2618,1,2005

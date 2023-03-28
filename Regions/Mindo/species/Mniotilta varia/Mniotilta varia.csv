@@ -1,0 +1,443 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3193505696,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.0162,-78.6811,2249,2,2017
+1714521489,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+3297257480,Mniotilta varia,EC,Cuatro Rios (Four Rivers),Pichincha,1,0.071925,-78.982285,778,2,2001
+3220383620,Mniotilta varia,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,2,-0.024804,-78.72448,2126,3,2020
+2107905844,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2017
+1391359249,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+592517454,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2010
+1713220147,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+592421441,Mniotilta varia,EC,"Ecuador, Mindo, El Cinto Alto",Pichincha,1,-0.08362,-78.80299,1235,12,2010
+3548194454,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2009
+2798874975,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+2104649802,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,11,2017
+1787563252,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2005
+2089967503,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,10,2017
+3243284920,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+2706323793,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+274440438,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+1773706245,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2016
+2712352282,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2019
+591902786,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,1,2007
+2127399763,Mniotilta varia,EC,Milpe Garden,Pichincha,1,0.06584,-78.74206,1759,11,2013
+974026647,Mniotilta varia,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,12,2013
+2661546698,Mniotilta varia,EC,Séptimo Paraíso,Pichincha,1,-0.030223,-78.76405,1539,3,2019
+2791450435,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1348746817,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2015
+972313691,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010
+1748799020,Mniotilta varia,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,1,2010
+1392314130,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1407930628,Mniotilta varia,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2013
+1788749947,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2016
+970126689,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2008
+1356994626,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,3,2015
+592459376,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010
+2201041781,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2005
+3600697153,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1348179506,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2015
+1196860993,Mniotilta varia,EC,El Refugio de Intag Lodge,Imbabura,1,0.37525,-78.47603,1925,2,2002
+3507929129,Mniotilta varia,EC,Reserva Sacha Urco,Pichincha,1,-0.018628,-78.807755,1057,2,2021
+3689963535,Mniotilta varia,EC,Road between Santa Lucia and Maquipucuna,Pichincha,2,0.1232,-78.62168,1395,1,2013
+1772910682,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+3137692602,Mniotilta varia,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,2,2020
+1199903703,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2010
+2232869004,Mniotilta varia,EC,"(0.0434,-78.8837)",Pichincha,1,0.009527,-78.67596,1659,11,2018
+2157242400,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2017
+833622556,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2006
+1720302001,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,3,2016
+1777871689,Mniotilta varia,EC,Milpe Garden,Pichincha,1,0.06584,-78.74206,1759,11,2013
+1788864423,Mniotilta varia,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,2,2000
+3224263801,Mniotilta varia,EC,The Birdwatcher's House - Santa Rosa Bird Lodge,Pichincha,2,-0.024804,-78.72448,2126,3,2020
+2117907934,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+2097932289,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2017
+1395587523,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+2107649449,Mniotilta varia,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,11,2017
+2708381955,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,11,2019
+2696017808,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2019
+2032121195,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+3179373866,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2013
+1403228957,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2015
+1396636512,Mniotilta varia,EC,Rio Silanche Bird Sanctuary,Pichincha,1,0.145185,-79.14147,402,10,2015
+1404196699,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+835987531,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2012
+3223342575,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,3,2020
+3156643006,Mniotilta varia,EC,La Lomita,Pichincha,1,-0.065562,-78.763245,1314,3,2020
+1402797763,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+3625187108,Mniotilta varia,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,1,2013
+2032115346,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+2718821372,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2014
+2773033908,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1200366114,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2014
+2013700788,Mniotilta varia,EC,,Pichincha,1,0.053173,-78.841932,1183,3,2019
+971691894,Mniotilta varia,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+971760387,Mniotilta varia,EC,Santa Lucia Lodge,Pichincha,1,0.118575,-78.61154,1881,10,2013
+2781654135,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2019
+3648010533,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2017
+1794598991,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2015
+1193155216,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2014
+2763887306,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2019
+963004047,Mniotilta varia,EC,Quito--general area (*Please consider using a more specific hotspot or personal location when possible.),Pichincha,1,-0.2238,-78.5133,2814,1,2006
+1190841879,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2008
+2107760809,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2018
+1398360904,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2015
+1791109334,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2004
+2041210839,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2017
+2773194143,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2009
+2197700954,Mniotilta varia,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,3,2018
+2702605215,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,11,2016
+836008779,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,10,2012
+3276543008,Mniotilta varia,EC,Unión Del Toachi,Santo Domingo de los Tsáchilas,1,-0.328418,-78.948456,836,6,2020
+592469984,Mniotilta varia,EC,Tandayapa Valley -- Lower,Pichincha,1,0.01133,-78.67601,1615,11,2010
+968742572,Mniotilta varia,EC,Reserva Maquipucuna,Pichincha,1,0.120898,-78.63837,1310,10,2013
+936852555,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,11,2011
+3297087195,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,10,2020
+2115626582,Mniotilta varia,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,11,2017
+1707756467,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,2,-0.013116,-78.677826,2087,12,2005
+974715469,Mniotilta varia,EC,Nono-Mindo Road near San Tadeo,Pichincha,2,-0.024868,-78.74329,1913,12,2013
+2668280412,Mniotilta varia,EC,San Tadeo Birdwatching (Feeders),Pichincha,1,-0.029472,-78.751816,1731,1,2019
+3177325472,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2013
+2224371727,Mniotilta varia,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,11,2017
+1192817493,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,10,2014
+2769250795,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2019
+3150055260,Mniotilta varia,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,2,2020
+2694031914,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1751907794,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,2,0.321968,-78.787,1820,12,2013
+2029128916,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,3,0.010117,-78.676544,1656,12,2011
+1791621340,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,12,2005
+2153590376,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010
+833399080,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2000
+2111211828,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+274252640,Mniotilta varia,EC,Bella Vista-Tandayapa,Pichincha,1,-0.012016,-78.67756,2067,10,2004
+2713894620,Mniotilta varia,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2009
+1401983277,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,12,2015
+977464782,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2013
+1394456712,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+2100649548,Mniotilta varia,EC,Mindo--Vía al Cinto,Pichincha,1,-0.061568,-78.791115,1207,10,2017
+2130909547,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2018
+1354594282,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2015
+1198847683,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,11,2014
+1354815551,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+1775290757,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2016
+1192850171,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,2,-0.186515,-78.48579,2776,10,2014
+2769784028,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2012
+1205969894,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2011
+2656831760,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2019
+3667092873,Mniotilta varia,EC,"Tinalandia Lodge, Ecuador",Santo Domingo de los Tsáchilas,1,-0.297504,-79.051796,686,1,2004
+2209012483,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2018
+938204687,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2012
+2674420730,Mniotilta varia,EC,"Yaku, Museo del Agua",Pichincha,1,-0.217468,-78.51877,2918,4,2019
+2029125916,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,5,0.028496,-78.85403,1115,11,2012
+1790597327,Mniotilta varia,EC,La Hesperia Biological Station,Pichincha,1,-0.347955,-78.86656,1262,9,2008
+2038331954,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2017
+970476217,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,2,0.321968,-78.787,1820,2,2013
+3206235706,Mniotilta varia,EC,"Campo Colibrí-Pucará, EC (0.374, -78.481)",Imbabura,2,0.374487,-78.481186,2072,11,2020
+3654609153,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.0162,-78.6811,2249,2,2017
+833430855,Mniotilta varia,EC,Pucara,Imbabura,1,0.366112,-78.49129,2009,3,2004
+3176158831,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2013
+1356522934,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2015
+2103258394,Mniotilta varia,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,11,2017
+2125703562,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+1397926598,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2014
+2035256491,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2017
+971508036,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2013
+3198059434,Mniotilta varia,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.771)",Pichincha,1,-0.06102,-78.770905,1283,12,2020
+973654540,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,11,2013
+2794168487,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,9,2018
+2721652428,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+3649563414,Mniotilta varia,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,10,2021
+1777688842,Mniotilta varia,EC,Milpe Garden,Pichincha,1,0.06584,-78.74206,1759,11,2013
+2040913431,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2017
+2201951831,Mniotilta varia,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,3,2018
+970148723,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2008
+980278347,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2012
+978159195,Mniotilta varia,EC,Areas between Quito and Yanacocha,Pichincha,1,-0.102763,-78.54394,3358,2,2009
+1711609911,Mniotilta varia,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,1,2016
+272532554,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,12,2003
+181496912,Mniotilta varia,EC,Mitad del Mundo,Pichincha,1,-0.011158,-78.45286,2420,10,2008
+2096580679,Mniotilta varia,EC,"(-0,016, -78,679)",Pichincha,1,-0.01589,-78.67851,2168,12,2017
+2034466424,Mniotilta varia,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,1,2017
+836015344,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2012
+2117211238,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+3652269744,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2021
+2101169596,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2004
+1401071632,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2015
+2681429505,Mniotilta varia,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2019
+3223893086,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,1,2020
+2202173106,Mniotilta varia,EC,"(0.0476,-78.8870)",Pichincha,1,0.047592,-78.88697,1050,11,2018
+1200929269,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,12,2014
+2656405574,Mniotilta varia,EC,Nanegalito Cemetery Trail,Pichincha,1,0.058436,-78.68621,1649,1,2019
+2719782689,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1190985208,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+2111219340,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+2215954889,Mniotilta varia,EC,"San Jorge TandayapaPichincha, EC (0,009, -78,677)",Pichincha,1,0.009388,-78.67706,1711,11,2018
+1766083516,Mniotilta varia,EC,EC-Pichincha-SN Miguel Bancos-Casa Divina Lodge - -0.0664x-78.7690,Pichincha,2,-0.066404,-78.76905,1301,10,2016
+1782755956,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2015
+2043771854,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,2,2017
+1751909154,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+2030104373,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2017
+2782012963,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,2,2009
+2801361567,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2019
+3575236382,Mniotilta varia,EC,Sendero Frutti Tour & Birdwatching,Pichincha,1,0.08146,-79.05632,595,10,2021
+1347227001,Mniotilta varia,EC,Intag Cloud Forest Reserve--La Florida,Imbabura,1,0.36457,-78.48199,1868,1,2015
+1780299377,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2016
+2720738559,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2019
+2230999039,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2013
+2712831107,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+2716970006,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,8,2019
+2213710815,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,11,2015
+275116758,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+2109520084,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+1396694251,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+1385783019,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,2,2003
+2793776088,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2015
+1779860319,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2016
+1351986772,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+3219488118,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,2,-0.050725,-78.772385,1274,3,2020
+2095679085,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,9,2017
+3256920721,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2013
+934373741,Mniotilta varia,EC,"Milpe Bird Sanctuary, Ecuador",Pichincha,1,0.041557,-78.835205,1074,12,2011
+2102548648,Mniotilta varia,EC,"E28, Pichincha, EC (-0,016, -78,681)",Pichincha,2,-0.015827,-78.68078,2225,10,2017
+3289338444,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+3547362270,Mniotilta varia,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,12,2021
+2209952098,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2013
+2125458479,Mniotilta varia,EC,"Tanandayapa R, EC-Pichincha (0.0508,-78.6805)",Pichincha,1,0.050812,-78.68055,1478,1,2018
+2217329454,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,12,2016
+2096740879,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+3545745989,Mniotilta varia,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,12,2021
+2790754088,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2019
+1192901137,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2014
+938622718,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2013
+276225983,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2009
+1202759775,Mniotilta varia,EC,"Equateur, Las Gralarias",Pichincha,1,-0.055697,-78.720985,1783,3,2007
+1722712637,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,3,2016
+941311280,Mniotilta varia,EC,Mindo--El Monte Sustainable Lodge,Pichincha,1,-0.069394,-78.76362,1311,1,2006
+2702825346,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1346253929,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2015
+1751907633,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,2,0.321968,-78.787,1820,12,2013
+1772012705,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2016
+1192805251,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2014
+1398466084,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,11,2015
+3224415214,Mniotilta varia,EC,Mindo--Santuario de las cascadas,Pichincha,1,-0.074673,-78.76545,1460,2,2020
+2224659470,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,11,2016
+1752714829,Mniotilta varia,EC,Milpe Garden,Pichincha,1,0.06584,-78.74206,1759,11,2013
+1193164332,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2014
+1782455699,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2016
+1768924403,Mniotilta varia,EC,Casa Divina Lodge,Pichincha,1,-0.066723,-78.769,1313,10,2016
+937571904,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,11,2011
+2139059134,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,3,2018
+2232912712,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2018
+2782096373,Mniotilta varia,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,3,2009
+1406572569,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,10,2011
+3247172668,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2013
+1771362553,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+3550560265,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2013
+2104354757,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,10,2017
+1192933009,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2014
+2225618812,Mniotilta varia,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2018
+3235759950,Mniotilta varia,EC,La Lomita,Pichincha,1,-0.065562,-78.763245,1314,3,2020
+1395496795,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2015
+972307681,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2010
+3269719012,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,10,2013
+1190799116,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2010
+1720490590,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,3,2016
+3626923696,Mniotilta varia,EC,Mindo--Hostería La Roulotte,Pichincha,1,-0.06403,-78.764084,1310,12,2021
+274930809,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2009
+1347982077,Mniotilta varia,EC,"Ecoruta (Nono-Mindo road), Bellavista<->San Tadeo",Pichincha,1,-0.033302,-78.712814,2228,1,2015
+1779313766,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2016
+1751994650,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+2124074617,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+1712664471,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+1781757512,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,12,2016
+2032787030,Mniotilta varia,EC,"EC-Pichincha - -0,016x-78,681 - 5/1/2017 18:54",Pichincha,1,-0.016176,-78.681076,2247,1,2017
+591898835,Mniotilta varia,EC,La Armenia-Bellavista Road (alternate road to Bellavista),Pichincha,1,0.00859,-78.69729,2065,1,2007
+2698538733,Mniotilta varia,EC,"La Carolina Park, Quito EC-Pichincha (-0.1865,-78.4854)",Pichincha,1,-0.186499,-78.4854,2774,10,2019
+2790574583,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2014
+2729583755,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2019
+278054615,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+2128253168,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+1190633503,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2009
+1411613047,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2011
+3286414304,Mniotilta varia,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,12,2014
+2224377913,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,2,2003
+1200665074,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,12,2014
+1769826609,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2016
+1190921360,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,1,2009
+3218631691,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,1,2020
+833593253,Mniotilta varia,EC,Mindo (Sétimo Paraíso & surroundings),Pichincha,1,-0.031047,-78.762344,1565,1,2005
+2111917702,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2603514249,Mniotilta varia,EC,,Imbabura,1,0.308986,-78.779328,1387,12,2013
+1190964383,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2012
+2114492781,Mniotilta varia,EC,Reserva Pachijal,Pichincha,1,0.016,-78.7673,1645,11,2017
+1791548924,Mniotilta varia,EC,"Tandayapa--valle superior (Tandayapa<->Bellavista, upper valley)",Pichincha,1,-0.013116,-78.677826,2087,2,2006
+2100805137,Mniotilta varia,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,10,2017
+2790112825,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2019
+3218313960,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2020
+3175542904,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2014
+1784705338,Mniotilta varia,EC,Rio Silanche--general area,Pichincha,1,0.117101,-79.13609,393,2,2009
+2031909741,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2017
+1753615551,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,12,2007
+1174976789,Mniotilta varia,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,10,2012
+3182448798,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2018
+3284540363,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2012
+1206921009,Mniotilta varia,EC,Mindo--Road from highway to town (1300-1700m),Pichincha,1,-0.03871,-78.76851,1441,12,2003
+1348180595,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2015
+2785819291,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+2099452270,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2017
+939596226,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2013
+975846869,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,12,2013
+2779020972,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2019
+2108418793,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+2796911800,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,11,2019
+2115268642,Mniotilta varia,EC,"E28, Pichincha, EC (-0,016, -78,681)",Pichincha,1,-0.016044,-78.68113,2245,11,2017
+2778864701,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2017
+2728900069,Mniotilta varia,EC,ECUADOR: Mindo - Via de las Cascadas,Pichincha,1,-0.063154,-78.77356,1358,2,2019
+980255244,Mniotilta varia,EC,"Nono-Mindo Road, marker 64",Pichincha,1,-0.029955,-78.694214,2350,11,2012
+2708416401,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,11,2019
+2133300777,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2018
+2222784110,Mniotilta varia,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,10,2018
+1711978546,Mniotilta varia,EC,Mindo--El Descanso Lodge,Pichincha,1,-0.054754,-78.777405,1241,1,2016
+2702482398,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+2716366130,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,3,2014
+1395480087,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1348225618,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,2,2015
+941319783,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2013
+2102403923,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,10,2017
+1348126526,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2015
+2222869221,Mniotilta varia,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2018
+1192834286,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2014
+2088530673,Mniotilta varia,EC,"(-0.013, -78.808)",Pichincha,1,-0.013465,-78.80807,1071,10,2017
+1411062199,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,3,2012
+1190629307,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2012
+3294036841,Mniotilta varia,EC,"Vía a Las Cascadas, Pichincha, EC (-0.061, -78.771)",Pichincha,1,-0.06102,-78.770905,1283,12,2020
+2135632972,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+3140050351,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,3,2020
+937821760,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,12,2011
+1777503205,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,12,2016
+836027193,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,9,2012
+965295131,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,2,2002
+978295839,Mniotilta varia,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,2,2009
+1156772731,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2014
+2700956446,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+2786084807,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,8,2019
+278058273,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+1791806286,Mniotilta varia,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,2,2000
+1392573152,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1205982928,Mniotilta varia,EC,Tucanopy Lodge and Reserve,Pichincha,1,0.043386,-78.76671,1596,1,2014
+1787032150,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2012
+2119742292,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2018
+1748888969,Mniotilta varia,EC,Lower Chiriboga Road,Santo Domingo de los Tsáchilas,1,-0.310611,-78.907005,1166,1,2010
+2719683614,Mniotilta varia,EC,Milpe Road,Pichincha,1,0.051764,-78.90251,1013,1,2010
+2777314114,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2019
+2787242135,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+3194878709,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2013
+1710943833,Mniotilta varia,EC,San Jorge de Tandayapa Hummingbird Lodge,Pichincha,1,-0.000125,-78.67774,1738,1,2016
+1202751343,Mniotilta varia,EC,"Equateur, Las Gralarias",Pichincha,1,-0.055697,-78.720985,1783,3,2007
+2031051039,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2017
+2796993689,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1395599427,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,10,2015
+1782654877,Mniotilta varia,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,12,2016
+3217640788,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,1,2020
+1711361572,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,1,2016
+2132304395,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2096191316,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+1199976212,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,1,-0.025148,-78.75798,1719,1,2010
+2745468247,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2019
+2136421525,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+1155035830,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2014
+3581223328,Mniotilta varia,EC,Mindo--Vía a Cunuco,Pichincha,1,-0.051862,-78.783066,1228,10,2021
+833657005,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,12,2008
+1730312646,Mniotilta varia,EC,Tandayapa--San Jorge Tandayapa,Pichincha,1,0.010117,-78.676544,1656,3,2016
+2802047879,Mniotilta varia,EC,Sachatamia Lodge,Pichincha,2,-0.025148,-78.75798,1719,12,2019
+592425153,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,10,2010
+594956506,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2011
+2114238683,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,11,2004
+3279126930,Mniotilta varia,EC,La Hojarasca Bird Lodge,Santo Domingo de los Tsáchilas,1,-0.266529,-78.79033,2163,12,2020
+2800882632,Mniotilta varia,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,12,2019
+2716857563,Mniotilta varia,EC,Road between Santa Lucia and Maquipucuna,Pichincha,1,0.1232,-78.62168,1395,12,2019
+1190334935,Mniotilta varia,EC,Séptimo Paraiso,Pichincha,1,-0.030813,-78.764465,1564,11,2013
+2784603812,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,2,-0.015922,-78.681206,2242,1,2017
+2042168935,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2017
+1202328140,Mniotilta varia,EC,El Cinto Road,Pichincha,1,-0.06158,-78.78245,1267,12,2009
+2146637144,Mniotilta varia,EC,"San Jorge Eco-lodge Tandayapa, Pichincha, EC (0.009, -78.677)",Pichincha,1,0.009257,-78.67701,1713,3,2018
+2705297850,Mniotilta varia,EC,"Ruta San Bernabé, Pichincha, EC (-0.014, -79.07)",Pichincha,2,-0.013947,-79.07006,601,10,2019
+1208590927,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2014
+836674821,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,9,2012
+3137910891,Mniotilta varia,EC,Alambi Reserve,Pichincha,1,0.030789,-78.680565,1488,3,2020
+3632844099,Mniotilta varia,EC,La Torre Eco Lodge,Pichincha,1,0.204826,-78.96063,533,2,2012
+2739796923,Mniotilta varia,EC,Mashpi--general area,Pichincha,1,0.16546,-78.84751,1293,3,2019
+1361946932,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,1,2015
+3143790669,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,1,2020
+2138728122,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,1,2016
+1786678787,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,1,2008
+1711043672,Mniotilta varia,EC,San Jorge de Tandayapa Hummingbird Lodge,Pichincha,1,-0.000125,-78.67774,1738,1,2016
+2222967296,Mniotilta varia,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,11,2018
+2787186951,Mniotilta varia,EC,Hacienda Loma Tika,Imbabura,1,0.267554,-78.253525,2597,9,2019
+2714111609,Mniotilta varia,EC,"Hostería Valle Hermoso San Miguel de los Bancos, Pichincha, EC (0.008, -78.904)",Pichincha,2,0.00805,-78.90391,800,10,2019
+2215663027,Mniotilta varia,EC,Reserva Yanacocha,Pichincha,1,-0.111752,-78.584694,3528,11,2015
+2223333661,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,3,2000
+1791517480,Mniotilta varia,EC,Ecoruta--Alambi Valley (Nono-Tandayapa Road below 2500 m),Pichincha,1,-0.017016,-78.65079,1867,12,2005
+1775509233,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2016
+2721719361,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2019
+2140724855,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,2,-0.051046,-78.7784,1259,3,2018
+2095095477,Mniotilta varia,EC,"E28, Pichincha, EC (-0.016, -78.681)",Pichincha,2,-0.015915,-78.68073,2225,11,2017
+275300545,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,12,2008
+1348379063,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2015
+3582314007,Mniotilta varia,EC,Mindo--Casa Divina Lodge,Pichincha,1,-0.06509,-78.76884,1285,12,2021
+2133517582,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+2117226857,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
+1390706258,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1730309964,Mniotilta varia,EC,San Jorge de Milpe,Pichincha,1,0.044357,-78.88368,1059,4,2016
+1711043589,Mniotilta varia,EC,San Jorge de Tandayapa Hummingbird Lodge,Pichincha,1,-0.000125,-78.67774,1738,1,2016
+2113000012,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,11,2017
+592494968,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2010
+2225733760,Mniotilta varia,EC,"(0.0434,-78.8837)",Pichincha,1,0.009527,-78.67596,1659,11,2018
+592454531,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,12,2010
+1193411237,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+2113378998,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,2,2018
+1199694896,Mniotilta varia,EC,El carmelo,Pichincha,1,-0.043259,-78.805275,1382,12,2014
+3230234145,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2020
+1781799517,Mniotilta varia,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,12,2016
+1712037214,Mniotilta varia,EC,Mindo--Hacienda San Vicente/Yellow House Trails,Pichincha,1,-0.050725,-78.772385,1274,1,2016
+1391966076,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2014
+1726005455,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,2,2016
+1411099057,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2013
+1713221362,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+2035646862,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,1,2017
+1763057046,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,9,2016
+2185676599,Mniotilta varia,EC,Mashpi--Lodge and trails,Pichincha,1,0.166125,-78.878876,931,2,2018
+1398123113,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+2120006448,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,2,-0.062765,-78.77427,1344,12,2017
+1190799658,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,11,2008
+3150344158,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,2,2020
+1771320906,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,11,2016
+594954770,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2011
+2128530912,Mniotilta varia,EC,Pacha Quinde Nature Reserve (MCF),Pichincha,1,-0.009865,-78.675896,2022,2,2018
+1709549986,Mniotilta varia,EC,Mindo--pueblo y alrededores inmediatos (town and immediate surroundings),Pichincha,1,-0.051046,-78.7784,1259,1,2016
+937508219,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,11,2008
+3251519429,Mniotilta varia,EC,Tandayapa--pueblo y valle inferior (town and lower valley),Pichincha,1,0.015986,-78.67585,1612,2,2020
+1776321564,Mniotilta varia,EC,Mindo--Vía a las cascadas (Waterfall trail),Pichincha,1,-0.062765,-78.77427,1344,11,2016
+834237968,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,10,2012
+2146246177,Mniotilta varia,EC,Nono-Mindo Road near San Tadeo,Pichincha,1,-0.024868,-78.74329,1913,3,2018
+941089162,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,2,2013
+2123393096,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,1,2004
+2102617212,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,10,2017
+965980681,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,9,2013
+1390274910,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2015
+1770672521,Mniotilta varia,EC,Ecollacta,Pichincha,1,0.1171,-78.6409,1322,11,2016
+3283886501,Mniotilta varia,EC,Maquipucuna Lodge,Pichincha,1,0.124139,-78.62937,1272,11,2020
+2031055798,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2017
+2840644356,Mniotilta varia,EC,Ecuador - Pichincha,,1,-0.359422,-78.845589,1516,12,2018
+2109485687,Mniotilta varia,EC,Bellavista Cloud Forest Lodge,Pichincha,1,-0.015922,-78.681206,2242,1,2018
+1397154106,Mniotilta varia,EC,Milpe Bird Sanctuary,Pichincha,1,0.033327,-78.868454,1110,11,2015
+2662401090,Mniotilta varia,EC,Bellavista--camino a la estación científica (research station road),Pichincha,1,-0.020999,-78.684425,2338,2,2019
+2056905329,Mniotilta varia,EC,Reserva las Tangaras,Pichincha,1,-0.077419,-78.76933,1427,3,2017
+970190410,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,3,2009
+3725969637,Mniotilta varia,EC,Ecuador - Pichincha,,1,0.052979,-78.842257,1191,3,2019
+3144168098,Mniotilta varia,EC,Refugio Paz de las Aves (Angel Paz),Pichincha,1,0.019655,-78.70693,1906,2,2020
+2796886402,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+1409965510,Mniotilta varia,EC,Tandayapa Bird Lodge,Pichincha,1,0.00235,-78.67743,1742,3,2010
+1751602457,Mniotilta varia,EC,Reserva Geobotánica Pululahua--general area,Pichincha,1,0.040374,-78.50293,2405,12,2015
+1190870290,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2012
+1351940467,Mniotilta varia,EC,Mindo--general area (*HISTORICAL DATA ONLY; please use a more specific location for current checklists),Pichincha,1,-0.049224,-78.776825,1268,2,2015
+2795184069,Mniotilta varia,EC,"Quito--Parque La Carolina, Jardin Botanico",Pichincha,1,-0.186515,-78.48579,2776,10,2019
+2109532216,Mniotilta varia,EC,Reserva Los Cedros,Imbabura,1,0.321968,-78.787,1820,1,2012
