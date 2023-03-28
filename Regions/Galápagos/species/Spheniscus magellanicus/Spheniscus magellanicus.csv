@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2248811619,Spheniscus magellanicus,EC,Fernandina Island,Galapagos,1,-0.377622,-91.5107,1319,1,1994
+2248811713,Spheniscus magellanicus,EC,"Galapagos Arch, Isla Bartolome",,1,0.285582,-90.5403,0,1,1994

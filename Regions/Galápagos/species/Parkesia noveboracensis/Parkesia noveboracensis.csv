@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2796013075,Parkesia noveboracensis,EC,El Chato Reserve,Galápagos,1,-0.6789,-90.4132,255,5,2006
+1203595096,Parkesia noveboracensis,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2006
+2723546910,Parkesia noveboracensis,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2006

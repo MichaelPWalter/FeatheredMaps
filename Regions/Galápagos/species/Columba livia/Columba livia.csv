@@ -1,0 +1,66 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3261951977,Columba livia,EC,Baltra--Aeropuerto/Airport,Galápagos,1,-0.450349,-90.26848,50,12,2008
+3280618744,Columba livia,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,7,1988
+1201643511,Columba livia,EC,"Equateur, Galapagos, Isla Baltra",Galápagos,1,-0.435368,-90.27337,25,8,2000
+583281928,Columba livia,EC,Santa Cruz,Galápagos,1,-0.67839,-90.269165,179,3,1996
+966203987,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,6,1997
+262630620,Columba livia,EC,Isla San Cristóbal,Galápagos,20,-0.905648,-89.530334,450,7,1999
+941816978,Columba livia,EC,"Galapagos, Santa Cruz",Galápagos,1,-0.714093,-90.33646,129,7,2000
+2736759078,Columba livia,EC,San Cristóbal--El Progreso,Galápagos,2,-0.907707,-89.555824,315,7,1999
+1786207633,Columba livia,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,10,2010
+3882000409,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.614894,18,6,2005
+3882000430,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,6,2004
+3882000435,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.614894,18,6,2004
+3882000429,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.614894,18,6,2004
+3882000503,Columba livia,EC,,Galápagos,1,-0.8083,-89.4167,65,6,2006
+3882000476,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,6,2004
+3882000799,Columba livia,EC,Bellavista,Galápagos,1,-0.6955,-90.325055,171,4,2001
+3882000800,Columba livia,EC,Pto. Ayora,Galápagos,1,-0.748961,-90.317475,14,1,2001
+3882000822,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.614977,17,6,2004
+3882000827,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000835,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000834,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000858,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000867,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000869,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000866,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000909,Columba livia,EC,Puerto Ayora - CDRS,Galápagos,1,-0.742389,-90.304275,10,3,2004
+3882001210,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001211,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001242,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001658,Columba livia,EC,Puerto Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001592,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001597,Columba livia,EC,Puerto Ayora - Charles Darwin Research Station,Galápagos,1,-0.742388,-90.304275,10,3,2004
+3882001610,Columba livia,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001696,Columba livia,EC,,Galápagos,1,-0.8083,-89.4167,65,1,2001
+3882001700,Columba livia,EC,,Galápagos,1,-0.8083,-89.4167,65,1,2001
+3882001966,Columba livia,EC,Pto. Baquerizo Moreno.,Galápagos,1,-0.914702,-89.614894,18,6,2004
+3882001944,Columba livia,EC,Puerto Ayora,Galápagos,1,-0.74785,-90.317475,13,1,2002
+583724370,Columba livia,EC,Isabela--Urvina Bay (Urbina Bay),Galápagos,1,-0.400998,-91.23596,0,2,2002
+967743595,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,6,1996
+1202865379,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2001
+2230633309,Columba livia,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,4,1997
+1202879808,Columba livia,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,3,2001
+263666052,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2002
+2739402133,Columba livia,EC,Santa Cruz--Puerto Ayora,Galápagos,15,-0.742329,-90.31457,12,7,1999
+583744493,Columba livia,EC,Isabela--Urvina Bay (Urbina Bay),Galápagos,1,-0.400998,-91.23596,0,2,2003
+1203712680,Columba livia,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,3,1997
+1175612917,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,6,1997
+583643022,Columba livia,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,6,2002
+3200500093,Columba livia,EC,Baltra--Aeropuerto/Airport,Galápagos,1,-0.450349,-90.26848,50,12,2008
+824835644,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,1999
+3624257903,Columba livia,EC,San Cristóbal--El Progreso,Galápagos,3,-0.907707,-89.555824,315,10,2009
+2798448567,Columba livia,EC,"Santa Rosa, Isla Santa Cruz",Galápagos,2,-0.649744,-90.41044,406,1,1988
+1206684087,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2001
+3664496968,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,3,-0.741642,-90.30513,11,10,2009
+262598949,Columba livia,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,7,1999
+1202871029,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2001
+825155445,Columba livia,EC,Isabela--Puerto Villamil,Galápagos,10,-0.956961,-90.96559,9,8,2003
+936860938,Columba livia,EC,Isabela--Puerto Villamil,Galápagos,20,-0.956961,-90.96559,9,6,1999
+1201644715,Columba livia,EC,"Equateur, Galapagos, Isla Santa Cruz",Galápagos,1,-0.626366,-90.24822,154,8,2000
+2728591427,Columba livia,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,1998
+2743939061,Columba livia,EC,Isabela--Laguna Salinas,Galápagos,2,-0.955573,-90.96804,5,6,1999
+583745387,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2003
+583741673,Columba livia,EC,"Puerto Villamil, Isla Isabela",Galápagos,2,-0.931966,-91.00518,35,8,2003
+583725362,Columba livia,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2002
+263670764,Columba livia,EC,Isla Santa Cruz,Galápagos,3,-0.640249,-90.37259,610,7,2000

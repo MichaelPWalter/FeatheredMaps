@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2707808954,Contopus virens,EC,"Puerto Villamil, EC (-0.957, -90.966)",Galápagos,1,-0.957129,-90.96604,8,11,2019
+2722126770,Contopus virens,EC,"Puerto Villamil, EC (-0.957, -90.966)",Galápagos,1,-0.957129,-90.96604,8,11,2019

@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1777823745,Pluvialis dominica,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,3,2007
+1392553834,Pluvialis dominica,EC,San Cristóbal--La Loberia,Galápagos,1,-0.926588,-89.61181,1,10,2015
+1790220617,Pluvialis dominica,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,3,2012

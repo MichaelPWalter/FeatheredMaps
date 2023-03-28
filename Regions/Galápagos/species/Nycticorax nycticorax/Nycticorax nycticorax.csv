@@ -1,0 +1,10 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3221190351,Nycticorax nycticorax,EC,Barrio Estrada Lagoon,Galápagos,1,-0.751725,-90.310394,6,2,2020
+3628215319,Nycticorax nycticorax,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,10,2021
+3559632108,Nycticorax nycticorax,EC,Baltra <-> Santa Cruz Caleta Tortuga Negra,Galápagos,1,-0.47574,-90.31388,0,4,2021
+3544043044,Nycticorax nycticorax,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos (-0.5040,-90.3311)",Galápagos,2,-0.503982,-90.33109,8,4,2021
+3903441687,Nycticorax nycticorax,EC,,Galápagos,1,-0.500831,-90.329933,13,8,2022
+2626253719,Nycticorax nycticorax,EC,,Galápagos,1,-0.502601,-90.330727,2,5,2010
+2219887729,Nycticorax nycticorax,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,5,2010
+3147749176,Nycticorax nycticorax,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,1,2020
+2715704927,Nycticorax nycticorax,EC,Santa Cruz-Galápagos,Galápagos,1,-0.742921,-90.30848,6,7,2017

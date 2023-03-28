@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1185906175,Phaethon rubricauda,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,1997
+2137570473,Phaethon rubricauda,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,2,2018
+2113338156,Phaethon rubricauda,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,2,2018
+2129548579,Phaethon rubricauda,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,2,2018

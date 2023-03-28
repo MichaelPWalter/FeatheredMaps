@@ -1,0 +1,8 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2665026782,Calidris himantopus,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,3,2019
+1196810394,Calidris himantopus,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2010
+1188193801,Calidris himantopus,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,9,2014
+2095296871,Calidris himantopus,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,9,2017
+2107776768,Calidris himantopus,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2017
+2092673843,Calidris himantopus,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,9,2017
+2234017725,Calidris himantopus,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,9,2011

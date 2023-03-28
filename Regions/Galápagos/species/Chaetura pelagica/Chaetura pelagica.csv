@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1185899284,Chaetura pelagica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,1983
+2092908287,Chaetura pelagica,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,11,2017
+978158404,Chaetura pelagica,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,11,1989
+1185912933,Chaetura pelagica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2005

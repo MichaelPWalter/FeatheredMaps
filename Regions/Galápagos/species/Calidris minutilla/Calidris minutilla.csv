@@ -1,0 +1,912 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1993719866,Calidris minutilla,EC,,Galápagos,1,-0.481923,-90.337958,0,1,2019
+971899922,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,8,-1.226127,-90.42834,12,9,2005
+2659522935,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2019
+3298165199,Calidris minutilla,EC,Salinas otro lado Puerto Ayora,Galápagos,2,-0.754455,-90.31279,12,2,2020
+3210586644,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.52693,-90.48803,6,12,2015
+2836616684,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.494,-90.3408,7,10,2016
+1173605063,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2012
+1751265101,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,5,2008
+3653358377,Calidris minutilla,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,11,2009
+4054751050,Calidris minutilla,EC,,Galápagos,1,-0.813148,-89.479133,12,2,2023
+1167551832,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+2117953026,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2006
+920944311,Calidris minutilla,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,12,2012
+2129429594,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2016
+3635297751,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,1,-0.694628,-90.22084,2,8,2021
+1378178409,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2015
+2097656277,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2017
+2090828356,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,8,2017
+1792244424,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2014
+2723102268,Calidris minutilla,EC,San Cristóbal--Punta Pitt,Galápagos,1,-0.712999,-89.24687,6,12,2019
+3638750527,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2019
+1163280222,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,3,2014
+2775914913,Calidris minutilla,EC,Isla Floreana,Galápagos,4,-1.3,-90.4333,398,1,2019
+1405560253,Calidris minutilla,EC,Santa Cruz--Academy Bay,Galápagos,4,-0.750825,-90.30414,0,11,2015
+3657914532,Calidris minutilla,EC,Isabela--Playa de los Alemanes,Galápagos,4,-0.75306,-90.31006,0,12,2021
+1362329526,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2015
+1749537276,Calidris minutilla,EC,Wall of Tears,Galápagos,1,-0.980012,-91.03357,9,12,2010
+2151383103,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,2,2018
+1355226253,Calidris minutilla,EC,Isla Bartolome & Santiago,Galápagos,1,-0.27337,-90.5794,35,2,2015
+972356372,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,10,2013
+3275253793,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,8,-1.226127,-90.42834,12,9,2005
+2665594152,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,2,-0.694654,-90.2208,2,2,2019
+2200349515,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,9,2018
+3135573814,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,2,2020
+3690589073,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,8,-0.955573,-90.96804,5,8,2017
+1206485690,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2010
+979584350,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,2,2011
+1381946131,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,3,2010
+2738967686,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,12,-0.793167,-89.46366,18,1,2019
+1356364788,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,7,-0.955573,-90.96804,5,3,2015
+3649060246,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,4,2008
+3534457713,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.888401,-89.49176,676,9,2021
+976721423,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,4,-0.956961,-90.96559,9,8,2009
+2661027097,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,2,2018
+963912421,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2013
+3259465366,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,2,2020
+1159796586,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,2,2014
+3661308020,Calidris minutilla,EC,Santiago--Coast near Sombrero Chino,Galápagos,1,-0.366924,-90.586586,1,12,2008
+2670099359,Calidris minutilla,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,3,-0.436508,-90.284775,0,2,2019
+2765063754,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2016
+1392865120,Calidris minutilla,EC,Bahia Sardinas,Galápagos,1,-0.697075,-89.36213,5,10,2015
+3141969933,Calidris minutilla,EC,Salinas otro lado Puerto Ayora,Galápagos,3,-0.754455,-90.31279,12,2,2020
+3159062138,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2020
+2044224992,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,4,-0.694654,-90.2208,2,2,2017
+1726317556,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2016
+975180095,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,11,2013
+3289821915,Calidris minutilla,EC,Playa Tortuga Bay,Galápagos,2,-0.76169,-90.33593,5,10,2020
+258131883,Calidris minutilla,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,4,-0.497125,-90.32599,0,3,2006
+2190161246,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,2014
+2704370541,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,4,-0.957525,-90.978226,0,10,2019
+3580389105,Calidris minutilla,EC,San Cristóbal--Punta Pitt,Galápagos,8,-0.712999,-89.24687,6,9,2021
+2048152249,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,14,-1.226127,-90.42834,12,3,2017
+2783305292,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,11,2019
+1206485905,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2010
+2725518531,Calidris minutilla,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,8,-0.950338,-90.97308,9,11,2019
+2768678255,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,11,2019
+3205688349,Calidris minutilla,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,11,2014
+2726899695,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2017
+2784643393,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,6,-0.793167,-89.46366,18,11,2019
+3162295552,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,11,-0.955573,-90.96804,5,3,2020
+579378167,Calidris minutilla,EC,Floreana Island,Galápagos,1,-1.285293,-90.406494,309,3,1996
+980593303,Calidris minutilla,EC,Isabela--Elizabeth Bay,Galápagos,1,-0.597285,-91.08318,0,2,2007
+2049745223,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,2,2017
+3156860732,Calidris minutilla,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,1,-0.950338,-90.97308,9,1,2020
+2049671286,Calidris minutilla,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,3,2017
+3668742883,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2009
+2171827323,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2014
+581620382,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,10,2011
+2702017359,Calidris minutilla,EC,Salinas otro lado Puerto Ayora,Galápagos,1,-0.754455,-90.31279,12,3,2015
+2229615719,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,3,2010
+1381947438,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2010
+2115211779,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2017
+2661410974,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,3,2019
+3224481355,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,2,2020
+2773221558,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,12,2019
+1778791600,Calidris minutilla,EC,Isabela--Posada De Flamengos,Galápagos,1,-0.945527,-90.97488,7,10,2009
+2706501550,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+2113474906,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2017
+2718975747,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,7,-0.955573,-90.96804,5,2,2015
+3292064359,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,9,2020
+2152822096,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,4,-0.494164,-90.340706,4,3,2018
+2219781512,Calidris minutilla,EC,Isle Daphne,Galápagos,1,-0.337828,-90.37628,0,3,2016
+3620703993,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2010
+2030011519,Calidris minutilla,EC,Wall of Tears trail,Galápagos,7,-0.959205,-90.98858,7,1,2017
+3301193205,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,5,-0.494164,-90.340706,4,10,2013
+1204461130,Calidris minutilla,EC,Santiago Island,Galápagos,1,-0.255657,-90.703766,338,2,2011
+3550742645,Calidris minutilla,EC,Isla Lobos,Galápagos,2,-0.856192,-89.56629,0,11,2021
+821796405,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,12,2010
+2801145074,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2011
+3222247862,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,4,-0.526929,-90.48804,6,2,2020
+2089896433,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2770704884,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2019
+1355227149,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,2,2015
+2673893425,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2001
+1162407859,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2014
+2801745264,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,10,-0.244788,-90.86174,16,11,2010
+2749701477,Calidris minutilla,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,4,-0.782008,-89.52231,0,2,2018
+3182029124,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,12,2008
+1703149844,Calidris minutilla,EC,,Galápagos,1,-0.527139,-90.4875,6,2,2012
+4054860054,Calidris minutilla,EC,,Galápagos,1,-0.813148,-89.479133,12,2,2023
+3647238501,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.905648,-89.530334,450,12,2021
+3601562374,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,1,-0.754873,-90.31326,6,2,2021
+3665680837,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,12,2019
+2778439789,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+2204550764,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2018
+4054909082,Calidris minutilla,EC,,Galápagos,1,-0.813148,-89.479133,12,2,2023
+3759931410,Calidris minutilla,EC,,Galápagos,1,-0.493918,-90.338207,5,3,2022
+3564317266,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,1,2016
+1162540806,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,24,-0.526929,-90.48804,6,3,2014
+2710861257,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,11,2019
+2123609861,Calidris minutilla,EC,Camino a las grietas,Galápagos,6,-0.748347,-90.32132,25,12,2017
+2116333264,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2017
+3586638377,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2004
+3014030395,Calidris minutilla,EC,,Galápagos,1,-0.753234,-90.311517,9,9,2019
+3281011048,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2007
+2704158750,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,2,2019
+2117052240,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2010
+2100135503,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,5,-0.244788,-90.86174,16,10,2017
+1410739164,Calidris minutilla,EC,Santa Cruz--Bahia Ballena,Galápagos,1,-0.601168,-90.53717,6,2,2013
+2710279531,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,2,-0.764342,-89.45876,8,11,2019
+2665472787,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,12,2015
+821598210,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2003
+2714239426,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,3,1998
+1356786514,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2015
+2705952084,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,3,-0.955573,-90.96804,5,11,2019
+2220051098,Calidris minutilla,EC,Santa Cruz--Muelle Puerto Ayora,Galápagos,2,-0.747844,-90.31327,0,11,2018
+2090718032,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3070302988,Calidris minutilla,EC,,Galápagos,1,-0.954262,-90.971605,9,12,2013
+1398888924,Calidris minutilla,EC,Isla Floreana,Galápagos,2,-1.3,-90.4333,398,11,2015
+2657490749,Calidris minutilla,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,3,-0.436508,-90.284775,0,2,2019
+2789080247,Calidris minutilla,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,8,-0.950338,-90.97308,9,11,2019
+2039731424,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,1,2017
+1777239129,Calidris minutilla,EC,"Puerto Egas, Santiago, Galápagos",Galápagos,3,-0.241784,-90.86136,4,11,2016
+2128817749,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2792748016,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,12,2019
+3517200072,Calidris minutilla,EC,Camino a las grietas,Galápagos,5,-0.748347,-90.32132,25,2,2021
+2083184957,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2017
+2102117322,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2017
+1781198251,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,6,-0.244788,-90.86174,16,11,2010
+2111324983,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2014
+2741961718,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,3,2019
+2778780340,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,2,-0.76699,-89.4623,0,9,2015
+2207879539,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,8,2018
+1206983743,Calidris minutilla,EC,Isabela--Sierra Negra highlands,Galápagos,3,-0.840932,-91.07219,631,4,2012
+2764459672,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+1391000014,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2008
+2042715458,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,2,2017
+3533950511,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.764342,-89.45876,8,8,2021
+3221362239,Calidris minutilla,EC,"Salines, Puerto Ayora",Galápagos,6,-0.754125,-90.31353,12,1,2020
+3568553640,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,12,2021
+3549515937,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,1,2009
+2105510375,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,10,-0.694628,-90.22084,2,11,2017
+935831719,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,12,-0.526929,-90.48804,6,3,2011
+3284090419,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2014
+1724173797,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2016
+2772809144,Calidris minutilla,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,8,-0.950338,-90.97308,9,11,2019
+2659791772,Calidris minutilla,EC,Santiago--Sullivan Bay,Galápagos,2,-0.291651,-90.566826,0,9,2016
+2692143701,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+2714187410,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+941061162,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,6,-0.956961,-90.96559,9,2,2013
+1405927903,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2014
+2113684823,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,7,-0.244788,-90.86174,16,12,2017
+3133994583,Calidris minutilla,EC,Salinas otro lado Puerto Ayora,Galápagos,7,-0.754455,-90.31279,12,1,2020
+1356777530,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2015
+2155583937,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,4,2018
+1792191537,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,8,2001
+3574014466,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,2,2003
+3647453596,Calidris minutilla,EC,"santa cruz,galapagos,ecuador",Galápagos,1,-0.666946,-90.428955,272,1,2014
+3210895130,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2011
+3621730313,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,3,-0.754365,-90.31293,12,11,2021
+822773369,Calidris minutilla,EC,Puerto Villamil,Galápagos,1,-0.956,-90.968,6,4,2012
+1206393373,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2014
+2223884568,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,1,-0.752997,-90.311615,9,12,2018
+1703204590,Calidris minutilla,EC,,Galápagos,1,-0.955748,-90.967958,5,10,2017
+2032105833,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,15,-0.955573,-90.96804,5,2,2017
+2702937383,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,4,2019
+2147861597,Calidris minutilla,EC,Floreana Island,Galápagos,1,-1.2798,-90.3598,39,3,2011
+3068013313,Calidris minutilla,EC,,Galápagos,1,-0.49413,-90.344083,3,3,2020
+2124883168,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,7,-0.244788,-90.86174,16,12,2017
+2769056115,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,12,2017
+1411548124,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,9,2002
+3858648437,Calidris minutilla,EC,,Galápagos,1,-0.528066,-90.488123,7,11,2009
+3298442582,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,12,2005
+3656630431,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,5,-0.764342,-89.45876,8,10,2021
+2197805663,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2018
+2710753843,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+1189656838,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,3,2011
+3664800904,Calidris minutilla,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,2,2003
+920969435,Calidris minutilla,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,12,2012
+964532277,Calidris minutilla,EC,"Floreana Island, Galapagos, Ecuador",Galápagos,4,-1.26916,-90.416794,222,12,1998
+2136838556,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,9,2012
+2213486582,Calidris minutilla,EC,Darwin's Toilet Bowl,Galápagos,1,-0.243066,-90.86149,14,1,2015
+1777956512,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,6,-0.244788,-90.86174,16,1,2014
+2036373015,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,1,2017
+3288353022,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2005
+2780226311,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,6,-0.526929,-90.48804,6,12,2019
+1778794552,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2009
+2088050302,Calidris minutilla,EC,Isla Mosquera,Galápagos,4,-0.405031,-90.27793,9,8,2017
+3277381889,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2011
+2746173626,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,4,2019
+260390666,Calidris minutilla,EC,Dragon Hill,Galápagos,3,-0.515,-90.47,0,9,2009
+2218289936,Calidris minutilla,EC,"Galapagos Islands, San Cristobal EC-Galapagos (Cerro Brujo) (-0.7638,-89.4587)",Galápagos,3,-0.76384,-89.45874,8,11,2018
+1735907019,Calidris minutilla,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,4,2016
+3152381496,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,5,2010
+2088883689,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,8,2017
+3253126724,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2011
+937972431,Calidris minutilla,EC,"Galapagos, Santa Cruz north side",Galápagos,2,-0.508111,-90.39551,10,7,2010
+1410559955,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2009
+3546180918,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,2,-0.694628,-90.22084,2,10,2021
+3235807024,Calidris minutilla,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,2,2020
+2694135565,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,12,-0.694654,-90.2208,2,3,2015
+979231674,Calidris minutilla,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,12,2003
+1793805819,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,1990
+1747573044,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,7,2015
+2674583558,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.793167,-89.46366,18,3,2019
+2788161574,Calidris minutilla,EC,Isla Santiago,Galápagos,3,-0.264358,-90.715485,384,3,2011
+2131717282,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,3,2018
+3636652796,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.905648,-89.530334,450,12,2021
+2034417397,Calidris minutilla,EC,San Cristóbal--Cerro Tijeretas trails,Galápagos,1,-0.891571,-89.60962,21,2,2017
+2127062386,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2018
+1181840270,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2013
+3653883742,Calidris minutilla,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,10,2003
+1783787374,Calidris minutilla,EC,Isla Floreana,Galápagos,40,-1.3,-90.4333,398,11,2013
+3301131757,Calidris minutilla,EC,Santiago--Coast near Sombrero Chino,Galápagos,1,-0.366924,-90.586586,1,2,2009
+2105675388,Calidris minutilla,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,11,2017
+2718124404,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,3,-0.764342,-89.45876,8,10,2019
+2213860613,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,11,2018
+1788320885,Calidris minutilla,EC,Isla Santiago--Playa Espumilla,Galápagos,5,-0.315855,-90.83462,0,10,2010
+2206658161,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,5,-1.226127,-90.42834,12,10,2018
+2142185130,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,2010
+3548075060,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,9,-1.226127,-90.42834,12,11,2004
+2792712723,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,10,-1.226127,-90.42834,12,11,2010
+1385348528,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,1,2006
+1744792086,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,3,-0.764342,-89.45876,8,1,2016
+2205265115,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,11,2018
+2716718001,Calidris minutilla,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2018
+3134012820,Calidris minutilla,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,1,2020
+1781128309,Calidris minutilla,EC,Isabela--Posada De Flamengos,Galápagos,1,-0.945527,-90.97488,7,10,2009
+947272643,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,4,2013
+3534631008,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,8,2021
+2120524905,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2017
+3535298886,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,3,-0.754365,-90.31293,12,10,2021
+2789938541,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,11,2019
+1409092764,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,9,2005
+3281175510,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,9,2014
+580388396,Calidris minutilla,EC,North Seymour,Galápagos,4,-0.393273,-90.285645,12,11,2010
+2769509764,Calidris minutilla,EC,"Galapagos Islands, Floreana EC-Galapagos (-1.2257,-90.4282)",Galápagos,1,-1.225742,-90.42824,8,8,2019
+3298176633,Calidris minutilla,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,3,1998
+3215519518,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,10,-0.526929,-90.48804,6,12,2006
+2113892127,Calidris minutilla,EC,Santiago Island,Galápagos,1,-0.255657,-90.703766,338,2,2011
+3133073693,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,1,2020
+2150696267,Calidris minutilla,EC,San Cristóbal--Playa Ochoa,Galápagos,8,-0.86351,-89.5709,0,4,2018
+2111949603,Calidris minutilla,EC,"Galapagos Islands, Floreana",Galápagos,1,-1.290609,-90.43113,337,2,2018
+2096642324,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,9,2017
+2051692052,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,15,-0.956961,-90.96559,9,1,2017
+3672117685,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,12,2019
+2219535180,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+1784566757,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,11,2004
+260992735,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2007
+2705455088,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,10,-0.955573,-90.96804,5,11,2019
+210783806,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,12,2003
+3152451229,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2020
+2746523640,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,9,2016
+935565721,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2012
+2713550926,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+2682948548,Calidris minutilla,EC,San Cristóbal--Playa El Manglecito,Galápagos,1,-0.831548,-89.53747,0,4,2019
+2116081967,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,3,-0.952301,-90.97106,9,2,2018
+2658221148,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,2,2019
+2151058617,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+1161810609,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,1,2014
+1381082381,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,2,-0.692808,-91.31836,0,11,2011
+2772462801,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+2801073667,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,2,-0.754365,-90.31293,12,11,2019
+2044684043,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,68,-0.955573,-90.96804,5,2,2017
+3666938295,Calidris minutilla,EC,"Parque Nacional Galápagos, San Cristobal EC-Galapagos -0.75679, -89.46184",Galápagos,6,-0.756793,-89.46184,13,10,2021
+2683667497,Calidris minutilla,EC,"Santa Cruz Island, Galapagos, Ecuador",Galápagos,1,-0.750666,-90.312454,17,8,2006
+2042692406,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2017
+1392553843,Calidris minutilla,EC,San Cristóbal--La Loberia,Galápagos,4,-0.926588,-89.61181,1,10,2015
+1784263786,Calidris minutilla,EC,"Galapagos, Ecuador",Galápagos,1,-0.755514,-90.3241,14,8,2009
+3581702712,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,8,-0.793167,-89.46366,18,10,2021
+824263331,Calidris minutilla,EC,Tortuga Bay,Galápagos,3,-0.762,-90.337,3,4,2012
+2149166569,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+2730432332,Calidris minutilla,EC,Isla Santiago,Galápagos,4,-0.264358,-90.715485,384,10,1998
+2128141219,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2016
+2205681224,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,9,2018
+822157303,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,10,2012
+3237916889,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,3,-0.694628,-90.22084,2,2,2020
+2214255255,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2018
+2788620747,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,2,-0.754365,-90.31293,12,11,2019
+3220031256,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,2,2020
+1784585821,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,9,-1.226127,-90.42834,12,11,2004
+2090447075,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3285334889,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2014
+1194532117,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2014
+821616454,Calidris minutilla,EC,Isla Floreana - Punta Flores,Galápagos,1,-1.224938,-90.43013,0,12,2006
+2795205505,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,8,2016
+3587007098,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,4,-0.752997,-90.311615,9,12,2021
+2124898830,Calidris minutilla,EC,Genovesa--Prince Philip's Steps,Galápagos,1,0.310197,-89.94352,6,12,2017
+942183191,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,9,-0.526929,-90.48804,6,3,2013
+1401491624,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,2014
+581880756,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,3,2011
+2768933099,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,2,2019
+1784707087,Calidris minutilla,EC,EC-Galapagos-San Cristobal-Galapagos Islands - -0.7659x-89.4573,Galápagos,6,-0.765901,-89.4573,0,2,2016
+2208670284,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,5,-0.905648,-89.530334,450,11,2018
+2769150664,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2019
+2784414164,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,2,2013
+581633654,Calidris minutilla,EC,Floreana Island,Galápagos,1,-1.2798,-90.3598,39,3,2011
+2697558768,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+3289632613,Calidris minutilla,EC,"Bellavista, Islas Galápagos, EC (-0,759, -90,278)",Galápagos,1,-0.759151,-90.27834,6,10,2019
+2656456904,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,1,2019
+2046498001,Calidris minutilla,EC,Isabela--El Estero Ponds,Galápagos,12,-0.958738,-90.99153,8,3,2017
+1392055802,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2015
+1355389633,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,16,-0.694628,-90.22084,2,3,2015
+980051918,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2011
+972827540,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,3,2013
+3609869953,Calidris minutilla,EC,"Parque Nacional Galápagos, San Cristobal EC-Galapagos -0.75679, -89.46184",Galápagos,6,-0.756793,-89.46184,13,10,2021
+1403556101,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2015
+970057381,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2012
+1792866480,Calidris minutilla,EC,Isla Santiago,Galápagos,2,-0.264358,-90.715485,384,10,2004
+1193579714,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2005
+3644161090,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,1,2020
+2105472532,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,11,2017
+821847372,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,2,-0.692808,-91.31836,0,11,2011
+2663671162,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,4,-0.640249,-90.37259,610,3,2014
+581618030,Calidris minutilla,EC,Las Grietas,Galápagos,3,-0.756318,-90.31242,0,4,2011
+821673772,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,5,-0.494164,-90.340706,4,9,2007
+1201181479,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,10,2014
+1775868389,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,1996
+3210424137,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,12,2008
+2060482089,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,4,2017
+3667623954,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,1,2012
+3668909215,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2021
+1791687899,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,3,2013
+3184779895,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,12,2008
+2091519348,Calidris minutilla,EC,Santa Cruz,Galápagos,1,-0.493349,-90.33903,5,10,2017
+3576581503,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,3,2020
+167402039,Calidris minutilla,EC,Bachas Beach Start Trip,Galápagos,3,-0.539484,-90.37798,68,3,2008
+3296355057,Calidris minutilla,EC,Punta Cormorant,Galápagos,1,-1.226372,-90.42698,17,3,2014
+2223047035,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,5,-0.754873,-90.31326,6,12,2018
+3611975837,Calidris minutilla,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,9,2021
+1778060659,Calidris minutilla,EC,Punta Moreno,Galápagos,1,-0.715359,-91.33109,0,4,2016
+1359492385,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,2,-0.901721,-89.61024,6,4,2015
+2754314117,Calidris minutilla,EC,Isla Santiago,Galápagos,4,-0.264358,-90.715485,384,10,1998
+3586610119,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,10,-1.226127,-90.42834,12,4,2008
+2726662564,Calidris minutilla,EC,Puerto Villamil Area,Galápagos,2,-0.952619,-90.97039,8,3,2012
+1719513336,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2016
+3563530914,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,10,2021
+3294344729,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,11,2016
+2685618534,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2019
+1403238252,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,12,2015
+2759544652,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2019
+1407746839,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2012
+1196811703,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,4,-0.956961,-90.96559,9,2,2010
+2029962874,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,15,-0.956961,-90.96559,9,1,2017
+2206639467,Calidris minutilla,EC,Las Bachas Beach,Galápagos,5,-0.49412,-90.34069,4,11,2018
+2085311850,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2797739504,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,1,2005
+1784163319,Calidris minutilla,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,10,2012
+970827531,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,2013
+1790234665,Calidris minutilla,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,4,2015
+3575707382,Calidris minutilla,EC,"Devils Crown Islas Galápagos, EC (-0.526, -90.488)",Galápagos,1,-0.525768,-90.48828,5,1,2020
+2076522011,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2017
+976182783,Calidris minutilla,EC,Ecuador-Galapagos Islands,Galápagos,1,-0.41267,-90.51979,0,1,2006
+1203300689,Calidris minutilla,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,2,-0.953513,-90.97206,7,12,2013
+2750973332,Calidris minutilla,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,3,-0.436508,-90.284775,0,2,2019
+1204983448,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,9,2013
+2114812179,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,6,-0.244788,-90.86174,16,12,2017
+2207161763,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,11,2018
+2789061843,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,10,2019
+2722514379,Calidris minutilla,EC,"Galapagos Islands, Floreana, North Coast (-1.2396,-90.4548)",Galápagos,10,-1.239583,-90.45479,4,12,2019
+3617802264,Calidris minutilla,EC,Las Bachas,Galápagos,2,-0.494369,-90.33957,3,4,2021
+1402549093,Calidris minutilla,EC,Santa Cruz - Cerro Dragon,Galápagos,2,-0.5297,-90.4858,10,12,2015
+972524649,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2008
+3152360751,Calidris minutilla,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.7518,-90.3102)",Galápagos,1,-0.751845,-90.31022,5,2,2020
+975201085,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,2,-1.236016,-90.44947,0,11,2013
+2661911197,Calidris minutilla,EC,San Cristóbal--Punta Pitt,Galápagos,16,-0.712999,-89.24687,6,3,2019
+3691674265,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2005
+1196404742,Calidris minutilla,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,11,2014
+2702352458,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+2115341465,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,2,2018
+821906859,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2011
+3632276147,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,11,2021
+2707340311,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,1,2018
+1162155762,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,22,-0.494164,-90.340706,4,3,2014
+2115218281,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,6,-0.956961,-90.96559,9,12,2017
+2781689021,Calidris minutilla,EC,Isla Santa Fe,Galápagos,3,-0.816909,-90.04068,59,9,2019
+1763906279,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2011
+2106716843,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,6,-0.754873,-90.31326,6,11,2017
+2230146573,Calidris minutilla,EC,"Galapagos Islands, Floreana EC-Galapagos (Punta Cormoran) (-1.2277,-90.4249)",Galápagos,4,-1.227703,-90.42488,7,11,2018
+1174907914,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,5,-0.956961,-90.96559,9,12,2012
+2122916676,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+2224538363,Calidris minutilla,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,4,2005
+2708464295,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,8,2011
+3609644363,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.905648,-89.530334,450,12,2021
+2124044788,Calidris minutilla,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2015
+2792264863,Calidris minutilla,EC,Isabela--Concha de Perla,Galápagos,2,-0.962294,-90.95741,1,10,2019
+2090373730,Calidris minutilla,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,8,2017
+1400798242,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,12,2015
+2790706823,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2014
+2041205843,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,4,-0.526929,-90.48804,6,1,2017
+581742717,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,3,2011
+822153768,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,2,-0.694628,-90.22084,2,11,2012
+3133697618,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,8,-0.694628,-90.22084,2,1,2020
+821809922,Calidris minutilla,EC,Wall of Tears,Galápagos,1,-0.980012,-91.03357,9,12,2010
+935781754,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,12,-0.526929,-90.48804,6,3,2011
+2127424923,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2017
+1774691147,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,4,-0.694654,-90.2208,2,11,2016
+1198167307,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2011
+3151533337,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,3,-0.957525,-90.978226,0,2,2020
+2666316625,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,1,-0.952301,-90.97106,9,3,2019
+2790553119,Calidris minutilla,EC,Floreana--Mirador de la Baronessa,Galápagos,4,-1.226396,-90.43843,0,11,2019
+1778054124,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2009
+3245677483,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2005
+2738336905,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2019
+2166871470,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,4,2018
+1762565486,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+167400656,Calidris minutilla,EC,Isla Santa Cruz - Cerro Dragon,Galápagos,1,-0.527025,-90.487366,7,3,2007
+2709639231,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,3,-1.236016,-90.44947,0,11,2019
+1174925532,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,5,-0.956961,-90.96559,9,12,2012
+821968256,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,10,2012
+821596495,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2003
+2099828913,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2017
+1190417456,Calidris minutilla,EC,"Puerto Egas, Isla Santiago, Galápagos",Galápagos,1,-0.240023,-90.85954,0,10,2014
+941041870,Calidris minutilla,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,10,-0.760905,-90.332214,6,2,2013
+2064022691,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2017
+2795382887,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,6,-0.793167,-89.46366,18,12,2019
+2729241418,Calidris minutilla,EC,Salinas,Galápagos,1,-0.754555,-90.31314,8,2,2019
+3173817213,Calidris minutilla,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,3,2012
+972359870,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2013
+1707788150,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,3,2006
+3261344137,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2020
+3294281096,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,2,2010
+2228227084,Calidris minutilla,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,11,2017
+3523309656,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,2,2021
+822876681,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,3,2012
+2229534159,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,2,-0.955573,-90.96804,5,2,2012
+3177392818,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+970814844,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,10,2013
+2114025460,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,6,-0.956961,-90.96559,9,12,2017
+1181948976,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2011
+2743003350,Calidris minutilla,EC,Isla Isabela--Puerto Villamil,Galápagos,1,-0.960426,-90.96514,0,1,2014
+3172012348,Calidris minutilla,EC,Isabella - El Estero,Galápagos,3,-0.960092,-90.993996,0,1,2020
+3220494757,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,2,-0.754873,-90.31326,6,2,2020
+1784154891,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2012
+2228286237,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,4,2016
+1154546060,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,5,-0.244788,-90.86174,16,1,2014
+2230051688,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,1999
+3291458698,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,2,2010
+3136657360,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,2,2020
+579940119,Calidris minutilla,EC,Galapagos Islands - Santa Cruz,Galápagos,1,-0.491632,-90.25818,31,3,2008
+3637923748,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,11,2020
+1790129489,Calidris minutilla,EC,Isabela--Elizabeth Bay,Galápagos,1,-0.597285,-91.08318,0,2,2007
+260457153,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2007
+2090400925,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3225350310,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,3,2020
+3237564127,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2020
+2715638876,Calidris minutilla,EC,Punta Cormorant,Galápagos,1,-1.226372,-90.42698,17,3,2014
+581648518,Calidris minutilla,EC,Dragon Hill,Galápagos,3,-0.531113,-90.49473,8,10,2011
+2801621285,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,10,2019
+2045405324,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,4,-0.952301,-90.97106,9,1,2017
+2756861256,Calidris minutilla,EC,Humedal,Galápagos,1,-0.751631,-90.310394,6,2,2019
+2713202330,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,2,-0.764342,-89.45876,8,11,2019
+3132410868,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,1,2020
+2770811692,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+3262431960,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2014
+1174922398,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,5,-0.640249,-90.37259,610,12,2012
+3205413765,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+1791902152,Calidris minutilla,EC,Isla Española,Galápagos,2,-1.3753,-89.6777,130,12,2010
+2089161789,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,10,2017
+3675933161,Calidris minutilla,EC,Isla Santa Fe--Barrington Bay,Galápagos,1,-0.803795,-90.04064,0,10,2021
+3135386006,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,1,2020
+3277567306,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,11,2014
+3272591347,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2005
+1204840077,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2010
+2664847883,Calidris minutilla,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.5277,-90.4873)",Galápagos,1,-0.527726,-90.48734,7,2,2019
+2709644288,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,1990
+2154302917,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2018
+3220760209,Calidris minutilla,EC,"Puerto Baquerizo Moreno, Islas Galápagos, EC (-0,902, -89,61)",Galápagos,1,-0.901721,-89.61024,6,2,2020
+1401006181,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.52693,-90.48803,6,12,2015
+2791286605,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,8,2011
+962291693,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2010
+3286570389,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,10,2017
+2712817840,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2019
+2230780937,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,11,2018
+2664334567,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2019
+2704408911,Calidris minutilla,EC,Isla Santa Cruz--Playa Península,Galápagos,1,-0.765458,-90.34206,1,10,2016
+1402562460,Calidris minutilla,EC,Santa Cruz - Cerro Dragon,Galápagos,2,-0.5297,-90.4858,10,12,2015
+3684958726,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.764342,-89.45876,8,8,2021
+3279533501,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,11,-0.955573,-90.96804,5,3,2020
+2738702733,Calidris minutilla,EC,San Cristóbal--Playa Ochoa,Galápagos,1,-0.86351,-89.5709,0,3,2019
+2790626521,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2005
+2706289319,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,1,2006
+2832845260,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.528506,-90.486782,10,12,2016
+1382994213,Calidris minutilla,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,8,2015
+2182002828,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2017
+2215919979,Calidris minutilla,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,9,2011
+2092762013,Calidris minutilla,EC,Isla Santiago,Galápagos,4,-0.264358,-90.715485,384,11,2017
+3966467105,Calidris minutilla,EC,,Galápagos,1,-1.226464,-90.427627,9,10,2022
+2836150104,Calidris minutilla,EC,Ecuador - Galápagos - San Salvador - Santiago,,1,-0.2429,-90.860163,10,12,2016
+3191102569,Calidris minutilla,EC,Galapagos Islands,Galápagos,1,-0.636467,-90.43041,386,4,2012
+2720923787,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,12,2019
+3647694789,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,10,2021
+2218860439,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,2,2018
+580406437,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,11,2010
+1381991324,Calidris minutilla,EC,EC - -1.2369x-90.4538 - 15 Aug 2015 04:45,Galápagos,2,-1.236852,-90.45384,0,8,2015
+1392302549,Calidris minutilla,EC,San Cristóbal--La Loberia,Galápagos,2,-0.926588,-89.61181,1,10,2015
+3572025986,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.764342,-89.45876,8,8,2021
+3659214318,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,2,2003
+2781496607,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,3,-0.955573,-90.96804,5,11,2019
+2836550943,Calidris minutilla,EC,Ecuador - Galápagos NP,,1,-0.399874,-90.707263,0,10,2016
+2677862374,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,7,2018
+2140273820,Calidris minutilla,EC,San Cristóbal--Playa Ochoa,Galápagos,8,-0.86351,-89.5709,0,4,2018
+2232825212,Calidris minutilla,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,11,2017
+3581709268,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,8,-0.764342,-89.45876,8,9,2021
+1205635563,Calidris minutilla,EC,"cerro Dragon,Isla Santa Cruz",Galápagos,1,-0.525827,-90.48843,4,10,2000
+2229402209,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,12,2018
+1202637514,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,1,2010
+2126852279,Calidris minutilla,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,4,-0.782008,-89.52231,0,2,2018
+2666189858,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2014
+920925375,Calidris minutilla,EC,Galapagos-Inseln/Isla Santa Cruz/TORTUGA BAY und Umgebung,,1,-0.761639,-90.335083,6,12,2012
+1725957121,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2016
+1769561781,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,10,2013
+2397655120,Calidris minutilla,EC,,Galápagos,1,-0.956094,-90.967853,7,1,2019
+2839760018,Calidris minutilla,EC,Ecuador - Galápagos - San Salvador - Santiago,,1,-0.2429,-90.860163,10,12,2016
+932751161,Calidris minutilla,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,12,2012
+3067675487,Calidris minutilla,EC,,Galápagos,1,-0.955571,-90.967456,5,4,2018
+2835965164,Calidris minutilla,EC,Ecuador - Galápagos NP,,1,-0.399976,-90.707023,0,12,2016
+3759909380,Calidris minutilla,EC,,Galápagos,1,-0.493908,-90.33827,4,3,2022
+3903338345,Calidris minutilla,EC,,Galápagos,1,-0.535139,-90.503357,7,8,2022
+1802787607,Calidris minutilla,EC,,Galápagos,1,-0.956388,-90.984521,0,3,2017
+3902915225,Calidris minutilla,EC,,Galápagos,1,-0.57301,-90.528692,11,8,2022
+3923532368,Calidris minutilla,EC,,Galápagos,1,-1.378521,-89.627205,0,10,2010
+2626408299,Calidris minutilla,EC,,Galápagos,1,-0.753665,-90.310123,0,3,2016
+3966759118,Calidris minutilla,EC,,Galápagos,1,-1.226461,-90.427627,9,10,2022
+3058965857,Calidris minutilla,EC,,Galápagos,1,-0.746273,-90.3109,0,2,2011
+2781145838,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,3,-1.236016,-90.44947,0,11,2019
+977706743,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,10,2012
+3624155722,Calidris minutilla,EC,"Parque Nacional Galápagos, San Cristobal EC-Galapagos -0.75679, -89.46184",Galápagos,6,-0.756793,-89.46184,13,10,2021
+2670170577,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2019
+3147595251,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2020
+2202990052,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2018
+2127374337,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2011
+2052125634,Calidris minutilla,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,3,2017
+3180727291,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+3255411131,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,2,2015
+2093873377,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,6,-0.526929,-90.48804,6,11,2017
+3273243364,Calidris minutilla,EC,San Cristobal,Galápagos,1,-0.9019,-89.6128,0,1,2007
+821742636,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,6,-0.956961,-90.96559,9,8,2009
+2718775554,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2019
+2710319279,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,2,2019
+2217356973,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,20,-0.793167,-89.46366,18,11,2018
+2190165558,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,10,2014
+2233318490,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2010
+3250094237,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,4,-0.526929,-90.48804,6,1,2020
+1355221358,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2015
+2210408929,Calidris minutilla,EC,Isabela--El Estero Ponds,Galápagos,1,-0.958738,-90.99153,8,3,1999
+2656575646,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,6,-1.226127,-90.42834,12,1,2019
+1176698659,Calidris minutilla,EC,Puerto Ayora,Galápagos,2,-0.752899,-90.31125,4,2,2011
+2706577482,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,1,-0.752997,-90.311615,9,10,2019
+2211956349,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,5,-0.754873,-90.31326,6,12,2018
+3252667419,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2017
+1790053387,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+3290671785,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,12,2015
+581828312,Calidris minutilla,EC,"Cerro Brujo, Isla San Cristobal, Galapagos",Galápagos,3,-0.760502,-89.46167,109,3,2011
+3690875638,Calidris minutilla,EC,Isla Floreana,Galápagos,2,-1.3,-90.4333,398,11,2004
+3559739251,Calidris minutilla,EC,San Cristóbal--Punta Pitt,Galápagos,6,-0.712999,-89.24687,6,11,2021
+1410031869,Calidris minutilla,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,2,-0.702077,-90.32714,155,3,2009
+2766354850,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+2202582289,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,4,2018
+2712856551,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,12,2019
+1154691797,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,4,-0.526929,-90.48804,6,1,2014
+2125608035,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,3,-0.952301,-90.97106,9,2,2018
+2787471941,Calidris minutilla,EC,Isla Santiago--Navigation Pto Egas-Bucanero Cove,Galápagos,2,-0.206251,-90.8538,0,12,2019
+3285244030,Calidris minutilla,EC,Baltra--Black Turtle Cove,Galápagos,1,-0.447917,-90.25822,0,2,1998
+2109423392,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2017
+3548183462,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.905648,-89.530334,450,12,2021
+2670302241,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2019
+3583659929,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.905648,-89.530334,450,12,2021
+2176998759,Calidris minutilla,EC,Santa Cruz--Reserva Ecológica Cerro Mesa,Galápagos,1,-0.64323,-90.28741,418,2,2010
+2677907113,Calidris minutilla,EC,"(-0.754, -89.46)",Galápagos,2,-0.753773,-89.46028,10,4,2019
+3586819222,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,5,2014
+1755500636,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2011
+2133257991,Calidris minutilla,EC,Isla Santiago--Buccaneer Cove,Galápagos,2,-0.190887,-90.83153,78,11,2017
+2659344891,Calidris minutilla,EC,Isabela--Los Tuneles,Galápagos,1,-1.050165,-91.16803,0,10,2017
+2091485505,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+1176795447,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,3,-0.694628,-90.22084,2,10,2011
+2699581437,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,9,2019
+580359093,Calidris minutilla,EC,North Seymour,Galápagos,4,-0.393273,-90.285645,12,11,2010
+1790194192,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,1990
+2229709055,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,5,-0.905648,-89.530334,450,11,2018
+2195203367,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,3,2006
+1767876040,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2013
+3216453408,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2732494908,Calidris minutilla,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,4,-0.782008,-89.52231,0,2,2018
+2743342147,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,14,-0.957525,-90.978226,0,2,2019
+3138141975,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,10,-0.754365,-90.31293,12,2,2020
+2789196787,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+2673737410,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,2,2019
+1406579490,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,12,2014
+937480589,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,8,2007
+2078588608,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,8,2017
+2676158106,Calidris minutilla,EC,"Unnamed Road, Islas Galápagos, EC (-1.225, -90.428)",Galápagos,4,-1.225448,-90.42769,3,4,2019
+2191421275,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2010
+1172457487,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,12,2010
+1783343593,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,11,2000
+2141323399,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+2206930280,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,8,2018
+2201722502,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,20,-0.793167,-89.46366,18,11,2018
+2207145040,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2017
+2117059204,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,4,-1.236016,-90.44947,0,4,2010
+2734238449,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2019
+2105755746,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,5,-0.244788,-90.86174,16,11,2017
+2799666219,Calidris minutilla,EC,Isabela--Playa de los Alemanes,Galápagos,1,-0.75306,-90.31006,0,1,2019
+2206173595,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,5,-1.226127,-90.42834,12,10,2018
+3262283730,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,12,2008
+2137942642,Calidris minutilla,EC,San Cristóbal--Playa Ochoa,Galápagos,8,-0.86351,-89.5709,0,4,2018
+2128145048,Calidris minutilla,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,12,2016
+2124396895,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,1,2018
+1382008389,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2010
+1766271348,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,10,2016
+2134691893,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,2,2018
+581607933,Calidris minutilla,EC,Isla Floreana,Galápagos,2,-1.3,-90.4333,398,10,2011
+1397610892,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,11,2015
+1725976392,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2016
+2663686521,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,3,2019
+1196810402,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,2,2010
+581671577,Calidris minutilla,EC,EC Santa Cruz el Garrapatero Beach,Galápagos,3,-0.694302,-90.220856,3,10,2011
+3675666856,Calidris minutilla,EC,Isla Floreana,Galápagos,3,-1.3,-90.4333,398,12,2021
+2800906119,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+2227078207,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2010
+1740386668,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,4,2016
+3535648145,Calidris minutilla,EC,Las Bachas,Galápagos,1,-0.494369,-90.33957,3,4,2021
+1779408264,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,12,2016
+2144075696,Calidris minutilla,EC,Puerto Egas/Santiago Galapagos,Galápagos,3,-0.241206,-90.86188,5,3,2018
+2776325338,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+2095104217,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2017
+2801672636,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,20,-0.957525,-90.978226,0,2,2015
+3142970251,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,1,2020
+2221840141,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,11,-0.793167,-89.46366,18,10,2018
+2030012605,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,4,-0.952301,-90.97106,9,1,2017
+2229652309,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+3655179592,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2021
+2197048587,Calidris minutilla,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,12,2005
+3206998856,Calidris minutilla,EC,Isla Bartolome,Galápagos,2,-0.284871,-90.55391,10,10,2013
+2659167357,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.793167,-89.46366,18,2,2019
+1188512789,Calidris minutilla,EC,Isla Santiago--Playa Espumilla,Galápagos,1,-0.315855,-90.83462,0,12,2008
+1401492903,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,10,2014
+2710962409,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,3,-1.236016,-90.44947,0,11,2019
+3241224392,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,1,2020
+2209297166,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,10,2018
+2797373296,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,3,2013
+2788507508,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,2,-0.764342,-89.45876,8,11,2019
+1196006660,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,1,2005
+1778344859,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,11,2016
+1163294894,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,4,2014
+3243653119,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2020
+2040137221,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,72,-0.955573,-90.96804,5,2,2017
+2212171232,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,8,-0.905648,-89.530334,450,10,2018
+3144533335,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2020
+1176217687,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,5,2014
+2723946340,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,12,1990
+3686641040,Calidris minutilla,EC,Isla Santa Fe--Barrington Bay,Galápagos,1,-0.803795,-90.04064,0,10,2021
+822144333,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,4,-0.494164,-90.340706,4,11,2012
+1718423527,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,2,2016
+2724265359,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2011
+3289727625,Calidris minutilla,EC,Isabela Island,Galápagos,1,-0.911911,-91.06548,264,2,2012
+2151079616,Calidris minutilla,EC,San Cristóbal--Playa Ochoa,Galápagos,8,-0.86351,-89.5709,0,4,2018
+2136028773,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,5,-0.244788,-90.86174,16,2,2018
+3219751333,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,5,-0.694628,-90.22084,2,2,2020
+3670573596,Calidris minutilla,EC,"Parque Nacional Galápagos, San Cristobal EC-Galapagos -0.75679, -89.46184",Galápagos,6,-0.756793,-89.46184,13,10,2021
+2793286939,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,8,2016
+1778173908,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,2,2009
+1201189966,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,10,2014
+2112690790,Calidris minutilla,EC,Isla Santiago,Galápagos,4,-0.264358,-90.715485,384,2,2018
+2744412191,Calidris minutilla,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,2,2019
+2211814800,Calidris minutilla,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,9,2011
+3506275589,Calidris minutilla,EC,Camino a las grietas,Galápagos,1,-0.748347,-90.32132,25,2,2021
+1402627139,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,12,2015
+2723495511,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2011
+3220523728,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,4,-0.694654,-90.2208,2,2,2020
+821605584,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2003
+972537286,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2008
+3642511984,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,9,2021
+3175992911,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+821657632,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,2,2007
+3564573594,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2021
+3621090298,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,2,-0.694654,-90.2208,2,2,2021
+974863040,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,12,2013
+3577002242,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2021
+2228007310,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,1,-0.752997,-90.311615,9,12,2010
+2657375986,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,1,-0.694628,-90.22084,2,2,2019
+1793806300,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,12,1990
+3248171196,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,2,-0.952301,-90.97106,9,3,2012
+2046583183,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,1,2017
+1726320141,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2016
+2090604612,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,8,2017
+2055941138,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,4,2017
+1206235607,Calidris minutilla,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,1,-0.953513,-90.97206,7,2,2008
+2081242623,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,9,2017
+2797221792,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,11,2014
+974311190,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,2013
+2779216871,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+3655514419,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,3,2012
+2056491623,Calidris minutilla,EC,Isabela--El Estero Ponds,Galápagos,12,-0.958738,-90.99153,8,3,2017
+1398168826,Calidris minutilla,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,2,2008
+2179452754,Calidris minutilla,EC,Isla Floreana,Galápagos,3,-1.3,-90.4333,398,9,2011
+2709960059,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,2,-0.754365,-90.31293,12,11,2019
+972363636,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,10,2013
+3217096879,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,1,2020
+2720466190,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2019
+1790593155,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,11,2016
+2703310950,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,3,-0.494164,-90.340706,4,12,2018
+2759641849,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,11,2019
+2665314790,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,21,-0.955573,-90.96804,5,1,2019
+2124299170,Calidris minutilla,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,4,-0.782008,-89.52231,0,2,2018
+2064033377,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2017
+972351070,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2013
+2155363782,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,4,2018
+1356367219,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,7,-0.955573,-90.96804,5,3,2015
+1393209386,Calidris minutilla,EC,The lagoon near La Loberia,Galápagos,2,-0.919293,-89.62501,2,10,2015
+822092588,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,10,2012
+1170797733,Calidris minutilla,EC,Santa Cruz,Galápagos,1,-0.626208,-90.352936,595,8,2001
+1198982650,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,10,2014
+580727571,Calidris minutilla,EC,Barges Beach Isla Santa Cruz,Galápagos,1,-0.494379,-90.3344,0,9,2010
+2671414352,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2019
+260981830,Calidris minutilla,EC,Isla San Cristóbal--Cerro Brujo,Galápagos,2,-0.766638,-89.45821,0,9,2007
+1363416924,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,4,2015
+1791692304,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2013
+2155390203,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,4,2018
+2668208634,Calidris minutilla,EC,Playa Tortuga Bay,Galápagos,5,-0.76169,-90.33593,5,1,2019
+2233234587,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,3,-0.955573,-90.96804,5,4,2018
+2727870392,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,1,2019
+2093747689,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,30,-0.764342,-89.45876,8,11,2017
+980036007,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2011
+2180049647,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2018
+581700144,Calidris minutilla,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,11,2011
+1206391239,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,11,2014
+1172458966,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,12,2010
+3562853571,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,5,-0.764342,-89.45876,8,10,2021
+2789755737,Calidris minutilla,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,3,2007
+581710476,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,12,-0.244788,-90.86174,16,11,2011
+2088500267,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,8,2017
+3290910255,Calidris minutilla,EC,Playa Tortuga Bay,Galápagos,10,-0.76169,-90.33593,5,10,2020
+2794520317,Calidris minutilla,EC,"Galapagos Islands, Santiago EC-Galapagos (-0.3246,-90.7863)",Galápagos,1,-0.324609,-90.78628,2,3,2010
+2199365556,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2006
+3232884817,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,2,2020
+259341511,Calidris minutilla,EC,Española--Punta Suarez,Galápagos,4,-1.371529,-89.74399,7,11,2009
+3567538803,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,2,-0.764342,-89.45876,8,11,2019
+3139700769,Calidris minutilla,EC,Camino a las grietas,Galápagos,1,-0.754462,-90.31285,12,3,2020
+2791775225,Calidris minutilla,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,10,2019
+2787787419,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,3,-0.955573,-90.96804,5,2,2015
+580305026,Calidris minutilla,EC,North Seymour,Galápagos,4,-0.393273,-90.285645,12,11,2010
+1157957814,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2014
+1410002988,Calidris minutilla,EC,Isla Baltra,Galápagos,10,-0.462708,-90.275085,33,4,2011
+2198759856,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,7,2018
+2711969927,Calidris minutilla,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,12,2016
+2143649681,Calidris minutilla,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,1,2004
+581830687,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,9,2011
+2039960332,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,1,2017
+1791161437,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,5,2010
+1411378055,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2015
+1791713357,Calidris minutilla,EC,Santa Cruz<-->Española pelagic,Galápagos,2,-1.080579,-90.01268,0,8,2008
+2041208369,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,1,2017
+2051630151,Calidris minutilla,EC,Wall of Tears trail,Galápagos,7,-0.959205,-90.98858,7,1,2017
+2785923772,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,1,-0.752997,-90.311615,9,10,2019
+1781120236,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,5,-1.226127,-90.42834,12,1,2010
+2194072159,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,8,2018
+3684658801,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,5,-0.494164,-90.340706,4,10,2013
+2208670166,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,4,-1.226127,-90.42834,12,11,2018
+2800850923,Calidris minutilla,EC,Isla Bartolome,Galápagos,5,-0.284871,-90.55391,10,12,2019
+821861331,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2011
+3300033089,Calidris minutilla,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2005
+2762927920,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2019
+3528599672,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,5,-1.236016,-90.44947,0,4,2015
+2132588656,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3133414427,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,2,-0.754873,-90.31326,6,1,2020
+2130805351,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2011
+260988086,Calidris minutilla,EC,Isla San Cristóbal--Cerro Brujo,Galápagos,2,-0.766638,-89.45821,0,9,2007
+822466716,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,6,-1.226127,-90.42834,12,11,2012
+1410018461,Calidris minutilla,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,11,2007
+1767884046,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,3,2013
+2198585413,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,8,2018
+2664970480,Calidris minutilla,EC,"(-1.2254,-90.4277), Isla Floreana, Punta Cormorant",Galápagos,1,-1.225409,-90.42767,4,4,2019
+2230028485,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2015
+821606807,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2003
+2214394138,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2016
+2227619306,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,1998
+2801251194,Calidris minutilla,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,11,2004
+1751817337,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2013
+2768152344,Calidris minutilla,EC,Santa Cruz--Finch Bay,Galápagos,2,-0.752997,-90.311615,9,10,2019
+2107321234,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,2,-0.754365,-90.31293,12,10,2017
+2718324218,Calidris minutilla,EC,Isabela--Puerto Villamil beach west,Galápagos,15,-0.957525,-90.978226,0,2,2015
+3230250644,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2020
+2765278968,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+1204902615,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,12,2014
+2218083079,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2018
+2135018590,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,10,-1.226127,-90.42834,12,4,2018
+2747833038,Calidris minutilla,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,4,2016
+2721384127,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,3,-0.955573,-90.96804,5,11,2019
+2701098729,Calidris minutilla,EC,Camino a las grietas,Galápagos,4,-0.748347,-90.32132,25,9,2019
+3262634452,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,4,-0.955573,-90.96804,5,3,2020
+2656142381,Calidris minutilla,EC,Puente Pasado las Salinas,Galápagos,3,-0.756023,-90.31449,6,2,2019
+2234149420,Calidris minutilla,EC,Isabela--Centro de Crianza Tortugas,Galápagos,2,-0.947227,-90.97397,12,3,2015
+821893864,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2011
+964526149,Calidris minutilla,EC,"Espanola Island, Galopagos Ecuador",Galápagos,5,-1.3711,-89.65393,94,12,1998
+1207868578,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,2,2014
+2126316109,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2011
+3281691541,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2013
+821868378,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.52665,-90.48804,6,11,2011
+1198862872,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,12,2014
+2035575517,Calidris minutilla,EC,"Salines, Puerto Ayora",Galápagos,2,-0.754125,-90.31353,12,1,2017
+2033961956,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,3,-0.694654,-90.2208,2,1,2017
+2033702648,Calidris minutilla,EC,Isla Isabela--Laguna Flamencos,Galápagos,2,-0.952301,-90.97106,9,1,2017
+1774306973,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,11,2016
+1181233637,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2012
+3250323729,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,8,-1.226127,-90.42834,12,9,2005
+2751675119,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,1998
+2677665956,Calidris minutilla,EC,Isabela--Concha de Perla,Galápagos,1,-0.962294,-90.95741,1,4,2012
+1721376940,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,2,2016
+2229651760,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+2048512672,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,2,-0.901721,-89.61024,6,2,2017
+1774133337,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,4,-0.494164,-90.340706,4,10,2016
+2767720551,Calidris minutilla,EC,Isla Isabela,Galápagos,3,-0.80106,-91.12871,907,4,2008
+2710182115,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,10,-0.955573,-90.96804,5,11,2019
+3253596168,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,6,-0.694654,-90.2208,2,10,2020
+3300313767,Calidris minutilla,EC,Puerto Villamil Area,Galápagos,1,-0.952619,-90.97039,8,3,2012
+2779694513,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+3637212559,Calidris minutilla,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,11,2004
+2153720522,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2018
+2130093822,Calidris minutilla,EC,San Cristóbal--La Loberia,Galápagos,1,-0.926588,-89.61181,1,1,2010
+1151318171,Calidris minutilla,EC,Los Loberia,Galápagos,1,-0.924814,-89.61412,12,1,2014
+957120814,Calidris minutilla,EC,Isla Española,Galápagos,3,-1.3753,-89.6777,130,11,2010
+2034088934,Calidris minutilla,EC,lagoon otro lado,Galápagos,2,-0.751835,-90.310425,5,2,2017
+2230843557,Calidris minutilla,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,11,2009
+2790911965,Calidris minutilla,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,10,2015
+3578153775,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2012
+3217393456,Calidris minutilla,EC,Isla Santiago,Galápagos,4,-0.264358,-90.715485,384,11,2007
+3214108617,Calidris minutilla,EC,Isabella--Punta Vicente Roca,Galápagos,1,0.164537,-91.343765,0,8,2013
+3278727367,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,4,-0.955573,-90.96804,5,3,2020
+2657281857,Calidris minutilla,EC,Garrapatero Laguna,Galápagos,1,-0.692915,-90.22229,4,2,2019
+3541859552,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,3,-1.236016,-90.44947,0,11,2019
+581748732,Calidris minutilla,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,3,2011
+2703655059,Calidris minutilla,EC,Santa Cruz--Camino a Las Grietas,Galápagos,1,-0.754365,-90.31293,12,10,2019
+2121205060,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,12,2011
+2226089408,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2018
+1174945921,Calidris minutilla,EC,Isabela--Puerto Villamil,Galápagos,10,-0.956961,-90.96559,9,12,2012
+2206303382,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,10,2018
+1356485108,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2015
+579785131,Calidris minutilla,EC,Isla Isabela,Galápagos,1,-0.837678,-91.1261,925,4,2006
+3237083207,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,1,-0.694628,-90.22084,2,2,2020
+1775781179,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2016
+1356522778,Calidris minutilla,EC,Santa Cruz--Playa Garrapatero,Galápagos,16,-0.694628,-90.22084,2,3,2015
+2702449641,Calidris minutilla,EC,Santa Cruz--El Garrapatero Beach,Galápagos,2,-0.694654,-90.2208,2,10,2019
+2711607655,Calidris minutilla,EC,Isabela--Punta Vicente Roca,Galápagos,3,-0.051709,-91.56191,50,3,2008
+2054884559,Calidris minutilla,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,3,2017
+2191162754,Calidris minutilla,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,9,2015
+1397670997,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,11,2015
+2780603251,Calidris minutilla,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,1,-0.950338,-90.97308,9,11,2019
+2838941287,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.693408,-90.221775,3,10,2013
+2836355151,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.528506,-90.486782,10,12,2016
+3572111415,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2014
+3687642758,Calidris minutilla,EC,Isla San Cristóbal,Galápagos,3,-0.888401,-89.49176,676,9,2021
+2140402921,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,3,2018
+1402126125,Calidris minutilla,EC,Isla Rábida,Galápagos,2,-0.400654,-90.70776,9,12,2015
+2770639465,Calidris minutilla,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,1,-0.754873,-90.31326,6,2,2015
+1790199007,Calidris minutilla,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,12,1990
+2758849040,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,8,2019
+3693944126,Calidris minutilla,EC,Floreana--Mirador de la Baronessa,Galápagos,4,-1.226396,-90.43843,0,11,2021
+2114220221,Calidris minutilla,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2017
+3726165096,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.752714,-90.311336,5,9,2019
+2224800047,Calidris minutilla,EC,Isla Santiago--Navigation Pto Egas-Bucanero Cove,Galápagos,1,-0.206251,-90.8538,0,4,2011
+2215810813,Calidris minutilla,EC,"Galapagos Islands, San Cristobal EC-Galapagos (-0.6966,-89.3615)",Galápagos,2,-0.696615,-89.36149,3,11,2018
+2750590995,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,2,2019
+1355287477,Calidris minutilla,EC,Isla Bartolome & Santiago,Galápagos,1,-0.27337,-90.5794,35,2,2015
+2835498231,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.693408,-90.221775,3,10,2013
+2841614041,Calidris minutilla,EC,Ecuador - Galápagos - San Salvador - Santiago,,1,-0.2438,-90.8667,6,10,2016
+2840025521,Calidris minutilla,EC,Ecuador - Galápagos,,1,-0.43163,-90.717725,0,3,2017
+1173605564,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,5,-0.526929,-90.48804,6,11,2012
+2797442773,Calidris minutilla,EC,San Cristóbal--Punta Pitt,Galápagos,1,-0.712999,-89.24687,6,11,2019
+2160312675,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,3,2018
+2666719145,Calidris minutilla,EC,San Cristobal Island,Galápagos,1,-0.816458,-89.413086,69,11,2014
+3070327128,Calidris minutilla,EC,,Galápagos,1,-0.955661,-90.97129,10,2,2012
+2840605068,Calidris minutilla,EC,Ecuador - Galápagos - San Salvador - Santiago,,1,-0.2429,-90.860163,10,12,2016
+2841873020,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.493974,-90.343064,5,10,2016
+2839991695,Calidris minutilla,EC,Ecuador - Galápagos - San Salvador - Santiago,,1,-0.215451,-90.838874,0,2,2003
+1227723528,Calidris minutilla,EC,,Galápagos,1,-0.927103,-89.611015,10,10,2015
+2784911186,Calidris minutilla,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,11,2010
+2217355474,Calidris minutilla,EC,Cerro Azul Second caseta,Galápagos,12,-0.97942,-91.411606,525,2,2012
+3186787027,Calidris minutilla,EC,Playa Tortuga Bay,Galápagos,2,-0.76169,-90.33593,5,2,2017
+1707223084,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2011
+1197327113,Calidris minutilla,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2002
+3153393258,Calidris minutilla,EC,San Cristóbal--Cerro Brujo,Galápagos,7,-0.793167,-89.46366,18,2,2020
+2460143178,Calidris minutilla,EC,,Galápagos,1,-0.96028,-90.960418,9,11,2008
+580040072,Calidris minutilla,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2010
+1201578851,Calidris minutilla,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2014
+3726023528,Calidris minutilla,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.755054,-90.313469,6,10,2019
+3244341516,Calidris minutilla,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+3685513462,Calidris minutilla,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2010
+2212570914,Calidris minutilla,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,10,2018
+974105019,Calidris minutilla,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2003
+2842217048,Calidris minutilla,EC,Ecuador - Galápagos NP,,1,-0.399976,-90.707023,0,12,2016

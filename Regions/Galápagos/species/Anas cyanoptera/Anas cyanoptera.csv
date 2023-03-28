@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1178770097,Anas cyanoptera,EC,Isabela--Punta Moreno,Galápagos,2,-0.692808,-91.31836,0,11,2004
+1792856592,Anas cyanoptera,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2004
+1178768579,Anas cyanoptera,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2004
+1783701497,Anas cyanoptera,EC,Isla Baltra,Galápagos,3,-0.462708,-90.275085,33,11,2013
+1777691730,Anas cyanoptera,EC,Punta Moreno,Galápagos,1,-0.715359,-91.33109,0,10,2004

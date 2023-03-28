@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2330442555,Sula dactylatra,EC,Galapagos-Inseln/Isla GENOVESA (Tower),,1,0.329588,-89.964294,65,4,2003
+2330447381,Sula dactylatra,EC,Galapagos-Inseln/Isla Espanola/HOOD/Punta Suarez,,1,-1.371787,-89.739075,9,12,1994
+2330442090,Sula dactylatra,EC,Galapagos-Inseln/Isla Santa Fé (Barrington Is.),,1,-0.823946,-90.037079,83,6,1983
+2330444576,Sula dactylatra,EC,UTM50_15M_0750_9850,,1,-1.28133,-90.493362,0,7,2014

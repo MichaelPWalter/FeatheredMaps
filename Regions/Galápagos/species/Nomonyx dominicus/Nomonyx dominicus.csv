@@ -1,0 +1,6 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+277609923,Nomonyx dominicus,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,1999
+2128073016,Nomonyx dominicus,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,4,-0.754873,-90.31326,6,3,2018
+3294454554,Nomonyx dominicus,EC,"El Junco Lake, San Cristobal",Galápagos,2,-0.895164,-89.47991,651,12,1995
+1185907593,Nomonyx dominicus,EC,Santa Cruz--El Chato,Galápagos,1,-0.666718,-90.413536,362,8,2003
+1788884045,Nomonyx dominicus,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,6,2001

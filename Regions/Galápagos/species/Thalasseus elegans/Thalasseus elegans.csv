@@ -1,0 +1,8 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2834681957,Thalasseus elegans,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.957002,-90.972404,0,2,2019
+3210055586,Thalasseus elegans,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,1,2014
+1162154541,Thalasseus elegans,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2014
+1155666920,Thalasseus elegans,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,1,2014
+1207850506,Thalasseus elegans,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,3,2014
+1185906136,Thalasseus elegans,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,2,2005
+2110665948,Thalasseus elegans,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,1,2014

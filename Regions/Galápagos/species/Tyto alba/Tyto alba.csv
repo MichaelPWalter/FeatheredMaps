@@ -1,0 +1,461 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2684775363,Tyto alba,EC,"(-0.6650,-90.4242)",Galápagos,1,-0.664994,-90.42415,272,6,2019
+2226281950,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,7,2018
+2213224715,Tyto alba,EC,Santa Cruz - Rancho El Manzanillo,Galápagos,1,-0.696666,-90.40178,202,6,2018
+3620793571,Tyto alba,EC,Española--El Caco,Galápagos,1,-1.374423,-89.68194,130,6,2021
+1405562161,Tyto alba,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2015
+2035006940,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,1,2017
+943346823,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2012
+2725640535,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,4,2019
+2228280490,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,4,2016
+3621460937,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,11,2021
+2766057467,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+2053348687,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2006
+1792236176,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,11,2014
+955385432,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,5,2013
+2657023756,Tyto alba,EC,Primicias Lava Tunnel,Galápagos,1,-0.665287,-90.42411,267,2,2019
+184615726,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2007
+2787105842,Tyto alba,EC,San Cristóbal--Muelle Puerto Baquerizo Moreno,Galápagos,1,-0.901872,-89.61229,7,7,2019
+848241830,Tyto alba,EC,Santa Cruz Island,Galápagos,1,-0.61021,-90.303055,358,6,2012
+2687915647,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+3287228480,Tyto alba,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,6,2010
+257360802,Tyto alba,EC,The Twins,Galápagos,1,-0.691,-90.34,197,9,2009
+2793057160,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,7,2009
+845582580,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2011
+2083132098,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2017
+3693346229,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,8,2021
+3689865339,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2016
+1788757931,Tyto alba,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,7,2013
+3638204963,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+2762321684,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,7,2019
+1777932029,Tyto alba,EC,Rancho Steve Divine,Galápagos,1,-0.668654,-90.40483,337,1,2009
+3629640653,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,7,2006
+3293870547,Tyto alba,EC,Santa Cruz,Galápagos,1,-0.614952,-90.35218,538,8,2013
+3202035607,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2006
+3692494698,Tyto alba,EC,"Hacienda La Tranquila, San Cristobal EC-Galápagos -0.88759, -89.53957",Galápagos,1,-0.887588,-89.53957,381,10,2021
+3294427366,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2013
+2041035585,Tyto alba,EC,Rancho El Chato II,Galápagos,1,-0.667791,-90.430595,233,1,2017
+942021900,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2012
+2225751609,Tyto alba,EC,lava tunnel,Galápagos,1,-0.695935,-90.31906,208,12,2018
+2734277261,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,12,2015
+845359124,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,7,2007
+3640601480,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,10,2021
+1785933618,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,4,1999
+3294123592,Tyto alba,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,6,2013
+2693666036,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,2,2017
+956269790,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2013
+1204824967,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2010
+2119756835,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2014
+3586681328,Tyto alba,EC,Santa Cruz--Túnel del Alba,Galápagos,1,-0.714787,-90.34682,131,12,2021
+2774579330,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.7446,-90.3134)",Galápagos,1,-0.744598,-90.31339,12,8,2019
+2748802651,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,4,2019
+2780787067,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+603932161,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2010
+1190875073,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,7,2009
+2182829330,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,7,2018
+3670373660,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,7,2018
+2164233981,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,5,2018
+3579322933,Tyto alba,EC,Restaurant Narwhal,Galápagos,1,-0.673687,-90.3868,330,2,2012
+2726888991,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2011
+2726049061,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,2,-0.667624,-90.43156,231,8,2019
+258890228,Tyto alba,EC,"Galapagos, Santa Cruz, Academy Bay",Galápagos,1,-0.747736,-90.304184,0,7,1995
+2701800407,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,2,-0.667624,-90.43156,231,8,2019
+3176354315,Tyto alba,EC,Seymour Airport,Galápagos,1,-0.444727,-90.26895,44,12,2002
+3607324753,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,3,-0.840932,-91.07219,631,9,2021
+2765673067,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+1767516895,Tyto alba,EC,Santa Cruz,Galápagos,1,-0.682216,-90.33259,278,6,2005
+2160305977,Tyto alba,EC,Santa Cruz--Muelle Puerto Ayora,Galápagos,1,-0.747844,-90.31327,0,6,2018
+3254751617,Tyto alba,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,7,2014
+3207093765,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,7,2009
+1200380941,Tyto alba,EC,Tierras altas de Santa Cruz IBA,Galápagos,2,-0.63807,-90.3732,599,12,2014
+3657608482,Tyto alba,EC,"Avenida de la Armada Nacional, Puerto Baquerizo Moreno, Islas Galápagos, EC (-0,903, -89,614)",Galápagos,3,-0.902505,-89.61373,10,7,2021
+2679941051,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,4,2019
+3530524387,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+2720825497,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,7,2019
+2724408084,Tyto alba,EC,Baltra--Aeropuerto/Airport,Galápagos,1,-0.450349,-90.26848,50,11,2012
+2786132667,Tyto alba,EC,Finca Penaherrera,Galápagos,1,-0.670589,-90.39131,328,7,2007
+2708244380,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,10,2011
+1721467491,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,3,2016
+603824370,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2010
+2744787412,Tyto alba,EC,Santa Cruz--Muelle Puerto Ayora,Galápagos,1,-0.747844,-90.31327,0,4,2019
+2768006378,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+3190905017,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2014
+1752401663,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2015
+2656335010,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,2,2019
+1174979324,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,4,1999
+3652402914,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2008
+2788824860,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+1206390670,Tyto alba,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2014
+1173622141,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,3,-0.630053,-90.43698,374,11,2012
+1791714057,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,8,2008
+1407747939,Tyto alba,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2012
+848978101,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,8,2012
+979673126,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,8,2011
+2125604824,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,8,2007
+3617520148,Tyto alba,EC,Santa Cruz--Reserva Ecológica Cerro Mesa,Galápagos,1,-0.64323,-90.28741,418,4,2016
+1749855684,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3572998852,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+3530111809,Tyto alba,EC,"El Barranco, Puerto Ayora",Galápagos,1,-0.737822,-90.30127,22,6,2021
+2203914173,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,6,2016
+3882001094,Tyto alba,EC,Vía El Garrapatero,Galápagos,1,-0.6167,-90.35,538,3,2016
+848922544,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,11,2012
+848690012,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2012
+1767432506,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,7,2010
+2117327694,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,8,2007
+2038660318,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,3,2017
+3544225169,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,12,2007
+3695037145,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,10,2021
+2798676870,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2009
+2174142381,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.7483,-90.3086)",Galápagos,1,-0.748265,-90.308624,0,6,2018
+2727012088,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,12,2019
+1381950071,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,3,2010
+1749856842,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3254526335,Tyto alba,EC,Isla Isabela Highlands,Galápagos,1,-0.829508,-91.09123,960,3,2012
+2220573185,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,7,2009
+1405807635,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2013
+1747389453,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3288807560,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,7,2008
+2043583319,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,2,2017
+2034445892,Tyto alba,EC,Santa Cruz--Royal Palm Hotel,Galápagos,1,-0.649046,-90.392746,482,1,2017
+3204174340,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,3,2012
+3567761116,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.74417, -90.31226",Galápagos,1,-0.744166,-90.312256,9,8,2021
+3582146314,Tyto alba,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,7,2013
+848595793,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2012
+3673533747,Tyto alba,EC,"Parque Nacional Galápagos, San Cristobal EC-Galapagos -0.88785, -89.53954",Galápagos,1,-0.887845,-89.539536,379,10,2021
+3182723885,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,10,2011
+1794547711,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,8,2011
+980594043,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2010
+2157813536,Tyto alba,EC,Rancho El Chato II,Galápagos,1,-0.667791,-90.430595,233,4,2018
+2129147265,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,4,2014
+2187250980,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+1378170817,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,3,2015
+1737744550,Tyto alba,EC,Isla Santa Cruz,Galápagos,4,-0.640249,-90.37259,610,4,2016
+3527647951,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+2654896076,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,1,2019
+845577802,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,2,-0.630053,-90.43698,374,11,2011
+1206484837,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2010
+3256382876,Tyto alba,EC,Santa Cruz--Finca Lava Java,Galápagos,1,-0.6999,-90.3192,170,5,2020
+977701764,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,10,2012
+3656165249,Tyto alba,EC,Santa Cruz--western farmlands,Galápagos,1,-0.667581,-90.38721,386,9,2021
+2220022678,Tyto alba,EC,Galapagos Islands,Galápagos,1,-0.524935,-90.55556,0,12,2009
+3672423335,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+3694995267,Tyto alba,EC,Santa Cruz--Finca Lava Java,Galápagos,1,-0.6999,-90.3192,170,11,2021
+2795756210,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+2779223154,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,2,-0.667624,-90.43156,231,8,2019
+1181694436,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,2,2012
+2690965328,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2019
+258918184,Tyto alba,EC,Isla Santa Cruz--Rancho Mariposa,Galápagos,1,-0.654359,-90.43808,279,9,2007
+845462128,Tyto alba,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,12,2010
+1205252615,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2008
+3609163610,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+2738037202,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,3,2019
+962282574,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,11,2010
+1721819543,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,3,2016
+1768195926,Tyto alba,EC,Santa Cruz--Media Luna,Galápagos,1,-0.666175,-90.32404,500,7,2016
+3135551827,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,2,2020
+3282863710,Tyto alba,EC,Santa Cruz--Botadero de Km27,Galápagos,1,-0.584062,-90.35482,324,9,2020
+1404697907,Tyto alba,EC,Isla Santa Cruz highlands,Galápagos,1,-0.625902,-90.38525,603,7,2010
+2707632996,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2018
+1405555131,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,11,2015
+2771752141,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+2218873398,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+2112667909,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,7,2007
+3281096639,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,7,2018
+978158939,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,2,-0.630053,-90.43698,374,11,1989
+1787619627,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2007
+1194190588,Tyto alba,EC,Isabela--Campo Duro,Galápagos,1,-0.872638,-91.01506,187,10,2014
+1783702958,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2013
+2222407913,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,10,2018
+3652090549,Tyto alba,EC,Santiago--Sullivan Bay,Galápagos,1,-0.291651,-90.566826,0,2,2018
+2126887721,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2018
+2215615264,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,2,2017
+2789215975,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2019
+3635799704,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+2093344745,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,11,2017
+844974706,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.602584,-90.28201,238,5,1996
+1786122190,Tyto alba,EC,Isabela--road to highlands,Galápagos,2,-0.915431,-90.99772,24,7,2012
+2183184236,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+3528038473,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2017
+3664180846,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2004
+2689760131,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2019
+2722907595,Tyto alba,EC,"Unnamed Road, Islas Galápagos, EC (-0.666, -90.325)",Galápagos,1,-0.666328,-90.32497,482,10,2019
+845450137,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2010
+2693239084,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,8,2019
+1205296002,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2008
+2095750224,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2017
+1363593801,Tyto alba,EC,San Cristóbal--yard on road to Hacienda El Cafetal,Galápagos,1,-0.915174,-89.5526,300,4,2015
+1206489242,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2010
+603900272,Tyto alba,EC,Isla Santa Cruz highlands,Galápagos,1,-0.625902,-90.38525,603,7,2010
+2687504222,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+1355287102,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2015
+2220301345,Tyto alba,EC,"Espumilla Beach, Santiago Island",Galápagos,1,-0.203012,-90.828476,12,4,2015
+1207066422,Tyto alba,EC,Isabela--Campo Duro Ecolodge,Galápagos,1,-0.872864,-91.01486,187,4,2011
+2222602775,Tyto alba,EC,"(-0.744, -90.312)",Galápagos,1,-0.74359,-90.312164,9,12,2018
+1778528264,Tyto alba,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,8,2011
+2033702749,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,1,2017
+2155363232,Tyto alba,EC,Santa Cruz <-> Bartolome pelagic,Galápagos,1,-0.399247,-90.436485,0,1,2008
+2755800049,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,5,2019
+3663972309,Tyto alba,EC,Baltra--Aeropuerto/Airport,Galápagos,1,-0.450349,-90.26848,50,7,2021
+2165166776,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,5,2018
+3171507219,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2002
+3537781461,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,4,-0.696909,-90.40198,189,7,2021
+3665593623,Tyto alba,EC,San Cristóbal--Puerto Baquerizo Moreno bay,Galápagos,1,-0.897976,-89.61358,0,10,2010
+2128304031,Tyto alba,EC,EC-Galapagos-Santa Cruz-Galapagos Islands - -0.6256x-90.3854,Galápagos,1,-0.625609,-90.38539,603,2,2018
+2737349468,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,2,2017
+2196612477,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,3,2014
+1788437416,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2010
+2043084203,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2006
+845321355,Tyto alba,EC,Santa Cruz highlands,Galápagos,1,-0.688468,-90.40773,211,6,2007
+1410684231,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2007
+1151524810,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,1,2014
+975181800,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,11,2013
+3541992932,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+2092772284,Tyto alba,EC,Tierras altas de Santa Cruz IBA,Galápagos,1,-0.63807,-90.3732,599,11,2017
+2785745562,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,2,2019
+1176200836,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2014
+2101836006,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,7,2007
+258918131,Tyto alba,EC,Isla Santa Cruz--Rancho Mariposa,Galápagos,1,-0.654359,-90.43808,279,9,2007
+2708614408,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+2230028321,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,3,2015
+3224692708,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,2,2020
+2763189010,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2014
+2177663307,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,6,2018
+3576088859,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,10,2021
+2143144732,Tyto alba,EC,Tierras altas de Santa Cruz IBA,Galápagos,1,-0.63807,-90.3732,599,3,2017
+1790169009,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2006
+962093029,Tyto alba,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,3,2013
+2122618509,Tyto alba,EC,road near granillo rojo,Galápagos,1,-0.615843,-90.373924,587,3,2009
+1363595977,Tyto alba,EC,San Cristóbal--yard on road to Hacienda El Cafetal,Galápagos,1,-0.915174,-89.5526,300,4,2015
+3551614977,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,2,-0.630053,-90.43698,374,9,2021
+2201718301,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+3539162259,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,7,2021
+2175097471,Tyto alba,EC,Santa Cruz--Rancho Mariposa,Galápagos,1,-0.629508,-90.420105,447,6,2018
+3536389726,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+1401172344,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,12,2015
+845232951,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,11,2006
+2713809559,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,1993
+1162975381,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,1,2014
+1184509154,Tyto alba,EC,Puerto Ayora,Galápagos,1,-0.743144,-90.31208,9,8,2014
+2108336644,Tyto alba,EC,Lava Tunnels,Galápagos,1,-0.568876,-90.34602,251,2,2016
+2121189983,Tyto alba,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,3,2018
+2687400939,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+3657035070,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+2798543989,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2004
+3618206730,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,2,-0.667624,-90.43156,231,8,2019
+2799665415,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,2,2016
+2686970589,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,7,2019
+2781816991,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+3156969147,Tyto alba,EC,Santa Cruz--Finca Lava Java,Galápagos,1,-0.6999,-90.3192,170,5,2020
+2721890017,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,12,2019
+2795794049,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2009
+3664472527,Tyto alba,EC,Santa Cruz--western farmlands,Galápagos,2,-0.667581,-90.38721,386,10,2021
+2164569549,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+1756147616,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+979759421,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,11,2008
+3616621278,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos (-0.6698,-90.4303)",Galápagos,1,-0.669751,-90.4303,230,5,2021
+2720401440,Tyto alba,EC,"Santa Cruz, Puerto Ayora",Galápagos,1,-0.73902,-90.3101,11,2,2015
+1410492293,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,3,-0.702077,-90.32714,155,8,2014
+1404934561,Tyto alba,EC,Isla Santa Cruz highlands,Galápagos,1,-0.625902,-90.38525,603,7,2010
+2046378408,Tyto alba,EC,"EC-Galápagos Islands - -0.701x-90.321 - Mar 17, 2017 6:53 PM",Galápagos,1,-0.701,-90.32107,168,3,2017
+2710844636,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,12,2018
+1411376446,Tyto alba,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,2,-0.478779,-90.62516,0,7,2008
+2230308077,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,5,2010
+2788494443,Tyto alba,EC,El Mirador de Los Tuneles,Galápagos,1,-0.73207,-90.328735,44,3,2014
+976710996,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,5,2008
+2767688680,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+2677743838,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,5,2012
+1401501531,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.74233,-90.31457,12,12,2015
+2189771416,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2014
+3570821754,Tyto alba,EC,Santa Cruz--Finca Lava Java,Galápagos,1,-0.6999,-90.3192,170,11,2021
+2702598493,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,10,2019
+3570664843,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,7,2021
+845344244,Tyto alba,EC,Santa Cruz highlands,Galápagos,1,-0.688468,-90.40773,211,7,2008
+2044542989,Tyto alba,EC,"El chato tortoise reserve -0.6676x-90.4308 - Feb 7, 2017, 14:43",Galápagos,2,-0.667645,-90.43076,222,2,2017
+3609870749,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,3,-0.840932,-91.07219,631,9,2021
+1744274867,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,5,2016
+3678051262,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+3549278128,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,10,2021
+1206485059,Tyto alba,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2010
+3613853300,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+1749528434,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2010
+1382977242,Tyto alba,EC,Santa Cruz--Media Luna,Galápagos,1,-0.666175,-90.32404,500,7,2002
+1151522271,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,1,2014
+845347593,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,5,2008
+3649107336,Tyto alba,EC,"santa cruz,galapagos,ecuador",Galápagos,1,-0.666946,-90.428955,272,1,2014
+3642600329,Tyto alba,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,8,2017
+2035274221,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,1,2017
+3578386774,Tyto alba,EC,Restaurant Narwhal,Galápagos,2,-0.673687,-90.3868,330,4,2008
+2691052184,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+3544294848,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+2151154456,Tyto alba,EC,"Galapagos Islands, Fernandina EC-Galapagos (-0.2772,-91.4271)",Galápagos,2,-0.277166,-91.42707,0,12,2011
+2084721458,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2017
+2771256099,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,8,2019
+1357885142,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,1,2015
+2039248369,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,2,2017
+603811074,Tyto alba,EC,Puerto Villamil,Galápagos,1,-0.961259,-90.96954,0,6,2010
+2223871077,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,3,-0.625613,-90.38525,607,12,2018
+2751040423,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,4,2019
+3563864871,Tyto alba,EC,Rancho Las Primicias - lava tubes,Galápagos,2,-0.665312,-90.42415,267,6,2021
+1794524839,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,8,2015
+2233318041,Tyto alba,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,3,2010
+3651745582,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,2,-0.665336,-90.42412,267,7,2021
+2155107120,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,5,2018
+2683363386,Tyto alba,EC,"(-0.6650,-90.4242)",Galápagos,1,-0.664994,-90.42415,272,6,2019
+2752002365,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2019
+3276137726,Tyto alba,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,6,2013
+1410682979,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,7,2008
+605736351,Tyto alba,EC,EC Santa Cruz Rancho Mariposa,Galápagos,2,-0.667373,-90.4037,333,10,2011
+2187472255,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+845464299,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2010
+2718664503,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,6,2012
+2758447926,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6883,-90.3983)",Galápagos,1,-0.688276,-90.39829,238,7,2019
+2780846624,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,7,2019
+2046862864,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,4,2017
+1345940756,Tyto alba,EC,El Trapiche sugar/coffee farm,Galápagos,1,-0.665791,-90.27151,294,1,2015
+1163207711,Tyto alba,EC,Santa Cruz Island - general,Galápagos,1,-0.680793,-90.29166,180,3,2014
+2660404245,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,5,1983
+3176880515,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,10,2018
+606386391,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2011
+1376987065,Tyto alba,EC,Isla Santa Cruz,Galápagos,3,-0.640249,-90.37259,610,6,2015
+1749335178,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2012
+2035019164,Tyto alba,EC,Santa Cruz--Poza El Chato,Galápagos,1,-0.673176,-90.43847,182,1,2017
+605370986,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,3,2011
+2220577868,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,7,2009
+2727018789,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+2747928324,Tyto alba,EC,"(-0.6903,-90.3998) Isla Santa Cruz, Agricultural Area",Galápagos,1,-0.690266,-90.39978,197,4,2019
+2724767690,Tyto alba,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,10,2009
+972514447,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2008
+1370721868,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,3,2015
+3649872278,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,7,2017
+2654920558,Tyto alba,EC,Santa Cruz--Pikaia Lodge Galápagos,Galápagos,2,-0.645626,-90.278946,403,1,2019
+1405495010,Tyto alba,EC,Isla Santa Cruz,Galápagos,3,-0.640249,-90.37259,610,8,2001
+2799981549,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,12,2008
+2763240635,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+605565187,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2011
+1751239500,Tyto alba,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,7,2016
+3658342946,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,4,-0.696909,-90.40198,189,7,2021
+979005053,Tyto alba,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,12,2010
+1152988875,Tyto alba,EC,Baltra--Isla Baltra,Galápagos,2,-0.4609,-90.26795,43,3,2013
+603437874,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2010
+3550385555,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,2,-0.741642,-90.30513,11,6,2012
+1405792685,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,5,2013
+605450070,Tyto alba,EC,Mariposa Ranch,Galápagos,2,-0.681136,-90.406494,242,6,2011
+2775449939,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,2,-0.667624,-90.43156,231,8,2019
+1749531024,Tyto alba,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,12,2010
+3204537774,Tyto alba,EC,Santa Cruz,Galápagos,1,-0.625145,-90.34595,598,1,2012
+2088965460,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2017
+3652725833,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,10,2009
+3282581925,Tyto alba,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,6,2013
+3212840624,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,7,2009
+2081438523,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2017
+603897440,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2010
+2188057968,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+2665825089,Tyto alba,EC,"EC (-0.625, -90.384)",Galápagos,1,-0.6245,-90.38421,609,4,2019
+1781123756,Tyto alba,EC,Rancho Steve Divine,Galápagos,2,-0.668654,-90.40483,337,2,2010
+2169066544,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,5,2018
+1772022243,Tyto alba,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,5,2016
+1795429914,Tyto alba,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,9,2009
+3271051947,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,1,2017
+2723775980,Tyto alba,EC,Charles Darwin Research Station,Galápagos,1,-0.742307,-90.30378,9,5,1999
+1737629325,Tyto alba,EC,Santa Cruz--Reserva Ecológica Cerro Mesa,Galápagos,1,-0.64323,-90.28741,418,4,2016
+2160992907,Tyto alba,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,5,2018
+847995308,Tyto alba,EC,Baltra--Aeropuerto/Airport,Galápagos,1,-0.450349,-90.26848,50,11,2012
+603345179,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2009
+605704532,Tyto alba,EC,Mariposa Ranch,Galápagos,2,-0.681136,-90.406494,242,6,2011
+3201212690,Tyto alba,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,1,2005
+1784653792,Tyto alba,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,7,2013
+3170320910,Tyto alba,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,7,2014
+2725381696,Tyto alba,EC,Finca Penaherrera,Galápagos,1,-0.670589,-90.39131,328,9,2011
+3630893163,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+2777951309,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+2149006906,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,8,2008
+1748448463,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2012
+1754280323,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3534386763,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,8,2021
+1382965850,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,7,2002
+1206464765,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2013
+3285343480,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,7,2009
+2796164931,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2011
+2175998890,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2018
+3215646849,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,11,2004
+1719939196,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,3,2016
+2171595483,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2009
+2774408171,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+2781388682,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,10,2019
+2789387090,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,4,2019
+3177533872,Tyto alba,EC,Santa Cruz--Finca Lava Java,Galápagos,1,-0.6999,-90.3192,170,11,2018
+845003071,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,1999
+1398972060,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2015
+2129613703,Tyto alba,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,8,2012
+1786195354,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2010
+3207384909,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,7,2016
+2039914274,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,1,2017
+3216559481,Tyto alba,EC,Tierras altas de Santa Cruz IBA,Galápagos,1,-0.63807,-90.3732,599,12,2010
+2706750391,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2019
+603286337,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,5,2008
+2691528376,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+2790731575,Tyto alba,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,12,2016
+2197409474,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,8,1989
+257708745,Tyto alba,EC,Isla Santa Cruz highlands,Galápagos,1,-0.625902,-90.38525,603,7,2010
+1397682909,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2015
+961351536,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,7,2013
+3581098004,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,8,1994
+603281705,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,1,-0.630053,-90.43698,374,5,2008
+2755566118,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+977805618,Tyto alba,EC,Santa Cruz--Road from Puerto Ayora to highlands,Galápagos,1,-0.702077,-90.32714,155,7,2010
+2725810745,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,9,2016
+2739777673,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,2,2011
+1194299385,Tyto alba,EC,Isabela--Campo Duro,Galápagos,1,-0.872638,-91.01506,187,10,2014
+2714350236,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,12,1984
+1357533635,Tyto alba,EC,Tierras altas de Santa Cruz IBA,Galápagos,1,-0.63807,-90.3732,599,1,2015
+2768435117,Tyto alba,EC,Santa Cruz--Royal Palm Hotel,Galápagos,2,-0.649046,-90.392746,482,9,2015
+2088722658,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2017
+2159990960,Tyto alba,EC,Santa Cruz--Rancho Mariposa,Galápagos,1,-0.629508,-90.420105,447,6,2018
+2769790341,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+1719935914,Tyto alba,EC,Santa Cruz--Royal Palm Hotel,Galápagos,1,-0.649046,-90.392746,482,3,2016
+1202581681,Tyto alba,EC,Isla Santa Cruz,Galápagos,2,-0.640249,-90.37259,610,11,2011
+3617174859,Tyto alba,EC,"Isla Santa Cruz, Lava Tunnel",Galápagos,2,-0.668402,-90.42455,253,5,2018
+1201587803,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2014
+943763627,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,2,-0.630053,-90.43698,374,11,2011
+1194500894,Tyto alba,EC,Isabela--Campo Duro,Galápagos,1,-0.872638,-91.01506,187,10,2014
+1792968070,Tyto alba,EC,Santa Cruz--Galapagos Safari Camp,Galápagos,1,-0.631229,-90.435356,373,4,2014
+1794803243,Tyto alba,EC,Mariposa Ranch,Galápagos,2,-0.681136,-90.406494,242,6,2011
+1787146665,Tyto alba,EC,Isabela--road to highlands,Galápagos,2,-0.915431,-90.99772,24,7,2012
+1381084241,Tyto alba,EC,Santa Cruz--highlands/tortoise reserve,Galápagos,2,-0.630053,-90.43698,374,11,2011
+2786813645,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,1,1988
+3686898892,Tyto alba,EC,Restaurant Narwhal,Galápagos,3,-0.673687,-90.3868,330,5,2014
+1171644259,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,4,2014
+2132330216,Tyto alba,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2015
+980591204,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2010
+979332489,Tyto alba,EC,Santa Cruz highlands,Galápagos,1,-0.621031,-90.41885,441,8,2009
+2691811198,Tyto alba,EC,"Galapagos Islands, Isabela EC-Galapagos (-0.3500,-91.0376)",Galápagos,1,-0.350002,-91.037636,0,5,2019
+3551898793,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,4,2021
+1738355336,Tyto alba,EC,Isla Santa Cruz,Galápagos,4,-0.640249,-90.37259,610,4,2016
+845389848,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2009
+2654867869,Tyto alba,EC,Santa Cruz--El Trapiche Ecológico,Galápagos,1,-0.677518,-90.28883,249,1,2019
+3241023267,Tyto alba,EC,Santa Cruz--Rancho El Chato,Galápagos,1,-0.667624,-90.43156,231,1,2020
+1783471541,Tyto alba,EC,Isla Santa Cruz,Galápagos,3,-0.640249,-90.37259,610,6,2015
+3522918084,Tyto alba,EC,Isabela--Caldera del volcan Wolf,Galápagos,2,0.036011,-91.34862,1026,4,2021
+1206463298,Tyto alba,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,5,2013
+3677030189,Tyto alba,EC,Isabela--Posada De Flamengos,Galápagos,2,-0.945527,-90.97488,7,9,2021
+3198390597,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,7,2008
+3567970469,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,12,2019
+2079752401,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2017
+2754581917,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,4,2019
+1721461157,Tyto alba,EC,Santa Cruz--Royal Palm Hotel,Galápagos,1,-0.649046,-90.392746,482,3,2016
+2150848267,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,1,-0.696909,-90.40198,189,3,2018
+2029363748,Tyto alba,EC,Santa Cruz--Reserva Ecológica Cerro Mesa,Galápagos,1,-0.64323,-90.28741,418,7,2006
+3622891153,Tyto alba,EC,"Parque Nacional Galápagos, Santa Cruz EC-Galapagos -0.66534, -90.42412",Galápagos,3,-0.665336,-90.42412,267,7,2021
+1749989596,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3157955664,Tyto alba,EC,Santa Cruz--Media Luna,Galápagos,1,-0.666175,-90.32404,500,3,2020
+2774295154,Tyto alba,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6907,-90.3989)",Galápagos,2,-0.690741,-90.398895,188,7,2019
+2694543510,Tyto alba,EC,Rancho Manzanilla lava tubes,Galápagos,1,-0.690792,-90.39868,185,7,2019
+2780227855,Tyto alba,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,10,2019
+1199847194,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,9,2005
+1749855741,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,1,-0.670337,-90.43067,230,6,2016
+3601869965,Tyto alba,EC,Isabela--Caldera del volcan Wolf,Galápagos,2,0.036011,-91.34862,1026,4,2021
+2776901826,Tyto alba,EC,Santa Cruz--Rancho Primicias,Galápagos,2,-0.670337,-90.43067,230,6,2019
+3273366121,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,1988
+2123042876,Tyto alba,EC,Rancho El Chato II,Galápagos,1,-0.667791,-90.430595,233,12,2017
+1398970936,Tyto alba,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2015
+2183078891,Tyto alba,EC,Santa Cruz--Rancho El Manzanillo,Galápagos,2,-0.696909,-90.40198,189,7,2009

@@ -1,0 +1,11 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2781257798,Procellaria parkinsoni,EC,San Cristóbal<-->Española pelagic--southern half,Galápagos,1,-1.224712,-89.63833,0,8,2019
+1178795185,Procellaria parkinsoni,EC,Roca Rodunda,Galápagos,15,0.3,-91.65,0,8,1997
+3606838420,Procellaria parkinsoni,EC,Española<-->San Cristóbal pelagic,Galápagos,1,-1.116237,-89.654785,0,8,2021
+1178796549,Procellaria parkinsoni,EC,Isabela--Offshore Cape Berkkley,Galápagos,1,0.054932,-91.74408,0,4,2001
+2703102204,Procellaria parkinsoni,EC,Canal Bolivar,Galápagos,1,-0.451483,-91.317696,0,2,2018
+2723474913,Procellaria parkinsoni,EC,off the southeastern coast of Fernandina,Galápagos,1,-0.493515,-91.34001,0,2,2018
+1178793887,Procellaria parkinsoni,EC,Galapagos--Between Genovesa and Fernandina,Galápagos,1,0.109863,-90.823975,0,8,2004
+1787989747,Procellaria parkinsoni,EC,Roca Rodunda,Galápagos,1,0.3,-91.65,0,7,2005
+2769273902,Procellaria parkinsoni,EC,Ocean Cruising,Galápagos,1,0.161364,-90.39105,0,7,2019
+1792240801,Procellaria parkinsoni,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,11,2014

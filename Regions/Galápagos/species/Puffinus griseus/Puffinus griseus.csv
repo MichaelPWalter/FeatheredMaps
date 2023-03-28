@@ -1,0 +1,91 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3275773439,Puffinus griseus,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,5,2011
+2051974426,Puffinus griseus,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,5,-0.782008,-89.52231,0,3,2017
+2794634982,Puffinus griseus,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,6,2015
+3290547256,Puffinus griseus,EC,Genovesa--Prince Philip's Steps,Galápagos,1,0.310197,-89.94352,6,5,2006
+3688920448,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,2,-0.881893,-90.625534,0,6,2021
+837771170,Puffinus griseus,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,6,2009
+1405334486,Puffinus griseus,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,3,2008
+1149058615,Puffinus griseus,EC,San Cristóbal--Cerro Tijeretas trails,Galápagos,1,-0.891571,-89.60962,21,12,2008
+3187678469,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,2,-0.881893,-90.625534,0,3,2012
+1783306575,Puffinus griseus,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,3,1997
+1208676089,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,3,2012
+2706439974,Puffinus griseus,EC,Santa Cruz to Isabela Pelagic,Galápagos,4,-0.884825,-90.625916,0,3,2012
+2679912757,Puffinus griseus,EC,Isla Isabela,Galápagos,5,-0.80106,-91.12871,907,5,2019
+2233780090,Puffinus griseus,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,4,2017
+839184582,Puffinus griseus,EC,Ocean crossing between Floreana and Isabella Islands,Galápagos,1,-1.194128,-90.748,0,6,2012
+3644047706,Puffinus griseus,EC,Isla Floreana,Galápagos,3,-1.3,-90.4333,398,4,2016
+1185906170,Puffinus griseus,EC,Floreana<-->Española pelagic,Galápagos,2,-1.347761,-90.05615,0,4,1992
+1185906195,Puffinus griseus,EC,Española<-->San Cristóbal pelagic,Galápagos,1,-1.116237,-89.654785,0,11,2005
+1179513920,Puffinus griseus,EC,"EC-Galapagos - -0.8508x-89.4729 - Jul 7, 2014, 8:10 PM",Galápagos,2,-0.850808,-89.4729,287,5,2008
+3269115897,Puffinus griseus,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,12,2008
+3257179347,Puffinus griseus,EC,Española<-->San Cristóbal pelagic,Galápagos,1,-1.116237,-89.654785,0,5,1996
+2230095919,Puffinus griseus,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,5,2010
+3559345439,Puffinus griseus,EC,San Cristóbal--Cerro Tijeretas trails,Galápagos,3,-0.891571,-89.60962,21,5,2021
+3137403370,Puffinus griseus,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,12,2018
+1749327143,Puffinus griseus,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,6,2012
+1406338191,Puffinus griseus,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,11,2005
+2729342738,Puffinus griseus,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,5,1983
+2731972644,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,3,2019
+1758639189,Puffinus griseus,EC,Isla Fernandina,Galápagos,2,-0.379712,-91.50169,1022,5,2011
+2228695040,Puffinus griseus,EC,Isla Fernandina,Galápagos,2,-0.379712,-91.50169,1022,5,2011
+3207597628,Puffinus griseus,EC,Pelagic Sombrero Chino <-> Rabida,Galápagos,1,-0.401141,-90.64064,0,8,2017
+2666612627,Puffinus griseus,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2019
+2082952438,Puffinus griseus,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,6,2017
+1747830058,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,6,2016
+3183751192,Puffinus griseus,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,3,2020
+2060325881,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,4,2017
+2796647288,Puffinus griseus,EC,Santa Cruz <-> Bartolome pelagic,Galápagos,2,-0.399247,-90.436485,0,12,2019
+1378448539,Puffinus griseus,EC,Isabela--Tagus Cove,Galápagos,1,-0.262298,-91.37226,0,7,2015
+2047059132,Puffinus griseus,EC,San Cristóbal<-->Santa Fé pelagic,Galápagos,3,-0.856723,-89.79761,0,3,2017
+1749336250,Puffinus griseus,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2012
+1786943767,Puffinus griseus,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,5,2012
+274565669,Puffinus griseus,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,6,2008
+1198871105,Puffinus griseus,EC,Isla Fernandina--Mangle Point,Galápagos,15,-0.454555,-91.38239,0,12,2014
+277255923,Puffinus griseus,EC,Isla Fernandina--Punta Espinoza,Galápagos,2,-0.264551,-91.445946,0,6,2008
+1787025494,Puffinus griseus,EC,Isabela--road to highlands,Galápagos,1,-0.915431,-90.99772,24,4,1992
+3640920059,Puffinus griseus,EC,Genovesa <--> Isabela pelagic,Galápagos,1,0.264911,-90.38109,0,6,2017
+2112117258,Puffinus griseus,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,5,2008
+2195365596,Puffinus griseus,EC,Santa Cruz South Plaza<-->Santa Fe Pelagic,Galápagos,1,-0.690491,-90.11475,0,3,2006
+2683829478,Puffinus griseus,EC,Genovesa--Prince Philip's Steps,Galápagos,2,0.310197,-89.94352,6,4,2019
+3291440066,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,4,2019
+838785811,Puffinus griseus,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,6,2012
+2742457674,Puffinus griseus,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,6,2007
+3516265862,Puffinus griseus,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,4,-0.497125,-90.32599,0,5,2021
+2059609799,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,4,2017
+2073413643,Puffinus griseus,EC,Genovesa <--> Isabela pelagic,Galápagos,1,0.264911,-90.38109,0,6,2017
+1745703571,Puffinus griseus,EC,Isla Rábida,Galápagos,2,-0.400654,-90.70776,9,6,2016
+2153181858,Puffinus griseus,EC,Isla Lobos,Galápagos,1,-0.856192,-89.56629,0,4,2018
+2734076513,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,1,-0.881893,-90.625534,0,4,2019
+2049910692,Puffinus griseus,EC,San Cristóbal<-->Santa Fé pelagic,Galápagos,3,-0.856723,-89.79761,0,3,2017
+1185907634,Puffinus griseus,EC,Genovesa--Offshore,Galápagos,1,0.461421,-89.87778,0,12,1982
+2228233313,Puffinus griseus,EC,Isabela--Los Tuneles,Galápagos,1,-1.050165,-91.16803,0,4,2017
+2029417815,Puffinus griseus,EC,Isla Floreana,Galápagos,3,-1.3,-90.4333,398,4,2016
+2140926604,Puffinus griseus,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,4,2018
+3615089933,Puffinus griseus,EC,Isla Wolf,Galápagos,1,1.383027,-91.815834,213,4,2021
+3634078530,Puffinus griseus,EC,Isla Floreana,Galápagos,4,-1.3,-90.4333,398,4,2016
+3207851412,Puffinus griseus,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,5,2006
+1208459656,Puffinus griseus,EC,Pelagic--Darwin's Bay-North Seymour Island,Galápagos,3,0.092011,-90.01305,0,12,2014
+2206629421,Puffinus griseus,EC,Approaching Isla Genovesa,Galápagos,1,0.293845,-89.955505,0,12,1982
+2796495197,Puffinus griseus,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,6,1997
+1379243470,Puffinus griseus,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,5,2011
+1198866797,Puffinus griseus,EC,Isabela--Punta Moreno,Galápagos,3,-0.692808,-91.31836,0,12,2014
+2232552266,Puffinus griseus,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,4,2005
+1185906214,Puffinus griseus,EC,Roca Rodunda,Galápagos,1,0.3,-91.65,0,12,2004
+2700205469,Puffinus griseus,EC,Isla Isabela,Galápagos,4,-0.80106,-91.12871,907,5,2019
+3545843779,Puffinus griseus,EC,Embarcadère touristique,Galápagos,1,-0.748438,-90.31354,1,5,2021
+3184725017,Puffinus griseus,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,12,2008
+2801896765,Puffinus griseus,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,5,2011
+2047666842,Puffinus griseus,EC,Bolivar Channel,Galápagos,2,-0.306482,-91.382416,0,3,2017
+1406146099,Puffinus griseus,EC,Ocean crossing between Santa Cruz and North Seymour islands,Galápagos,1,-0.465852,-90.32156,0,7,2009
+2753679659,Puffinus griseus,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,5,1980
+2767769899,Puffinus griseus,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,8,2011
+3681483235,Puffinus griseus,EC,Isla Floreana,Galápagos,4,-1.3,-90.4333,398,4,2016
+2750229648,Puffinus griseus,EC,Santa Cruz<-->Isabela pelagic,Galápagos,2,-0.881893,-90.625534,0,5,2019
+839155151,Puffinus griseus,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,6,2012
+3195997176,Puffinus griseus,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,5,2013
+1206665076,Puffinus griseus,EC,Santa Cruz--Academy Bay,Galápagos,1,-0.750825,-90.30414,0,6,2009
+2767264724,Puffinus griseus,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,4,2016
+1735907111,Puffinus griseus,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,4,2016
+2720414770,Puffinus griseus,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,1,-0.436508,-90.284775,0,6,2012
+3566564641,Puffinus griseus,EC,Cerro Dragon,Galápagos,2,-0.525813,-90.48855,1,5,2021

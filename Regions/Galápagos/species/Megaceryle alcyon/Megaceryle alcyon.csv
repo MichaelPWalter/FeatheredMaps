@@ -1,0 +1,16 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3689113197,Megaceryle alcyon,EC,Isabela--Elizabeth Bay,Galápagos,1,-0.597285,-91.08318,0,11,2021
+3289889792,Megaceryle alcyon,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,1990
+2726942918,Megaceryle alcyon,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+2799337664,Megaceryle alcyon,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,1,2011
+2222303622,Megaceryle alcyon,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.7537,-90.3135)",Galápagos,1,-0.753694,-90.31354,11,10,2018
+834697816,Megaceryle alcyon,EC,Isla Santa Cruz,Galápagos,1,-0.741127,-90.299805,14,1,2012
+3579816688,Megaceryle alcyon,EC,"Parque Nacional Galápagos, Isabela EC-Galapagos -0.59879, -91.09068",Galápagos,1,-0.598787,-91.090675,0,12,2021
+180960121,Megaceryle alcyon,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,12,2007
+1173609709,Megaceryle alcyon,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2012
+1382157671,Megaceryle alcyon,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,2,2004
+593127939,Megaceryle alcyon,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,3,2011
+2724795508,Megaceryle alcyon,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,1,2011
+1781127877,Megaceryle alcyon,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,12,2010
+1781144621,Megaceryle alcyon,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,11,1992
+964563136,Megaceryle alcyon,EC,"Floreana Island, Galapagos, Ecuador",Galápagos,1,-1.26916,-90.416794,222,12,1998

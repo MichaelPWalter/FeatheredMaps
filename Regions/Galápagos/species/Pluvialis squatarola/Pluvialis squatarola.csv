@@ -1,0 +1,734 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3580510040,Pluvialis squatarola,EC,Punta cormorant,Galápagos,1,-1.22529,-90.42517,42,11,2021
+3210931142,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,2,-1.236016,-90.44947,0,12,2006
+2222148686,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2018
+2048195960,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,2,-0.957525,-90.978226,0,4,2017
+2664712810,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,6,1999
+2397683084,Pluvialis squatarola,EC,,Galápagos,1,-0.956635,-90.978106,0,1,2019
+3112583657,Pluvialis squatarola,EC,,Galápagos,1,-0.957604,-90.967616,0,4,2021
+3067766475,Pluvialis squatarola,EC,,Galápagos,1,-0.957419,-90.979081,0,4,2018
+837861315,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2011
+3272189466,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2015
+935841687,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2011
+2832579651,Pluvialis squatarola,EC,Ecuador - Galápagos - San Cristóbal,,1,-0.863263,-89.570743,4,12,2014
+1703204675,Pluvialis squatarola,EC,,Galápagos,1,-0.957024,-90.974211,0,10,2017
+2423087846,Pluvialis squatarola,EC,,Galápagos,1,-0.957674,-90.969182,0,1,2019
+2597849137,Pluvialis squatarola,EC,,Galápagos,1,-0.957575,-90.986197,0,10,2016
+595888812,Pluvialis squatarola,EC,Isla Isabela--Puerto Villamil area,Galápagos,5,-0.953707,-90.96954,6,6,2008
+2716717002,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,6,-0.957511,-90.96847,0,11,2019
+3726622541,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.956517,-90.97224,0,9,2019
+597570338,Pluvialis squatarola,EC,Dragon Hill,Galápagos,2,-0.531113,-90.49473,8,10,2011
+1198982758,Pluvialis squatarola,EC,Isabela -- Playa al Occidente de P.V.,Galápagos,1,-0.985974,-91.02328,7,10,2014
+935829746,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2011
+595757749,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.837678,-91.1261,925,4,2006
+2747388752,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,7,2001
+2181146679,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,5,2018
+2665490011,Pluvialis squatarola,EC,Isabela--Urbina Bay (on land),Galápagos,1,-0.392748,-91.22588,14,12,2016
+3533869458,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,9,2021
+1774698197,Pluvialis squatarola,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,11,2016
+2774743063,Pluvialis squatarola,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+2719352575,Pluvialis squatarola,EC,"Isabella, Galápagos",Galápagos,1,-0.956517,-90.970024,0,7,2017
+1201800081,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,12,2014
+2787259212,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,11,2010
+1405926572,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2014
+837881575,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2011
+1406398213,Pluvialis squatarola,EC,"-0.9569x-90.9693 - Nov 18, 2015, 16:30 bottle beach",Galápagos,1,-0.956869,-90.9693,1,11,2015
+2801384469,Pluvialis squatarola,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+1363727870,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,4,2015
+2057833099,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,4,2017
+2051092252,Pluvialis squatarola,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,2,2017
+3660533432,Pluvialis squatarola,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,11,2009
+3175135465,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2016
+1766857123,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2006
+1194183114,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,10,2014
+2709062533,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,1,2006
+1726387144,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2016
+2790704497,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,7,2001
+3209811392,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,12,2018
+1356878448,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,3,2015
+1172457580,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,12,2010
+2153142155,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3132153977,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,1,2020
+596298672,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2010
+1189649680,Pluvialis squatarola,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,3,2011
+3619324959,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,5,2021
+1789333574,Pluvialis squatarola,EC,Isla Santa Cruz--Playa Península,Galápagos,1,-0.765458,-90.34206,1,9,1993
+2050496104,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2017
+3649906209,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2021
+3281550679,Pluvialis squatarola,EC,Isabela Island,Galápagos,1,-0.911911,-91.06548,264,2,2012
+837908678,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.52665,-90.48804,6,11,2011
+2683904142,Pluvialis squatarola,EC,San Cristóbal--El Progreso,Galápagos,1,-0.907707,-89.555824,315,7,2001
+974261020,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2013
+1157910700,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,1,2011
+2672975428,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,2015
+2651642552,Pluvialis squatarola,EC,Puerto Villamil Area,Galápagos,2,-0.952619,-90.97039,8,3,2012
+3618012376,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,12,2021
+935762517,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,3,2011
+2783802834,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,1,2006
+3271625778,Pluvialis squatarola,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,7,1988
+2216685762,Pluvialis squatarola,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,2,-0.953513,-90.97206,7,11,2018
+935533194,Pluvialis squatarola,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2012
+3210346607,Pluvialis squatarola,EC,Isabela--Posada De Flamengos,Galápagos,1,-0.945527,-90.97488,7,10,2019
+2029457914,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+597554888,Pluvialis squatarola,EC,Puerto Villamil-El Cura,Galápagos,1,-0.928304,-91.01349,39,6,2011
+3241226127,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,11,2005
+3585159648,Pluvialis squatarola,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,8,2019
+2140275449,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2018
+2073080182,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2175863791,Pluvialis squatarola,EC,Iguana Crossing,Galápagos,1,-0.956462,-90.97085,0,7,2018
+2155621207,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,4,2018
+837912303,Pluvialis squatarola,EC,Isla Rábida,Galápagos,2,-0.400654,-90.70776,9,11,2011
+1789029045,Pluvialis squatarola,EC,Isla Isabela--Puerto Villamil area,Galápagos,5,-0.953707,-90.96954,6,6,2008
+1794809449,Pluvialis squatarola,EC,Puerto Villamil-El Cura,Galápagos,1,-0.928304,-91.01349,39,6,2011
+2089888418,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2200664238,Pluvialis squatarola,EC,Isabela--Los Tuneles,Galápagos,1,-1.050165,-91.16803,0,11,2018
+3663016055,Pluvialis squatarola,EC,Isabela--Sendero Crianza Arnaldo Tupiza,Galápagos,1,-0.955375,-90.971275,8,9,2021
+1191953070,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2011
+2725825015,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,5,2015
+2226849252,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,3,-0.526929,-90.48804,6,12,2018
+2131025590,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,1,2018
+3288509884,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2017
+1775868332,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,12,1996
+2722517552,Pluvialis squatarola,EC,Santa Cruz--path to Bahia Tortuga from Puerto Ayora,Galápagos,1,-0.752637,-90.32515,16,12,2019
+1405562282,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2015
+3671248163,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2021
+2669222633,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2019
+1750907748,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,7,2012
+1406214450,Pluvialis squatarola,EC,Isla Santiago,Galápagos,2,-0.264358,-90.715485,384,11,2005
+2116467515,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,5,-0.956961,-90.96559,9,12,2017
+3013913391,Pluvialis squatarola,EC,,Galápagos,1,-0.956413,-90.972002,0,9,2019
+1802787593,Pluvialis squatarola,EC,,Galápagos,1,-0.956989,-90.985605,0,3,2017
+2423088382,Pluvialis squatarola,EC,,Galápagos,1,-0.9573,-90.976431,5,1,2019
+3320954462,Pluvialis squatarola,EC,,Galápagos,1,-0.962599,-90.959419,5,4,2021
+2423087702,Pluvialis squatarola,EC,,Galápagos,1,-0.957674,-90.969182,0,1,2019
+949088551,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,3,2013
+1411377921,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2015
+3070301078,Pluvialis squatarola,EC,,Galápagos,1,-0.957749,-90.967617,0,3,2011
+1719207317,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,3,2016
+2162181249,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2018
+2658457998,Pluvialis squatarola,EC,Isabela--Poza Puerta del Jelí,Galápagos,1,-0.955127,-90.97155,8,2,2019
+1162540567,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2014
+3294906867,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2005
+2051683420,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2017
+266396125,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,7,1999
+1163198698,Pluvialis squatarola,EC,Santiago Island - Sullivan Bay and Sombrero Chino,Galápagos,1,-0.319975,-90.58296,23,3,2014
+3192839843,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+597639930,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2011
+2131854568,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2018
+3668012841,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,12,2019
+2792905511,Pluvialis squatarola,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,3,2007
+1376559967,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,6,2015
+3215022445,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,11,2015
+2051681281,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,4,-0.971223,-90.96124,0,1,2017
+935831214,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,3,2011
+2658114618,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,1,2019
+2735617566,Pluvialis squatarola,EC,"Galapagos Islands, Isabela EC-Galapagos (-0.9569,-90.9696)",Galápagos,4,-0.956852,-90.96955,0,1,2019
+1401006063,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.52693,-90.48803,6,12,2015
+2171825134,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2014
+149840043,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,1986
+3658686121,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,8,2004
+3242837749,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,10,2018
+2057529022,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2017
+3171836319,Pluvialis squatarola,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,9,2014
+1204836629,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2010
+3285806239,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2014
+3187787554,Pluvialis squatarola,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2014
+1793760849,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,5,2006
+3576613400,Pluvialis squatarola,EC,"20 Oct 2021 11:14--0,947, -90,974",Galápagos,1,-0.947199,-90.97401,12,10,2021
+3585422131,Pluvialis squatarola,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2021
+3692477583,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,12,2021
+595272502,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,2,-0.264551,-91.445946,0,6,1984
+3208995657,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2141756589,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,3,2018
+2101948834,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,11,2017
+2744275112,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,2,2019
+2148688916,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,8,2016
+3577265600,Pluvialis squatarola,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,9,2021
+1359477760,Pluvialis squatarola,EC,Puerto Villamil Isabella,Galápagos,1,-0.95568,-90.97231,5,4,2015
+2714439433,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2019
+3636586542,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2021
+596862041,Pluvialis squatarola,EC,"Puerto Villamil, Isabela",Galápagos,1,-0.956047,-90.967316,8,2,2011
+2116330597,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,12,2017
+2198958499,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,5,-0.957511,-90.96847,0,9,2018
+1785983292,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,2016
+3214970966,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,6,1980
+2712787667,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,12,2019
+3067714906,Pluvialis squatarola,EC,,Galápagos,1,-0.761708,-90.330911,0,12,2020
+1038781413,Pluvialis squatarola,EC,Galapagos-Inseln/Isla Santa Cruz/TORTUGA BAY und Umgebung,,1,-0.761639,-90.335083,6,7,1983
+1362630949,Pluvialis squatarola,EC,Santa Cruz--Finch Bay,Galápagos,1,-0.752997,-90.311615,9,4,2015
+2102623219,Pluvialis squatarola,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,9,2017
+2133781179,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2011
+3651601844,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,9,2021
+1791838629,Pluvialis squatarola,EC,Playa de la Estación,Galápagos,1,-0.742672,-90.30572,0,8,1985
+3603043931,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,4,2015
+980591440,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,2,2007
+2722703221,Pluvialis squatarola,EC,San Cristóbal--Muelle Puerto Baquerizo Moreno,Galápagos,1,-0.901872,-89.61229,7,4,2008
+1382011082,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,3,2010
+3725214914,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.95612,-90.97271,0,4,2019
+3198826376,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+2135667831,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2012
+839725091,Pluvialis squatarola,EC,Isabella Island,Galápagos,1,-0.908189,-91.02609,117,6,2012
+2563549092,Pluvialis squatarola,EC,,Galápagos,1,-0.956491,-90.97174,0,1,2020
+3663023563,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,10,2009
+2215595608,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,11,2017
+597795734,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,7,2011
+2204644126,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,11,2018
+2131420741,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2018
+1362329506,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2015
+2219191274,Pluvialis squatarola,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,11,2018
+971713179,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,12,2008
+1707788376,Pluvialis squatarola,EC,Santa Cruz--Media Luna,Galápagos,1,-0.666175,-90.32404,500,7,2004
+1374807227,Pluvialis squatarola,EC,Beach,Galápagos,1,-0.957831,-90.967674,0,4,2015
+2050106310,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,3,2017
+2106411200,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,2017
+3643299888,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,9,2021
+2749125843,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2019
+2703968414,Pluvialis squatarola,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,2,-0.782008,-89.52231,0,10,2019
+2187710492,Pluvialis squatarola,EC,Isabela--Concha de Perla,Galápagos,2,-0.962294,-90.95741,1,3,2014
+2095951313,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2017
+3521226753,Pluvialis squatarola,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,4,2015
+1411379363,Pluvialis squatarola,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,4,2015
+1198874969,Pluvialis squatarola,EC,Puerto Villamil--beach,Galápagos,1,-0.956925,-90.97334,0,11,2014
+3564338703,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,2021
+2801955077,Pluvialis squatarola,EC,Santa Cruz-Galápagos,Galápagos,1,-0.742921,-90.30848,6,7,2017
+182731420,Pluvialis squatarola,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,3,2008
+1401416676,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2015
+3565432250,Pluvialis squatarola,EC,Isabela--Las Lágrimas,Galápagos,1,-0.965027,-91.011734,56,7,2021
+182730026,Pluvialis squatarola,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,3,1989
+2114929925,Pluvialis squatarola,EC,Isabela--Elizabeth Bay,Galápagos,1,-0.597285,-91.08318,0,7,2004
+3583842758,Pluvialis squatarola,EC,Hostal La Jungla playa,Galápagos,1,-0.95675,-90.98898,8,9,2021
+2229411162,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,7,2018
+3186991584,Pluvialis squatarola,EC,Isla San Cristóbal,Galápagos,1,-0.888401,-89.49176,676,3,2012
+2197222691,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,7,2018
+1206485030,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2010
+2651763544,Pluvialis squatarola,EC,Puerto Villamil Area,Galápagos,1,-0.952619,-90.97039,8,3,2012
+2233459224,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,3,1999
+2798689218,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,5,2004
+1397670602,Pluvialis squatarola,EC,"Baltra Airport-->Cerro Dragon, Santa Cruz",Galápagos,1,-0.489916,-90.40285,0,11,2015
+2221032434,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,5,-0.957525,-90.978226,0,3,2015
+1791691367,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2013
+3575514900,Pluvialis squatarola,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,2,2003
+1399521350,Pluvialis squatarola,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,6,2011
+1401144563,Pluvialis squatarola,EC,Puerto Villamil Beach,Galápagos,4,-0.956281,-90.98162,0,11,2015
+2110011210,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2017
+970063922,Pluvialis squatarola,EC,Isla Santiago - Bucaneer Cove,Galápagos,2,-0.167976,-90.81402,208,11,2012
+3624746966,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,6,2017
+3585494343,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,12,2021
+1750640521,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,7,2012
+2791206284,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2010
+1173605574,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,11,2012
+597808960,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,7,2011
+3612282007,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,10,2021
+1167550520,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+3719749242,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.95674,-90.986389,7,4,2021
+2742977985,Pluvialis squatarola,EC,"Îles Galápagos, Seymour Norte EC-Province des Galapagos (-0,4059,-90,2779)",Galápagos,1,-0.405946,-90.277885,9,3,2019
+1194182219,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,10,2014
+967851231,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,7,1996
+597793253,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2011
+2204463499,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,9,2018
+2126731736,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2018
+2199377421,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,3,2006
+839762264,Pluvialis squatarola,EC,Tortuga Bay,Galápagos,1,-0.762,-90.337,3,4,2012
+935461229,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,11,2012
+3260871864,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,12,2008
+2758683942,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2019
+2791372108,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,7,2001
+2147098508,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2012
+2074237885,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+597689634,Pluvialis squatarola,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,3,2011
+2728948395,Pluvialis squatarola,EC,Beach near Villamil,Galápagos,3,-0.956616,-90.970665,0,2,2019
+3553229118,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2021
+3562332708,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2002
+2095951359,Pluvialis squatarola,EC,witch hill,Galápagos,1,-0.763527,-89.46478,0,10,2017
+2217553546,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+2101029166,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,12,2017
+2032631613,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2017
+3691233813,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,2,-1.236016,-90.44947,0,11,2021
+1397744651,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,11,2015
+2780785498,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,3,2008
+2116859061,Pluvialis squatarola,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,2,2018
+2778145154,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,10,2019
+2198596963,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,9,2018
+2090629817,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,11,2017
+3693532460,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2021
+1795231266,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,4,2011
+1405485421,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,8,2001
+1410092526,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2002
+2689885518,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,2,2019
+2779555969,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,3,2019
+2213528354,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,11,2018
+2116613615,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,12,2017
+2725322002,Pluvialis squatarola,EC,Santa Cruz--Angermeyer Point to Las Grietas trail,Galápagos,1,-0.754873,-90.31326,6,12,2019
+1356879589,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,3,2015
+1790380102,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,10,2013
+2046505921,Pluvialis squatarola,EC,Wall of Tears trail,Galápagos,1,-0.959205,-90.98858,7,1,2017
+2734425128,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,2,2019
+230461367,Pluvialis squatarola,EC,Santiago--Sullivan Bay,Galápagos,7,-0.291651,-90.566826,0,3,2006
+839546806,Pluvialis squatarola,EC,Punta Estrada to Las Grietas,Galápagos,1,-0.754,-90.312,10,4,2012
+2781606910,Pluvialis squatarola,EC,Roquedal,Galápagos,2,-0.958433,-90.96711,0,5,2017
+839745103,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,8,2012
+2115804494,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2017
+3573010581,Pluvialis squatarola,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,2,-0.950338,-90.97308,9,7,2021
+2694396432,Pluvialis squatarola,EC,"Bartholomew Island, Galapagos, Ecuador",Galápagos,1,-0.28372,-90.55394,4,8,2006
+3558548124,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,7,2021
+1411349979,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2015
+2796823324,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,6,-0.957511,-90.96847,0,11,2019
+2787094490,Pluvialis squatarola,EC,"San Cristobal Island, Galapagos, Ecuador",Galápagos,1,-0.924057,-89.42672,6,8,2006
+2093512975,Pluvialis squatarola,EC,Santa Cruz--Playa Garrapatero,Galápagos,1,-0.694628,-90.22084,2,11,2017
+3205715203,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2005
+2783803200,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,12,2019
+3565138341,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,2,-0.957511,-90.96847,0,8,2021
+1402561111,Pluvialis squatarola,EC,Mosquera Islet,Galápagos,2,-0.4059,-90.2774,1,12,2015
+2071652203,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,5,2017
+3687807346,Pluvialis squatarola,EC,"Puerto Villamil, beach by the town",Galápagos,2,-0.956851,-90.971146,0,12,2020
+2123028765,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,7,-0.957525,-90.978226,0,12,2017
+1409904682,Pluvialis squatarola,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,9,1985
+956784719,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,6,2005
+837807882,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,12,2010
+3558319974,Pluvialis squatarola,EC,Roca León Dormido--Pelagic and adjacent waters,Galápagos,7,-0.782008,-89.52231,0,10,2021
+2796488438,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2010
+2215140163,Pluvialis squatarola,EC,Isabela--Poza Puerta del Jelí,Galápagos,10,-0.955127,-90.97155,8,12,2018
+2695384391,Pluvialis squatarola,EC,"Las Fragatas, Puerto Villamil, Islas Galápagos, EC (-0,959, -90,966)",Galápagos,1,-0.958547,-90.96554,0,11,2018
+2723200391,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,7,2016
+839535496,Pluvialis squatarola,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,3,2012
+3552552725,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2021
+3625351878,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,6,2021
+3580261275,Pluvialis squatarola,EC,Santa Cruz--Playa Roja,Galápagos,2,-0.496817,-90.29848,6,10,2021
+2148767876,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2018
+3222762802,Pluvialis squatarola,EC,Isabela--Sendero Crianza Arnaldo Tupiza,Galápagos,2,-0.955375,-90.971275,8,1,2020
+1172457500,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,12,2010
+1184653277,Pluvialis squatarola,EC,Isla Santiago--Playa Espumilla,Galápagos,1,-0.315855,-90.83462,0,11,1994
+2047442430,Pluvialis squatarola,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,1,-0.436508,-90.284775,0,4,2017
+2097148508,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,1,2004
+3557322320,Pluvialis squatarola,EC,Santa Cruz--Las Grietas,Galápagos,1,-0.757638,-90.31487,12,10,2010
+1401504150,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2015
+3574575572,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,12,2021
+3585216760,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,11,2021
+2104601883,Pluvialis squatarola,EC,Isla Santiago,Galápagos,2,-0.264358,-90.715485,384,11,2017
+3575715580,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,8,2017
+2090414400,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2108172550,Pluvialis squatarola,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,2,2015
+837560787,Pluvialis squatarola,EC,Isla Santiago - James Bay,Galápagos,1,-0.242235,-90.860985,4,12,2006
+2713926841,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,12,2019
+3138290755,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2020
+2033954770,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,3,-0.694654,-90.2208,2,1,2017
+978273887,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2007
+1402550461,Pluvialis squatarola,EC,Mosquera Islet,Galápagos,2,-0.4059,-90.2774,1,12,2015
+3286593666,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,8,2017
+3694034533,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,11,2021
+1789308486,Pluvialis squatarola,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,1,-0.950338,-90.97308,9,2,2012
+2034467497,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,1,2017
+2044222676,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2017
+1362620671,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,4,2015
+1787742866,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,1985
+2719099669,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,3,-0.957525,-90.978226,0,1,2019
+3276124839,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2015
+230462889,Pluvialis squatarola,EC,EC-G Isla Mosquera,Galápagos,1,-0.392758,-90.260925,0,5,2009
+3139604014,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,1,2020
+935768504,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,3,2011
+1398018981,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,9,1991
+2788199312,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,10,2019
+1411120981,Pluvialis squatarola,EC,Beach near Darwin Station,Galápagos,1,-0.743616,-90.30466,0,9,1985
+3824219345,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.956372,-90.971476,0,4,2022
+3211783507,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,11,2014
+1173609767,Pluvialis squatarola,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2012
+2210712993,Pluvialis squatarola,EC,"Calle No. 8, Puerto Ayora, EC (-0,74, -90,312)",Galápagos,1,-0.739639,-90.311806,10,9,2018
+2073331099,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+3240209166,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,2,2020
+2796220882,Pluvialis squatarola,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+2713223632,Pluvialis squatarola,EC,Santiago--Sullivan Bay,Galápagos,1,-0.291651,-90.566826,0,12,1991
+2049038081,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,3,-0.956961,-90.96559,9,3,2017
+935773492,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2011
+2229314534,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,4,1984
+2677521115,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,2,2019
+2717286270,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,12,2018
+3584317463,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,7,2000
+2791822545,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,4,2008
+3661666591,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2021
+3167982225,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+979598853,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,3,2002
+2676579664,Pluvialis squatarola,EC,Santiago--Coast near Sombrero Chino,Galápagos,1,-0.366924,-90.586586,1,10,2016
+3246692474,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+1790067328,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+2790206619,Pluvialis squatarola,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,11,2019
+2720000306,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,2,2015
+2217215815,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,4,-0.957525,-90.978226,0,4,2018
+941847951,Pluvialis squatarola,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,1,2010
+2116777475,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,12,2017
+2756685476,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,5,2017
+3635376392,Pluvialis squatarola,EC,San Cristóbal--Puerto Baquerizo Moreno bay,Galápagos,1,-0.897976,-89.61358,0,10,2010
+3632650027,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,7,2021
+937749694,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2008
+182732731,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,12,2007
+1402547845,Pluvialis squatarola,EC,Santa Cruz - Cerro Dragon,Galápagos,1,-0.5297,-90.4858,10,12,2015
+2709439486,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,10,2019
+2052701507,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,3,2017
+1398167566,Pluvialis squatarola,EC,Isabela--Sierra Negra,Galápagos,1,-0.793222,-91.09752,892,2,2008
+1791159241,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,5,2010
+2788652665,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2010
+2142122356,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,3,2018
+2711105529,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2019
+595904350,Pluvialis squatarola,EC,Isla Isabela--Puerto Villamil area,Galápagos,5,-0.953707,-90.96954,6,6,2008
+2039089329,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,2,2017
+2033699958,Pluvialis squatarola,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,1,2017
+2773458279,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,5,2017
+2720419611,Pluvialis squatarola,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+1763239153,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,8,2016
+3222362895,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2020
+2195593945,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2010
+2184056191,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,3,-1.226127,-90.42834,12,4,2018
+2194178349,Pluvialis squatarola,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,1,-0.436508,-90.284775,0,10,2018
+597652658,Pluvialis squatarola,EC,Puerto Villamil-El Cura,Galápagos,1,-0.928304,-91.01349,39,6,2011
+3214795096,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2000
+3555920375,Pluvialis squatarola,EC,Isabela--road to highlands,Galápagos,2,-0.915431,-90.99772,24,12,2021
+2665249586,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,2,2019
+2194096092,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,10,2018
+3277918277,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2017
+1370707529,Pluvialis squatarola,EC,Playa Puerto Villamil,Galápagos,1,-0.957311,-90.967674,2,5,2015
+1196810403,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2010
+2688164387,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,1,2010
+1778531956,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,8,2011
+2176358047,Pluvialis squatarola,EC,Isabela--Posada De Flamengos,Galápagos,2,-0.945527,-90.97488,7,6,2018
+1782927793,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,6,2016
+1356501657,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,2,2015
+3581793600,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,2021
+1382861694,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,7,2002
+2658844909,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.95056,-90.96748,7,1,2019
+3630758913,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,11,2021
+3212001497,Pluvialis squatarola,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,12,2019
+2095738381,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2017
+3586700405,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,3,2003
+2048549198,Pluvialis squatarola,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,2,2017
+972542145,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2008
+1202918038,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,12,2014
+2101014099,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,5,-0.956961,-90.96559,9,12,2017
+2654594344,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.95056,-90.96748,7,1,2019
+2215616581,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,2,2017
+1151532277,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2014
+1402562481,Pluvialis squatarola,EC,Santa Cruz - Cerro Dragon,Galápagos,1,-0.5297,-90.4858,10,12,2015
+3134389595,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,2,2020
+597502847,Pluvialis squatarola,EC,Centro de Crianza A. Tupiza (camino al),Galápagos,1,-0.947334,-90.97392,11,5,2011
+2114404867,Pluvialis squatarola,EC,Isabela - Trail to Muro de las Lagrimas and wetlands,Galápagos,1,-0.960357,-91.00205,12,12,2017
+2773540502,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,3,2009
+3638858702,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2021
+2851111074,Pluvialis squatarola,EC,,Galápagos,1,-0.694649,-90.220802,2,1,2015
+1410974713,Pluvialis squatarola,EC,Santa Cruz--Puerto Ayora,Galápagos,2,-0.742329,-90.31457,12,7,2012
+595929703,Pluvialis squatarola,EC,Galapagos Islands - Isla Isabela,Galápagos,1,-0.071411,-91.41449,0,3,2008
+1385347303,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,1,2006
+182730212,Pluvialis squatarola,EC,Bachas Beach Start Trip,Galápagos,1,-0.539484,-90.37798,68,3,2008
+1784153629,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2012
+2423087341,Pluvialis squatarola,EC,,Galápagos,1,-0.957674,-90.969182,0,1,2019
+2550051747,Pluvialis squatarola,EC,,Galápagos,1,-0.957135,-90.969118,0,1,2020
+2081158073,Pluvialis squatarola,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,1,-0.950338,-90.97308,9,9,2017
+3284279923,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,3,2016
+3640379476,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,8,2021
+1184753697,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,1994
+1203634423,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.267791,-90.719604,409,4,1989
+923072580,Pluvialis squatarola,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,7,2011
+3184100787,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,12,2008
+1986629291,Pluvialis squatarola,EC,,Galápagos,1,-0.957825,-90.96584,0,2,2015
+3090708702,Pluvialis squatarola,EC,,Galápagos,1,-0.958522,-90.964418,0,7,2018
+3008488381,Pluvialis squatarola,EC,,Galápagos,1,-0.76263,-90.340698,7,3,2018
+3669572481,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2004
+2160316468,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2018
+2423089480,Pluvialis squatarola,EC,,Galápagos,1,-0.957674,-90.969182,0,1,2019
+2574215348,Pluvialis squatarola,EC,,Galápagos,1,-0.96028,-90.960418,9,11,2008
+2460054279,Pluvialis squatarola,EC,,Galápagos,1,-0.96028,-90.960418,9,11,2008
+3070470111,Pluvialis squatarola,EC,,Galápagos,1,-0.958392,-90.966804,0,2,2012
+2423089076,Pluvialis squatarola,EC,,Galápagos,1,-0.9573,-90.976431,5,1,2019
+3067604474,Pluvialis squatarola,EC,,Galápagos,1,-0.958472,-90.97138,0,4,2018
+3067912485,Pluvialis squatarola,EC,,Galápagos,1,-0.957419,-90.979081,0,4,2018
+4011701666,Pluvialis squatarola,EC,,Galápagos,1,-1.226389,-90.42683,19,12,2022
+2423086304,Pluvialis squatarola,EC,,Galápagos,1,-0.9573,-90.976431,5,1,2019
+3582724393,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,2021
+2038165844,Pluvialis squatarola,EC,"Bachas Beach. Santa Cruz Island. Galapagos -0.4940x-90.3398 - Feb 8, 2017, 9:40 AM",Galápagos,2,-0.494048,-90.33976,3,2,2017
+2724029240,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,4,2008
+3535959489,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2021
+3255787804,Pluvialis squatarola,EC,Isabella - El Estero,Galápagos,5,-0.960092,-90.993996,0,1,2020
+1409905938,Pluvialis squatarola,EC,Isla Santiago--Playa Espumilla,Galápagos,1,-0.315855,-90.83462,0,9,1985
+2789008680,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,2,-0.694654,-90.2208,2,3,2015
+2726975832,Pluvialis squatarola,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,10,2009
+597451904,Pluvialis squatarola,EC,Muro de las Lágrimas (camino hacia),Galápagos,4,-0.958341,-90.99426,10,5,2011
+2233285187,Pluvialis squatarola,EC,Isabela--Laguna Salinas,Galápagos,5,-0.955573,-90.96804,5,2,2012
+2090851226,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2716585649,Pluvialis squatarola,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,1,1988
+2148096117,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,2,-0.956961,-90.96559,9,3,2018
+2223489663,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,12,2010
+837306135,Pluvialis squatarola,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,3,1994
+972376383,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,10,2013
+3242853757,Pluvialis squatarola,EC,Santa Cruz--Playa Garrapatero,Galápagos,1,-0.694628,-90.22084,2,2,2020
+840396649,Pluvialis squatarola,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,11,2012
+2750259616,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,2,2019
+837560902,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2006
+2170446561,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,2,-0.957525,-90.978226,0,2,2017
+1790236535,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,4,2015
+839837189,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2012
+1381186772,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,2011
+3686972539,Pluvialis squatarola,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,11,2002
+2691166314,Pluvialis squatarola,EC,Isabela--Sierra Negra highlands,Galápagos,2,-0.840932,-91.07219,631,8,2019
+3194806732,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,11,2005
+2705729695,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,2,-0.957525,-90.978226,0,10,2019
+2048205396,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,4,2017
+2735922959,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2019
+2084175713,Pluvialis squatarola,EC,Galapagos Islands--entire area (*historical checklists only; please use a more precise location when possible),Galápagos,1,-0.478779,-90.62516,0,9,2017
+1193995900,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,6,2011
+839789221,Pluvialis squatarola,EC,Puerto Villamil,Galápagos,1,-0.956,-90.968,6,4,2012
+2739130313,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2001
+3682743135,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,12,2021
+2699942891,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,8,2019
+1206235579,Pluvialis squatarola,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,1,-0.953513,-90.97206,7,2,2008
+1385333584,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,1,2006
+1355389637,Pluvialis squatarola,EC,Santa Cruz--Playa Garrapatero,Galápagos,2,-0.694628,-90.22084,2,3,2015
+1412505937,Pluvialis squatarola,EC,"Isabela, Puerto Villamil",Galápagos,1,-0.957826,-90.98396,0,4,2011
+2229615563,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,3,2010
+1206390619,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2014
+2227654299,Pluvialis squatarola,EC,Isla Santiago--Navigation Pto Egas-Bucanero Cove,Galápagos,1,-0.206251,-90.8538,0,4,2011
+3135600862,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,1,2020
+960728928,Pluvialis squatarola,EC,"Santiago, Galapagos",Galápagos,1,-0.271224,-90.7045,316,5,2008
+2162553367,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2018
+972826796,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2013
+1374402459,Pluvialis squatarola,EC,Santa Cruz--Caleta Tortuga Negra (Black Turtle Cove),Galápagos,1,-0.497125,-90.32599,0,6,2015
+1196809051,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2010
+2147897204,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2018
+1207061903,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,4,2011
+3651146992,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,12,2021
+972827449,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,3,2013
+972380738,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,10,2013
+2229540471,Pluvialis squatarola,EC,Cerro Azul Second caseta,Galápagos,1,-0.97942,-91.411606,525,2,2012
+595498065,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,8,2001
+2220169795,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,3,-0.244788,-90.86174,16,11,2004
+2130195968,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,10,2017
+182730027,Pluvialis squatarola,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,3,1989
+3214555285,Pluvialis squatarola,EC,Tortuga Bay,Galápagos,3,-0.763638,-90.33925,9,11,2020
+2114812288,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,12,2017
+3730760249,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.95611,-90.97217,0,4,2021
+1208671992,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,3,2012
+941052536,Pluvialis squatarola,EC,Punta Estresa hike,Galápagos,3,-0.959199,-90.98843,6,2,2013
+2210318815,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,9,2018
+267690319,Pluvialis squatarola,EC,GA16 - Puerto Villamil Lagoon,Galápagos,1,-0.955833,-90.967964,5,4,2009
+2776418716,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,8,2019
+2144074783,Pluvialis squatarola,EC,Puerto Villamil,Galápagos,1,-0.739091,-90.30973,12,5,2018
+2148210482,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2018
+2139874530,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,4,2018
+1173568989,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,11,2012
+2682179749,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2019
+2718035865,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,3,2011
+1775798680,Pluvialis squatarola,EC,Floreana--Corona del Diablo,Galápagos,3,-1.216322,-90.42308,0,11,2016
+1401416719,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2015
+2084399949,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2017
+3172161020,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2005
+2040706646,Pluvialis squatarola,EC,Isabela--El Estero Ponds,Galápagos,1,-0.958738,-90.99153,8,3,2017
+3579868530,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,12,2021
+1767874664,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2013
+2155540336,Pluvialis squatarola,EC,"Galapagos Islands, San Cristobal EC-Galapagos (-0.9013,-89.6067)",Galápagos,1,-0.901277,-89.606735,23,4,2018
+1399030033,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,11,2015
+2060584313,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,4,2017
+2660942413,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,9,-0.957525,-90.978226,0,2,2019
+3143188299,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,3,-0.957525,-90.978226,0,2,2020
+3179821646,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,11,2005
+3537986163,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,7,2021
+595757689,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,4,2006
+2222934881,Pluvialis squatarola,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,11,2018
+2112524073,Pluvialis squatarola,EC,"Playa Rosablanca, San Cristóbal, Islas Galápagos, EC (-0.824, -89.352)",Galápagos,1,-0.824193,-89.35171,5,12,2017
+2724514754,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,5,2015
+3690182583,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,8,2021
+3640744187,Pluvialis squatarola,EC,"santa cruz,galapagos,ecuador",Galápagos,1,-0.666946,-90.428955,272,1,2014
+2798697163,Pluvialis squatarola,EC,"Puerto Villamil, EC (-0,959, -90,964)",Galápagos,1,-0.95858,-90.9639,0,2,2019
+267553105,Pluvialis squatarola,EC,GA16 - Puerto Villamil Lagoon,Galápagos,3,-0.955833,-90.967964,5,4,2009
+1162154422,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,3,2014
+2719320582,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2019
+3585264600,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,3,-0.957525,-90.978226,0,11,2021
+3228511219,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2020
+3648554024,Pluvialis squatarola,EC,Isabela--Concha de Perla,Galápagos,1,-0.962294,-90.95741,1,12,2021
+2090356047,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,2,-0.971223,-90.96124,0,9,2017
+1791916160,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,11,2011
+1792191360,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,8,2001
+1402834344,Pluvialis squatarola,EC,"Santa Cruz , Galapagos",Galápagos,1,-0.43882,-90.27967,9,12,1988
+3602794539,Pluvialis squatarola,EC,Santa Cruz--Playa Roja,Galápagos,1,-0.496817,-90.29848,6,10,2021
+2215478190,Pluvialis squatarola,EC,Isabela--Centro de Crianza Tortugas,Galápagos,1,-0.947227,-90.97397,12,11,2018
+840304147,Pluvialis squatarola,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,11,2012
+1398972954,Pluvialis squatarola,EC,"Ecuador, Galapagos, Isabella: De la mer à Sierra Negra",Galápagos,1,-0.884965,-91.00469,85,11,2015
+3230304249,Pluvialis squatarola,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,8,2019
+2194772864,Pluvialis squatarola,EC,Los Bachas,Galápagos,1,-0.494085,-90.340576,4,8,2018
+2124301931,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,7,2017
+2134030926,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,2,2018
+1359473826,Pluvialis squatarola,EC,Puerto Villamil Isabella,Galápagos,2,-0.95568,-90.97231,5,4,2015
+1174925478,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,12,2012
+1778791861,Pluvialis squatarola,EC,Isabela--Posada De Flamengos,Galápagos,2,-0.945527,-90.97488,7,10,2009
+597615432,Pluvialis squatarola,EC,Tortuga Bay,Galápagos,1,-0.761065,-90.33234,6,2,2011
+2205454650,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,8,2018
+3266241052,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,10,2020
+979901284,Pluvialis squatarola,EC,Isabela--Darwin Lake,Galápagos,2,-0.25644,-91.37191,15,7,2005
+2708191729,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,11,2019
+1766965798,Pluvialis squatarola,EC,Isla Santiago,Galápagos,2,-0.264358,-90.715485,384,10,2016
+3657523258,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2021
+2670373615,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2019
+1380563704,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,1,2015
+3680552500,Pluvialis squatarola,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2010
+2029124883,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,1,2013
+1197771107,Pluvialis squatarola,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2014
+3610123913,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,2,2021
+2040702966,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,3,2017
+1201818668,Pluvialis squatarola,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,11,1992
+2775269260,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,11,2005
+3298500193,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2020
+597660837,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,7,2011
+941041879,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,2,2013
+2215579976,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,11,2017
+2188758846,Pluvialis squatarola,EC,"Galapagos Islands, Floreana EC-Galapagos (-1.2403,-90.4065)",Galápagos,3,-1.240315,-90.4065,28,7,2018
+2154306882,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,4,2018
+1774705368,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,11,2016
+1777943016,Pluvialis squatarola,EC,Puerto Villamil Beach,Galápagos,1,-0.956281,-90.98162,0,8,2008
+2038301150,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,2,2017
+1763976679,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,8,2016
+2081997755,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2017
+3666358547,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,1,2012
+2746399585,Pluvialis squatarola,EC,Isabela--Los Tuneles,Galápagos,2,-1.050165,-91.16803,0,10,2018
+2105767490,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,2,-0.764342,-89.45876,8,11,2017
+3578068110,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,12,2021
+2793357790,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,11,2010
+3170876711,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,11,2005
+2760416243,Pluvialis squatarola,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,11,2014
+1791935680,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,11,2011
+3649873983,Pluvialis squatarola,EC,"Parque Nacional Galápagos, Floreana EC-Galapagos -1.22758, -90.44505",Galápagos,1,-1.227581,-90.445045,0,12,2021
+597692831,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,11,2011
+2669065376,Pluvialis squatarola,EC,Isabela--Los Tuneles,Galápagos,1,-1.050165,-91.16803,0,3,2019
+1407212811,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,6,2001
+1201807205,Pluvialis squatarola,EC,Puerto Villamil al Centro de cria de tortugas,Galápagos,1,-0.952295,-90.97109,10,10,2012
+2174116600,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,7,2018
+1405325557,Pluvialis squatarola,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,3,2008
+1374397962,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,6,2015
+2111986919,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,12,2017
+2123044679,Pluvialis squatarola,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,1,-0.953513,-90.97206,7,12,2017
+3201376280,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.22613,-90.42834,12,12,2015
+149840059,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,1990
+1780825883,Pluvialis squatarola,EC,Genovesa (Tower),Galápagos,2,0.324095,-89.972534,42,12,2016
+3575458507,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,2,2003
+3135020366,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,9,-0.957525,-90.978226,0,2,2020
+3570409425,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2021
+1401084969,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.22613,-90.42834,12,12,2015
+1356522753,Pluvialis squatarola,EC,Santa Cruz--Playa Garrapatero,Galápagos,2,-0.694628,-90.22084,2,3,2015
+1343871894,Pluvialis squatarola,EC,"Isabela, Puerto Villamil",Galápagos,1,-0.957826,-90.98396,0,4,2011
+1409594922,Pluvialis squatarola,EC,"-0.9569x-90.9693 - Nov 18, 2015, 16:30 bottle beach",Galápagos,1,-0.956869,-90.9693,1,11,2015
+3248110337,Pluvialis squatarola,EC,Isla Isabela--Laguna Flamencos,Galápagos,1,-0.952301,-90.97106,9,2,2020
+979669403,Pluvialis squatarola,EC,Isabela--Sierra Negra highlands,Galápagos,1,-0.840932,-91.07219,631,8,2011
+1203378322,Pluvialis squatarola,EC,Isabela--wetlands south of tortoise breeding center,Galápagos,1,-0.953513,-90.97206,7,3,2014
+1792259231,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,8,2001
+2798203375,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,2,2015
+182731371,Pluvialis squatarola,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,3,2008
+3646344866,Pluvialis squatarola,EC,Isabela--road to highlands,Galápagos,1,-0.915431,-90.99772,24,11,2021
+2655423886,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,2,-0.76169,-90.33593,5,2,2019
+230459371,Pluvialis squatarola,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,12,2003
+182735740,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,11,2007
+3579860854,Pluvialis squatarola,EC,Isla Santiago,Galápagos,2,-0.264358,-90.715485,384,11,2004
+2204973922,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,10,2017
+1790183407,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,2,2007
+3275326057,Pluvialis squatarola,EC,Roquedal,Galápagos,2,-0.958433,-90.96711,0,5,2017
+3213410861,Pluvialis squatarola,EC,Isla Rábida,Galápagos,1,-0.400654,-90.70776,9,11,2015
+3218905263,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,2,2020
+2778968351,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,1,2005
+182731378,Pluvialis squatarola,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,3,2008
+2794323689,Pluvialis squatarola,EC,Floreana--Mirador de la Baronessa,Galápagos,1,-1.226396,-90.43843,0,3,2009
+3133098829,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2020
+1201812673,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,1992
+2776472975,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,6,-0.957511,-90.96847,0,11,2019
+1151531655,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2014
+1780998988,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,2,-0.264551,-91.445946,0,12,2016
+1202878310,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,3,2001
+3296837137,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2020
+3096989963,Pluvialis squatarola,EC,,Galápagos,1,-0.958522,-90.964418,0,7,2018
+3213231188,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.52693,-90.48803,6,12,2015
+3547098760,Pluvialis squatarola,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,5,2021
+2717531822,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,3,2019
+3259175098,Pluvialis squatarola,EC,Isla Isabela--Laguna Flamencos,Galápagos,2,-0.952301,-90.97106,9,3,2012
+1376410707,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,6,2015
+182730213,Pluvialis squatarola,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,3,2008
+837905648,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,2,-0.405031,-90.27793,9,11,2011
+2037687128,Pluvialis squatarola,EC,Isabela--El Estero Ponds,Galápagos,1,-0.958738,-90.99153,8,3,2017
+2121175307,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,1,-0.957511,-90.96847,0,12,2017
+2788975237,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,9,2018
+2186505350,Pluvialis squatarola,EC,"Volcan Alcedo, Isabela, landing bay",Galápagos,1,-0.392211,-90.99506,8,1,2017
+979752950,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,4,-0.284871,-90.55391,10,11,2008
+2029972945,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,4,-0.971223,-90.96124,0,1,2017
+2663613296,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2019
+230470464,Pluvialis squatarola,EC,Baroness Trail,Galápagos,1,-1.223,-90.419,0,9,2009
+3690270350,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,12,2021
+1204840068,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,11,2010
+2088962558,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2017
+2708490362,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,11,2005
+2138545080,Pluvialis squatarola,EC,Isabela--Trail from Centro Tortugas to Laguna Flamencos to Pue,Galápagos,1,-0.950338,-90.97308,9,3,2018
+3256612313,Pluvialis squatarola,EC,Isla Mosquera,Galápagos,1,-0.405031,-90.27793,9,10,2018
+979677258,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,8,2011
+1154695175,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,1,2014
+2099646674,Pluvialis squatarola,EC,Isla Floreana,Galápagos,2,-1.3,-90.4333,398,7,2017
+1401070352,Pluvialis squatarola,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,12,2015
+3235056943,Pluvialis squatarola,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,1,2020
+1207663812,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,2,2014
+975179429,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,11,2013
+2709921545,Pluvialis squatarola,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,4,2008
+1782935648,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,6,2012
+837882960,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2011
+1778054181,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,4,2009
+267589910,Pluvialis squatarola,EC,GA16 - Puerto Villamil Lagoon,Galápagos,1,-0.955833,-90.967964,5,4,2009
+1372728804,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,5,2015
+2202600242,Pluvialis squatarola,EC,Isabela--El Estero Ponds,Galápagos,1,-0.958738,-90.99153,8,5,1996
+2161287617,Pluvialis squatarola,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,6,2018
+1397682500,Pluvialis squatarola,EC,Santa Fe (Barrington Bay)-->South Plaza,Galápagos,1,-0.696499,-90.14621,0,11,2015
+2220257724,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2001
+1198627885,Pluvialis squatarola,EC,ECU; Isla Santiago,Galápagos,1,-0.239639,-90.844574,14,5,2005
+2658457306,Pluvialis squatarola,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,2,2019
+1194192077,Pluvialis squatarola,EC,Playa Tortuga Bay,Galápagos,1,-0.76169,-90.33593,5,10,2014
+2229159907,Pluvialis squatarola,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,7,2001
+936860092,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,6,1999
+974257150,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2013
+2796398886,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,7,2017
+2184426535,Pluvialis squatarola,EC,Isabela--El Estero Ponds,Galápagos,1,-0.958738,-90.99153,8,3,2011
+3179213898,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,6,2005
+2202479933,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,6,-0.957511,-90.96847,0,9,2018
+1792258018,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,8,2001
+3561040977,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,2021
+1790278113,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,2,-0.264551,-91.445946,0,7,1986
+595751420,Pluvialis squatarola,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,4,2006
+3651581713,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach front,Galápagos,3,-0.957511,-90.96847,0,12,2019
+2030011409,Pluvialis squatarola,EC,Wall of Tears trail,Galápagos,1,-0.959205,-90.98858,7,1,2017
+2190984532,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,1,-0.526929,-90.48804,6,7,2018
+1748724517,Pluvialis squatarola,EC,Santa Cruz--Galapagos Safari Camp,Galápagos,1,-0.631229,-90.435356,373,10,2010
+3221895694,Pluvialis squatarola,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2020
+3670913170,Pluvialis squatarola,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,10,2005
+2766275599,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,8,2011
+1398984950,Pluvialis squatarola,EC,"Ecuador, Galapagos, Isabella: De la mer à Sierra Negra",Galápagos,1,-0.884965,-91.00469,85,11,2015
+1174907893,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,12,2012
+978271099,Pluvialis squatarola,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,11,2008
+2724716300,Pluvialis squatarola,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,7,2005
+1206573944,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,6,2001
+1194193319,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,10,2014
+2233330261,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2016
+3173671948,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,5,-0.956961,-90.96559,9,8,2008
+2662509507,Pluvialis squatarola,EC,Baltra--Muelle de Pasajeros Seymour,Galápagos,1,-0.436508,-90.284775,0,2,2019
+891085631,Pluvialis squatarola,EC,,Galápagos,1,-0.957159,-90.969186,0,3,2012
+2801832448,Pluvialis squatarola,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,10,2018
+1347969563,Pluvialis squatarola,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2015
+3466163257,Pluvialis squatarola,EC,,Galápagos,1,-0.764301,-90.339954,4,4,2012
+1189656827,Pluvialis squatarola,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,3,2011
+3725405538,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.957228,-90.966484,8,10,2019
+1754166056,Pluvialis squatarola,EC,Santa Cruz--Cerro Dragon,Galápagos,2,-0.526929,-90.48804,6,6,2016
+3212853607,Pluvialis squatarola,EC,"Las Bachas, lake",Galápagos,2,-0.494169,-90.34412,3,11,2020
+3169994910,Pluvialis squatarola,EC,Pelagic Sombrero Chino <-> Rabida,Galápagos,1,-0.401141,-90.64064,0,1,2020
+3635918643,Pluvialis squatarola,EC,Isla Floreana,Galápagos,1,-1.3,-90.4333,398,1,2020
+944381112,Pluvialis squatarola,EC,Puerto Villamil Beach,Galápagos,2,-0.957311,-90.9692,0,3,2013
+3133071370,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,1,2020
+2832727558,Pluvialis squatarola,EC,Ecuador - Galápagos - Santa Cruz,,1,-0.607075,-90.359157,479,9,2004
+2423088758,Pluvialis squatarola,EC,,Galápagos,1,-0.957674,-90.969182,0,1,2019
+2800264600,Pluvialis squatarola,EC,Isla Santiago--Puerto Egas,Galápagos,6,-0.244788,-90.86174,16,11,2010
+2717873222,Pluvialis squatarola,EC,Isabela--Puerto Villamil beach west,Galápagos,6,-0.957525,-90.978226,0,2,2015
+2683918481,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,3,2019
+3827033261,Pluvialis squatarola,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.956445,-90.971497,0,4,2022
+4011849660,Pluvialis squatarola,EC,,Galápagos,1,-0.956994,-90.969181,0,12,2022
+4015017963,Pluvialis squatarola,EC,,Galápagos,1,-1.226489,-90.426214,43,12,2022
+2791494113,Pluvialis squatarola,EC,Isla Seymour Norte,Galápagos,1,-0.39558,-90.28446,16,9,2015
+1677307553,Pluvialis squatarola,EC,,Galápagos,1,-0.956707,-90.981876,0,3,2017
+4009904618,Pluvialis squatarola,EC,,Galápagos,1,-0.49328,-90.343633,9,10,2022
+1038782653,Pluvialis squatarola,EC,Galapagos-Inseln/Isla Plaza Sur/SOUTH PLAZA,,1,-0.584497,-90.161362,4,4,1992
+2152807520,Pluvialis squatarola,EC,Santa Cruz--Tortuga Bay and trail from Puerto Ayora,Galápagos,1,-0.760905,-90.332214,6,3,2018
+923068729,Pluvialis squatarola,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,2,2009
+923067780,Pluvialis squatarola,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,2,2009

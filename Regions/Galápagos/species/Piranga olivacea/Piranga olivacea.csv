@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1185906119,Piranga olivacea,EC,Isla Marchena--Entire,Galápagos,1,0.330961,-90.47516,168,10,2002
+1777832789,Piranga olivacea,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,10,1995

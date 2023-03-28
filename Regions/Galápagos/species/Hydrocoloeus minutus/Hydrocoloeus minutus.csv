@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3553695456,Hydrocoloeus minutus,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,3,2021
+3524791530,Hydrocoloeus minutus,EC,San Cristóbal--Cerro Tijeretas trails,Galápagos,1,-0.891571,-89.60962,21,3,2021
+3561766411,Hydrocoloeus minutus,EC,San Cristóbal<-->Santa Fé pelagic,Galápagos,1,-0.856723,-89.79761,0,4,2021
+3599417842,Hydrocoloeus minutus,EC,"Puerto Baquerizo Moreno, Lagoon by stream outlet",Galápagos,1,-0.903201,-89.61307,14,5,2021

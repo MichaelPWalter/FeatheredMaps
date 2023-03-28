@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1161577061,Tyrannus tyrannus,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,11,2008
+845537726,Tyrannus tyrannus,EC,Isla Isabela,Galápagos,1,-0.752714,-91.0128,130,1,2011
+1185912898,Tyrannus tyrannus,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,6,1995
+1179469972,Tyrannus tyrannus,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,6,2014

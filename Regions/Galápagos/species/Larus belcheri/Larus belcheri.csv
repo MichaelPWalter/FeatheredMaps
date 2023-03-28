@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3609312142,Larus belcheri,EC,"Puerto Baquerizo Moreno, Lagoon by stream outlet",Galápagos,1,-0.903201,-89.61307,14,5,2021
+3559591163,Larus belcheri,EC,"Second Dock, Puerto Baquerizo Moreno",Galápagos,1,-0.899984,-89.61093,0,5,2021

@@ -1,0 +1,177 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+4009734735,Hirundo rustica,EC,,Galápagos,1,-0.803795,-90.040643,0,12,2022
+2713759183,Hirundo rustica,EC,Floreana--Post Office Bay,Galápagos,2,-1.236016,-90.44947,0,10,2019
+2787700824,Hirundo rustica,EC,San Cristóbal--Muelle Puerto Baquerizo Moreno,Galápagos,2,-0.901872,-89.61229,7,10,2008
+278341872,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2007
+972359403,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2013
+2783680337,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,10,2019
+2663362253,Hirundo rustica,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,3,2014
+277388726,Hirundo rustica,EC,Isla San Cristóbal--Cerro Brujo,Galápagos,1,-0.766638,-89.45821,0,9,2007
+2799329498,Hirundo rustica,EC,Estrella del Mar,Galápagos,1,-0.745749,-90.310875,0,4,2019
+2100973741,Hirundo rustica,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,12,2017
+2673969850,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,4,-1.353596,-89.66131,16,3,2019
+3572444569,Hirundo rustica,EC,"Parque Nacional Galápagos, Espanola EC-Galapagos -1.34351, -89.65066",Galápagos,2,-1.343512,-89.65066,0,10,2021
+2145540972,Hirundo rustica,EC,"Gardner Bay, Española Island, Galapagos",Galápagos,1,-1.355998,-89.66024,5,10,2015
+1185912953,Hirundo rustica,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,9,1980
+2145563263,Hirundo rustica,EC,"South Plaza, Santa Fe Islands, Galapagos",Galápagos,1,-0.583124,-90.16556,9,10,2015
+2093848176,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,11,2017
+971979833,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2013
+2776145163,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,10,2019
+1356483664,Hirundo rustica,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,2,-0.901721,-89.61024,6,3,2015
+2202570603,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,10,2018
+2707007951,Hirundo rustica,EC,Floreana--Post Office Bay,Galápagos,4,-1.236016,-90.44947,0,11,2019
+3222118742,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,3,2020
+3681212910,Hirundo rustica,EC,Isla Santa Fe--Barrington Bay,Galápagos,4,-0.803795,-90.04064,0,10,2021
+2770208771,Hirundo rustica,EC,San Cristóbal--Muelle Puerto Baquerizo Moreno,Galápagos,2,-0.901872,-89.61229,7,9,2019
+590209322,Hirundo rustica,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,10,2011
+1785155296,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2014
+278349891,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,9,2007
+1792860461,Hirundo rustica,EC,Isla Española,Galápagos,4,-1.3753,-89.6777,130,10,2004
+278421086,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,9,2007
+2223341930,Hirundo rustica,EC,"Galapagos Islands, Espanola EC-Galapagos (-1.3858,-89.6265)",Galápagos,1,-1.385751,-89.626465,0,10,2018
+3183731507,Hirundo rustica,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,9,2014
+1185912922,Hirundo rustica,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,11,2002
+1783346729,Hirundo rustica,EC,Isla Española,Galápagos,2,-1.3753,-89.6777,130,11,2000
+975172950,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,11,2013
+2785946589,Hirundo rustica,EC,San Cristóbal--La Loberia,Galápagos,1,-0.926588,-89.61181,1,1,2019
+1407702244,Hirundo rustica,EC,Isla San Cristóbal,Galápagos,2,-0.905648,-89.530334,450,10,2014
+3632238700,Hirundo rustica,EC,"15 Oct 2021 07:00--1,352, -89,662",Galápagos,1,-1.351565,-89.661804,0,10,2021
+3694105026,Hirundo rustica,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,11,2009
+277457373,Hirundo rustica,EC,Isla Baltra,Galápagos,3,-0.462708,-90.275085,33,6,2008
+3178098678,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2005
+2720644760,Hirundo rustica,EC,San Cristóbal--Playa Mann,Galápagos,2,-0.895628,-89.60939,0,11,2019
+3552937458,Hirundo rustica,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,3,2019
+831590260,Hirundo rustica,EC,San Cristóbal--Punta Pitt,Galápagos,1,-0.712999,-89.24687,6,10,2012
+1200969515,Hirundo rustica,EC,EC-Galapagos Islands -Cerro Brujo -0.7944x-89.4701 - 2 Dec 2014 9:58 pm,Galápagos,1,-0.794354,-89.47006,0,10,2014
+1356467572,Hirundo rustica,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,2,-0.901721,-89.61024,6,3,2015
+1383568270,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,2015
+2215130192,Hirundo rustica,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,9,2018
+1203630958,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,4,1989
+2112531081,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2017
+2778546576,Hirundo rustica,EC,Floreana--Mirador de la Baronessa,Galápagos,2,-1.226396,-90.43843,0,10,2019
+1392865077,Hirundo rustica,EC,Bahia Sardinas,Galápagos,2,-0.697075,-89.36213,5,10,2015
+3181402465,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,11,2014
+3611284857,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,10,2021
+1769555583,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2016
+3179901631,Hirundo rustica,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,3,2020
+2106380582,Hirundo rustica,EC,Santa Cruz--Las Bachas Beach,Galápagos,2,-0.494164,-90.340706,4,11,2017
+2762753693,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,11,2019
+2104929397,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2017
+2705874750,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2019
+2125149485,Hirundo rustica,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,12,2017
+2668666557,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,3,2019
+2092607913,Hirundo rustica,EC,Isabela--Tintoreras,Galápagos,1,-0.971223,-90.96124,0,9,2017
+2661435473,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2001
+1194454349,Hirundo rustica,EC,Isla Española,Galápagos,3,-1.3753,-89.6777,130,10,2014
+2721143170,Hirundo rustica,EC,"Galapagos Islands, Espanola EC-Galapagos (-1.3668,-89.7419) Punta Suarez anchorage",Galápagos,1,-1.366773,-89.741936,0,10,2019
+2117947958,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,11,2006
+1410021648,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,11,2007
+2704708629,Hirundo rustica,EC,Floreana--Puerto Velazco Ibarra,Galápagos,3,-1.276534,-90.4888,3,10,2019
+3249382535,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2005
+1196780097,Hirundo rustica,EC,Isla Española,Galápagos,3,-1.3753,-89.6777,130,10,2014
+3295721351,Hirundo rustica,EC,Genovesa (Tower),Galápagos,1,0.324095,-89.972534,42,11,2020
+1406229098,Hirundo rustica,EC,Isla San Cristóbal,Galápagos,1,-0.905648,-89.530334,450,11,2005
+2213847673,Hirundo rustica,EC,Isla Santa Fe,Galápagos,3,-0.816909,-90.04068,59,11,2018
+277371573,Hirundo rustica,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,9,2007
+2726465879,Hirundo rustica,EC,Floreana--Mirador de la Baronessa,Galápagos,3,-1.226396,-90.43843,0,11,2019
+2186198854,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,10,2014
+3272899687,Hirundo rustica,EC,Áreas costeras de Fernandina y del occidente de Isabela IBA,Galápagos,1,-0.2935,-91.405334,0,11,2014
+1184733193,Hirundo rustica,EC,Isla Santa Fe,Galápagos,2,-0.816909,-90.04068,59,11,1994
+2705853621,Hirundo rustica,EC,Isla Española,Galápagos,2,-1.3753,-89.6777,130,10,2019
+3639754835,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,10,2021
+3621409357,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,1994
+2229326410,Hirundo rustica,EC,Genovesa,Galápagos,6,0.328215,-89.95622,19,5,1983
+1767648407,Hirundo rustica,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.764342,-89.45876,8,3,2013
+1347968334,Hirundo rustica,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,1,2015
+2226811831,Hirundo rustica,EC,"Galapagos Islands, San Cristobal EC-Galapagos (-0.6966,-89.3615)",Galápagos,1,-0.696615,-89.36149,3,11,2018
+2215609153,Hirundo rustica,EC,Isla Mosquera,Galápagos,3,-0.405031,-90.27793,9,11,2017
+277195334,Hirundo rustica,EC,Isla San Cristóbal--Cerro Brujo,Galápagos,1,-0.766638,-89.45821,0,9,2007
+3692900629,Hirundo rustica,EC,Floreana--Mirador de la Baronessa,Galápagos,1,-1.226396,-90.43843,0,11,2021
+2769197277,Hirundo rustica,EC,Estrella del Mar,Galápagos,1,-0.745749,-90.310875,0,4,2019
+1184749047,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,11,1994
+2233556309,Hirundo rustica,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,1991
+1978822474,Hirundo rustica,EC,,Galápagos,1,-0.699336,-89.371263,0,11,2018
+979018153,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,12,2010
+2207167127,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,11,2017
+1193341536,Hirundo rustica,EC,Isla Española,Galápagos,3,-1.3753,-89.6777,130,10,2014
+1411359970,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,2015
+3690469537,Hirundo rustica,EC,Isla Santa Fe--Barrington Bay,Galápagos,4,-0.803795,-90.04064,0,10,2021
+1391004009,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2008
+2717240254,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,3,1998
+2230113730,Hirundo rustica,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2008
+975179206,Hirundo rustica,EC,Santa Cruz--Cerro Dragon,Galápagos,4,-0.526929,-90.48804,6,11,2013
+970056400,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,11,2012
+2799133052,Hirundo rustica,EC,Cerro mesa,Galápagos,2,-0.644594,-90.28561,419,11,2016
+2107762536,Hirundo rustica,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,10,2017
+1794535505,Hirundo rustica,EC,Isla Española,Galápagos,2,-1.3753,-89.6777,130,8,2015
+2759943996,Hirundo rustica,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,11,2019
+975187843,Hirundo rustica,EC,Floreana--Puerto Velazco Ibarra,Galápagos,2,-1.276534,-90.4888,3,11,2013
+1163439879,Hirundo rustica,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,2,-0.901721,-89.61024,6,3,2014
+278471244,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2007
+3215664893,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2005
+1401310470,Hirundo rustica,EC,San Cristóbal--Punta Carola,Galápagos,1,-0.889685,-89.61363,0,3,2015
+2102109334,Hirundo rustica,EC,Genovesa--Darwin Bay,Galápagos,1,0.319123,-89.95776,22,12,2017
+2780597017,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2019
+2125410433,Hirundo rustica,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,3,1998
+2232824342,Hirundo rustica,EC,Isla Mosquera,Galápagos,3,-0.405031,-90.27793,9,11,2017
+2797575347,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,10,2019
+941437449,Hirundo rustica,EC,Punto Cevallos,Galápagos,1,-1.389154,-89.62082,0,11,2012
+2197880038,Hirundo rustica,EC,"Galapagos Islands, Santa Cruz EC-Galapagos (-0.6295,-90.4215)",Galápagos,1,-0.629533,-90.42155,456,10,2018
+277347203,Hirundo rustica,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,9,2007
+2206161490,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,2,-1.353596,-89.66131,16,10,2018
+2206629614,Hirundo rustica,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,5,1983
+2756253789,Hirundo rustica,EC,San Cristóbal--Cerro Brujo,Galápagos,4,-0.793167,-89.46366,18,9,2019
+1783688941,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2013
+831563269,Hirundo rustica,EC,San Cristóbal--Punta Pitt,Galápagos,1,-0.712999,-89.24687,6,10,2012
+977985974,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,1989
+2791835271,Hirundo rustica,EC,San Cristóbal--Playa Ochoa,Galápagos,1,-0.86351,-89.5709,0,10,2015
+1383724666,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,2015
+2712457570,Hirundo rustica,EC,Floreana--Mirador de la Baronessa,Galápagos,2,-1.226396,-90.43843,0,10,2019
+832485047,Hirundo rustica,EC,San Cristóbal--Punta Pitt,Galápagos,1,-0.712999,-89.24687,6,10,2012
+1383839727,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,2015
+3558056587,Hirundo rustica,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2010
+3620417452,Hirundo rustica,EC,"Parque Nacional Galápagos, Espanola EC-Galapagos -1.34351, -89.65066",Galápagos,2,-1.343512,-89.65066,0,10,2021
+3265567865,Hirundo rustica,EC,Isla Baltra,Galápagos,1,-0.462708,-90.275085,33,9,1999
+590050892,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,9,2011
+2659821497,Hirundo rustica,EC,Genovesa--Prince Philip's Steps,Galápagos,1,0.310197,-89.94352,6,2,2019
+2124687750,Hirundo rustica,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,1990
+2799374723,Hirundo rustica,EC,San Cristóbal--Muelle Puerto Baquerizo Moreno,Galápagos,2,-0.901872,-89.61229,7,10,2008
+1201188540,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2014
+3584531604,Hirundo rustica,EC,"Parque Nacional Galápagos, Espanola EC-Galapagos -1.34351, -89.65066",Galápagos,2,-1.343512,-89.65066,0,10,2021
+2103772419,Hirundo rustica,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,12,2017
+149098228,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,4,-1.353596,-89.66131,16,11,1990
+1774142539,Hirundo rustica,EC,Isla Baltra,Galápagos,4,-0.462708,-90.275085,33,10,2016
+1383825376,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,8,2015
+972363280,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2013
+2720479748,Hirundo rustica,EC,Floreana--Post Office Bay,Galápagos,1,-1.236016,-90.44947,0,10,2019
+2044929673,Hirundo rustica,EC,Isabela--Laguna Salinas,Galápagos,1,-0.955573,-90.96804,5,1,2017
+2759393743,Hirundo rustica,EC,Floreana--Puerto Velazco Ibarra,Galápagos,2,-1.276534,-90.4888,3,9,2019
+3625670047,Hirundo rustica,EC,Isla Rábida,Galápagos,2,-0.400654,-90.70776,9,10,2021
+2796859149,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,4,-1.353596,-89.66131,16,11,2019
+3629844681,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,8,2004
+2105667091,Hirundo rustica,EC,Isla Santiago--Puerto Egas,Galápagos,2,-0.244788,-90.86174,16,11,2017
+3575854968,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,12,2021
+2217359429,Hirundo rustica,EC,Isla Santa Fe,Galápagos,3,-0.816909,-90.04068,59,11,2018
+2230113083,Hirundo rustica,EC,North Seymour,Galápagos,1,-0.393273,-90.285645,12,11,1991
+589861114,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,10,2011
+3694871557,Hirundo rustica,EC,Isla Rábida,Galápagos,2,-0.400654,-90.70776,9,10,2021
+1194402854,Hirundo rustica,EC,Isla Española,Galápagos,3,-1.3753,-89.6777,130,10,2014
+3657326598,Hirundo rustica,EC,"Parque Nacional Galápagos, Espanola EC-Galapagos -1.34351, -89.65066",Galápagos,2,-1.343512,-89.65066,0,10,2021
+1401203561,Hirundo rustica,EC,San Cristóbal--La Loberia,Galápagos,3,-0.926588,-89.61181,1,11,2015
+1393209393,Hirundo rustica,EC,The lagoon near La Loberia,Galápagos,1,-0.919293,-89.62501,2,10,2015
+2058157447,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,4,2017
+2722370308,Hirundo rustica,EC,Isabela--northwest,Galápagos,1,-0.027856,-91.57003,0,9,2017
+2724114972,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,8,2009
+3604833669,Hirundo rustica,EC,Floreana--Punta Cormorant,Galápagos,2,-1.226127,-90.42834,12,11,2002
+1203385286,Hirundo rustica,EC,Floreana highlands,Galápagos,1,-1.287972,-90.45039,384,4,2014
+1784834818,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,11,2016
+1162254808,Hirundo rustica,EC,San Cristóbal--Puerto Baquerizo Moreno,Galápagos,1,-0.901721,-89.61024,6,3,2014
+3151510403,Hirundo rustica,EC,San Cristóbal<-->Santa Cruz pelagic,Galápagos,1,-0.766095,-90.00223,0,3,2020
+2802080958,Hirundo rustica,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,10,2008
+3580053533,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,2,-1.371529,-89.74399,7,10,2021
+1398028958,Hirundo rustica,EC,"Santa Cruz Island (Indefatigable), Galapagos",Galápagos,10,-0.610814,-90.333885,445,2,2004
+4014858051,Hirundo rustica,EC,,Galápagos,1,-0.802194,-90.041136,0,12,2022
+149098229,Hirundo rustica,EC,Isla Santa Fe,Galápagos,1,-0.816909,-90.04068,59,11,1990
+1406346205,Hirundo rustica,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,11,2005
+1197771101,Hirundo rustica,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,10,2014
+2726884331,Hirundo rustica,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,2018

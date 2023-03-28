@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1781124531,Quiscalus mexicanus,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,4,2010
+2203419096,Quiscalus mexicanus,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,4,2010

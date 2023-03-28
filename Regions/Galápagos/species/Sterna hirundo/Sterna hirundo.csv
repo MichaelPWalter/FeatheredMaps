@@ -1,0 +1,68 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+2563487920,Sterna hirundo,EC,,Galápagos,1,-0.950067,-90.973375,10,12,2015
+3190853323,Sterna hirundo,EC,Isabela--Elizabeth Bay,Galápagos,2,-0.597285,-91.08318,0,3,1991
+3224005212,Sterna hirundo,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,1,2020
+2735899411,Sterna hirundo,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2014
+1790097673,Sterna hirundo,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,10,2005
+3597451405,Sterna hirundo,EC,San Cristóbal--Puerto Chino,Galápagos,1,-0.925697,-89.42986,8,11,2012
+2737476096,Sterna hirundo,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,2,2019
+2221398753,Sterna hirundo,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,2,1983
+1406222910,Sterna hirundo,EC,Isla Isabela,Galápagos,2,-0.80106,-91.12871,907,11,2005
+3579381109,Sterna hirundo,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2021
+2596297212,Sterna hirundo,EC,,Galápagos,1,-0.711003,-91.334297,0,2,2020
+1793806359,Sterna hirundo,EC,Isla Lobos,Galápagos,1,-0.856192,-89.56629,0,12,1990
+3244623340,Sterna hirundo,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,3,2020
+2041744319,Sterna hirundo,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,2,2017
+2712869442,Sterna hirundo,EC,Floreana--Punta Cormorant,Galápagos,1,-1.226127,-90.42834,12,11,1991
+2795976220,Sterna hirundo,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,12,2019
+2044359513,Sterna hirundo,EC,Floreana-Galapagos Islands - -1.2269x-90.4321,Galápagos,1,-1.226924,-90.43208,12,1,2017
+3257074604,Sterna hirundo,EC,Isla Santiago,Galápagos,1,-0.264358,-90.715485,384,11,2014
+1172458965,Sterna hirundo,EC,Floreana--Isla Champion,Galápagos,1,-1.237925,-90.38574,20,12,2010
+1779931794,Sterna hirundo,EC,Genovesa--Prince Philip's Steps,Galápagos,5,0.310197,-89.94352,6,12,2016
+3583857431,Sterna hirundo,EC,Isabela--Playita,Galápagos,1,-0.958815,-90.98662,0,3,2003
+1194198727,Sterna hirundo,EC,Santa Cruz <-> Bartolome pelagic,Galápagos,1,-0.399247,-90.436485,0,10,2014
+3201244810,Sterna hirundo,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,3,2020
+3564768318,Sterna hirundo,EC,Isabela--Los Tuneles,Galápagos,1,-1.050165,-91.16803,0,11,2004
+2791284104,Sterna hirundo,EC,Isabela--Nearshore waters NW Coast,Galápagos,1,-0.040855,-91.59465,0,10,2008
+2722124350,Sterna hirundo,EC,Isla Lobos,Galápagos,1,-0.856192,-89.56629,0,12,1990
+1201592796,Sterna hirundo,EC,Champion y Gardner de Floreana IBA,Galápagos,1,-1.33001,-90.2978,0,11,2014
+2673833732,Sterna hirundo,EC,Genovesa,Galápagos,1,0.328215,-89.95622,19,1,1983
+2104892987,Sterna hirundo,EC,Isabela--Tagus Cove,Galápagos,2,-0.262298,-91.37226,0,11,2017
+2793761874,Sterna hirundo,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,10,2015
+1403226102,Sterna hirundo,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,12,2015
+2720258170,Sterna hirundo,EC,Isabela--Nearshore waters NW Coast,Galápagos,1,-0.040855,-91.59465,0,10,2008
+2727271911,Sterna hirundo,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,2008
+3611223609,Sterna hirundo,EC,Isabela--Puerto Villamil beach west,Galápagos,1,-0.957525,-90.978226,0,12,2021
+1205630712,Sterna hirundo,EC,Isla Fernandina--Punta Espinoza,Galápagos,1,-0.264551,-91.445946,0,10,2000
+1790205606,Sterna hirundo,EC,Isla Lobos,Galápagos,1,-0.856192,-89.56629,0,12,1990
+1410015019,Sterna hirundo,EC,Isla Baltra,Galápagos,2,-0.462708,-90.275085,33,11,2007
+1411119788,Sterna hirundo,EC,Isla Fernandina--Mangle Point,Galápagos,1,-0.454555,-91.38239,0,9,1985
+1162495195,Sterna hirundo,EC,Isabela--Puerto Villamil,Galápagos,1,-0.956961,-90.96559,9,3,2014
+3143948397,Sterna hirundo,EC,San Cristóbal--Cerro Brujo,Galápagos,1,-0.793167,-89.46366,18,1,2020
+3653053701,Sterna hirundo,EC,Genovesa--Prince Philip's Steps,Galápagos,1,0.310197,-89.94352,6,3,2003
+3678472176,Sterna hirundo,EC,"EC (-0,546, -89,851)",Galápagos,1,-0.546074,-89.85102,0,9,2021
+1194299384,Sterna hirundo,EC,Santa Cruz <-> Bartolome pelagic,Galápagos,1,-0.399247,-90.436485,0,10,2014
+3603408290,Sterna hirundo,EC,"EC (-0,546, -89,851)",Galápagos,1,-0.546074,-89.85102,0,9,2021
+2724295015,Sterna hirundo,EC,Kicker Rock (León Dormido),Galápagos,1,-0.777002,-89.519775,58,3,1998
+1721912596,Sterna hirundo,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,2,2016
+3693438145,Sterna hirundo,EC,Isla Fernandina,Galápagos,1,-0.379712,-91.50169,1022,10,2005
+2738490368,Sterna hirundo,EC,Isla Santiago--Puerto Egas,Galápagos,1,-0.244788,-90.86174,16,11,2001
+2705969020,Sterna hirundo,EC,Santa Cruz--South Plaza,Galápagos,1,-0.583188,-90.16501,7,10,2019
+971902314,Sterna hirundo,EC,Baltra to Bartolome pelagic,Galápagos,10,-0.360589,-90.44057,0,9,2005
+3258342676,Sterna hirundo,EC,San Cristóbal--Puerto Chino,Galápagos,1,-0.925697,-89.42986,8,11,2012
+2179763398,Sterna hirundo,EC,Santa Cruz--Las Bachas Beach,Galápagos,1,-0.494164,-90.340706,4,4,2010
+2684972109,Sterna hirundo,EC,Isla Española,Galápagos,1,-1.3753,-89.6777,130,1,2010
+2797554390,Sterna hirundo,EC,Española--Gardner Bay,Galápagos,1,-1.353596,-89.66131,16,1,2005
+974190529,Sterna hirundo,EC,Santa Cruz--South Plaza,Galápagos,6,-0.583188,-90.16501,7,10,2003
+1409904641,Sterna hirundo,EC,Santa Cruz--Charles Darwin Research Station,Galápagos,1,-0.741642,-90.30513,11,9,1985
+1792852558,Sterna hirundo,EC,Isla Fernandina,Galápagos,2,-0.379712,-91.50169,1022,10,2004
+1791838570,Sterna hirundo,EC,Española--Punta Suarez,Galápagos,1,-1.371529,-89.74399,7,9,1985
+2778063661,Sterna hirundo,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,10,2019
+2171842792,Sterna hirundo,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,11,2014
+2683400961,Sterna hirundo,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,1,2010
+2716815729,Sterna hirundo,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,12,2019
+2218953307,Sterna hirundo,EC,At Sea,Galápagos,1,-1.092289,-91.20302,0,10,2018
+3281389432,Sterna hirundo,EC,Isla Santiago--Playa Espumilla,Galápagos,1,-0.315855,-90.83462,0,2,2019
+2726110018,Sterna hirundo,EC,Isla Bartolome,Galápagos,1,-0.284871,-90.55391,10,10,2008
+3567290518,Sterna hirundo,EC,Isabela--Tagus Cove,Galápagos,1,-0.262298,-91.37226,0,2,2003
+3715507492,Sterna hirundo,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.597931,-91.085558,0,12,2016

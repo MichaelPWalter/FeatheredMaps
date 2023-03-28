@@ -1,0 +1,4 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3606841127,Anas clypeata,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2021
+819109831,Anas clypeata,EC,Isabela--Punta Moreno,Galápagos,1,-0.692808,-91.31836,0,3,2012
+3508513706,Anas clypeata,EC,Santa Cruz--El Garrapatero Beach,Galápagos,1,-0.694654,-90.2208,2,2,2021

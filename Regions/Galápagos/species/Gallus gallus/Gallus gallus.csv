@@ -1,0 +1,28 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+3915291896,Gallus gallus,EC,,Galápagos,1,-0.958953,-91.002188,14,7,2022
+3014070402,Gallus gallus,EC,,Galápagos,1,-0.950616,-90.971742,9,9,2019
+3882000376,Gallus gallus,EC,Bellavista,Galápagos,1,-0.694877,-90.324205,171,9,2003
+3882000825,Gallus gallus,EC,Isla Floreana,Galápagos,1,-1.278175,-90.437247,257,2,2004
+3882000832,Gallus gallus,EC,Puerto Ayora - CDRS,Galápagos,1,-0.742389,-90.304275,10,4,2004
+3882000837,Gallus gallus,EC,Isla Floreana,Galápagos,1,-1.278175,-90.437247,257,2,2004
+3882000839,Gallus gallus,EC,Bellavista,Galápagos,1,-0.914702,-89.609338,25,9,2003
+3882000842,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882000845,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,10,2003
+3882000851,Gallus gallus,EC,Bellavista,Galápagos,1,-0.694878,-90.324206,171,9,2003
+3882000863,Gallus gallus,EC,Isla Floreana,Galápagos,1,-1.278175,-90.437247,257,2,2004
+3882000873,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,10,2003
+3882000877,Gallus gallus,EC,Puerto Ayora - CDRS,Galápagos,1,-0.742389,-90.304275,10,5,2004
+3882000879,Gallus gallus,EC,Jaramillo,Galápagos,1,-0.6167,-90.35,538,11,2003
+3882000884,Gallus gallus,EC,Bellavista,Galápagos,1,-0.744877,-90.324205,30,9,2003
+3882000890,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,10,2003
+3882000905,Gallus gallus,EC,Sector Camote,Galápagos,1,-0.6167,-90.35,538,9,2003
+3882001171,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001233,Gallus gallus,EC,Bellavista,Galápagos,1,-0.711544,-90.324205,115,9,2003
+3882001226,Gallus gallus,EC,Jaramillo,Galápagos,1,-0.8083,-89.4167,65,11,2003
+3882001228,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001250,Gallus gallus,EC,Puerto Baquerizo Moreno,Galápagos,1,-0.914702,-89.609338,25,11,2003
+3882001657,Gallus gallus,EC,Charles Darwin Research Station,Galápagos,1,-0.742388,-90.304275,10,5,2004
+3882001606,Gallus gallus,EC,Puerto Ayora - Charles Darwin Research Station,Galápagos,1,-0.742388,-90.304275,10,9,2003
+3882001615,Gallus gallus,EC,Bellavista,Galápagos,1,-0.694877,-90.324205,171,9,2003
+3202352093,Gallus gallus,EC,Isla Isabela,Galápagos,1,-0.80106,-91.12871,907,9,2014
+3725845289,Gallus gallus,EC,Ecuador - Galápagos - Isla Isabela,,1,-0.950601,-90.971832,9,9,2019

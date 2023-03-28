@@ -1,0 +1,7 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1174927047,Zenaida auriculata,EC,Isla Baltra,Galápagos,5,-0.462708,-90.275085,33,12,2012
+1185910228,Zenaida auriculata,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,8,1985
+2331555509,Zenaida auriculata,EC,Isla Baltra,,1,-0.460734,-90.271912,42,12,2012
+1185913146,Zenaida auriculata,EC,Isla Santa Cruz,Galápagos,1,-0.640249,-90.37259,610,9,1983
+2111952914,Zenaida auriculata,EC,Santa Cruz--Los Gemelos sinkholes,Galápagos,1,-0.625613,-90.38525,607,2,2018
+1185907494,Zenaida auriculata,EC,Santa Cruz--Puerto Ayora,Galápagos,1,-0.742329,-90.31457,12,1,1984

@@ -1,0 +1,3 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+1193587925,Stercorarius maccormicki,EC,Isabela--northwest,Galápagos,1,-0.027856,-91.57003,0,1,2005
+1788875036,Stercorarius maccormicki,EC,Bolivar Channel,Galápagos,1,-0.306482,-91.382416,0,7,1997

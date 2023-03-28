@@ -1,0 +1,5 @@
+gbifID,species,countryCode,locality,stateProvince,individualCount,decimalLatitude,decimalLongitude,elevation,month,year
+922868615,Phoenicopterus roseus,EC,Galapagos-Inseln/Isla Floreana (Charles)/ PUNTA CORMORANT,,1,-1.23312,-90.436707,21,4,2003
+1038766660,Phoenicopterus roseus,EC,Galapagos-Inseln/Isla Floreana (Charles)/ PUNTA CORMORANT,,1,-1.23312,-90.436707,21,12,1994
+1835272665,Phoenicopterus roseus,EC,"Galapagos, Isabela, Puerto Villamil und Umgebung",,1,-0.955519,-90.965675,11,2,2012
+1038765835,Phoenicopterus roseus,EC,Galapagos-Inseln/Isla RABIDA (Jervis),,1,-0.41061,-90.714111,133,1,1995
