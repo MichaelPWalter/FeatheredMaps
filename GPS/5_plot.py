@@ -14,6 +14,8 @@ def csv_to_dict(csv_file_name):
     elevation_count = ast.literal_eval(df.iloc[0]['elevation_count'])
     year_count = ast.literal_eval(df.iloc[0]['year_count'])
     month_count = ast.literal_eval(df.iloc[0]['month_count'])
+    min_elevation = int(df.iloc[0]['min_elevation'])
+    max_elevation = int(df.iloc[0]['max_elevation'])
     #elevation_count = re.sub(r'(\w+):', r'"\1":', elevation_count)
     #elevation_count = json.loads(elevation_count)
     
@@ -25,14 +27,14 @@ def csv_to_dict(csv_file_name):
     #month_count = re.sub(r'(\w+):', r'"\1":', month_count)
     #month_count = json.loads(month_count)
  
-    return elevation_count,year_count,month_count
+    return elevation_count,year_count,month_count,min_elevation,max_elevation
 
 
 region_name = ask_for_region_name()
 
 csv_file_name = f"Regions/{region_name}/{region_name}_summary.csv"
 
-elevation_count,year_count,month_count = csv_to_dict(csv_file_name)
+elevation_count,year_count,month_count,min_elevation,max_elevation = csv_to_dict(csv_file_name)
 
 # Input data
 x = list(elevation_count.values())
@@ -40,7 +42,9 @@ x = [int(round(i/50)*50)+1 for i in x]
 x = [math.log(i) for i in x]
 y = list(elevation_count.keys())
 
-plt.barh(y, x, height=50, color="green")
+height = (max_elevation-min_elevation)/20
+
+plt.barh(y, x, height=height, color="green")
 plt.style.use('seaborn')
 
 # get the axis object

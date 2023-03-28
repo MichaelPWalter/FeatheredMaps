@@ -77,7 +77,9 @@ def remove_temp_folder (temp_folder_path):
     # remove the temporary folder and its contents
     try:
         shutil.rmtree(temp_folder_path)
+        print("removed temp folder")
     except:
+        print("Did not remove temp folder")
         None
 
 def save_chunk_to_csv(chunk,output_filename,i):
