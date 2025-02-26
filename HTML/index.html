@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Page</title>
+    <style>
+        body {
+            width: 127mm;
+            height: 177mm;
+            position: relative;
+            border: 1px solid black;
+            font-size: 3.5mm;
+            background-image: url('commonKingfisher.jpeg'); /* Replace with your image file path */
+            background-size: contain; /* Ensures the image covers the entire background */
+            background-position: relative; /* Centers the background image */
+            background-repeat: no-repeat; /* Prevent repeating the image */
+            
+        }
+        /* Container for the content, with the blurred translucent background */
+        .content-container {
+            position: relative;
+            padding: 0px;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            width: 50%; /* Blur effect applied to 40% of the horizontal space */
+            height: 40%; /* Blur effect applied to 50% of the vertical space */
+            
+            /*background-color: rgba(255, 255, 255, 0.4); /* White background with 70% opacity */
+            background: linear-gradient(to left, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 1) 100%); /* Gradual fade from clear to white */
+            backdrop-filter: blur(7px); /* Apply blur effect behind the content */
+            border-radius: 8px; /* Optional: for rounded corners */
+            margin: 5px;
+        } 
+        .content {
+            width: 100%;
+            height: 50%;
+            box-sizing: border-box;
+            padding: 8mm;
+            position: relative;
+            text-align: left;
+        }
+        .mask {
+            font-weight: bold;
+            display: inline;
+        }
+        .title {
+            font-size: 4.5mm;
+            font-weight: bold;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .subtitle {
+            font-size: 3.5mm;
+            font-style: italic;
+            text-align: left;
+        }
+        .status-circle {
+            width: 5mm;
+            height: 5mm;
+            border-radius: 50%;
+            display: inline-block;
+            text-align: center;
+            line-height: 5mm;
+            font-weight: bold;
+            color: white;
+            font-size: 2mm;
+            position: relative;
+            top: -0mm;
+        }
+        .status-LC { background-color: green; }
+        .status-NT { background-color: lightgreen; }
+        .status-VU { background-color: yellow; color: black; }
+        .status-EN { background-color: orange; }
+        .status-CR { background-color: red; }
+        .status-EX { background-color: black; }
+        .status-EW { background-color: violet; }
+        .text-container {
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .divider {
+            width: 100%;
+            height: 1px;
+            background-color: black;
+            position: relative;
+            top: 0mm;
+        }
+        .side-boxes {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 7mm;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .box {
+            width: 7mm;
+            height: 15mm;
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: rgb(201, 201, 201);
+            border-top-left-radius: 4mm;
+            border-bottom-left-radius: 4mm;
+        }
+        .black-box {
+            position: absolute;
+            right: 0;
+            top: 54.5mm;
+            width: 7mm;
+            height: 13.5mm;
+            border: 1px solid black;
+            background-color: gray;
+            border-top-left-radius: 4mm;
+            border-bottom-left-radius: 4mm;
+        }
+    </style>
+</head>
+<body>
+    <div class="content-container">
+        <div class="content">
+            <div class="title">
+                Common Kingfisher
+                <div class="status-circle status-LC">LC</div>
+            </div>
+            <div class="subtitle">Alcedo atthis</div>
+            <br>
+            <div class="text-container">
+                Uncommon, seasonal migrant     
+            </div>
+            <br>
+            <br>
+            <div class="text-container">
+                A small, vibrant bird with a striking electric-blue back and orange underparts. It has a large head, a long, dagger-like bill, and short tail. Often seen perched motionless near water or darting low over the surface in a flash of blue.
+            </div>
+            <br>
+            <br>
+            <div class="text-container">
+                Found along slow-moving rivers, streams, lakes, and ponds 
+                with clear water and abundant small fish, often in areas 
+                with overhanging vegetation for perching.
+            </div>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <div class="content">
+        <div class="title">
+            <div class="status-circle status-LC">LC</div>
+            Common Kingfisher
+        </div>
+        <div class="subtitle">Alcedo atthis</div>
+        <span class="mask">ID:</span>
+        <br>
+        <span class="mask">Habitat:</span>
+        <div class="text-behind">Sample description text behind the mask.</div>
+    </div>
+    <div class="side-boxes">
+        <script>
+            for (let i = 0; i < Math.floor((8 * 25.4) / 15); i++) {
+                document.write('<div class="box"></div>');
+            }
+        </script>
+    </div>
+    <div class="black-box"></div>
+</body>
+</html>
